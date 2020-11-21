@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <title>Evolution of Distributed Neural Controllers for Voxel-based Soft Robots</title>
+    <meta name="description" content="Eric Medvet, Associate Professor of Computer Engineering at the University of Trieste, Italy">
+    <meta name="author" content='Eric Medvet'><link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Raleway&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    
+    <link rel="stylesheet" href="/css/main.min.css">
+
+    
+</head>
+
+    <body><div class="container mt-5">
+    <nav class="navbar navbar-expand-sm flex-column flex-sm-row p-0">
+        <a class="navbar-brand mr-sm-auto" href="https://ericmedvet.github.io/">Eric Medvet</a>
+        <div class="navbar-nav flex-row">
+            
+                
+                
+                    <a class="nav-item nav-link" href="/publications">Publications</a>
+                    
+                        <span class="nav-item navbar-text mx-1">/</span>
+                    
+                
+                    <a class="nav-item nav-link" href="/courses">Teaching</a>
+                    
+                
+            
+        </div>
+    </nav>
+</div>
+<hr>
+<div id="content">
+<div class="container">
+  <h1>Evolution of Distributed Neural Controllers for Voxel-based Soft Robots</h1>
+
+  <div class="publication">
+    <li><span class="label">Type:</span> <span class="badge badge-pill badge-danger">Conference</span>
+</li>
+    <li><span class="label">Authors:</span> <span class="authors"> Eric Medvet, Alberto  Bartoli, Andrea  De Lorenzo, Giulio  Fidel</span></li>
+    <li><span class="label">Published in:</span> <span class="venue">ACM Genetic and Evolutionary Computation Conference (GECCO)</span>, held in Cancun (Mexico)</li>
+    <li><span class="label">Year:</span> <span class="year">2020</span></li>
+  </div>
+
+  <h2 id="abstract">Abstract</h2>
+<p>Voxel-based soft robots (VSRs) are aggregations of elastic, cubic blocks that have sparkled the interest of Robotics and Artificial Life researchers. VSRs can move by varying the volume of individual blocks, according to control signals dictated by a controller, possibly based on inputs coming from sensors embedded in the blocks. Neural networks (NNs) have been used as centralized processing units for those sensing controllers, with weights optimized using evolutionary computation. This structuring breaks the intrinsic modularity of VSRs: decomposing a VSR into modules to be assembled in a different way is very hard.
+In this work we propose an alternative approach that enables full modularity and is based on a distributed neural controller. Each block contains a small NN that outputs signals to adjacent blocks and controls the local volume, based on signals from adjacent blocks and on local sensor readings. We show experimentally for the locomotion task that our controller is as effective as the centralized one. Our experiments also suggest that the proposed framework indeed allows exploiting modularity: VSRs composed of pre-trained parts (body and controller) can be evolved more efficiently than starting from scratch.</p>
+
+</div>
+
+        </div>
+    <div id="footer">
+        <hr>
+        <div class="container text-center mb-2">
+            <a href="https://ericmedvet.github.io/"><small>Copyright by Eric Medvet</small></a>
+        </div>
+    </div>
+
+</body>
+</html>

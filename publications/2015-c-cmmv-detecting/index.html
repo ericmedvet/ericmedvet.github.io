@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <title>Detecting Android Malware using Sequences of System Calls</title>
+    <meta name="description" content="Eric Medvet, Associate Professor of Computer Engineering at the University of Trieste, Italy">
+    <meta name="author" content='Eric Medvet'><link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Raleway&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    
+    <link rel="stylesheet" href="/css/main.min.css">
+
+    
+</head>
+
+    <body><div class="container mt-5">
+    <nav class="navbar navbar-expand-sm flex-column flex-sm-row p-0">
+        <a class="navbar-brand mr-sm-auto" href="https://ericmedvet.github.io/">Eric Medvet</a>
+        <div class="navbar-nav flex-row">
+            
+                
+                
+                    <a class="nav-item nav-link" href="/publications">Publications</a>
+                    
+                        <span class="nav-item navbar-text mx-1">/</span>
+                    
+                
+                    <a class="nav-item nav-link" href="/courses">Teaching</a>
+                    
+                
+            
+        </div>
+    </nav>
+</div>
+<hr>
+<div id="content">
+<div class="container">
+  <h1>Detecting Android Malware using Sequences of System Calls</h1>
+
+  <div class="publication">
+    <li><span class="label">Type:</span> <span class="badge badge-pill badge-danger">Conference</span>
+</li>
+    <li><span class="label">Authors:</span> <span class="authors"> Gerardo Canfora, Eric  Medvet, Francesco  Mercaldo, Corrado Aaron  Visaggio</span></li>
+    <li><span class="label">Published in:</span> <span class="venue">3rd International Workshop on Software Development Lifecycle for Mobile (DeMobile)</span>, held in Bergamo (Italy)</li>
+    <li><span class="label">Year:</span> <span class="year">2015</span></li>
+  </div>
+
+  <h2 id="abstract">Abstract</h2>
+<p>The increasing diffusion of smart devices, along with the dynamism of the mobile applications ecosystem, are boosting the production of malware for the Android platform. So far, many different methods have been developed for detecting Android malware, based on either static or dynamic analysis. The main limitations of existing methods include: low accuracy, proneness to evasion techniques, and weak validation, often limited to emulators or modified kernels.We propose an Android malware detection method, based on sequences of system calls, that overcomes these limitations. The assumption is that malicious behaviors (e.g., sending high premium rate SMS, cyphering data for ransom, botnet capabilities, and so on) are implemented by specific system calls sequences: yet, no apriori knowledge is available about which sequences are associated with which malicious behaviors, in particular in the mobile applications ecosystem where new malware and non-malware applications continuously arise. Hence, we use Machine Learning to automatically learn these associations (a sort of &ldquo;fingerprint&rdquo; of the malware); then we exploit them to actually detect malware. Experimentation on 20000 execution traces of 2000 applications (1000 of them being malware belonging to different malware families), performed on a real device, shows promising results: we obtain a detection accuracy of 97%. Moreover, we show that the proposed method can cope with the dynamism of the mobile apps ecosystem, since it can detect unknown malware.</p>
+
+</div>
+
+        </div>
+    <div id="footer">
+        <hr>
+        <div class="container text-center mb-2">
+            <a href="https://ericmedvet.github.io/"><small>Copyright by Eric Medvet</small></a>
+        </div>
+    </div>
+
+</body>
+</html>
