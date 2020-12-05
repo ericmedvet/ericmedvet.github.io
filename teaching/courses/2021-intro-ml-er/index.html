@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html><head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+  <meta name="description" content="Eric Medvet, Associate Professor of Computer Engineering at the University of Trieste, Italy" />
+  <meta name="author" content="Eric Medvet" />
+  
+
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous"/>
+  
+  <link rel="stylesheet" href="/sass/basic.min.css" />
+  
+  
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZW00T23DHQ"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag("js", new Date());
+    gtag("config", "G-ZW00T23DHQ");
+  </script>
+  
+  <title>Introduction to Machine Learning and Evolutionary Robotics</title>
+</head>
+<body>
+    <div class="container">
+      <div class="inner-container border rounded"><nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="https://ericmedvet.github.io/">
+    
+      <span class="initial">E</span><span>ric</span>
+    
+      <span class="initial">M</span><span>edvet</span>
+    
+  </a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+    <div class="navbar-nav">
+      
+       
+      <a class="nav-link " href="/publications/">Publications</a>
+      
+      <a class="nav-link active" href="/teaching/">Teaching</a>
+      
+      <a class="nav-link " href="/contact/">Contact me</a>
+       
+    </div>
+  </div>
+</nav>
+<div id="content">
+<div class="container">
+  <h1>AY 20/21 - Introduction to Machine Learning and Evolutionary Robotics</h1>  
+  <p>This page is about the courses named (actually the same course):</p>
+<ul>
+<li>Introduction to Machine Learning and Evolutionary Robotics (332MI), for master program <a href="https://corsi.units.it/IN20/descrizione-corso">IN20</a>, 9 CFUs</li>
+<li>Apprendimento automatico ed estrazione dell&rsquo;informazione dai dati (222MI), for master program <a href="https://corsi.units.it/IN20/descrizione-corso">IN19</a>, 9 CFUs</li>
+<li>Introduction to Machine Learning (470SM), for master programs <a href="https://dssc.units.it/">SM35</a> and <a href="https://corsi.units.it/SM34/descrizione-corso">SM34</a>, 6 CFUs</li>
+<li>Machine Learning and Data Analytics (557EC), for master program <a href="https://corsi.units.it/EC71/descrizione-corso">EC71</a>, 6 CFUs (part of a 9 CFUs course)</li>
+</ul>
+<h2 id="language-of-teaching">Language of teaching</h2>
+<p>English</p>
+<h2 id="detailed-program">Detailed program</h2>
+<h3 id="part-1-24h">Part 1 (24h)</h3>
+<ul>
+<li>Definitions of Machine Learning and Data Mining; why ML and DM are hot topics; examples of applications of ML; phases of design, development, and assessment of a ML system; terminology.</li>
+<li>Introduction to the software/language R; elements of data visualization.</li>
+<li>Supervised learning 1.
+<ul>
+<li>Tree-based methods.
+<ul>
+<li>Decision and regression trees: learning and prediction; role of the parameter and overfitting.</li>
+<li>Trees aggregation: bagging, Random Forest, boosting.</li>
+<li>Supervised learning system assessment: cross-fold validation; accuracy and other metrics; metrics for binary classification (FPR, FNR, EER, AUC) and ROC.</li>
+</ul>
+</li>
+<li>Support Vector Machines (SVM).
+<ul>
+<li>Separating hyperplane: maximal margin classifier; support vectors; learning as an optimization problem; maximal margin classifier limitations.</li>
+<li>Soft margin classifier: learning, role of the parameter C.</li>
+<li>Non linearly separable problems; kernel: brief background and main options (linear, polynomial, radial); intuition behind radial kernel; SVM,</li>
+<li>Multiclass classification with SVM.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h3 id="part-2-24h">Part 2 (24h)</h3>
+<ul>
+<li>Text and natural language applications (text mining)
+<ul>
+<li>Sentiment analysis; features for text mining; common pre-processing steps; topic modeling.</li>
+</ul>
+</li>
+<li>Recommending systems.
+<ul>
+<li>Content-based filtering; collaborative filtering.</li>
+<li>Assessment metrics: precision, recall, accuracy@K, diversity, serendipity.</li>
+</ul>
+</li>
+<li>Evolutionary Computation (EC).
+<ul>
+<li>High-level working scheme of an Evolutionary Algorithm (EA); terminology.</li>
+<li>Generational model; selection criteria; exploration/exploitation trade-off; genetic operators with examples; fitness function; multi-objective optimization and Pareto dominance; debugging of an evolutionary search; EA issues (diversity, variational inheritance, expressiveness); fitness landscape.</li>
+<li>Examples of common EAs: GA, GP, GE.</li>
+</ul>
+</li>
+</ul>
+<h3 id="part-3-24h">Part 3 (24h)</h3>
+<ul>
+<li>Supervised learning 2.
+<ul>
+<li>The Bayes classifier.</li>
+<li>The K-nearest neighbors classifier.</li>
+</ul>
+</li>
+<li>Unupervised learning.
+<ul>
+<li>Dimensionality reduction methods: principal component analysis; biplot.</li>
+<li>Cluster analysis: hierarchical methods, partitional methods (k-means algorithm).</li>
+</ul>
+</li>
+<li>Evolutionary Robotics
+<ul>
+<li>Brief foundations of Artificial Neural Networks and EC
+<ul>
+<li>EA for neuroevolution</li>
+</ul>
+</li>
+<li>Significant examples
+<ul>
+<li>Evolution of Soft Robots morphologies (body)</li>
+<li>Evolution of robotic agents controllers (brain)</li>
+<li>Simultaneous evolution of body and brain</li>
+</ul>
+</li>
+<li>Simulation: tools and benchmark tasks</li>
+</ul>
+</li>
+</ul>
+<h2 id="course-material">Course material</h2>
+<h3 id="teacher-slides-and-lab-sketches">Teacher slides and lab sketches</h3>
+<p>All the material is available <a href="https://drive.google.com/drive/folders/1gMn0lUXz0o5E643im-HaJZabKdvT6d8a">here</a>:</p>
+<ul>
+<li>Teacher slides, full pack for first and second part, full pack for third part.</li>
+<li>Annotated slides; will be provided after the lectures.</li>
+<li>Sketches for how to do the lab activieties, in the form of R notebooks; please, fully enjoy the lab activity by not looking at these sketches too early.</li>
+</ul>
+<h3 id="suggested-textbooks">Suggested textbooks</h3>
+<ul>
+<li>Kenneth A. De Jong. Evolutionary computation: a unified approach. MIT press, 2006</li>
+<li>Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani. An Introduction to Statistical Learning, with applications in R. Springer, Berlin: Springer Series in Statistics, 2014.</li>
+</ul>
+<h2 id="goal-of-the-course">Goal of the course</h2>
+<h3 id="knowledge-and-understanding">Knowledge and understanding</h3>
+<ul>
+<li>Know main kinds of problems which can be tackled with ML and those ones concerning text and natural language and recommendation</li>
+<li>Know main ML and DM techniques.
+Know design, development, and assessment phases of a ML system; know main assessment metrics and procedures suitable for a ML system.</li>
+<li>Know main kinds of problems which can be tackled with EC and ANN.</li>
+<li>Know general working schemes of most common EAs.</li>
+<li>Know design, development, and assessment phases of a EC-based system in the field of robotics.</li>
+</ul>
+<h3 id="applying-knowledge-and-understanding">Applying knowledge and understanding</h3>
+<ul>
+<li>Formulate a formal problem statement for simple practical problems in order to tackle them with ML, DM, or EC/ER techniques.</li>
+<li>Develop simple end-to-end ML systems.</li>
+<li>Experimentally assess a simple end-to-end ML or EC/ER system.</li>
+</ul>
+<h3 id="making-judgements">Making judgements</h3>
+<ul>
+<li>Judge the technical soundness of a ML or EC/ER system.</li>
+<li>Judge the technical soundness of the assessment of a ML or EC/ER system.</li>
+</ul>
+<h3 id="communication-skills">Communication skills</h3>
+<ul>
+<li>Describe, both in written and oral form, the motivations behind choices in the design, development, and assessment of a ML or EC/ER system, possibly exploiting simple plots.</li>
+</ul>
+<h3 id="learning-skills">Learning skills</h3>
+<ul>
+<li>Retrieve information from scientific publications about ML or EC/ER techniques not explicitly presented in this course.</li>
+</ul>
+<h2 id="requirements">Requirements</h2>
+<p>Basics of statistics: basic graphical tools of data exploration; summary measures of variable distribution (mean, variance, quantiles); fundamentals of probability and of univariate and multivariate distribution of random variables; basics of linear regression analysis.</p>
+<p>Basics of linear algebra: vectors, matrices, matrix operations; diagonalization and decomposition in singular values.</p>
+<p>Basics of programming and data structures: algorithm, data types, loops, recursion, parallel execution, tree.</p>
+<h2 id="teaching-method">Teaching method</h2>
+<p>Frontal lessons with blackboard and slide projection; exercises, under teacher supervision, in dealing with simple problems with ML techniques.</p>
+<h2 id="lectures-timetable-and-course-calendar">Lectures timetable and course calendar</h2>
+<p>The course will start on <strong>October, 6th</strong>.
+Lectures will be held in online (Tuesday and Thursday) or in Classroom 3B, H3 building, in Piazzale Europa campus (Wednesday).</p>
+<h2 id="exam">Exam</h2>
+<p><strong>Important note:</strong>
+Due to the Covid19 circumstances, the written test might be replaced by an oral interview.
+Interviews will be done on the MS Teams platform of UniTs or, in case of problems with the latter, with another similar tool (e.g., Google Meet).
+Precise instruction will be given to the students registered for each exam date after the registration deadline and before the exam.
+Students who want to listen to others students&rsquo; interviews, but are not registered, should ask authorization to the teacher.</p>
+<p>The exam consists of a project and a written test.
+The final grade is the average of the two grades: the exam is considered failed if at least one of the two grades is &lt;18.
+Student must <strong>register for the exam session</strong> of their interest using the online sistem (<strong>esse3</strong>).
+Note that there are <strong>deadlines</strong> for registration (usually 1 week before the session date).</p>
+<h3 id="written-test">Written test</h3>
+<p>Questions on theory and application with short open answers.</p>
+<h3 id="project-assignment">Project (assignment)</h3>
+<p>The student chooses a problem among a closed, teacher-defined set of problems and proposes a solution based on ML, DM, or EC techniques.
+The expected outcome is a written document (few pages) including: the problem statement; one or more performance indexes able to capture any solution ability to solve the problem; a description of the proposed solution from the algorithmic point of view; the results and a discussion about the experimental assessment of the solution with, if applicable, information about used data.
+Student may form groups for the project: in this case, the document must show, for each student of the group, which activities the student took part in. The project is evaluated according to clarity (~ 50%), technical soundness (~ 33%), and results (~ 17%).</p>
+
+</div>
+
+        </div>
+      </div>
+<div id="footer">
+  <div class="text-center">
+    Copyright by Eric Medvet
+  </div>
+</div>
+
+</div>
+  </body>
+</html>
