@@ -4,6 +4,7 @@ title = "Eric Medvet"
 theme = "acaderic"
 disableKinds = ["taxonomy", "term", "RSS", "sitemap", "robotsTXT"]
 enableEmoji = true
+publishDir = "docs"
 
 [params]
   author = "Eric Medvet"
