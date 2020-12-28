@@ -1,0 +1,28 @@
+{{ define "main" }}
+<div class="container">
+  <div class="row felx v-align">
+    <div class="col-sm-12 col-md-7 col-lg-7">
+      <section>
+        {{ .Content }}
+      </section>
+    </div>
+    <div class="col-sm-12 col-md-5 col-lg-5">
+      {{with resources.Get .Site.Params.imagePath}}
+        {{$img := .Resize "x300"}}
+        <figure class="text-center">
+          <img src="{{$img.RelPermalink}}" class="figure-img img-fluid rounded" alt="{{$.Site.Params.author}}, i.e., me!">
+        </figure>
+      {{end}}
+    </div>
+  </div>
+  <section>
+    <h2>Recent important publications</h2>
+    <ol>
+      {{range first .Site.Params.home.recentPubs (sort ( where (where .Site.RegularPages "Section" "publications") ".Params.pub_important" true) ".Params.pub_year" "desc")}}
+        {{ partial "pub-list-item.html" .}}
+      {{end}}
+    </ol>
+    See <a href="{{ref . "/publications" | relURL }}">all publications</a>.
+  </section>
+</div>
+{{ end }}

@@ -1,0 +1,38 @@
+baseURL = "https://ericmedvet.github.io/"
+languageCode = "en-us"
+title = "Eric Medvet"
+theme = "acaderic"
+disableKinds = ["taxonomy", "term", "RSS", "sitemap", "robotsTXT"]
+enableEmoji = true
+
+[params]
+  author = "Eric Medvet"
+  description = "Eric Medvet, Associate Professor of Computer Engineering at the University of Trieste, Italy"
+  imagePath= "images/me-colored.jpg"
+  googleAnalyticsTag="G-ZW00T23DHQ"
+  googleScholarBaseUrl="https://scholar.google.com/scholar?q="
+  [params.footer]
+    text = "Copyright by Eric Medvet"
+  [params.pub_type_badges]
+    journal = "primary"
+    conference = "secondary"
+    else = "tertiary"
+  [params.home]
+    recentPubs = 5
+
+[menu]
+  [[menu.main]]
+    name = "Publications"
+    url = "/publications/"
+    identifier = "publications"
+    weight = 1
+  [[menu.main]]
+    name = "Teaching"
+    url = "/teaching/"
+    identifier = "teaching"
+    weight = 2
+  [[menu.main]]
+    name = "Contact me"
+    url = "/contact/"
+    identifier = "contact"
+    weight = 3

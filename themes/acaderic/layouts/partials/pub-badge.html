@@ -1,0 +1,9 @@
+<span class="badge-pub-type badge badge-pill badge-pub-type-
+  {{- with (index $.Site.Params.pub_type_badges .Params.pub_type)}}
+    {{- . -}}
+  {{else}}
+    {{- $.Site.Params.pub_type_badges.else -}}
+  {{end -}}
+  ">
+  {{- substr .Params.pub_type 0 4 -}}
+</span>

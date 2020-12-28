@@ -1,0 +1,45 @@
+@mixin google-font($family) {
+  @import url("https://fonts.googleapis.com/css?family=#{$family}");
+}
+
+//fonts
+$text-font: "Titillium Web";
+$heading-font: "Chau Philomene One";
+$brand-font: $text-font;
+$code-font: "Fira Mono";
+
+@include google-font($text-font);
+@include google-font($heading-font);
+@include google-font($brand-font);
+@include google-font($code-font);
+
+//colors
+$blue: #007bff;
+$red: #dc3545;;
+$light-gray: #eeeeee;
+$dark-gray: #343a40;
+
+$primary-color: $dark-gray;
+$secondary-color: $red;
+$tertiary-color: $blue;
+$primary-neg-color: $light-gray;
+$secondary-neg-color: $light-gray;
+$tertiary-neg-color: $light-gray;
+
+%link-default {
+  color: $secondary-color;
+  text-decoration: none;
+  &:hover {
+    color: $secondary-color;
+    text-decoration: underline;
+    text-decoration-color: $primary-color;
+  }
+}
+%link-dark {
+  color: inherit;
+  text-decoration: none;
+  &:hover {
+    color: inherit;
+    text-decoration: underline;
+  }
+}

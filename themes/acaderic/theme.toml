@@ -1,0 +1,17 @@
+name = "Acaderic"
+license = "MIT"
+description = "Theme for my personal/academic website"
+homepage = "https://ericmedvet@github.io"
+tags = []
+features = []
+min_version = "0.41"
+
+[author]
+  name = "Eric Medvet"
+  homepage = "https://ericmedvet@github.io"
+
+# If porting an existing theme
+[original]
+  name = "researcher"
+  homepage = "https://github.com/ojroques/hugo-researcher"
+  repo = "https://github.com/ojroques/hugo-researcher"

@@ -1,0 +1,18 @@
+<li class="publication">
+  {{ partial "pub-badge.html" .}}
+  <span>
+    {{- range $i,$a := (split .Params.pub_authors ";") -}}
+      {{- if $i }}, {{ end -}}{{- index (split $a ",") 0 -}}
+    {{- end -}}
+  </span>;
+  <a href="{{ .RelPermalink }}">{{.Title}}</a>;
+  <span>
+    {{- with .Params.pub_venue_number}}{{.}} {{end -}}
+    {{- .Params.pub_venue_name -}}
+    {{- with .Params.pub_venue_acronym}} ({{.}}){{end -}}
+  </span>;
+  <span>{{.Params.pub_year}}</span>
+  {{ with .Params.pub_notes}}
+    <span class="notes">({{.}})</span>
+  {{end}}
+</li>

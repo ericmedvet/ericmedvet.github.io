@@ -1,0 +1,50 @@
+{{ define "main" }}
+<div class="container">
+  <h1>{{ .Title }}</h1>
+
+  <div class="publication-data">
+    <h5>Type:</h5>
+    <p>{{ partial "pub-badge.html" .}}</p>
+
+    <h5>Authors:</h5>
+    <p>
+      {{- range $i,$a := (split .Params.pub_authors ";")}}
+        {{- if $i -}}, {{ end -}}
+        {{$authorName := print (trim (index (split $a ",") 1) " ") " " (trim (index (split $a ",") 0) " ")}}
+        <span {{if (eq $authorName $.Site.Params.author)}}class="this-author"{{end}}>{{- $authorName -}}</span>
+      {{- end -}}
+    </p>
+
+    <h5>In:</h5>
+    <p>
+      {{- with .Params.pub_venue_number}}{{.}} {{end -}}
+      <strong>
+        {{- .Params.pub_venue_name -}}
+        {{- with .Params.pub_venue_acronym}} ({{.}}){{end -}}
+      </strong>
+      {{- with .Params.pub_location_city}}, held in {{.}} ({{$.Params.pub_location_country}}){{end -}}
+    </p>
+
+    <h5>Year:</h5>
+    <p>{{.Params.pub_year}}</p>
+
+    {{ with .Params.pub_notes}}
+      <h5>Notes:</h5>
+      <p>{{- . -}}</p>
+    {{end}}
+
+    <h5>Links and material:</h5>
+    <ul>
+    {{if isset .Site.Params "googlescholarbaseurl"}}<li><a href="{{.Site.Params.googleScholarBaseUrl}}{{replaceRE "[^a-z0-9]" "+" (lower .Title)}}">Google Scholar</a></li>{{end}}
+    {{with .Params.pub_publisher_url}}<li><a href="{{.}}">Publisher version</a></li>{{end}}
+    {{with .Params.pub_doi}}<li>DOI: <a href="https://doi.org/{{.}}">{{.}}</a></li>{{end}}
+    {{with .Params.pub_fulltext_url}}<li><a href="{{.}}">Full text</a></li>{{end}}
+    {{with .Params.pub_slides_url}}<li><a href="{{.}}">Slides</a></li>{{end}}
+    {{with .Params.pub_video_url}}<li><a href="{{.}}">Video</a></li>{{end}}
+    </ul>
+
+  </div>
+
+  {{ .Content }}
+</div>
+{{ end }}

@@ -1,0 +1,127 @@
+@import "variables";
+
+body {
+  font-family: $text-font, serif;
+  font-size: 5mm;
+  color: $primary-color;
+  line-height: 1.25;
+  background-color: $light-gray;
+}
+
+code, kbd, pre, samp {
+  font-family: $code-font;
+  color: $tertiary-color;
+}
+
+.inner-container {
+  background-color: white;
+  margin-top: 5mm;
+}
+
+.navbar-brand {
+  font-family: $brand-font, sans-serif;
+  span {
+    font-size: inherit;
+    &.initial {
+      color: $secondary-color;
+    }
+  }
+}
+
+#content {
+  h1, h2, h3, h4, h5, h6 {
+    font-family: $heading-font, sans-serif;
+  }
+  h1, h2 {
+    text-decoration: underline;
+    text-decoration-color: $secondary-color;
+  }
+  padding-top: 10mm;
+  padding-bottom: 10mm;
+  a {
+    @extend %link-default;
+  }
+  ul, ol {
+    list-style: none;
+    counter-reset: l-counter;
+    li {
+      counter-increment: l-counter;
+      margin: .5em 0;
+    }
+    li::before {
+      color: $secondary-color;
+      font-weight: bold;
+      display: inline-block;
+      width: 1.5em;
+      margin-left: -1.5em;
+    }
+  }
+  ol > li::before {
+    content: counter(l-counter) ".";
+  }
+  ul > li::before {
+    content: '\25FC';
+  }
+  li.publication {
+    .notes {
+      color: $tertiary-color;
+      font-weight: bold;
+    }
+  }
+  .this-author {
+    text-decoration: underline;
+    text-decoration-color: $secondary-color;
+  }
+  .publication-data h5 {
+    margin-bottom: 0;
+  }
+  blockquote {
+    margin: 0 1em;
+    position: relative;
+    &::before {
+      content: open-quote;
+      font-size: 300%;
+      position: absolute;
+      left: -0.35em;
+      top: -0.35em;
+      color: $secondary-color;
+    }
+    &::after {
+      content: close-quote;
+      font-size: 300%;
+      position: absolute;
+      right: -0.35em;
+      bottom: -1.7ex;
+      color: $secondary-color;
+    }
+  }
+  .highlight {
+    pre {
+      padding: 2.5mm;
+      border-radius: .25rem!important;
+    }
+  }
+  .badge-pub-type {
+    text-transform: uppercase;
+    font: $code-font;
+    &.badge-pub-type-primary {
+      color: $primary-neg-color;
+      background-color: $primary-color;
+    }
+    &.badge-pub-type-secondary {
+      color: $secondary-neg-color;
+      background-color: $secondary-color;
+    }
+    &.badge-pub-type-tertiary {
+      color: $tertiary-neg-color;
+      background-color: $tertiary-color;
+    }
+  }
+}
+
+#footer {
+  margin-top: 5mm;
+  * {
+    font-size: 75%;
+  }
+}
