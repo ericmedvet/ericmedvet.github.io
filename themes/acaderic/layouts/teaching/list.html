@@ -3,7 +3,7 @@
 	<h1>{{.Title}}</h1>
 	{{ .Content }}
 	<h2>Courses by academic year</h2>
-	{{ range sort (.Pages.GroupByParam "academic_year") "Key" "desc" }}
+	{{ range sort (.Sections.GroupByParam "academic_year") "Key" "desc" }}
 	<h3>AY {{.Key}}</h3>
 	<ul>
 		{{ range sort .Pages "Title" "desc"}}

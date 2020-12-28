@@ -107,13 +107,15 @@ Frontal lessons with blackboard and slide projection; exercises, under teacher s
 The course will start on **October, 6th**.
 Lectures will be held in online (Tuesday and Thursday) or in Classroom 3B, H3 building, in Piazzale Europa campus (Wednesday).
 
-## Exam
+## End-of-course test (exam)
 
-**Important note:**
-Due to the Covid19 circumstances, the written test might be replaced by an oral interview.
+{{< alert danger >}}
+### Important note
+Due to the **Covid19** circumstances, the written test might be replaced by an oral interview.
 Interviews will be done on the MS Teams platform of UniTs or, in case of problems with the latter, with another similar tool (e.g., Google Meet).
 Precise instruction will be given to the students registered for each exam date after the registration deadline and before the exam.
 Students who want to listen to others students' interviews, but are not registered, should ask authorization to the teacher.
+{{< /alert >}}
 
 The exam consists of a project and a written test.
 The final grade is the average of the two grades: the exam is considered failed if at least one of the two grades is <18.

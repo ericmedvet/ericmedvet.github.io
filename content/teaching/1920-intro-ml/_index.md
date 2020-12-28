@@ -127,11 +127,10 @@ Lessons will be held in Classroom 3B, H2bis building, in Piazzale Europa campus.
 11. Sei interessato agli argomenti dell'insegnamento?
 12. Sei complessivamente soddisfatto dell'insegnamento?
 
-## Exam
+## End-of-course test (exam)
 
 {{< alert danger >}}
-**Important notice**
-
+### Important note
 Due to the **Covid19** circumstances, the written test might be replaced by an oral interview.
 Interviews will be done on the MS Teams platform of UniTs or, in case of problems with the latter, with another similar tool (e.g., Google Meet).
 Precise instruction will be given to the students registered for each exam date after the registration deadline and before the exam.

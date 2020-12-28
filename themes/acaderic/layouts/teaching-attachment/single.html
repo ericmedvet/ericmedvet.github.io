@@ -1,0 +1,7 @@
+{{ define "main" }}
+<div class="container">
+  <h1>{{ .Title }}</h1>
+  <h3>For AY {{.CurrentSection.Params.academic_year}} - {{.CurrentSection.Title}}</h3>
+  {{ .Content }}
+</div>
+{{ end }}
