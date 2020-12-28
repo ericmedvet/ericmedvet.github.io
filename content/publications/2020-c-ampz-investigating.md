@@ -9,8 +9,8 @@
   "pub_location_country": "Malta",
   "pub_authors": "Ansuini, Alessio; Medvet, Eric; Pellegrino, Felice Andrea; Zullich, Marco",
   "pub_doi": "10.1007/978-3-030-66125-0_6",
-  "pub_notes": "Extended version",
   "pub_publisher_url": "https://link.springer.com/chapter/10.1007%2F978-3-030-66125-0_6",
+  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1Nh0Bo2XcB6vY2_IMLr7CFySv3K_Zlc9-",
   "pub_important": false
 }
 
