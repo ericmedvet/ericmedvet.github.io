@@ -2,7 +2,7 @@
 title: "Eric Medvet"
 ---
 
-I am an **associate professor** at the [Department of Engineering and Architecture (DIA)](https://dia.units.it), [University of Trieste](https://www.units.it), Italy.
+I am an **associate professor** of **computer engineering** at the [Department of Engineering and Architecture (DIA)](https://dia.units.it), [University of Trieste](https://www.units.it), Italy.
 
 I am the head of the [Evolutionary Robotics and Artificial Life Lab](https://erallab.inginf.units.it/) and the co-head of the [Machine Learning Lab](https://machinelearning.inginf.units.it/).
 I do research on **Evolutionary Computation**, **Machine Learning**, and their application to computer- and engineering-related topics.
