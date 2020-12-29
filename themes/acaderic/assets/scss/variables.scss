@@ -35,6 +35,20 @@ $tertiary-neg-color: $light-gray;
     text-decoration-color: $primary-color;
   }
 }
+%link-icon {
+  color: $secondary-color;
+  text-decoration: none;
+  &:hover {
+    color: $primary-color;
+  }
+}
+%link-soft-icon {
+  color: $secondary-neg-color;
+  text-decoration: none;
+  &:hover {
+    color: $secondary-color;
+  }
+}
 %link-dark {
   color: inherit;
   text-decoration: none;

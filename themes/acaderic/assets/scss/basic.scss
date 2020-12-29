@@ -31,8 +31,13 @@ code, kbd, pre, samp {
 #content {
   h1, h2, h3, h4, h5, h6 {
     font-family: $heading-font, sans-serif;
+    &.wl {
+      a {
+        @extend %link-soft-icon;
+      }
+    }
   }
-  h1, h2 {
+  h1, h2:not(.wl), h2.wl span {
     text-decoration: underline;
     text-decoration-color: $secondary-color;
   }
@@ -120,9 +125,8 @@ code, kbd, pre, samp {
   .social {
     a {
       margin: 0 .25em;
-      &:hover {
-        text-decoration: none;
-      }
+      font-size: 150%;
+      @extend %link-icon;
     }
     margin: 0 0 1rem;
   }
@@ -133,12 +137,6 @@ code, kbd, pre, samp {
   height: 1.15em;
   width: 1.15em;
   position: relative;
-  a:hover & {
-    color: $primary-color;
-  }
-  .social & {
-    font-size: 150%;
-  }
 }
 
 #footer {

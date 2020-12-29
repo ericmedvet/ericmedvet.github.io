@@ -4,13 +4,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
   <meta name="description" content="Eric Medvet, Associate Professor of Computer Engineering at the University of Trieste, Italy" />
   <meta name="author" content="Eric Medvet" />
-  
-
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous"/>
-  
-  <link rel="stylesheet" href="/sass/basic.min.css" />
-  
+  <link rel="stylesheet" href="/scss/basic.css" />
   
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZW00T23DHQ"></script>
   <script>
@@ -19,7 +15,6 @@
     gtag("js", new Date());
     gtag("config", "G-ZW00T23DHQ");
   </script>
-  
   <title>Detecting Anomalies in Embedded Computing Systems via a Novel HMM-based Machine Learning Approach</title>
 </head>
 <body>
@@ -75,7 +70,11 @@
 
   </div>
 
-  <h2 id="abstract">Abstract</h2>
+  <h2 id="abstract" class="wl">
+  <span>Abstract</span>
+  <a href="#abstract" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h2>
 <p>Computing systems are vulnerable to anomalies that might occur during execution of deployed software: e.g., faults, bugs or deadlocks. When occurring on embedded computing systems, these anomalies may severely hamper the corresponding devices; on the other hand, embedded systems are designed to perform autonomously, i.e., without any human intervention, and thus it is difficult to debug an application to manage the anomaly. Runtime anomaly detection techniques are the primary means of being aware of anomalous conditions. In this paper, we describe a novel approach to detect an anomaly during the execution of one or more applications. Our approach describes the behaviour of the applications using the sequences of memory references generated during runtime. The memory references are seen as signals: they are divided in overlapping frames, then parametrized and finally described with Hidden Markov Models (HMM) for detecting anomalies. The motivations of using such methodology for embedded systems are the following: first, the memory references could be extracted with very low overhead with software or architectural tools. Second, the device HMM analysis framework, while being very powerful in gathering high level information, has low computational complexity and thus is suitable to the rather low  memory and computational capabilities of embedded systems. We experimentally evaluated our proposal on a ARM9, Linux based, embedded system using the SPEC 2006 CPU benchmark suite and found that it shows very low error rates for some artificially injected anomalies, namely a malware, an infinite loop and random errors during execution.</p>
 
 </div>

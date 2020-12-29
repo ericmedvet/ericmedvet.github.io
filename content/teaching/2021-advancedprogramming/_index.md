@@ -5,4 +5,4 @@ type: courses
 draft: true
 ---
 
-none yet
+None yet

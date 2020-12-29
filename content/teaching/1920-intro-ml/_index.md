@@ -9,12 +9,11 @@ This page is about the courses named (actually the same course):
 - Introduction to Machine Learning (470SM), for master programs [SM35](https://dssc.units.it/) and [SM34](https://corsi.units.it/SM34/descrizione-corso), 6 CFUs
 - Machine Learning and Data Analytics (557EC), for master program [EC71](https://corsi.units.it/EC71/descrizione-corso), 6 CFUs (part of a 9 CFUs course)
 
-## Language of teaching
-English
+## Program, goals, requirements
 
-## Detailed program
+### Detailed program
 
-### Part 1 (24h)
+#### Part 1 (24h)
 - Definitions of Machine Learning and Data Mining; why ML and DM are hot topics; examples of applications of ML; phases of design, development, and assessment of a ML system; terminology.
 - Introduction to the software/language R; elements of data visualization.
 - Supervised learning 1.
@@ -28,7 +27,7 @@ English
     - Non linearly separable problems; kernel: brief background and main options (linear, polynomial, radial); intuition behind radial kernel; SVM,
     - Multiclass classification with SVM.
 
-### Part 2 (24h)
+#### Part 2 (24h)
 - Text and natural language applications (text mining)
   - Sentiment analysis; features for text mining; common pre-processing steps; topic modeling.
 - Recommending systems.
@@ -39,7 +38,7 @@ English
   - Generational model; selection criteria; exploration/exploitation trade-off; genetic operators with examples; fitness function; multi-objective optimization and Pareto dominance; debugging of an evolutionary search; EA issues (diversity, variational inheritance, expressiveness); fitness landscape.
   - Examples of common EAs: GA, GP, GE.
 
-### Part 3 (24h)
+#### Part 3 (24h)
 - Supervised learning 2.
   - The Bayes classifier.
   - The K-nearest neighbors classifier.
@@ -55,20 +54,9 @@ English
     - Simultaneous evolution of body and brain
   - Simulation: tools and benchmark tasks
 
-## Course material
+### Goal of the course
 
-### Teacher slides and lab sketches
-All the material is available [here](https://drive.google.com/drive/folders/1r6GZdHaqqs51pTXgwZk_ZWuwffXRu81V):
-- Annotated slides; will be provided after the lectures.
-- Slides of hosted seminar.
-
-### Suggested textbooks
-- Kenneth A. De Jong. Evolutionary computation: a unified approach. MIT press, 2006
-- Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani. An Introduction to Statistical Learning, with applications in R. Springer, Berlin: Springer Series in Statistics, 2014.
-
-## Goal of the course
-
-### Knowledge and understanding
+#### Knowledge and understanding
 - Know main kinds of problems which can be tackled with ML and those ones concerning text and natural language and recommendation
 - Know main ML and DM techniques.
 Know design, development, and assessment phases of a ML system; know main assessment metrics and procedures suitable for a ML system.
@@ -76,59 +64,53 @@ Know design, development, and assessment phases of a ML system; know main assess
 - Know general working schemes of most common EAs.
 - Know design, development, and assessment phases of a EC-based system in the field of robotics.
 
-### Applying knowledge and understanding
+#### Applying knowledge and understanding
 - Formulate a formal problem statement for simple practical problems in order to tackle them with ML, DM, or EC/ER techniques.
 - Develop simple end-to-end ML systems.
 - Experimentally assess a simple end-to-end ML or EC/ER system.
 
-### Making judgements
+#### Making judgements
 - Judge the technical soundness of a ML or EC/ER system.
 - Judge the technical soundness of the assessment of a ML or EC/ER system.
 
-### Communication skills
+#### Communication skills
 - Describe, both in written and oral form, the motivations behind choices in the design, development, and assessment of a ML or EC/ER system, possibly exploiting simple plots.
 
-### Learning skills
+#### Learning skills
 - Retrieve information from scientific publications about ML or EC/ER techniques not explicitly presented in this course.
 
-## Requirements
+### Requirements
 Basics of statistics: basic graphical tools of data exploration; summary measures of variable distribution (mean, variance, quantiles); fundamentals of probability and of univariate and multivariate distribution of random variables; basics of linear regression analysis.
 
 Basics of linear algebra: vectors, matrices, matrix operations; diagonalization and decomposition in singular values.
 
 Basics of programming and data structures: algorithm, data types, loops, recursion, parallel execution, tree.
 
-## Teaching method
+
+## Method, language, material
+
+### Language of teaching
+English
+
+### Teaching method
 Frontal lessons with blackboard and slide projection; exercises, under teacher supervision, in dealing with simple problems with ML techniques.
 
-## Lectures timetable and course calendar
+### Course material
+
+#### Teacher slides and lab sketches
+All the material is available [here](https://drive.google.com/drive/folders/1r6GZdHaqqs51pTXgwZk_ZWuwffXRu81V):
+- Annotated slides; will be provided after the lectures.
+- Slides of hosted seminar.
+
+#### Suggested textbooks
+- Kenneth A. De Jong. Evolutionary computation: a unified approach. MIT press, 2006
+- Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani. An Introduction to Statistical Learning, with applications in R. Springer, Berlin: Springer Series in Statistics, 2014.
+
+### Lectures timetable and course calendar
 The course will start on **October, 22nd**.
 Lessons will be held in Classroom 3B, H2bis building, in Piazzale Europa campus.
 
-## Results of students' assessment
-
-{{< fig src="student-assessment-in20.png" caption="Students of IN20 (23 answers)" >}}
-{{< fig src="student-assessment-in19.png" caption="Students of IN19 (6 answers)" >}}
-{{< fig src="student-assessment-sm35.png" caption="Students of SM35 (33 answers)" >}}
-{{< fig src="student-assessment-ec71.png" caption="Students of EC71 (10 answers)" >}}
-
-### Questions
-(In Italian)
-1. Le conoscenze preliminari possedute sono risultate sufficienti per la comprensione degli argomenti trattati?
-2. Il carico di studio di questo insegnamento è proporzionato ai crediti assegnati?
-3. Il materiale didattico (indicato o fornito) è adeguato per lo studio della materia?
-4. Le modalità di esame sono state definite in modo chiaro?
-5. Gli orari di svolgimento dell'attività didattica sono rispettati?
-6. Il docente stimola / motiva l'interesse verso la disciplina?
-7. Il docente espone gli argomenti in modo chiaro?
-8. Le attività didattiche integrative (esercitazioni, laboratori, seminari, ecc.) risultano utili ai fini dell'apprendimento? (se non sono previste attività didattiche integrative, rispondete non previste)
-9. L'insegnamento è stato svolto in maniera coerente con quanto dichiarato sul sito web del corso di studio?
-10. Il personale docente è effettivamente reperibile per chiarimenti e spiegazioni?
-11. Sei interessato agli argomenti dell'insegnamento?
-12. Sei complessivamente soddisfatto dell'insegnamento?
-
 ## End-of-course test (exam)
-
 {{< alert danger >}}
 ### Important note
 Due to the **Covid19** circumstances, the written test might be replaced by an oral interview.
@@ -149,3 +131,24 @@ Questions on theory and application with short open answers.
 The student chooses a problem among a closed, teacher-defined set of problems and proposes a solution based on ML, DM, or EC techniques.
 The expected outcome is a written document (few pages) including: the problem statement; one or more performance indexes able to capture any solution ability to solve the problem; a description of the proposed solution from the algorithmic point of view; the results and a discussion about the experimental assessment of the solution with, if applicable, information about used data.
 Student may form groups for the project: in this case, the document must show, for each student of the group, which activities the student took part in. The project is evaluated according to clarity (~ 50%), technical soundness (~ 33%), and results (~ 17%).
+
+## Results of students' assessment
+{{< fig src="student-assessment-in20.png" caption="Students of IN20 (23 answers)" >}}
+{{< fig src="student-assessment-in19.png" caption="Students of IN19 (6 answers)" >}}
+{{< fig src="student-assessment-sm35.png" caption="Students of SM35 (33 answers)" >}}
+{{< fig src="student-assessment-ec71.png" caption="Students of EC71 (10 answers)" >}}
+
+### Questions
+(In Italian)
+1. Le conoscenze preliminari possedute sono risultate sufficienti per la comprensione degli argomenti trattati?
+2. Il carico di studio di questo insegnamento è proporzionato ai crediti assegnati?
+3. Il materiale didattico (indicato o fornito) è adeguato per lo studio della materia?
+4. Le modalità di esame sono state definite in modo chiaro?
+5. Gli orari di svolgimento dell'attività didattica sono rispettati?
+6. Il docente stimola / motiva l'interesse verso la disciplina?
+7. Il docente espone gli argomenti in modo chiaro?
+8. Le attività didattiche integrative (esercitazioni, laboratori, seminari, ecc.) risultano utili ai fini dell'apprendimento? (se non sono previste attività didattiche integrative, rispondete non previste)
+9. L'insegnamento è stato svolto in maniera coerente con quanto dichiarato sul sito web del corso di studio?
+10. Il personale docente è effettivamente reperibile per chiarimenti e spiegazioni?
+11. Sei interessato agli argomenti dell'insegnamento?
+12. Sei complessivamente soddisfatto dell'insegnamento?

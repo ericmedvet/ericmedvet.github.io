@@ -1,6 +1,17 @@
 {{ define "main" }}
-<div class="container">
+<div class="container" id="main-content">
   <h1>AY {{.Params.academic_year}} - {{ .Title }}</h1>
+  <aside id="toc">
+    <h2 class="wl">
+      <span>Table of contents</span>
+      <a href="#collapseToc" data-toggle="collapse" aria-expanded="true" aria-controls="collapse">↧</a>
+    </h2>
+    <div id="collapseToc" class="collapse" aria-labelledby="headingToc" data-parent="#toc">
+      <div class="card card-body">
+        {{ .TableOfContents }}
+      </div>
+    </div>
+  </aside>
   {{ .Content }}
 </div>
 {{ end }}

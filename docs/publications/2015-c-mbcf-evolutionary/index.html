@@ -4,13 +4,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
   <meta name="description" content="Eric Medvet, Associate Professor of Computer Engineering at the University of Trieste, Italy" />
   <meta name="author" content="Eric Medvet" />
-  
-
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous"/>
-  
-  <link rel="stylesheet" href="/sass/basic.min.css" />
-  
+  <link rel="stylesheet" href="/scss/basic.css" />
   
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZW00T23DHQ"></script>
   <script>
@@ -19,7 +15,6 @@
     gtag("js", new Date());
     gtag("config", "G-ZW00T23DHQ");
   </script>
-  
   <title>Evolutionary Inference of Attribute-based Access Control Policies</title>
 </head>
 <body>
@@ -75,7 +70,11 @@
 
   </div>
 
-  <h2 id="abstract">Abstract</h2>
+  <h2 id="abstract" class="wl">
+  <span>Abstract</span>
+  <a href="#abstract" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h2>
 <p>The interest in attribute-based access control policies is increasingly growing due to their ability to accommodate the complex security requirements of modern computer systems. With this novel paradigm, access control policies consist of attribute expressions which implicitly describe the properties of subjects and protection objects and which must be satisfied for a request to be allowed. Since specifying a policy in this framework may be very complex, approaches for policy mining, i.e., for inferring a specification automatically from examples in the form of logs of authorized and denied requests, have been recently proposed.In this work, we propose a multi-objective evolutionary approach for solving the policy mining task. We designed and implemented a problem representation suitable for evolutionary computation, along with several search-optimizing features which have proven to be highly useful in this context: a strategy for learning a policy by learning single rules, each one focused on a subset of requests; a custom initialization of the population; a scheme for diversity promotion and for early termination. We show that our approach deals successfully with case studies of realistic complexity.</p>
 
 </div>
