@@ -91,10 +91,10 @@ The evaluation will be as follows: 0/10 not submitted (missed deadline); 5/10 to
 
 **The project assignment is [here](project/)**.
 
-### Written test.
+### Written test
 Questions on the course program with short open answers and short programming exercise.
 
-### Oral exam.
+### Oral exam
 Questions on the course program and short programming exercise.
 
 ### Home assignments
