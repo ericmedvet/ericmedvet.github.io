@@ -2,7 +2,7 @@
 <div class="container">
 	<h1>{{ .Title }}</h1>
 	{{ range sort (.Pages.GroupByParam "pub_year") "Key" "desc" }}
-	<h2>{{.Key}}</h2>
+	{{ partial "heading.html" (dict "n" 2 "text" (print "Year " .Key))}}
 	<ol>
 		{{ range sort .Pages "Params.pub_type" "desc"}}
 			{{ partial "pub-list-item.html" .}}

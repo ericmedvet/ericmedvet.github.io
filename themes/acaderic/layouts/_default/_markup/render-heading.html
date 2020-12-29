@@ -1,5 +1,1 @@
-<h{{ .Level }} id="{{ .Anchor | safeURL }}" class="wl">
-  <span>{{ .Text | safeHTML }}</span>
-  <a href="#{{ .Anchor | safeURL }}" aria-label="Anchor">#</a>
-  <a href="#content">↰</a>
-</h{{ .Level }}>
+{{ partial "heading.html" (dict "n" .Level "text" .Text)}}

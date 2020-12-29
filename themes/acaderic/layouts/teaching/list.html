@@ -2,9 +2,9 @@
 <div class="container">
 	<h1>{{.Title}}</h1>
 	{{ .Content }}
-	<h2>Courses by academic year</h2>
+	{{ partial "heading.html" (dict "n" 2 "text" "Courses by academic year")}}
 	{{ range sort (.Sections.GroupByParam "academic_year") "Key" "desc" }}
-	<h3>AY {{.Key}}</h3>
+	{{ partial "heading.html" (dict "n" 3 "text" (print "AY " .Key))}}
 	<ul>
 		{{ range sort .Pages "Title" "desc"}}
 			<li><a href="{{ .RelPermalink }}">{{.Title}}</a></li>

@@ -75,6 +75,7 @@
   <a href="#abstract" aria-label="Anchor">#</a>
   <a href="#content">↰</a>
 </h2>
+
 <p>Voxel-based soft robots (VSRs) are aggregations of elastic, cubic blocks that have sparkled the interest of Robotics and Artificial Life researchers. VSRs can move by varying the volume of individual blocks, according to control signals dictated by a controller, possibly based on inputs coming from sensors embedded in the blocks. Neural networks (NNs) have been used as centralized processing units for those sensing controllers, with weights optimized using evolutionary computation. This structuring breaks the intrinsic modularity of VSRs: decomposing a VSR into modules to be assembled in a different way is very hard.
 In this work we propose an alternative approach that enables full modularity and is based on a distributed neural controller. Each block contains a small NN that outputs signals to adjacent blocks and controls the local volume, based on signals from adjacent blocks and on local sensor readings. We show experimentally for the locomotion task that our controller is as effective as the centralized one. Our experiments also suggest that the proposed framework indeed allows exploiting modularity: VSRs composed of pre-trained parts (body and controller) can be evolved more efficiently than starting from scratch.</p>
 
