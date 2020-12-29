@@ -20,6 +20,11 @@ publishDir = "docs"
     else = "tertiary"
   [params.home]
     recentPubs = 5
+  [params.social]
+    twitter = "EricMedvetTs"
+    googleScholar = "Te6XLnAAAAAJ"
+    github = "ericmedvet"
+    email = "emedvet@units.it"
 
 [menu]
   [[menu.main]]

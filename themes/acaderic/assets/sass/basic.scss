@@ -117,6 +117,28 @@ code, kbd, pre, samp {
       background-color: $tertiary-color;
     }
   }
+  .social {
+    a {
+      margin: 0 .25em;
+      &:hover {
+        text-decoration: none;
+      }
+    }
+    margin: 0 0 1rem;
+  }
+}
+
+.inline-svg {
+  display: inline-block;
+  height: 1.15em;
+  width: 1.15em;
+  position: relative;
+  a:hover & {
+    color: $primary-color;
+  }
+  .social & {
+    font-size: 150%;
+  }
 }
 
 #footer {
