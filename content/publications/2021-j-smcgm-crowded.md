@@ -5,6 +5,7 @@
   "pub_venue_name": "Journal of Intelligent & Robotic Systems",
   "pub_venue_acronym": "JINT",
   "pub_authors": "Seriani, Stefano; Marcini, Luca; Caruso, Matteo; Gallina, Paolo; Medvet, Eric",
+  "pub_notes": "To appear",
   "pub_important": false
 }
 
