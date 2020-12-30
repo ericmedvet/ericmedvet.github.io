@@ -8,7 +8,7 @@ math: true
 The student (or **group of up to 3 students**) is expected to design, develop, and present a solution based on Machine Learning to **one problem** in a set of problems provided [listed below](#available-problems).
 
 ## Output
-The student (or group of students) will deliver a single document (as a pdf file, written in English or Italian), **within one week before the exam date**, by email, to the teacher.
+The student (or group of students) will deliver a single document (as a pdf file, written in English or Italian), **within the exam date**, by email, to the teacher.
 The document maximum lenght is fixed at **4 pages (excluding references)**, if the document is drafted according to [this LaTex tamplate](https://www.overleaf.com/project/5a30da1f6240cb7d8ac7881b), or **1200 words** (including every word: title, authors, references, ...), otherwise.
 
 The document will contain (not necessarily in the following order):

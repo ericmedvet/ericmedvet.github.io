@@ -1,5 +1,5 @@
 ---
-title: "Student project"
+title: "Final project"
 type: teaching-attachment
 math: true
 ---

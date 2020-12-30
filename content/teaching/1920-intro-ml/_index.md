@@ -127,10 +127,13 @@ Note that there are **deadlines** for registration (usually 1 week before the se
 ### Written test
 Questions on theory and application with short open answers.
 
-### Project (assignment)
+### Final project
 The student chooses a problem among a closed, teacher-defined set of problems and proposes a solution based on ML, DM, or EC techniques.
 The expected outcome is a written document (few pages) including: the problem statement; one or more performance indexes able to capture any solution ability to solve the problem; a description of the proposed solution from the algorithmic point of view; the results and a discussion about the experimental assessment of the solution with, if applicable, information about used data.
-Student may form groups for the project: in this case, the document must show, for each student of the group, which activities the student took part in. The project is evaluated according to clarity (~ 50%), technical soundness (~ 33%), and results (~ 17%).
+Student may form groups for the project: in this case, the document must show, for each student of the group, which activities the student took part in.
+The project is evaluated according to clarity (≈50%), technical soundness (≈33%), and results (≈17%).
+
+**The project assignment is [here](project/).**
 
 ## Results of students' assessment
 {{< fig src="student-assessment-in20.png" caption="Students of IN20 (23 answers)" >}}
