@@ -2,7 +2,6 @@
 title: "Student project"
 type: teaching-attachment
 math: true
-enableEmoji: false
 ---
 
 ## Abstract
@@ -176,7 +175,7 @@ where `x` and `y` are omitted in $T$ elements for brevity.
 For each `Expression` token in `Expressions`, an expression $e$ is built and added to $E$ by parsing the `Expression` token based on the corresponding context-free grammar.
 If any of the expression parsing fails, the step fails.
 
-**A sample code for performing this step is provided [here](https://drive.google.com/drive/folders/1JOefnifnJYuqh21MTVWBl70kkzWz6qmA?usp=sharing) in the form of a few Java classes.**
+**A sample code for performing this step is provided [here](https://drive.google.com/drive/folders/1mmLW3HFe20YpHKyj-VxNXa1CBg65rR8u?usp=sharing) in the form of a few Java classes.**
 The student may freely get inspiration from or reuse this code.
 
 ##### Step 4: computation of $o$ from $T$ and $E$

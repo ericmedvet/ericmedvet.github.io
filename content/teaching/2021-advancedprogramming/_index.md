@@ -59,7 +59,7 @@ The full pack of slides might be updated during the course.
 The lectures (with the exception of the firt one, due to technical reasons) have been recorded: they are available [here](https://youtube.com/playlist?list=PLTYLIjLghlitd4re0KtZq8nof7XsRFRTq).
 
 ### Lectures timetable and course calendar
-The course will start on **2 March 2020**.
+To be updated.
 
 ## End-of-course test (exam)
 {{< alert danger >}}
@@ -71,10 +71,10 @@ Students who want to listen to others students' interviews, but are not register
 {{< /alert >}}
 
 The exam works in one of the following ways:
-1. Three parts: **Home assignments + Project + Written test**.
+1. Three parts: **Home assignments + Final project + Written test**.
 Exam is passed only if the grade is >6/10 on each part. Overall grade is determined as **10%, 60%, 30%**, respectively.
 The grades for the Home assignments are communicated during the course.
-2. Three parts: **Project + Written test + Oral exam**.
+2. Three parts: **Final project + Written test + Oral exam**.
 Exam is passed only if the grade is >6/10 on each part.
 Overall grade is determined as **40%, 30%, 30%**, respectively.
 
@@ -85,7 +85,7 @@ The student may ask to repeat an exam also when passed: acceptance and specific 
 Student must **register for the exam session** of their interest using the online sistem [esse3](https://esse3.units.it/).
 Note that there are **deadlines** for registration (usually 1 week before the session date).
 
-### Project
+### Final project
 At the end of the course, a project will be assigned that consists in the design and development of a software in Java, including testing and a simple documentation and following the provided specifications.
 The student will be required to submit the software within a **deadline corresponding to the day of the written test** she/he plans to apply.
 The evaluation will be as follows: 0/10 not submitted (missed deadline); 5/10 to 10/10 submitted, depending on quality of code, software structure, documentation, test coverage, degree of working.
