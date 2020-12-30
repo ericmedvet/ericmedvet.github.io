@@ -24,7 +24,7 @@
     </div>
   </div>
   <section>
-    <h2>Recent important publications</h2>
+    {{ partial "heading.html" (dict "n" 2 "text" "Recent important publications")}}
     <ol>
       {{- range first .Site.Params.home.recentPubs (sort ( where (where .Site.RegularPages "Section" "publications") ".Params.pub_important" true) ".Params.pub_year" "desc") -}}
         {{ partial "pub-list-item.html" .}}
