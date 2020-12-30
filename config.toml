@@ -3,8 +3,13 @@ languageCode = "en-us"
 title = "Eric Medvet"
 theme = "acaderic"
 disableKinds = ["taxonomy", "term", "RSS", "sitemap", "robotsTXT"]
-enableEmoji = true
+enableEmoji = false
 publishDir = "docs"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [params]
   author = "Eric Medvet"

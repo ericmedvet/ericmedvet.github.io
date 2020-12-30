@@ -1,12 +1,15 @@
 {{ define "main" }}
 <div class="container">
-  <h1>{{ .Title }} - for {{.CurrentSection.Title}} (AY {{.CurrentSection.Params.academic_year}})</h2>
+  <h1>{{ .Title }}</h2>
+  <p>
+    For <a href="{{.CurrentSection.RelPermalink}}">{{.CurrentSection.Title}} (AY {{.CurrentSection.Params.academic_year}}).</a>
+  </p>
   <aside id="toc">
     <h2 class="wl">
       <span>Table of contents</span>
       <a href="#collapseToc" data-toggle="collapse" aria-expanded="true" aria-controls="collapse">↧</a>
     </h2>
-    <div id="collapseToc" class="collapse" aria-labelledby="headingToc" data-parent="#toc">
+    <div id="collapseToc" class="collapse show" aria-labelledby="headingToc" data-parent="#toc">
       <div class="card card-body">
         {{ .TableOfContents }}
       </div>
