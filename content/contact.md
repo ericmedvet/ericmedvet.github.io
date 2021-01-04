@@ -15,3 +15,6 @@ Italy
 
 ## Email
 [emedvet@units.it](mailto:emedvet@units.it)
+
+## Old website
+Some content, mostly about my past courses, is available on my [old website](https://sites.google.com/site/ericmedvet/), which **I do not update anymore**.
