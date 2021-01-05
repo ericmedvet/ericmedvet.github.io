@@ -65,7 +65,7 @@ The course will start on **2 March 2020**.
 ### Important note
 Due to the **Covid19** circumstances, the written test might be replaced by an oral interview.
 Interviews will be done on the MS Teams platform of UniTs or, in case of problems with the latter, with another similar tool (e.g., Google Meet).
-Precise instruction will be given to the students registered for each exam date after the registration deadline and before the exam.
+Precise instructions will be given to the students registered for each exam date after the registration deadline and before the exam.
 Students who want to listen to others students' interviews, but are not registered, should ask authorization to the teacher.
 {{< /alert >}}
 
