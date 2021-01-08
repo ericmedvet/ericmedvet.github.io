@@ -261,7 +261,7 @@ Otherwise $S$ replies with an ok response $s$ where the second number in $s$ is 
 
 <p>First, a list $I$ of tuples $(v, x_\text{lower}, x_\text{step}, x_\text{upper})$ is obtained by parsing each <code>VariableValues</code>.
 If, for any tuple, $x_\text{step} \le 0$, the step fails.</p>
-<p>Second, $a: V \to \mathcal{P}(\mathbb{R})$ is built as follows: if no tuple for $v$ exists in $I$, then $a(v)=\emptyset$; otherwis, $a(v)= (x_\text{lower}+k x_\text{step}: x_\text{lower}+k x_\text{step} \le x_\text{upper}){}_{k \in \mathbb{N}}$.</p>
+<p>Second, $a: V \to \mathcal{P}(\mathbb{R})$ is built as follows: if no tuple for $v$ exists in $I$, then $a(v)=\emptyset$; otherwise, $a(v)= (x_\text{lower}+k x_\text{step}: x_\text{lower}+k x_\text{step} \le x_\text{upper}){}_{k \in \mathbb{N}}$.</p>
 <div class="alert alert-primary" role="alert">
   Example: <code>x0:-1:0.1:1,x1:-10:1:20</code> is parsed such that $a($<code>x0</code>$)=(-1,-0.9, \dots, 0.9,1)$, $a($<code>x1</code>$)=(-10,-9, \dots, 19,20)$, and $a(v)=\emptyset$ for any other $v$.
 </div>
