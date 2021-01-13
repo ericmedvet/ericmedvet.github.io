@@ -19,6 +19,7 @@ Consiglio comunque di contattarmi per fare una chiacchierata nel caso ci sia int
 - Hallawa, Ahmed, et al. "[EVO-RL: Evolutionary-Driven Reinforcement Learning](https://arxiv.org/abs/2007.04725)." arXiv preprint arXiv:2007.04725 (2020)
 - Chan, Bert Wang-Chak. "[Lenia and Expanded Universe](https://arxiv.org/abs/2005.03742)." arXiv preprint arXiv:2005.03742 (2020)
 - Pontes-Filho, Nichele. "[A Conceptual Bio-Inspired Framework for the Evolution of Artificial General Intelligence](https://arxiv.org/abs/1903.10410)." arXiv preprint arXiv:1903.10410 (2020)
+- Olesen, Thor VAN, et al. "[Evolutionary Planning in Latent Space](https://arxiv.org/abs/2011.11293)." arXiv preprint arXiv:2011.11293 (2020).
 
 ## Ongoing theses
 - Suarez, Joseph, et al. "[Neural MMO: A Massively Multiagent Game Environment for Training and Evaluating Intelligent Agents](https://arxiv.org/abs/1903.00784)." arXiv preprint arXiv:1903.00784 (2019)
