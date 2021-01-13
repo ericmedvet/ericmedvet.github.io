@@ -71,7 +71,6 @@ The goal is to discover and report:
 - which are the **sentiments** (positive, negative, at least) expressed in the letters, how are they related with persons and topics, how do they evolve over the time
 
 The corpus contains info about: corpus section name, index of letter in the section, date of the letter, year of the letter, sender of the letter, location of the sender, recipient, location of the recipient, languages used in the letter, main language, text of the letter.
-The corpus has already been [preliminary analyzed](http://www.museosveviano.it/ar/progetto/archivio-digitale/).
 
 ### Black Friday
 This problem gives a **bonus score of +1**.
