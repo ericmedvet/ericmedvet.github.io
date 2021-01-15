@@ -354,7 +354,8 @@ The student may freely get inspiration from or reuse this code.</p>
 <li>listen on port $p$ specified as command-line argument</li>
 <li>handle multiple clients at the same time</li>
 <li>never terminate, regardless of clients behavior</li>
-<li>at any time, do at most $n$ computation for processing computation requests at the same time, with $n$ being equal to the number of available processors on the machine where the server is running.</li>
+<li>at any time, do at most $n$ computation for processing computation requests at the same time, with $n$ being equal to the number of available processors on the machine where the server is running.
+Note that the server must still be able to serve more than $n$ clients at the same time.</li>
 </ul>
 <p>Moreover, the server must:</p>
 <ul>

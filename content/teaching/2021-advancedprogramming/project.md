@@ -224,6 +224,7 @@ The server must:
 - handle multiple clients at the same time
 - never terminate, regardless of clients behavior
 - at any time, do at most $n$ computation for processing computation requests at the same time, with $n$ being equal to the number of available processors on the machine where the server is running.
+Note that the server must still be able to serve more than $n$ clients at the same time.
 
 Moreover, the server must:
 - be a Java application delivered as a `.jar` named after the student last name and first name in upper camel case notation (e.g., `MedvetEric.jar`);
