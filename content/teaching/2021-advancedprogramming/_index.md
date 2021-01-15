@@ -56,8 +56,6 @@ Frontal lessons with blackboard and slide projection; exercises, under teacher's
 The course material (teacher's slides) will be available.
 The full pack of slides might be updated during the course.
 
-The lectures (with the exception of the firt one, due to technical reasons) have been recorded: they are available [here](https://youtube.com/playlist?list=PLTYLIjLghlitd4re0KtZq8nof7XsRFRTq).
-
 ### Lectures timetable and course calendar
 To be updated.
 
