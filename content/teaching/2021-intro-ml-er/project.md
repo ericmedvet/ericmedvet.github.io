@@ -9,7 +9,7 @@ The student (or **group of up to 3 students**) is expected to design, develop, a
 
 ## Output
 The student (or group of students) will deliver a single document (as a pdf file, written in English or Italian), **within the exam date**, by email, to the teacher.
-The document maximum length is fixed at **4 pages (excluding references)**, if the document is drafted according to [this LaTex tamplate](https://www.overleaf.com/read/skmvqytwpncp), or **1200 words** (including every word: title, authors, references, ...), otherwise.
+The document maximum length is fixed at **4 pages (excluding references)**, if the document is drafted according to [this LaTex template](https://www.overleaf.com/read/skmvqytwpncp), or **1200 words** (including every word: title, authors, references, ...), otherwise.
 
 The document will contain (not necessarily in the following order):
 - the **problem statement**
@@ -36,7 +36,7 @@ Part of the score (up to 2 points), is determined statically and independently f
 
 The remaining 30 points are assigned according to these criteria:
 - **clarity** (from 0 to 15): is the document understandable and easy to read? is the length appropriate?
-are all non-obvious design choices explicited?
+are all non-obvious design choices made explicit?
 is the solution/experimental campaign repeatable/reproducible based on the provided description?
 - **technical soundness** (from 0 to 10): are the problem statement, evaluation criteria, evaluation procedure sound?
 are design choices motivated experimentally, with references, or by other means?
@@ -49,7 +49,7 @@ However, student are expected not to simply "cut-and-paste" an existing (researc
 
 Note that, depending on the chosen problem, there could be more or less freedom on some aspects: e.g., problem statement, data collection, and so on.
 
-If the project has been done by a group of students, each student will be graded (for the project part) according to both the overall project score and the student contribution, desumed from the activities she/he actually carried on, according to what specified in the document (see above).
+If the project has been done by a group of students, each student will be graded (for the project part) according to both the overall project score and the student contribution, inferred from the activities she/he actually carried on, according to what specified in the document (see above).
 
 ## Available problems
 
@@ -76,7 +76,7 @@ The corpus contains info about: corpus section name, index of letter in the sect
 This problem gives a **bonus score of +1**.
 
 A [dataset](https://drive.google.com/drive/folders/19h0E0n_f_FXgVOg_b3I03qpkS_t_jpnc?usp=sharing) contains a sample of the transactions made in a retail store.
-The store wants to know better the customer purchase behaviour against different products.
+The store wants to know better the customer purchase behavior against different products.
 
 Different learning problems can be settled with this dataset.
 Some problem examples are:
