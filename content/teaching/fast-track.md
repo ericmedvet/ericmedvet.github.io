@@ -12,7 +12,6 @@ Consiglio comunque di contattarmi per fare una chiacchierata nel caso ci sia int
 - Chollet, François. "[On the measure of intelligence](https://arxiv.org/abs/1911.01547)." arXiv preprint arXiv:1911.01547 (2019)
 - Fu, Justin, et al. "[From Language to Goals: Inverse Reinforcement Learning for Vision-Based Instruction Following](https://arxiv.org/abs/1902.07742)." arXiv preprint arXiv:1902.07742 (2019)
 - Yu, Wenhao, et al. "[Sim-to-Real Transfer for Biped Locomotion](https://arxiv.org/abs/1903.01390)." arXiv preprint arXiv:1903.01390 (2019)
-- Paton, Norman W. "[Automating Data Preparation: Can We? Should We? Must We?](http://ceur-ws.org/Vol-2324/Paper00-InvTalk2-NPaton.pdf)"
 - Schossau, Jory, and Arend Hintze. "[Neuroevolution in Dynamically Changing Environments](https://www.mitpressjournals.org/doi/abs/10.1162/isal_a_00274)." Artificial Life Conference Proceedings. One Rogers Street, Cambridge, MA 02142-1209 USA journals-info@ mit. edu: MIT Press, 2020
 - Sayama, Hiroki. "[Extreme Ideas Emerging from Social Conformity and Homophily: An Adaptive Social Network Model](https://www.mitpressjournals.org/doi/abs/10.1162/isal_a_00349)." Artificial Life Conference Proceedings. One Rogers Street, Cambridge, MA 02142-1209 USA journals-info@ mit. edu: MIT Press, 2020
 - Matthews, David, and Josh Bongard. "[Crowd grounding: finding semantic and behavioral alignment through human robot interaction](https://www.mitpressjournals.org/doi/abs/10.1162/isal_a_00317)." Artificial Life Conference Proceedings. One Rogers Street, Cambridge, MA 02142-1209 USA journals-info@ mit. edu: MIT Press, 2020
@@ -22,6 +21,7 @@ Consiglio comunque di contattarmi per fare una chiacchierata nel caso ci sia int
 - Olesen, Thor VAN, et al. "[Evolutionary Planning in Latent Space](https://arxiv.org/abs/2011.11293)." arXiv preprint arXiv:2011.11293 (2020).
 
 ## Ongoing theses
+- Paton, Norman W. "[Automating Data Preparation: Can We? Should We? Must We?](http://ceur-ws.org/Vol-2324/Paper00-InvTalk2-NPaton.pdf)"
 - Suarez, Joseph, et al. "[Neural MMO: A Massively Multiagent Game Environment for Training and Evaluating Intelligent Agents](https://arxiv.org/abs/1903.00784)." arXiv preprint arXiv:1903.00784 (2019)
 - McDonald, Andrew WE, Sean Grimes, and David E. Breen. "[Ortus: An emotion--driven approach to (artificial) biological intelligence](https://arxiv.org/abs/2008.04875)." Artificial Life Conference Proceedings 14. One Rogers Street, Cambridge, MA 02142-1209 USA journals-info@ mit. edu: MIT Press, 2017
 
