@@ -8,10 +8,11 @@
   "pub_location_city": "Xiamen",
   "pub_location_country": "China",
   "pub_authors": "Bartoli, Alberto; Medvet, Eric",
+  "pub_doi": "10.3233/FAIA200717",
   "pub_publisher_url": "http://ebooks.iospress.nl/volumearticle/55959",
   "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1-AvSDrEy5IujXotb14xNYbZhjY63bNju",
   "pub_slides_url": "https://drive.google.com/file/d/1dewrIBhxMxJBUJxH-dwkU2Eh7MZ2HZ-B/view?usp=sharing",
-  "pub_video_url": "Details (academicconf.com)",
+  "pub_video_url": "http://www.academicconf.com/Video/Details?paperId=31820",
   "pub_important": false
 }
 
