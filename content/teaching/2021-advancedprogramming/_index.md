@@ -53,11 +53,28 @@ Frontal lessons with blackboard and slide projection; exercises, under teacher's
 **Bring your own laptop!**
 
 ### Course material
-The course material (teacher's slides) will be available.
-The full pack of slides might be updated during the course.
+The course material (teacher's slides) is served directly from [here](slides/).
+The slides might be updated during the course.
+
+The lectures of the last academic year (with the exception of the first one, due to technical reasons) have been recorded: they are available [here](https://youtube.com/playlist?list=PLTYLIjLghlitd4re0KtZq8nof7XsRFRTq).
 
 ### Lectures timetable and course calendar
-To be updated.
+The course will start on **1 March 2021**.
+
+The lectures will be:
+- on Monday, from 8.30 to 10 in room A, 2nd floor, building C2
+- on Wednesday, from 8.30 to 11 in room A, 2nd floor, building C2
+- on Thursday, from 8.30 to 11 in room A, 2nd floor, building C2
+
+The lectures will be done in person and online, on the Microsoft Teams associated with the course (and reachable from the university [list of online courses](https://corsi.units.it/didattica-a-distanza?description=&field_docenti_modulo_value=medvet)).
+{{< alert danger >}}
+### Warning!
+It turns out that there is currently a misconfiguration of the above mentioned list of online courses.
+When you click on the link of this course, you join to the Teams team associated with **another course** (015MI - Automazione delle misure elettriche).
+I already notified the staff of the problem.
+I do not know how to circumvent it.
+At lecture time, I'll join the wrong team to agree possible students found there on how to proceed.
+{{< /alert >}}
 
 ## End-of-course test (exam)
 {{< alert danger >}}
