@@ -62,9 +62,9 @@ The lectures of the last academic year (with the exception of the first one, due
 The course will start on **1 March 2021**.
 
 The lectures will be:
-- on Monday, from 8.30 to 10 in room A, 2nd floor, building C2
-- on Wednesday, from 8.30 to 11 in room A, 2nd floor, building C2
-- on Thursday, from 8.30 to 11 in room A, 2nd floor, building C2
+- on Monday, from 8.30 to 10, in room A, 2nd floor, building C2
+- on Wednesday, from 8.30 to 11, in room A, 2nd floor, building C2
+- on Thursday, from 8.30 to 11, in room A, 2nd floor, building C2
 
 The lectures will be done in person and online, on the Microsoft Teams associated with the course (and reachable from the university [list of online courses](https://corsi.units.it/didattica-a-distanza?description=&field_docenti_modulo_value=medvet)).
 {{< alert danger >}}
