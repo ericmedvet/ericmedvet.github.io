@@ -69,14 +69,6 @@ The lectures will be:
 - on Thursday, from 8.45 to 11, in room B, ground floor, building C7
 
 The lectures will be done in person and online, on the Microsoft Teams associated with the course (and reachable from the university [list of online courses](https://corsi.units.it/didattica-a-distanza?description=&field_docenti_modulo_value=medvet)).
-{{< alert danger >}}
-### Warning!
-It turns out that there is currently a misconfiguration of the above mentioned list of online courses.
-When you click on the link of this course, you join to the Teams team associated with **another course** (015MI - Automazione delle misure elettriche).
-I already notified the staff of the problem.
-I do not know how to circumvent it.
-At lecture time, I'll join the wrong team to agree possible students found there on how to proceed.
-{{< /alert >}}
 
 ## End-of-course test (exam)
 {{< alert danger >}}
