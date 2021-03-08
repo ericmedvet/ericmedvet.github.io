@@ -61,7 +61,7 @@ Also the lectures of the last academic year (with the exception of the first one
 Since last year the teaching has been entirely online, the recordings of the last year might be of better quality than the ones of this year.
 
 ### Lectures timetable and course calendar
-The course will start on **1 March 2021**.
+The course will start on **1/3/2021**.
 
 The lectures will be:
 - on Monday, from 8.30 to 10, in room A, 2nd floor, building C2
@@ -69,6 +69,9 @@ The lectures will be:
 - on Thursday, from 8.45 to 11, in room B, ground floor, building C7
 
 The lectures will be done in person and online, on the Microsoft Teams associated with the course (and reachable from the university [list of online courses](https://corsi.units.it/didattica-a-distanza?description=&field_docenti_modulo_value=medvet)).
+
+#### Timetable variations
+The lecture of **18/3/2021** will not be given since I will be involved in a PhD final defence.
 
 ## End-of-course test (exam)
 {{< alert danger >}}
