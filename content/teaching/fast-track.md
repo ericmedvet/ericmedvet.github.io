@@ -19,6 +19,7 @@ Consiglio comunque di contattarmi per fare una chiacchierata nel caso ci sia int
 - Chan, Bert Wang-Chak. "[Lenia and Expanded Universe](https://arxiv.org/abs/2005.03742)." arXiv preprint arXiv:2005.03742 (2020)
 - Pontes-Filho, Nichele. "[A Conceptual Bio-Inspired Framework for the Evolution of Artificial General Intelligence](https://arxiv.org/abs/1903.10410)." arXiv preprint arXiv:1903.10410 (2020)
 - Olesen, Thor VAN, et al. "[Evolutionary Planning in Latent Space](https://arxiv.org/abs/2011.11293)." arXiv preprint arXiv:2011.11293 (2020).
+- Spielberg, Andrew, et al. "[Co-Learning of Task and Sensor Placement for Soft Robotics](https://ieeexplore.ieee.org/abstract/document/9345345)." IEEE Robotics and Automation Letters 6.2 (2021): 1208-1215.
 
 ## Ongoing theses
 - Paton, Norman W. "[Automating Data Preparation: Can We? Should We? Must We?](http://ceur-ws.org/Vol-2324/Paper00-InvTalk2-NPaton.pdf)"
