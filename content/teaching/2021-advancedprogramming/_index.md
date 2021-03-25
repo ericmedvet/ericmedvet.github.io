@@ -124,3 +124,4 @@ Students have to **send an email** to the teacher, within the deadline, saying *
 Due dates are at 23.59, [AoE](https://en.wikipedia.org/wiki/Anywhere_on_Earth) time.
 Please do not change the code in repl after the due date.
 1. **Anagrams**, slide 149, assigned on 15/03/2021, due date **29/03/2021**
+2. **Equivalence**, slide 225, assigned on 25/03/2021, due date **09/04/2021**
