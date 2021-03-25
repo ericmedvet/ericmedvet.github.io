@@ -71,7 +71,9 @@ The lectures will be:
 The lectures will be done in person and online, on the Microsoft Teams associated with the course (and reachable from the university [list of online courses](https://corsi.units.it/didattica-a-distanza?description=&field_docenti_modulo_value=medvet)).
 
 #### Timetable variations
-The lecture of **18/3/2021** will not be given since I will be involved in a PhD final defence.
+The lecture of **18/3/2021** will not be given since I will be involved in a PhD final defense.
+
+The lectures of **7/4/2021** and **8/4/2021** will not be given since I will be "attending" a conference.
 
 ## End-of-course test (exam)
 {{< alert danger >}}
