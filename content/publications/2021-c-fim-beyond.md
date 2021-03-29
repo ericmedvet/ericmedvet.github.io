@@ -5,8 +5,6 @@
   "pub_venue_name": "European Conference on the Applications of Evolutionary Computation",
   "pub_venue_number": "24th",
   "pub_venue_acronym": "EvoAPPS",
-  "pub_location_city": "Seville",
-  "pub_location_country": "Spain",
   "pub_authors": "Ferigo, Andrea; Iacca, Giovanni; Medvet, Eric",
   "pub_notes": "To appear",
   "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1Eowg-2JiwAFcqkZdyB4H_eIPIRCIfQhl",

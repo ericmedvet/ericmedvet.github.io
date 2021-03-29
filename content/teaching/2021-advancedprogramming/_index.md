@@ -96,7 +96,7 @@ The exam may be repeated an unlimited number of times.
 Overall grades corresponding to failed exams (with the exception of Project missed deadlines) **will be registered as failed**.
 The student may ask to repeat an exam also when passed: acceptance and specific parts to be repeated will be agreed with the teacher.
 
-Student must **register for the exam session** of their interest using the online sistem [esse3](https://esse3.units.it/).
+Student must **register for the exam session** of their interest using the online system [esse3](https://esse3.units.it/).
 Note that there are **deadlines** for registration (usually 1 week before the session date).
 
 ### Final project
