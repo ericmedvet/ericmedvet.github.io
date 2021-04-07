@@ -7,7 +7,7 @@
   "pub_venue_acronym": "MIPRO",
   "pub_location_city": "Opatija",
   "pub_location_country": "Croatia",
-  "pub_authors": "Salvato, Eric; Fenu, Gianfranco; Medvet, Eric; Pellegrino, Felice Andrea",
+  "pub_authors": "Salvato, Erica; Fenu, Gianfranco; Medvet, Eric; Pellegrino, Felice Andrea",
   "pub_notes": "To appear",
   "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1JUpUGNtbJmgjyWMZiMGsY1CpTkCs97uc",
   "pub_important": false
