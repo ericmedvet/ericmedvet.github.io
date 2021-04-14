@@ -125,3 +125,5 @@ Due dates are at 23.59, [AoE](https://en.wikipedia.org/wiki/Anywhere_on_Earth) t
 Please do not change the code in repl after the due date.
 1. **Anagrams**, slide 149, assigned on 15/03/2021, due date **29/03/2021**
 2. **Equivalence**, slide 225, assigned on 25/03/2021, due date **09/04/2021**
+
+Grades for the home assignments are visible [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vT7-9UDZ-BuLHZvfO1o4T-3jXqTJpfB7Zx7C5AbshXD2rZRwJBgqbOx_faWJGI7VI9u2_w6WkEHDGUq/pubhtml?gid=2075957526&single=true).
