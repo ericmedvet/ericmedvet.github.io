@@ -84,6 +84,13 @@ Precise instructions will be given to the students registered for each exam date
 Students who want to listen to others students' interviews, but are not registered, should ask authorization to the teacher.
 {{< /alert >}}
 
+{{< alert danger >}}
+### 6 CFU version
+**Only for this academic year**, this course is offered also in a 6 CFU version, besides the native 9 CFU version.
+Unfortunately, the course material is not easily adaptable to the reduced version, nor the exam.
+Below I describe how the exam works for the 9 CFU version; later I desribe the [differences for the 6 CFU version](#6-cfu-version-differences).
+{{< /alert >}}
+
 The exam works in one of the following ways:
 1. Three parts: **Home assignments + Final project + Written test**.
 Exam is passed only if the grade is >6/10 on each part. Overall grade is determined as **10%, 60%, 30%**, respectively.
@@ -125,5 +132,22 @@ Due dates are at 23.59, [AoE](https://en.wikipedia.org/wiki/Anywhere_on_Earth) t
 Please do not change the code in repl after the due date.
 1. **Anagrams**, slide 149, assigned on 15/03/2021, due date **29/03/2021**
 2. **Equivalence**, slide 225, assigned on 25/03/2021, due date **09/04/2021**
+3. **GZIP File Array**, slide 336, assigned on 19/04/2021, due date **03/05/2021**
 
 Grades for the home assignments are visible [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vT7-9UDZ-BuLHZvfO1o4T-3jXqTJpfB7Zx7C5AbshXD2rZRwJBgqbOx_faWJGI7VI9u2_w6WkEHDGUq/pubhtml?gid=2075957526&single=true).
+
+### 6 CFU version differences
+The exam of the 6 CFU version works in one of the following ways:
+1. Two parts: **Home assignments + Oral exam**.
+Exam is passed only if the grade is >6/10 on each part. Overall grade is determined as **10%, 90%**, respectively.
+The grades for the Home assignments are communicated during the course.
+2. One part: **Oral exam**.
+
+#### Detailed program
+These portions (given in slide numbers, endpoints included) of the slide pack are not included in the 6 CFU version:
+- 333-349
+- 480-519
+- 543-end
+
+#### Home assignments
+Only assignements 1 and 2 are required for the 6 CFU version.
