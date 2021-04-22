@@ -145,8 +145,8 @@ The grades for the Home assignments are communicated during the course.
 
 #### Detailed program
 These portions (given in slide numbers, endpoints included) of the slide pack are not included in the 6 CFU version:
-- 333-349
-- 480-519
+- 333-419
+- 480-509
 - 543-end
 
 #### Home assignments
