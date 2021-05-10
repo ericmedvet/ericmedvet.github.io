@@ -183,7 +183,7 @@ Let $V_t \in V$ be the set of variables for which a tuple $t$ defines the values
 
 Then:
 - if `ComputationKind` is `MIN`, $o=\min_{e \in E, t \in T} e(t)$, or the step fails if $\exists e \in E: V_t \not\supseteq V_e$;
-- if `ComputationKind` is `MIN`, $o=\max_{e \in E, t \in T} e(t)$, or the step fails if $\exists e \in E: V_t \not\supseteq V_e$;
+- if `ComputationKind` is `MAX`, $o=\max_{e \in E, t \in T} e(t)$, or the step fails if $\exists e \in E: V_t \not\supseteq V_e$;
 - if `ComputationKind` is `AVG`, $o=\frac{1}{|T|} \sum_{t \in T} e_1(t)$, or the step fails if $V_t \not\supseteq V_{e_1}$;
 - if `ComputationKind` is `COUNT`, $o=|T|$.
 
