@@ -1,12 +1,14 @@
 {
   "title": "Evolutionary Optimization of Graphs with GraphEA",
-  "pub_year": "2020",
+  "pub_year": "2021",
   "pub_type": "Conference",
   "pub_venue_name": "International Conference of the Italian Association for Artificial Intelligence",
   "pub_venue_number": "19th",
   "pub_venue_acronym": "AIxIA",
   "pub_authors": "Medvet, Eric; Bartoli, Alberto",
-  "pub_notes": "To appear",
+  "pub_doi": "10.1007/978-3-030-77091-4_6",
+  "pub_publisher_url": "https://link.springer.com/chapter/10.1007%2F978-3-030-77091-4_6",
+  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1XsE6XaNWbxc3O2agTgmiwlZRYAhB_Il3",
   "pub_important": false
 }
 
