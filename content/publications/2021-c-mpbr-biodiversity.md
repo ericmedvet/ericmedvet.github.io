@@ -4,7 +4,7 @@
   "pub_type": "Conference",
   "pub_venue_name": "ACM Genetic and Evolutionary Computation Conference",
   "pub_venue_acronym": "GECCO",
-  "pub_authors": "Medvet, Eric; Bartoli, Alberto; Pigozzi, Federico; Rochelli, Marco",
+  "pub_authors": "Medvet, Eric; Pigozzi, Federico; Bartoli, Alberto; Rochelli, Marco",
   "pub_doi": "10.1145/3449639.3459315",
   "pub_notes": "To appear",
   "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1X-8KqgGXqpIiqjnR_J3FFWF03eeUwrGb",
