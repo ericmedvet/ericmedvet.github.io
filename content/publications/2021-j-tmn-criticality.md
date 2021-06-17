@@ -5,7 +5,8 @@
   "pub_venue_name": "Frontiers in Robotics and AI",
   "pub_authors": "Talamini, Jacopo; Medvet, Eric; Nichele, Stefano",
   "pub_doi": "10.3389/frobt.2021.673156",
-  "pub_publisher_url": "https://www.frontiersin.org/articles/10.3389/frobt.2021.673156/abstract",
+  "pub_publisher_url": "https://www.frontiersin.org/articles/10.3389/frobt.2021.673156/full",
+  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1UtDszEvpUdqnuPWiF1Z2_AiEsDo2lx3R",
   "pub_important": true
 }
 

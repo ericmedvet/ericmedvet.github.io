@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "stopword": "^1.0.7"
+  }
+}
