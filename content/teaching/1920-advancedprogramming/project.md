@@ -118,7 +118,7 @@ Response = ErrorResponse
 ```
 The format of an *error response* is:
 ```
-ErrorResponse = ERR";"`[^;]*`
+ErrorResponse = ERR";"'[^;]*'
 ```
 The format of an *ok response* is:
 ```
