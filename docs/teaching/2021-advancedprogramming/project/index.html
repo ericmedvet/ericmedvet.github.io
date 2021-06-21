@@ -212,7 +212,7 @@ MAX_LIST;x0:0:0,1:2;(x0+1)
 <pre><code>Response = ErrorResponse
          | OkResponse
 </code></pre><p>The format of an <em>error response</em> is:</p>
-<pre><code>ErrorResponse = ERR&quot;;&quot;`[^;]*`
+<pre><code>ErrorResponse = ERR&quot;;&quot;'[^;]*'
 </code></pre><p>The format of an <em>ok response</em> is:</p>
 <pre><code>OkResponse = OK&quot;;&quot;JavaNum&quot;;&quot;JavaNum
 </code></pre><p>where <code>[^;]*</code> does not include new line characters.</p>
