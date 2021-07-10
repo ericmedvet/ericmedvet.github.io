@@ -6,7 +6,7 @@
   "pub_venue_acronym": "NEWK@GECCO",
   "pub_authors": "Nadizar, Giorgia; Medvet, Eric; Pellegrino, Felice Andrea; Zullich, Marco; Nichele, Stefano",
   "pub_doi": "10.1145/3449726.3463161",
-  "pub_notes": "To appear",
+  "pub_publisher_url": "https://medvet.inginf.units.it/publications/2021-c-nmpzn-effects/",
   "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1icWdoHdqNieFerpcTlQooeMb0t_KDW8n",
   "pub_important": false
 }

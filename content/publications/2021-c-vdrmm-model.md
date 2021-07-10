@@ -6,7 +6,7 @@
   "pub_venue_acronym": "EC+DM@GECCO",
   "pub_authors": "Virgolin, Marco; De Lorenzo, Andrea; Randone, Francesca; Medvet, Eric; Mattias Wahde",
   "pub_doi": "10.1145/3449726.3463166",
-  "pub_notes": "To appear",
+  "pub_publisher_url": "https://dl.acm.org/doi/10.1145/3449726.3463166",
   "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1fpsVAJo09mizg9_TIsjd384TYMXXTNG4",
   "pub_important": false
 }
