@@ -9,6 +9,7 @@ Su come si prepari un riassunto di un articolo scientifico ci sono molte indicaz
 Consiglio comunque di contattarmi per fare una chiacchierata nel caso ci sia interesse a seguire questa modalità.
 
 ## Currently available papers
+- Ross, Alexis, et al. "[Tailor: Generating and Perturbing Text with Semantic Controls](https://arxiv.org/abs/2107.07150)." arXiv preprint arXiv:2107.07150 (2021).
 - Eiben, A. E. "[Real-world robot evolution: why would it (not) work?](https://www.frontiersin.org/articles/10.3389/frobt.2021.696452/full)." Frontiers in Robotics and AI: 243.
 - Chollet, François. "[On the measure of intelligence](https://arxiv.org/abs/1911.01547)." arXiv preprint arXiv:1911.01547 (2019)
 - Fu, Justin, et al. "[From Language to Goals: Inverse Reinforcement Learning for Vision-Based Instruction Following](https://arxiv.org/abs/1902.07742)." arXiv preprint arXiv:1902.07742 (2019)
