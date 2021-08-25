@@ -16,7 +16,6 @@ Consiglio comunque di contattarmi per fare una chiacchierata nel caso ci sia int
 - Yu, Wenhao, et al. "[Sim-to-Real Transfer for Biped Locomotion](https://arxiv.org/abs/1903.01390)." arXiv preprint arXiv:1903.01390 (2019)
 - Matthews, David, and Josh Bongard. "[Crowd grounding: finding semantic and behavioral alignment through human robot interaction](https://www.mitpressjournals.org/doi/abs/10.1162/isal_a_00317)." Artificial Life Conference Proceedings. One Rogers Street, Cambridge, MA 02142-1209 USA journals-info@ mit. edu: MIT Press, 2020
 - Chan, Bert Wang-Chak. "[Lenia and Expanded Universe](https://arxiv.org/abs/2005.03742)." arXiv preprint arXiv:2005.03742 (2020)
-- Pontes-Filho, Nichele. "[A Conceptual Bio-Inspired Framework for the Evolution of Artificial General Intelligence](https://arxiv.org/abs/1903.10410)." arXiv preprint arXiv:1903.10410 (2020)
 - Olesen, Thor VAN, et al. "[Evolutionary Planning in Latent Space](https://arxiv.org/abs/2011.11293)." arXiv preprint arXiv:2011.11293 (2020).
 - Spielberg, Andrew, et al. "[Co-Learning of Task and Sensor Placement for Soft Robotics](https://ieeexplore.ieee.org/abstract/document/9345345)." IEEE Robotics and Automation Letters 6.2 (2021): 1208-1215.
 - Bongard, Joshua, and Michael Levin. "[Living Things Are Not (20th Century) Machines: Updating Mechanism Metaphors in Light of the Modern Science of Machine Behavior](https://www.frontiersin.org/articles/10.3389/fevo.2021.650726/full)." Frontiers in Ecology and Evolution 9 (2021): 147.
@@ -24,6 +23,7 @@ Consiglio comunque di contattarmi per fare una chiacchierata nel caso ci sia int
 ## Ongoing theses
 - Suarez, Joseph, et al. "[Neural MMO: A Massively Multiagent Game Environment for Training and Evaluating Intelligent Agents](https://arxiv.org/abs/1903.00784)." arXiv preprint arXiv:1903.00784 (2019)
 - Sayama, Hiroki. "[Extreme Ideas Emerging from Social Conformity and Homophily: An Adaptive Social Network Model](https://www.mitpressjournals.org/doi/abs/10.1162/isal_a_00349)." Artificial Life Conference Proceedings. One Rogers Street, Cambridge, MA 02142-1209 USA journals-info@ mit. edu: MIT Press, 2020
+- Pontes-Filho, Nichele. "[A Conceptual Bio-Inspired Framework for the Evolution of Artificial General Intelligence](https://arxiv.org/abs/1903.10410)." arXiv preprint arXiv:1903.10410 (2020)
 
 ## Done
 - Paton, Norman W. "[Automating Data Preparation: Can We? Should We? Must We?](http://ceur-ws.org/Vol-2324/Paper00-InvTalk2-NPaton.pdf)" (student: Samuele Bertollo)
