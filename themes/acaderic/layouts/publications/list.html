@@ -1,6 +1,6 @@
 {{ define "main" }}
 <div class="container">
-	<h1>{{ .Title }} ---</h1>
+	<h1>{{ .Title }}</h1>
 	{{ range sort (.Pages.GroupByParam "pub_year") "Key" "desc" }}
 	{{ partial "heading.html" (dict "n" 2 "text" (print "Year " .Key))}}
 	<ol>
