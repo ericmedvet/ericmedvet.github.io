@@ -6,51 +6,62 @@ const request = require("request");
 const sw = require("stopword"); //requires `npm i stopword`
 
 const fieldMap = {
-  title: "title",
-  year: "pub_year",
-  type: "pub_type",
-  venuename: "pub_venue_name",
-  venuenumber: "pub_venue_number",
-  venueacronym: "pub_venue_acronym",
-  conferencecity: "pub_location_city",
-  conferencecountry: "pub_location_country",
-  authors: "pub_authors",
-  doi: "pub_doi",
-  shortnotes: "pub_notes",
-  publisherurl: "pub_publisher_url",
-  fulltexturl: "pub_fulltext_url",
-  slidesurl: "pub_slides_url",
-  videourl: "pub_video_url"
+  Title: "title",
+  Year: "pub_year",
+  Type: "pub_type",
+  VenueName: "pub_venue_name",
+  VenueNumber: "pub_venue_number",
+  VenueAcronym: "pub_venue_acronym",
+  ConferenceCity: "pub_location_city",
+  ConferenceCountry: "pub_location_country",
+  Authors: "pub_authors",
+  Doi: "pub_doi",
+  ShortNotes: "pub_notes",
+  PublisherUrl: "pub_publisher_url",
+  FullTextUrl: "pub_fulltext_url",
+  SlidesUrl: "pub_slides_url",
+  VideoUrl: "pub_video_url"
 };
-const authorsFieldName = "authors";
-const abstractFieldName = "abstract";
-const otherTextFieldName = "longnotes";
-const flagsFieldName = "flags";
+const authorsFieldName = "Authors";
+const abstractFieldName = "Abstract";
+const otherTextFieldName = "LongNotes";
+const flagsFieldName = "Flags";
 
 const jsonUrl = process.argv[2];
 const targetDir = process.argv[3];
 const authorName = process.argv[4];
 const importantFlagRegex = process.argv[5];
 
-var buildAndSaveFiles = function(data) {
+var parseResponse = function(data) {
+  var cols = data.table.cols.map(({label}) => label.replace(/[^A-Za-z0-9]+/g, ' ').toLowerCase().split(" ").map((t)=>t.substring(0,1).toUpperCase()+t.substring(1)).join(""));
+  return data.table.rows.map(function(r) {
+    var entry = {};
+    for (var i in r.c) {
+      entry[cols[i]] = r.c[i]?r.c[i].v:undefined;
+    }
+    return entry;
+  });
+}
+
+var buildAndSaveFiles = function(entries) {
   console.log("Iterating on entries");
-  for (var i in data.feed.entry) {
-    var authors = data.feed.entry[i]["gsx$" + authorsFieldName]["$t"];
+  for (var i in entries) {
+    var entry = entries[i];
+    var authors = entry[authorsFieldName];
     if (authors.indexOf(authorName) < 0) {
       console.log("Skipping entry with authors: " + authors);
       continue;
     }
     var metaData = {};
     for (var key in fieldMap) {
-      if (data.feed.entry[i]["gsx$" + key] != undefined) {
-        if (data.feed.entry[i]["gsx$" + key]["$t"] != "")
-          metaData[fieldMap[key]] = data.feed.entry[i]["gsx$" + key]["$t"];
+      if ((entry[key] != undefined)&&(entry[key] != "")) {
+        metaData[fieldMap[key]] = entry[key];
       }
     }
-    var abstract = data.feed.entry[i]["gsx$" + abstractFieldName]["$t"];
-    var otherText = data.feed.entry[i]["gsx$" + otherTextFieldName]["$t"];
-    var flags = data.feed.entry[i]["gsx$" + flagsFieldName]["$t"];
-    metaData.pub_important = flags.match(importantFlagRegex)!=null;
+    var abstract = entry[abstractFieldName];
+    var otherText = entry[otherTextFieldName];
+    var flags = entry[flagsFieldName];
+    metaData.pub_important = (flags!=undefined)&&(flags.match(importantFlagRegex)!=null);
     var string = JSON.stringify(metaData, null, 2);
     string += "\n\n";
     string += "## Abstract\n";
@@ -59,7 +70,7 @@ var buildAndSaveFiles = function(data) {
       string += otherText;
     }
     var pubFileName =
-      metaData.pub_year.trim() +
+      metaData.pub_year +
       "-" +
       metaData.pub_type.toLowerCase().replace(/ /g, "").trim().substring(0, 1) +
       "-";
@@ -98,6 +109,9 @@ request.get(jsonUrl, function(error, response, body) {
   console.log("Downloading json from " + jsonUrl);
   if (!error && response.statusCode == 200 ) {
     console.log("Done: " + body.length + " bytes");
-    buildAndSaveFiles(JSON.parse(body));
+    var response = body.match(/(?<=.*\().*(?=\);)/s)[0];
+    var entries = parseResponse(JSON.parse(response));
+    console.log("Found " + entries.length + " entries");
+    buildAndSaveFiles(entries);
   }
 });
