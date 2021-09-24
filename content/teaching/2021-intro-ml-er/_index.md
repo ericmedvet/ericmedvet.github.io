@@ -140,3 +140,28 @@ Questions on theory and application with short open answers.
 {{< fig src="student-assessment-in20.png" caption="Students of IN20 (30 answers)" >}}
 {{< fig src="student-assessment-sm35.png" caption="Students of SM35 (38 answers)" >}}
 {{< fig src="student-assessment-ec71.png" caption="Students of EC71 (9 answers)" >}}
+
+### Questions
+(In Italian)
+1. Le conoscenze preliminari possedute sono risultate sufficienti per la comprensione degli argomenti previsti nel programma d'esame?
+2. Il carico di studio dell'insegnamento è proporzionato ai crediti assegnati?
+3. Il materiale didattico (indicato e disponibile) è adeguato per lo studio della materia?
+4. Le modalità di esame sono state definite in modo chiaro?
+5. Gli orari di svolgimento di lezioni, esercitazioni e altre eventuali attività didattiche sono rispettati?
+6. Il docente stimola/motiva l'interesse verso la disciplina?
+7. Il docente espone gli argomenti in modo chiaro?
+8. Le attività didattiche integrative (esercitazioni, tutorati,laboratori, etc...), se previste, sono utili all'apprendimento della materia?
+9. L'insegnamento è stato svolto in maniera coerente con quanto dichiarato sul sito web del corso di studio?
+10. Il docente è reperibile per chiarimenti e spiegazioni?
+11. È interessato/a agli argomenti trattati nell'insegnamento?
+12. È complessivamente soddisfatto di come è stato svolto questo insegnamento?
+13. Le apparecchiature (computer, tablet, smartphone) e la connessione internet a tua disposizione ti hanno permesso di fruire in modo soddisfacente (audio, video, interattività) delle attività dell'insegnamento erogate con la DAD?
+14. Ritieni che gli strumenti per la didattica a distanza utilizzati dal docente siano stati fruibili: TEAMS
+15. Ritieni che gli strumenti per la didattica a distanza utilizzati dal docente siano stati fruibili: Moodle
+16. Ritieni che gli strumenti per la didattica a distanza utilizzati dal docente siano stati fruibili: Altre piattaforme didattiche (Classroom, Impari, altre)
+17. Hai usufruito delle registrazioni delle lezioni? Se sì, ritieni fruibili le registrazioni delle lezioni di questo insegnamento, indipendentemente dalla piattaforma?
+18. La modalità didattica a distanza ti ha permesso di studiare in autonomia?
+19. La modalità DAD utilizzata per questo insegnamento ti ha permesso di mantenere la concentrazione per tutta la durata della lezione?
+20. Durante il periodo di svolgimento delle lezioni il docente ha garantito la possibilità di interazione con gli studenti?
+21. Il docente ha adeguato il materiale didattico alle specificità della didattica a distanza?
+22. Sei COMPLESSIVAMENTE soddisfatto di come si è svolta la DAD per questo insegnamento?
