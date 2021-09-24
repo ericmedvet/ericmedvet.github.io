@@ -135,3 +135,8 @@ The project is evaluated according to clarity (≈50%), technical soundness (≈
 
 ### Written test
 Questions on theory and application with short open answers.
+
+## Results of assessment by students
+{{< fig src="student-assessment-in20.png" caption="Students of IN20 (30 answers)" >}}
+{{< fig src="student-assessment-sm35.png" caption="Students of SM35 (38 answers)" >}}
+{{< fig src="student-assessment-ec71.png" caption="Students of EC71 (9 answers)" >}}

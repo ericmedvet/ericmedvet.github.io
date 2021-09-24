@@ -114,7 +114,7 @@ Please do not change the code in repl after the due date.
 
 Grades for the home assignments are visible [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vT7-9UDZ-BuLHZvfO1o4T-3jXqTJpfB7Zx7C5AbshXD2rZRwJBgqbOx_faWJGI7VI9u2_w6WkEHDGUq/pubhtml?gid=1633201723&single=true).
 
-## Results of students' assessment
+## Results of assessment by students
 {{< fig src="student-assessment-in20.png" caption="Students of IN20 (13 answers)" >}}
 {{< fig src="student-assessment-in05.png" caption="Students of IN19 (4 answers)" >}}
 

@@ -151,3 +151,7 @@ These portions (given in slide numbers, endpoints included) of the slide pack ar
 
 #### Home assignments
 Only assignements 1 and 2 are required for the 6 CFU version.
+
+## Results of assessment by students
+{{< fig src="student-assessment-in20-1.png" caption="Students of IN20 (1st group, 6 answers)" >}}
+{{< fig src="student-assessment-in20-2.png" caption="Students of IN20 (2nd group, 17 answers)" >}}
