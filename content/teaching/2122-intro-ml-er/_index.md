@@ -86,7 +86,7 @@ Basics of programming and data structures: algorithm, data types, loops, recursi
 English
 
 ### Teaching method
-Frontal lessons with slide projection and live annotation; lab activities, under teacher supervision, in dealing with simple problems with ML techniques.
+Frontal lectures with slide projection and live annotation; lab activities, under teacher supervision, in dealing with simple problems with ML techniques.
 
 ### Course material
 
