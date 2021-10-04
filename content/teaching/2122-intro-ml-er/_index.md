@@ -97,12 +97,12 @@ All the material is available [here](https://drive.google.com/drive/folders/1PzE
 - Sketches for how to do the lab activieties, in the form of R notebooks; please, fully enjoy the lab activity by **not looking at** these sketches too early.
 
 #### Suggested textbooks
-- Kenneth A. De Jong. Evolutionary computation: a unified approach. MIT press, 2006
-- Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani. An Introduction to Statistical Learning, with applications in R. Springer, Berlin: Springer Series in Statistics, 2014.
+- Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani. An Introduction to Statistical Learning, with applications in R. Springer, Berlin: Springer Series in Statistics, 2014. (for the 1st part of the course)
+- Kenneth A. De Jong. Evolutionary computation: a unified approach. MIT press, 2006. (for the 2nd part of the course)
 
 ### Lectures timetable and course calendar
 The course will start on **October, 4th**.
-Lectures will be held in Classroom 2, 1st floor, C5 building, in Piazzale Europa campus (Wednesday).
+Lectures will be held in Classroom 2, 1st floor, C5 building, in Piazzale Europa campus.
 
 The lectures will be given **in person** and **I strongly recommend being in the room**.
 In compliance with the current regulation students are required to book a place in the room.
