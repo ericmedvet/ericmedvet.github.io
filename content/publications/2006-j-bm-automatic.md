@@ -7,7 +7,7 @@
   "pub_authors": "Bartoli, Alberto; Medvet, Eric",
   "pub_doi": "10.1109/MIC.2006.117",
   "pub_publisher_url": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=4012596",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1ui3-Ei_9hY5WSyO5hr69BtdKeaBaZn9G",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1ui3-Ei_9hY5WSyO5hr69BtdKeaBaZn9G/view",
   "pub_important": false
 }
 

@@ -10,8 +10,8 @@
   "pub_authors": "Bartoli, Alberto; Fenu, Gianfranco; Medvet, Eric; Pellegrino, Felice Andrea; Timeus, Nicola",
   "pub_doi": "10.1007/978-3-319-61949-1_25",
   "pub_publisher_url": "https://link.springer.com/chapter/10.1007/978-3-319-61949-1_25",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1qMQXVRfJ-YVQ4cS538vGHKxlafKUd2-K",
-  "pub_slides_url": "https://drive.google.com/uc?export=download&id=1H10c2iInnqHuuO6we7L5UwQvk0wGnH7R",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1qMQXVRfJ-YVQ4cS538vGHKxlafKUd2-K/view",
+  "pub_slides_url": "https://drive.google.com/file/d/1H10c2iInnqHuuO6we7L5UwQvk0wGnH7R/view",
   "pub_important": false
 }
 

@@ -7,7 +7,7 @@
   "pub_authors": "Manzoni, Luca; Bartoli, Alberto; Castelli, Mauro; Gonçalves, Ivo; Medvet, Eric",
   "pub_doi": "10.1109/TEVC.2020.2983664",
   "pub_publisher_url": "https://ieeexplore.ieee.org/document/9047973",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1XpjV1ISpvo_HcBZVKPH5wC5ceVZpCoU0",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1XpjV1ISpvo_HcBZVKPH5wC5ceVZpCoU0/view",
   "pub_important": true
 }
 

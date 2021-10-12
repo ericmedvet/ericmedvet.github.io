@@ -10,8 +10,8 @@
   "pub_authors": "Medvet, Eric; Tušar, Tea",
   "pub_doi": "10.1145/3067695.3082554",
   "pub_publisher_url": "http://dl.acm.org/citation.cfm?id=3082554",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1OFgx4G65_fhIBqyNVAg_ejZ2_EWix0am",
-  "pub_slides_url": "https://drive.google.com/uc?export=download&id=1uS-X3_20IA_mo--ng2km4IfJpqPnDm1-",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1OFgx4G65_fhIBqyNVAg_ejZ2_EWix0am/view",
+  "pub_slides_url": "https://drive.google.com/file/d/1uS-X3_20IA_mo--ng2km4IfJpqPnDm1-/view",
   "pub_important": false
 }
 

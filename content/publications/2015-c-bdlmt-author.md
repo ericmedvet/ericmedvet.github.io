@@ -8,7 +8,7 @@
   "pub_location_city": "Toulouse",
   "pub_location_country": "France",
   "pub_authors": "Bartoli, Alberto; De Lorenzo, Andrea; Laderchi, Alessandra; Medvet, Eric; Tarlao, Fabiano",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1bvnFIJLOs4G2YvAOoO66h1CRyeYmY6BG",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1bvnFIJLOs4G2YvAOoO66h1CRyeYmY6BG/view",
   "pub_important": false
 }
 

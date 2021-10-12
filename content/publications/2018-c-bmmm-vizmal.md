@@ -9,7 +9,7 @@
   "pub_authors": "Bacci, Alessandro; Martinelli, Fabio; Medvet, Eric; Mercaldo, Francesco",
   "pub_doi": "10.5220/0006665005170525",
   "pub_publisher_url": "http://www.scitepress.org/PublicationsDetail.aspx?ID=yUHB9hq9/K0=&t=1",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1M68faLabVx0bTfK1IFajealIjB850GcT",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1M68faLabVx0bTfK1IFajealIjB850GcT/view",
   "pub_important": false
 }
 

@@ -6,7 +6,7 @@
   "pub_authors": "Bartoli, Alberto; Davanzo, Giorgio; De Lorenzo, Andrea; Medvet, Eric",
   "pub_doi": "10.1109/MC.2014.344",
   "pub_publisher_url": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6994453",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1LvFwcTHpUqXiG2j9Dv02sy4YaCCvJhNW",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1LvFwcTHpUqXiG2j9Dv02sy4YaCCvJhNW/view",
   "pub_important": false
 }
 

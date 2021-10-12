@@ -7,7 +7,7 @@
   "pub_location_country": "Austria",
   "pub_authors": "Etruncay, Deniz; De Lorenzo, Andrea; Costa, Giovanni; Medvet, Eric",
   "pub_publisher_url": "https://meetingorganizer.copernicus.org/EGU2019/EGU2019-19067.pdf",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1R8X-l7GPzQfr1UhLdoeS01LvdlcComex",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1R8X-l7GPzQfr1UhLdoeS01LvdlcComex/view",
   "pub_important": false
 }
 

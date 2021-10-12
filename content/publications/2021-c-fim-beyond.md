@@ -8,8 +8,8 @@
   "pub_authors": "Ferigo, Andrea; Iacca, Giovanni; Medvet, Eric",
   "pub_doi": "10.1007/978-3-030-72699-7_14",
   "pub_publisher_url": "https://link.springer.com/chapter/10.1007/978-3-030-72699-7_14",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1Eowg-2JiwAFcqkZdyB4H_eIPIRCIfQhl",
-  "pub_slides_url": "https://drive.google.com/uc?export=download&id=13ZUh1AB2YUqc1UnDMqjeFiJpcc-oOpn8",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1Eowg-2JiwAFcqkZdyB4H_eIPIRCIfQhl/view",
+  "pub_slides_url": "https://drive.google.com/file/d/13ZUh1AB2YUqc1UnDMqjeFiJpcc-oOpn8/view",
   "pub_video_url": "https://drive.google.com/file/d/1asHCzHuE_yZhNAFJAncY9mRNGXZ_-iKF/view",
   "pub_important": false
 }

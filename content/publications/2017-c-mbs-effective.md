@@ -9,7 +9,7 @@
   "pub_authors": "Medvet, Eric; Bartoli, Alberto; Squillero, Giovanni",
   "pub_doi": "10.1145/3067695.3076057",
   "pub_publisher_url": "http://dl.acm.org/citation.cfm?id=3076057",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1ALnWmTLbca1fKvEEDPC-FhMzOqQoJh6a",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1ALnWmTLbca1fKvEEDPC-FhMzOqQoJh6a/view",
   "pub_important": false
 }
 

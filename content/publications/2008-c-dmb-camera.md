@@ -7,7 +7,7 @@
   "pub_location_city": "London",
   "pub_location_country": "United Kingdom",
   "pub_authors": "Davanzo, Giorgio; Medvet, Eric; Bartoli, Alberto",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1ZMkTFhn-Gp_KetW3oBgVjfHxMG9HdfK9",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1ZMkTFhn-Gp_KetW3oBgVjfHxMG9HdfK9/view",
   "pub_important": false
 }
 

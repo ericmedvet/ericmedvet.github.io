@@ -7,7 +7,7 @@
   "pub_location_city": "Lyon",
   "pub_location_country": "France",
   "pub_authors": "Medvet, Eric; Bartoli, Alberto; Davanzo, Giorgio; De Lorenzo, Andrea",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1ZnnLf-2UVAKDrxR0EoM2BCX1XVGi6yRD",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1ZnnLf-2UVAKDrxR0EoM2BCX1XVGi6yRD/view",
   "pub_important": false
 }
 

@@ -7,8 +7,8 @@
   "pub_location_city": "London",
   "pub_location_country": "United Kingdom",
   "pub_authors": "Sorio, Enrico; Bartoli, Alberto; Davanzo, Giorgio; Medvet, Eric",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1ELVVFSmx2p-FxHe0M2DtaVP0tE2SvCcH",
-  "pub_slides_url": "https://drive.google.com/uc?export=download&id=1272v2Wp8eqnu9fiJy9b7gbBydVx9xEt_",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1ELVVFSmx2p-FxHe0M2DtaVP0tE2SvCcH/view",
+  "pub_slides_url": "https://drive.google.com/file/d/1272v2Wp8eqnu9fiJy9b7gbBydVx9xEt_/view",
   "pub_important": false
 }
 

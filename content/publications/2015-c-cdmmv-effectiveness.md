@@ -8,7 +8,7 @@
   "pub_location_city": "Toulouse",
   "pub_location_country": "France",
   "pub_authors": "Canfora, Gerardo; De Lorenzo, Andrea; Medvet, Eric; Mercaldo, Francesco; Visaggio, Corrado Aaron",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=10iB3z-Y4xIfamB4U70vygJaoedN5bTQs",
+  "pub_fulltext_url": "https://drive.google.com/file/d/10iB3z-Y4xIfamB4U70vygJaoedN5bTQs/view",
   "pub_important": false
 }
 

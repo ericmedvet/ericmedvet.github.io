@@ -7,8 +7,8 @@
   "pub_location_city": "Vancouver",
   "pub_location_country": "Canada",
   "pub_authors": "Bartoli, Alberto; De Lorenzo, Andrea; Medvet, Eric; Tarlao, Fabiano",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1s2Ag2EfakrnVg7JdAIVePk3kR9q63G3K",
-  "pub_slides_url": "https://drive.google.com/uc?export=download&id=1h8QOD23vwz2HiFI3xFLY7CFYA2EgVs4Q",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1s2Ag2EfakrnVg7JdAIVePk3kR9q63G3K/view",
+  "pub_slides_url": "https://drive.google.com/file/d/1h8QOD23vwz2HiFI3xFLY7CFYA2EgVs4Q/view",
   "pub_important": false
 }
 

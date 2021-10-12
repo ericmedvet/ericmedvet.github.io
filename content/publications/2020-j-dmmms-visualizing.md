@@ -7,7 +7,7 @@
   "pub_authors": "De Lorenzo, Andrea; Martinelli, Fabio; Medvet, Eric; Mercaldo, Francesco; Santone, Antonella",
   "pub_doi": "10.1016/j.jisa.2019.102423",
   "pub_publisher_url": "https://www.sciencedirect.com/science/article/pii/S2214212619303837",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1wf4xhxwV6lsktQFVy4oghncn9l8wtV2f",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1wf4xhxwV6lsktQFVy4oghncn9l8wtV2f/view",
   "pub_important": false
 }
 

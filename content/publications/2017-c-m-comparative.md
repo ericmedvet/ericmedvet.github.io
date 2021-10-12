@@ -10,7 +10,7 @@
   "pub_authors": "Medvet, Eric",
   "pub_doi": "10.1007/978-3-319-55696-3_21",
   "pub_publisher_url": "https://link.springer.com/chapter/10.1007/978-3-319-55696-3_21",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1hSj0NTNGZB2eKkCXnw5AeTuCiJHj1E_p",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1hSj0NTNGZB2eKkCXnw5AeTuCiJHj1E_p/view",
   "pub_important": false
 }
 

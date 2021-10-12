@@ -9,7 +9,7 @@
   "pub_authors": "Medvet, Eric",
   "pub_doi": "10.1145/3067695.3075972",
   "pub_publisher_url": "http://dl.acm.org/citation.cfm?id=3075972",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=17QBHreK4GTk1urR5R8SFHKAzFplmkGUB",
+  "pub_fulltext_url": "https://drive.google.com/file/d/17QBHreK4GTk1urR5R8SFHKAzFplmkGUB/view",
   "pub_important": false
 }
 

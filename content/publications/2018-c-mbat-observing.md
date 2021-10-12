@@ -8,8 +8,8 @@
   "pub_location_country": "Portugal",
   "pub_authors": "Medvet, Eric; Bartoli, Alberto; Ansuini, Alessio; Tarlao, Fabiano",
   "pub_publisher_url": "https://arxiv.org/abs/1812.02504",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1jQEQQUGiO6CUnLANypiWrxxPpx4wEOtQ",
-  "pub_slides_url": "https://drive.google.com/uc?export=download&id=1bheGJhXFekgsfIV5QoHh4vY9O8UJL-wZ",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1jQEQQUGiO6CUnLANypiWrxxPpx4wEOtQ/view",
+  "pub_slides_url": "https://drive.google.com/file/d/1bheGJhXFekgsfIV5QoHh4vY9O8UJL-wZ/view",
   "pub_important": false
 }
 

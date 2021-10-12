@@ -9,8 +9,8 @@
   "pub_authors": "Medvet, Eric; Bartoli, Alberto; De Lorenzo, Andrea; Fidel, Giulio",
   "pub_doi": "10.1145/3377930.3390173",
   "pub_publisher_url": "https://dl.acm.org/doi/abs/10.1145/3377930.3390173",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1pLn1GEVUoII7acgyf7gZ6vHFhBfCTXgj",
-  "pub_slides_url": "https://drive.google.com/uc?export=download&id=1JJyJ4wDBB7XNoepnvmMm2c9WVQG7uPaq",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1pLn1GEVUoII7acgyf7gZ6vHFhBfCTXgj/view",
+  "pub_slides_url": "https://drive.google.com/file/d/1JJyJ4wDBB7XNoepnvmMm2c9WVQG7uPaq/view",
   "pub_video_url": "https://www.youtube.com/watch?v=jj5xOlF4mK4",
   "pub_important": true
 }

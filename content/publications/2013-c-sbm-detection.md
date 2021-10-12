@@ -8,8 +8,8 @@
   "pub_location_city": "Regensburg",
   "pub_location_country": "Germany",
   "pub_authors": "Sorio, Enrico; Bartoli, Alberto; Medvet, Eric",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1g757gRUmZ26GhpWD0Fn1GAwfk1XrLCuO",
-  "pub_slides_url": "https://drive.google.com/uc?export=download&id=1zgIvX74wQgojUxIhxHjXaqVEcWEhR_dc",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1g757gRUmZ26GhpWD0Fn1GAwfk1XrLCuO/view",
+  "pub_slides_url": "https://drive.google.com/file/d/1zgIvX74wQgojUxIhxHjXaqVEcWEhR_dc/view",
   "pub_important": false
 }
 

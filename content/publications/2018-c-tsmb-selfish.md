@@ -10,8 +10,8 @@
   "pub_authors": "Talamini, Jacopo; Scaini, Giovanni; Medvet, Eric; Bartoli, Alberto",
   "pub_doi": "10.1145/3205651.3208254",
   "pub_publisher_url": "https://dl.acm.org/citation.cfm?id=3208254",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1GKXkkKkkbeHQeS72cO4D6hWI80dbrADB",
-  "pub_slides_url": "https://drive.google.com/uc?export=download&id=1NyWTJiiYI6sofCokVHf6ZxlDxVYzdsNA",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1GKXkkKkkbeHQeS72cO4D6hWI80dbrADB/view",
+  "pub_slides_url": "https://drive.google.com/file/d/1NyWTJiiYI6sofCokVHf6ZxlDxVYzdsNA/view",
   "pub_important": false
 }
 

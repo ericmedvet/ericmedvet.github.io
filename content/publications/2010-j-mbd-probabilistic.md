@@ -7,7 +7,7 @@
   "pub_authors": "Medvet, Eric; Bartoli, Alberto; Davanzo, Giorgio",
   "pub_doi": "10.1007/s10032-010-0137-1",
   "pub_publisher_url": "http://link.springer.com/article/10.1007/s10032-010-0137-1",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1Ji64SdfCWw-eTKfpDDLMmEB3xAdqG19x",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1Ji64SdfCWw-eTKfpDDLMmEB3xAdqG19x/view",
   "pub_important": false
 }
 

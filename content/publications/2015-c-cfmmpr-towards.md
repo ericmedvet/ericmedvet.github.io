@@ -7,7 +7,7 @@
   "pub_location_city": "Catania",
   "pub_location_country": "Italy",
   "pub_authors": "Carrato, Sergio; Fenu, Gianfranco; Medvet, Eric; Mumolo, Enzo; Pellegrino, Felice Andrea; Ramponi, Giovanni",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1JrPb6h9cMDkOsz3J_hL61wmYHVy5VC5R",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1JrPb6h9cMDkOsz3J_hL61wmYHVy5VC5R/view",
   "pub_important": false
 }
 

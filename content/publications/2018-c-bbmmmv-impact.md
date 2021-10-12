@@ -9,7 +9,7 @@
   "pub_authors": "Bacci, Alessandro; Bartoli, Alberto; Martinelli, Fabio; Medvet, Eric; Mercaldo, Francesco; Visaggio, Corrado Aaron",
   "pub_doi": "10.5220/0006642503790385",
   "pub_publisher_url": "http://www.scitepress.org/PublicationsDetail.aspx?ID=2J5ijxF99+w%3d&t=1",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1JFpO6fDYnV7_bbvAdYgdiaPbDRdcd5cn",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1JFpO6fDYnV7_bbvAdYgdiaPbDRdcd5cn/view",
   "pub_important": false
 }
 

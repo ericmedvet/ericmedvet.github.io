@@ -9,8 +9,8 @@
   "pub_authors": "Bartoli, Alberto; De Lorenzo, Andrea; Medvet, Eric; Tarlao, Fabiano",
   "pub_doi": "10.1007/978-3-319-45507-5_2",
   "pub_publisher_url": "http://link.springer.com/chapter/10.1007%2F978-3-319-45507-5_2",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1BXE19tZrmygzfJde5F8tw4VkQ_A_XDnU",
-  "pub_slides_url": "https://drive.google.com/uc?export=download&id=1-DT73HK7PEJ8f42QAvr4oyQD7HCdbUp-",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1BXE19tZrmygzfJde5F8tw4VkQ_A_XDnU/view",
+  "pub_slides_url": "https://drive.google.com/file/d/1-DT73HK7PEJ8f42QAvr4oyQD7HCdbUp-/view",
   "pub_important": false
 }
 

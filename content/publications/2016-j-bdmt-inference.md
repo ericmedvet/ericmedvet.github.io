@@ -8,7 +8,7 @@
   "pub_doi": "10.1109/TKDE.2016.2515587",
   "pub_notes": "Silver Medal 13-th HUMIES",
   "pub_publisher_url": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7374717",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1dWnMxokqqoTyO6kpSWuv4QTjVpvDaQcu",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1dWnMxokqqoTyO6kpSWuv4QTjVpvDaQcu/view",
   "pub_important": false
 }
 

@@ -7,7 +7,7 @@
   "pub_authors": "Seriani, Stefano; Marcini, Luca; Caruso, Matteo; Gallina, Paolo; Medvet, Eric",
   "pub_doi": "10.1007/s10846-020-01308-8",
   "pub_publisher_url": "https://link.springer.com/article/10.1007/s10846-020-01308-8",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1CXAN1mZIYe5Ru2Pa8uMkHqff4BrGGSUQ",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1CXAN1mZIYe5Ru2Pa8uMkHqff4BrGGSUQ/view",
   "pub_important": false
 }
 

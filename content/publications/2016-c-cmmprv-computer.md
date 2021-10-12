@@ -8,7 +8,7 @@
   "pub_location_city": "Opatija",
   "pub_location_country": "Croatia",
   "pub_authors": "Carrato, Sergio; Marsi, Stefano; Medvet, Eric; Pellegrino, Felice Andrea; Ramponi, Gianni; Vittori, Michele",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1DwVjfQLqYkN3BCWurlCdLnbEHzVsnCJg",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1DwVjfQLqYkN3BCWurlCdLnbEHzVsnCJg/view",
   "pub_important": false
 }
 

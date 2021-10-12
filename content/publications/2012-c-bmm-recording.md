@@ -7,8 +7,8 @@
   "pub_location_city": "Berlin",
   "pub_location_country": "Germany",
   "pub_authors": "Bartoli, Alberto; Medvet, Eric; Mauri, Marco",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1wyrd_cI-L7jeMUQlHP-rIjO2jAPo03AT",
-  "pub_slides_url": "https://drive.google.com/uc?export=download&id=1LV5-XJGqc-JrWMSBSpWfmKw8dSzeKdG0",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1wyrd_cI-L7jeMUQlHP-rIjO2jAPo03AT/view",
+  "pub_slides_url": "https://drive.google.com/file/d/1LV5-XJGqc-JrWMSBSpWfmKw8dSzeKdG0/view",
   "pub_important": false
 }
 

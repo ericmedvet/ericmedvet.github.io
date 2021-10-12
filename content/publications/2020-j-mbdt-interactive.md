@@ -7,7 +7,7 @@
   "pub_authors": "Medvet, Eric; Bartoli, Alberto; De Lorenzo, Andrea; Tarlao, Fabiano",
   "pub_doi": "10.1016/j.eswa.2020.113403",
   "pub_publisher_url": "https://www.sciencedirect.com/science/article/abs/pii/S095741742030227X?via%3Dihub",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1zIsa_Nri4WZB6hxWZOap4Swp9893py5C",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1zIsa_Nri4WZB6hxWZOap4Swp9893py5C/view",
   "pub_important": false
 }
 

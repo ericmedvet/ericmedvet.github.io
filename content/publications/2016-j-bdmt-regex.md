@@ -7,7 +7,7 @@
   "pub_authors": "Bartoli, Alberto; De Lorenzo, Andrea; Medvet, Eric; Tarlao, Fabiano",
   "pub_doi": "10.1145/2993231.2993232",
   "pub_publisher_url": "http://dl.acm.org/citation.cfm?id=2993232&CFID=801012046&CFTOKEN=96914969",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=12OkHqW_bEB_N4KdVJUgVxwI8dA_h4_8j",
+  "pub_fulltext_url": "https://drive.google.com/file/d/12OkHqW_bEB_N4KdVJUgVxwI8dA_h4_8j/view",
   "pub_important": false
 }
 

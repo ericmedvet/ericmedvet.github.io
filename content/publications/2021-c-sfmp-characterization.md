@@ -9,7 +9,7 @@
   "pub_location_country": "Croatia",
   "pub_authors": "Salvato, Erica; Fenu, Gianfranco; Medvet, Eric; Pellegrino, Felice Andrea",
   "pub_notes": "To appear",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1JUpUGNtbJmgjyWMZiMGsY1CpTkCs97uc",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1JUpUGNtbJmgjyWMZiMGsY1CpTkCs97uc/view",
   "pub_important": false
 }
 

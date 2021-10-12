@@ -7,8 +7,8 @@
   "pub_location_city": "Macau",
   "pub_location_country": "China",
   "pub_authors": "Medvet, Eric; Bartoli, Alberto",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1oFJqh-D8nRLwzy8aSupZIkw-bp80P8tq",
-  "pub_slides_url": "https://drive.google.com/uc?export=download&id=111DfgVnBkmdgOFp6pzfWU70JG4Fr9sG9",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1oFJqh-D8nRLwzy8aSupZIkw-bp80P8tq/view",
+  "pub_slides_url": "https://drive.google.com/file/d/111DfgVnBkmdgOFp6pzfWU70JG4Fr9sG9/view",
   "pub_important": false
 }
 

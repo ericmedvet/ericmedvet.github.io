@@ -10,8 +10,8 @@
   "pub_authors": "De Lorenzo, Andrea; Medvet, Eric; Tušar, Tea; Bartoli, Alberto",
   "pub_doi": "10.1145/3319619.3326868",
   "pub_publisher_url": "https://dl.acm.org/citation.cfm?doid=3319619.3326868",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1XJREoOwcanQEiG36cu1oOZ8DB3AtwRfK",
-  "pub_slides_url": "https://drive.google.com/uc?export=download&id=1MPQwAXIB7X56ax_9L3mCztJjBUxT7J00",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1XJREoOwcanQEiG36cu1oOZ8DB3AtwRfK/view",
+  "pub_slides_url": "https://drive.google.com/file/d/1MPQwAXIB7X56ax_9L3mCztJjBUxT7J00/view",
   "pub_important": false
 }
 

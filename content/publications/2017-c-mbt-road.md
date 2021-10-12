@@ -10,8 +10,8 @@
   "pub_authors": "Medvet, Eric; Bartoli, Alberto; Talamini, Jacopo",
   "pub_doi": "10.1007/978-3-319-55792-2_12",
   "pub_publisher_url": "https://link.springer.com/chapter/10.1007%2F978-3-319-55792-2_12",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=18C4b0DkI9u77A1vE-VJXSLV94-7XyWtT",
-  "pub_slides_url": "https://drive.google.com/uc?export=download&id=1XMa50GeeVDnEnFTUQSlYDjx9l-XACiwM",
+  "pub_fulltext_url": "https://drive.google.com/file/d/18C4b0DkI9u77A1vE-VJXSLV94-7XyWtT/view",
+  "pub_slides_url": "https://drive.google.com/file/d/1XMa50GeeVDnEnFTUQSlYDjx9l-XACiwM/view",
   "pub_important": false
 }
 

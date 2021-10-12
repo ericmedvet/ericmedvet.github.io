@@ -10,7 +10,7 @@
   "pub_authors": "Canfora, Gerardo; Medvet, Eric; Mercaldo, Francesco; Visaggio, Corrado Aaron",
   "pub_doi": "10.1145/2875475.2875481",
   "pub_publisher_url": "http://dl.acm.org/citation.cfm?id=2875481",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1MFr9TCS_c809zhFd57SI49YHOjVbbEhE",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1MFr9TCS_c809zhFd57SI49YHOjVbbEhE/view",
   "pub_important": false
 }
 

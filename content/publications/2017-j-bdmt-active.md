@@ -7,7 +7,7 @@
   "pub_authors": "Bartoli, Alberto; De Lorenzo, Andrea; Medvet, Eric; Tarlao, Fabiano",
   "pub_doi": "10.1109/TCYB.2017.2680466",
   "pub_publisher_url": "http://ieeexplore.ieee.org/document/7886274/",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=10hl-2WYjz3J9k5b2A2NLrODpaiPd3-Xg",
+  "pub_fulltext_url": "https://drive.google.com/file/d/10hl-2WYjz3J9k5b2A2NLrODpaiPd3-Xg/view",
   "pub_important": false
 }
 

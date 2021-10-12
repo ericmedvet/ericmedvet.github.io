@@ -8,8 +8,8 @@
   "pub_location_city": "Torino",
   "pub_location_country": "Italy",
   "pub_authors": "Bartoli, Alberto; Davanzo, Giorgio; De Lorenzo, Andrea; Medvet, Eric",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=15acQg27D58kAlouB7ECZMFoUjICPxFyG",
-  "pub_slides_url": "https://drive.google.com/uc?export=download&id=1igsFIg8NMnsrhkp9cZ03g0zt2GPM9W1W",
+  "pub_fulltext_url": "https://drive.google.com/file/d/15acQg27D58kAlouB7ECZMFoUjICPxFyG/view",
+  "pub_slides_url": "https://drive.google.com/file/d/1igsFIg8NMnsrhkp9cZ03g0zt2GPM9W1W/view",
   "pub_important": false
 }
 

@@ -10,8 +10,8 @@
   "pub_authors": "Ansuini, Alessio; Medvet, Eric; Pellegrino, Felice Andrea; Zullich, Marco",
   "pub_doi": "10.5220/0008960300520059",
   "pub_publisher_url": "http://www.scitepress.org/DigitalLibrary/Link.aspx?doi=10.5220/0008960300520059",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1PmmmWzCt0528UuezZ24gBANKkEoNSiBN",
-  "pub_slides_url": "https://drive.google.com/uc?export=download&id=1029kgn5IJQxdCwqNft6tAFsI-5YclLpb",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1PmmmWzCt0528UuezZ24gBANKkEoNSiBN/view",
+  "pub_slides_url": "https://drive.google.com/file/d/1029kgn5IJQxdCwqNft6tAFsI-5YclLpb/view",
   "pub_important": false
 }
 

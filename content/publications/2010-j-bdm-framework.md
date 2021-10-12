@@ -7,7 +7,7 @@
   "pub_authors": "Bartoli, Alberto; Davanzo, Giorgio; Medvet, Eric",
   "pub_doi": "10.1145/1852096.1852098",
   "pub_publisher_url": "http://dl.acm.org/citation.cfm?id=1852098",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1l3MQY23pK-E773aZOBYUh4Vl4aFaPxOx",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1l3MQY23pK-E773aZOBYUh4Vl4aFaPxOx/view",
   "pub_important": false
 }
 

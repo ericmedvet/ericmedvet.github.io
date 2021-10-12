@@ -9,7 +9,7 @@
   "pub_location_country": "Italy",
   "pub_authors": "Garofolo, Ilaria; Medvet, Eric; Babich, Fulvio; Ramponi, Giovanni",
   "pub_doi": "10.1007/978-3-319-61949-1_4",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1Ia128SWRN-52sIzbyLpNDfu8B0WmGANy",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1Ia128SWRN-52sIzbyLpNDfu8B0WmGANy/view",
   "pub_important": false
 }
 

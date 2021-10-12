@@ -6,7 +6,7 @@
   "pub_authors": "Talamini, Jacopo; Bartoli, Alberto; De Lorenzo, Andrea; Medvet, Eric",
   "pub_doi": "10.3390/app10072394",
   "pub_publisher_url": "https://www.mdpi.com/2076-3417/10/7/2394",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1Wgr-LXdvSPmnXmPMOMNkrAcIRW9CNwEO",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1Wgr-LXdvSPmnXmPMOMNkrAcIRW9CNwEO/view",
   "pub_important": false
 }
 

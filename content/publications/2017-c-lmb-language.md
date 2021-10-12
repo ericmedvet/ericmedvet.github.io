@@ -9,7 +9,7 @@
   "pub_authors": "Lombardi, Giuseppe; Medvet, Eric; Bartoli, Alberto",
   "pub_doi": "10.1109/ICTAI.2017.00174",
   "pub_publisher_url": "https://ieeexplore.ieee.org/document/8372077/",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1zf4z4Y3L8JC0O1S6WKwQ_y-4pgZOdC4p",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1zf4z4Y3L8JC0O1S6WKwQ_y-4pgZOdC4p/view",
   "pub_important": false
 }
 

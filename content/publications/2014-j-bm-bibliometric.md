@@ -7,7 +7,7 @@
   "pub_authors": "Bartoli, Alberto; Medvet, Eric",
   "pub_doi": "10.1080/01972243.2014.944731",
   "pub_publisher_url": "http://www.tandfonline.com/doi/abs/10.1080/01972243.2014.944731",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=15SM2mCCBNn7iLyFtuYKmfTc_xjXFfOhL",
+  "pub_fulltext_url": "https://drive.google.com/file/d/15SM2mCCBNn7iLyFtuYKmfTc_xjXFfOhL/view",
   "pub_important": false
 }
 

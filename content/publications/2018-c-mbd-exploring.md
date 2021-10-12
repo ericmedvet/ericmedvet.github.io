@@ -9,7 +9,7 @@
   "pub_authors": "Medvet, Eric; Bartoli, Alberto; De Lorenzo, Andrea",
   "pub_doi": "10.1145/3205651.3205765",
   "pub_publisher_url": "https://dl.acm.org/citation.cfm?id=3205765",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=155tY_zF6XEaz9XOo1eGXMvQUaySyawtn",
+  "pub_fulltext_url": "https://drive.google.com/file/d/155tY_zF6XEaz9XOo1eGXMvQUaySyawtn/view",
   "pub_important": false
 }
 

@@ -6,7 +6,7 @@
   "pub_authors": "Medvet, Eric; Bartoli, Alberto; De Lorenzo, Andrea; Seriani, Stefano",
   "pub_doi": "10.1016/j.softx.2020.100573",
   "pub_publisher_url": "https://authors.elsevier.com/sd/article/S2352711020302867",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1yhN5-p7X1I6VEouFo_ha9VpN5t8Cy_jI",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1yhN5-p7X1I6VEouFo_ha9VpN5t8Cy_jI/view",
   "pub_important": true
 }
 

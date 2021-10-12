@@ -8,8 +8,8 @@
   "pub_location_city": "Copenhagen",
   "pub_location_country": "Denmark",
   "pub_authors": "Bartoli, Alberto; De Lorenzo, Andrea; Medvet, Eric; Tarlao, Fabiano",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1ifZ6QuMkoO9LqL2Isq8VAVghVPRwBPDK",
-  "pub_slides_url": "https://drive.google.com/uc?export=download&id=1EVh3OiiuTOR31N2vWAk2oGHinDtw3lvu",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1ifZ6QuMkoO9LqL2Isq8VAVghVPRwBPDK/view",
+  "pub_slides_url": "https://drive.google.com/file/d/1EVh3OiiuTOR31N2vWAk2oGHinDtw3lvu/view",
   "pub_important": false
 }
 

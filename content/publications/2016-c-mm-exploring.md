@@ -10,7 +10,7 @@
   "pub_authors": "Medvet, Eric; Mercaldo, Francesco",
   "pub_doi": "10.1109/ARES.2016.70",
   "pub_publisher_url": "http://ieeexplore.ieee.org/document/7784625/",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1Yy4_e7X5SC3tWtFnjvZuz5a1-zb5sBCV",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1Yy4_e7X5SC3tWtFnjvZuz5a1-zb5sBCV/view",
   "pub_important": false
 }
 

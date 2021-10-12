@@ -10,8 +10,8 @@
   "pub_authors": "Bartoli, Alberto; Medvet, Eric; De Lorenzo, Andrea; Tarlao, Fabiano",
   "pub_doi": "10.3233/FAIA190232",
   "pub_publisher_url": "http://ebooks.iospress.nl/volumearticle/53043",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1Z3QPA6xl7ElLU8uHwO__fNeC6bDMbr9e",
-  "pub_slides_url": "https://drive.google.com/uc?export=download&id=1_DiLUxsJvSF7zLE6w1z54vuCT7qMcCN_",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1Z3QPA6xl7ElLU8uHwO__fNeC6bDMbr9e/view",
+  "pub_slides_url": "https://drive.google.com/file/d/1_DiLUxsJvSF7zLE6w1z54vuCT7qMcCN_/view",
   "pub_important": false
 }
 

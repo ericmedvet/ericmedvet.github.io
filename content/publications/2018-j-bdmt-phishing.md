@@ -7,7 +7,7 @@
   "pub_authors": "Bartoli, Alberto; De Lorenzo, Andrea; Medvet, Eric; Tarlao, Fabiano",
   "pub_doi": "10.2478/cait-2018-0047",
   "pub_publisher_url": "http://www.cit.iit.bas.bg/CIT_2018/v-18-4/10341-Volume18_Issue_4-04_paper.pdf",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1dCL_xF3Er2ynlk-FtWl_uszxxqD80Xkx",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1dCL_xF3Er2ynlk-FtWl_uszxxqD80Xkx/view",
   "pub_important": false
 }
 

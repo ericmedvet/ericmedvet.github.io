@@ -7,7 +7,7 @@
   "pub_authors": "Bartoli, Alberto; Davanzo, Giorgio; Medvet, Eric; Sorio, Enrico",
   "pub_doi": "10.1109/TKDE.2012.254",
   "pub_publisher_url": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6399473",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=11_mMNG9Gwieq1GvPwdungkUrnDc6H81z",
+  "pub_fulltext_url": "https://drive.google.com/file/d/11_mMNG9Gwieq1GvPwdungkUrnDc6H81z/view",
   "pub_important": false
 }
 

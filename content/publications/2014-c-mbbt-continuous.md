@@ -8,8 +8,8 @@
   "pub_location_city": "Fribourg",
   "pub_location_country": "Switzerland",
   "pub_authors": "Medvet, Eric; Bartoli, Alberto; Boem, Francesca; Tarlao, Fabiano",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1nY-wRDR6i2E8YB0nwPbo6DA_VydAnfL0",
-  "pub_slides_url": "https://drive.google.com/uc?export=download&id=1pu41BXYWjNpuaNsfbWWxuEfOefvoOaE0",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1nY-wRDR6i2E8YB0nwPbo6DA_VydAnfL0/view",
+  "pub_slides_url": "https://drive.google.com/file/d/1pu41BXYWjNpuaNsfbWWxuEfOefvoOaE0/view",
   "pub_important": false
 }
 

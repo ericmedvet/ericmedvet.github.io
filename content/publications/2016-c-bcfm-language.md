@@ -9,8 +9,8 @@
   "pub_authors": "Bartoli, Alberto; Carminati, Barbara;  Ferrari, Elena;  Medvet, Eric",
   "pub_doi": "10.1109/WI.2016.0107",
   "pub_publisher_url": "http://ieeexplore.ieee.org/document/7817124",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1OtdE0AeM11D6oQKalANrlYZg0xP72u80",
-  "pub_slides_url": "https://drive.google.com/uc?export=download&id=1hX8CX1s8_27guBoCrbwBnF99XSDfCoD8",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1OtdE0AeM11D6oQKalANrlYZg0xP72u80/view",
+  "pub_slides_url": "https://drive.google.com/file/d/1hX8CX1s8_27guBoCrbwBnF99XSDfCoD8/view",
   "pub_important": false
 }
 

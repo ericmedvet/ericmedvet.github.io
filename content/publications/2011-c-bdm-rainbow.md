@@ -8,8 +8,8 @@
   "pub_location_city": "Córdoba",
   "pub_location_country": "Spain",
   "pub_authors": "Bartoli, Alberto; Davanzo, Giorgio; Medvet, Eric",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1x-m8-AG4BRfbYmm-g-nFXITwootzyDAM",
-  "pub_slides_url": "https://drive.google.com/uc?export=download&id=1_ylOoGiZjGyP_MxxJMPnt4kzis4thXQ4",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1x-m8-AG4BRfbYmm-g-nFXITwootzyDAM/view",
+  "pub_slides_url": "https://drive.google.com/file/d/1_ylOoGiZjGyP_MxxJMPnt4kzis4thXQ4/view",
   "pub_important": false
 }
 

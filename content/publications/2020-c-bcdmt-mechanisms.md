@@ -10,8 +10,8 @@
   "pub_authors": "Bartoli, Alberto; Catto, Marco; De Lorenzo, Andrea; Medvet, Eric; Talamini, Jacopo",
   "pub_doi": "10.1162/isal_a_00276",
   "pub_publisher_url": "https://www.mitpressjournals.org/doi/abs/10.1162/isal_a_00276",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=19p5M14ezzA1Dq1Mzeq2JOAMSGYFJvry7",
-  "pub_slides_url": "https://drive.google.com/uc?export=download&id=1St2HV1CjXmYSCI92y_1ZeGu5E77yAIzn",
+  "pub_fulltext_url": "https://drive.google.com/file/d/19p5M14ezzA1Dq1Mzeq2JOAMSGYFJvry7/view",
+  "pub_slides_url": "https://drive.google.com/file/d/1St2HV1CjXmYSCI92y_1ZeGu5E77yAIzn/view",
   "pub_important": false
 }
 

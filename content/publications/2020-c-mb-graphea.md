@@ -5,8 +5,8 @@
   "pub_venue_name": "Workshop on Evolutionary and Population-based Optimization",
   "pub_venue_acronym": "WEPO@AIxIA",
   "pub_authors": "Medvet, Eric; Bartoli, Alberto",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=19LgNpedZw9DJ2H2RPtO7KgPdU82K6Ari",
-  "pub_slides_url": "https://drive.google.com/uc?export=download&id=1odsFQzLul7lJj5Bka9gF1Ik2TkqbbZp6",
+  "pub_fulltext_url": "https://drive.google.com/file/d/19LgNpedZw9DJ2H2RPtO7KgPdU82K6Ari/view",
+  "pub_slides_url": "https://drive.google.com/file/d/1odsFQzLul7lJj5Bka9gF1Ik2TkqbbZp6/view",
   "pub_video_url": "https://www.youtube.com/watch?v=fL3JKYEOsQo",
   "pub_important": false
 }

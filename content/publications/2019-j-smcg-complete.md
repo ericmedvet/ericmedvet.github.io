@@ -7,7 +7,7 @@
   "pub_authors": "Seriani, Stefano; Medvet, Eric; Carrato, Sergio; Gallina, Paolo",
   "pub_doi": "10.1109/TMECH.2019.2959379",
   "pub_publisher_url": "https://ieeexplore.ieee.org/document/8931649",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1rdx-CdnIG6G4H96GqpDYWY7spEGvRYyo",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1rdx-CdnIG6G4H96GqpDYWY7spEGvRYyo/view",
   "pub_important": true
 }
 

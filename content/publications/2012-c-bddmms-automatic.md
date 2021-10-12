@@ -7,7 +7,7 @@
   "pub_location_city": "Philadelphia",
   "pub_location_country": "USA",
   "pub_authors": "Bartoli, Alberto; Davanzo, Giorgio; De Lorenzo, Andrea; Mauri, Marco; Medvet, Eric; Sorio, Enrico",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1VjvBFtc2_JQ8omreM95uLrVmUtmqwVeT",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1VjvBFtc2_JQ8omreM95uLrVmUtmqwVeT/view",
   "pub_important": false
 }
 

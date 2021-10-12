@@ -8,7 +8,7 @@
   "pub_location_city": "Sao Carlos",
   "pub_location_country": "Brasil",
   "pub_authors": "Sorio, Enrico; Bartoli, Alberto; Medvet, Eric",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1SLrmeIFuC9j0v0vQByolOGSYJXpgZiNn",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1SLrmeIFuC9j0v0vQByolOGSYJXpgZiNn/view",
   "pub_important": false
 }
 

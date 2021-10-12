@@ -8,8 +8,8 @@
   "pub_doi": "10.1145/3449639.3459315",
   "pub_notes": "Best paper at complex systems track",
   "pub_publisher_url": "https://dl.acm.org/doi/10.1145/3449639.3459315",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1X-8KqgGXqpIiqjnR_J3FFWF03eeUwrGb",
-  "pub_slides_url": "https://drive.google.com/uc?export=download&id=1ZbBB6QYWARtDkwycOOQ_iDRhxrrvU7Xu",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1X-8KqgGXqpIiqjnR_J3FFWF03eeUwrGb/view",
+  "pub_slides_url": "https://drive.google.com/file/d/1ZbBB6QYWARtDkwycOOQ_iDRhxrrvU7Xu/view",
   "pub_important": true
 }
 

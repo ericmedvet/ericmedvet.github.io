@@ -8,8 +8,8 @@
   "pub_location_city": "Innsbruck",
   "pub_location_country": "Austria",
   "pub_authors": "Bartoli, Alberto; Davanzo, Giorgio; Medvet, Eric; Sorio, Enrico",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1xh2YUxW2b5tGPAsOdUvWKVnmAviJVZf6",
-  "pub_slides_url": "https://drive.google.com/uc?export=download&id=1auzgC8gdKKr5Y1h3t6f5oJyC_5DU7423",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1xh2YUxW2b5tGPAsOdUvWKVnmAviJVZf6/view",
+  "pub_slides_url": "https://drive.google.com/file/d/1auzgC8gdKKr5Y1h3t6f5oJyC_5DU7423/view",
   "pub_important": false
 }
 

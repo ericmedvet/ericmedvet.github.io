@@ -8,7 +8,7 @@
   "pub_location_city": "Berlin",
   "pub_location_country": "Germany",
   "pub_authors": "Fenu, Gianfranco; Jain, Nikita; Medvet, Eric; Pellegrino, Felice Andrea; Pilutti Namer, Myriam",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1y-ITLYBMnZIbHq7fMHO8Pmts-9GzWu7x",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1y-ITLYBMnZIbHq7fMHO8Pmts-9GzWu7x/view",
   "pub_important": false
 }
 

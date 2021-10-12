@@ -7,7 +7,7 @@
   "pub_authors": "Medvet, Eric; Bartoli, Alberto; De Lorenzo, Andrea; Tarlao, Fabiano",
   "pub_doi": "10.1007/s10710-018-9327-2",
   "pub_publisher_url": "https://link.springer.com/article/10.1007/s10710-018-9327-2",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1WMKHDeqWf-fI4sn-WqlmSk1KItpcIRlw",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1WMKHDeqWf-fI4sn-WqlmSk1KItpcIRlw/view",
   "pub_important": false
 }
 

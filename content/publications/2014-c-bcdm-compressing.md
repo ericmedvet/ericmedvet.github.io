@@ -8,7 +8,7 @@
   "pub_location_city": "Ljubljana",
   "pub_location_country": "Slovenia",
   "pub_authors": "Bartoli, Alberto; Cumar, Simone; De Lorenzo, Andrea; Medvet, Eric",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1phbiYd392-U3LApAGV9Q96Nm1Jc9oM8S",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1phbiYd392-U3LApAGV9Q96Nm1Jc9oM8S/view",
   "pub_important": false
 }
 

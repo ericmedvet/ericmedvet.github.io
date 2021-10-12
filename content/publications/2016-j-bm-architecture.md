@@ -7,7 +7,7 @@
   "pub_authors": "Bartoli, Alberto; Medvet, Eric",
   "pub_doi": "10.1155/2016/2349148",
   "pub_publisher_url": "https://www.hindawi.com/journals/jcnc/2016/2349148/",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1qX6iQmk9e86kM3pxfGdcxg_-LUPYYGQy",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1qX6iQmk9e86kM3pxfGdcxg_-LUPYYGQy/view",
   "pub_important": false
 }
 

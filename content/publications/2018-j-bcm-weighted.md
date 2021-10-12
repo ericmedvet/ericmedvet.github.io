@@ -7,7 +7,7 @@
   "pub_authors": "Bartoli, Alberto; Castelli, Mauro; Medvet, Eric",
   "pub_doi": "10.1109/TCYB.2018.2876563",
   "pub_publisher_url": "https://ieeexplore.ieee.org/document/8525307",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1MQQSieDZwbw8xjP3arVQnkYZaEyox48D",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1MQQSieDZwbw8xjP3arVQnkYZaEyox48D/view",
   "pub_important": false
 }
 

@@ -7,8 +7,8 @@
   "pub_location_city": "London",
   "pub_location_country": "United Kingdom",
   "pub_authors": "Bartoli, Alberto; Medvet, Eric; Mauri, Marco",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=16b5QZep4R1D0jFTf0YEJ7xq3Bo7trHaM",
-  "pub_slides_url": "https://drive.google.com/uc?export=download&id=1aEofLq-8Ml0mf-fs8Iy_j5Yk9xZY4yCo",
+  "pub_fulltext_url": "https://drive.google.com/file/d/16b5QZep4R1D0jFTf0YEJ7xq3Bo7trHaM/view",
+  "pub_slides_url": "https://drive.google.com/file/d/1aEofLq-8Ml0mf-fs8Iy_j5Yk9xZY4yCo/view",
   "pub_important": false
 }
 

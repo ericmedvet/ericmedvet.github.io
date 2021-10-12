@@ -9,8 +9,8 @@
   "pub_authors": "Medvet, Eric; Daolio, Fabio; Tagliapietra, Danny",
   "pub_doi": "10.1145/3071178.3071298",
   "pub_publisher_url": "http://dl.acm.org/citation.cfm?doid=3071178.3071298",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1g0rKV0Sd9oUnaSyakrxdNPyQd142QqCw",
-  "pub_slides_url": "https://drive.google.com/uc?export=download&id=1yIxVyJgof6eqPfSurHYhi8jeFzI-mQ2z",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1g0rKV0Sd9oUnaSyakrxdNPyQd142QqCw/view",
+  "pub_slides_url": "https://drive.google.com/file/d/1yIxVyJgof6eqPfSurHYhi8jeFzI-mQ2z/view",
   "pub_important": false
 }
 

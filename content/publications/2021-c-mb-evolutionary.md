@@ -8,7 +8,7 @@
   "pub_authors": "Medvet, Eric; Bartoli, Alberto",
   "pub_doi": "10.1007/978-3-030-77091-4_6",
   "pub_publisher_url": "https://link.springer.com/chapter/10.1007%2F978-3-030-77091-4_6",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1XsE6XaNWbxc3O2agTgmiwlZRYAhB_Il3",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1XsE6XaNWbxc3O2agTgmiwlZRYAhB_Il3/view",
   "pub_important": false
 }
 

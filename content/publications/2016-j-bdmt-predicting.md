@@ -7,7 +7,7 @@
   "pub_authors": "Bartoli, Alberto; De Lorenzo, Andrea; Medvet, Eric; Tarlao, Fabiano",
   "pub_doi": "10.1016/j.asoc.2016.05.023",
   "pub_publisher_url": "http://www.sciencedirect.com/science/article/pii/S1568494616302241",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1Q4YQQ_qlbKtw_wgMIV8-UQd9yETIbDR0",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1Q4YQQ_qlbKtw_wgMIV8-UQd9yETIbDR0/view",
   "pub_important": false
 }
 

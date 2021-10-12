@@ -7,7 +7,7 @@
   "pub_location_city": "Milano",
   "pub_location_country": "Italy",
   "pub_authors": "Davanzo, Giorgio; Medvet, Eric; Bartoli, Alberto",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1vLekBt288Z1_0vDWYY5lUopQMWaMxeNl",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1vLekBt288Z1_0vDWYY5lUopQMWaMxeNl/view",
   "pub_important": false
 }
 

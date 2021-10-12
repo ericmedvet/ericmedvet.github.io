@@ -10,8 +10,8 @@
   "pub_authors": "Bartoli, Alberto; Medvet, Eric; De Lorenzo, Andrea; Tarlao, Fabiano",
   "pub_doi": "10.1145/3284869.3284885",
   "pub_publisher_url": "https://dl.acm.org/citation.cfm?doid=3284869.3284885",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1MpphPmSPO_jSJeCKVX6jm9-KucqkPUlb",
-  "pub_slides_url": "https://drive.google.com/uc?export=download&id=1j0AyAB8K55BggA-dqK3yJ0X1yLMP9E6D",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1MpphPmSPO_jSJeCKVX6jm9-KucqkPUlb/view",
+  "pub_slides_url": "https://drive.google.com/file/d/1j0AyAB8K55BggA-dqK3yJ0X1yLMP9E6D/view",
   "pub_important": false
 }
 

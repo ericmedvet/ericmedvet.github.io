@@ -7,8 +7,8 @@
   "pub_location_city": "Madrid",
   "pub_location_country": "Spain",
   "pub_authors": "Bartoli, Alberto; De Lorenzo, Andrea; Medvet, Eric; Tarlao, Fabiano; Virgolin, Marco",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=13_UMmwjtwrZ1rWyR6bp0D_ytl_Lb07jP",
-  "pub_slides_url": "https://drive.google.com/uc?export=download&id=1ov-fsFG8vg5E63yd1RfhyH10zG6qIb7q",
+  "pub_fulltext_url": "https://drive.google.com/file/d/13_UMmwjtwrZ1rWyR6bp0D_ytl_Lb07jP/view",
+  "pub_slides_url": "https://drive.google.com/file/d/1ov-fsFG8vg5E63yd1RfhyH10zG6qIb7q/view",
   "pub_important": false
 }
 

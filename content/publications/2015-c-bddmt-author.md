@@ -9,8 +9,8 @@
   "pub_location_country": "France",
   "pub_authors": "Bartoli, Alberto; Dagri, Alex; De Lorenzo, Andrea; Medvet, Eric; Tarlao, Fabiano",
   "pub_notes": "Winner of challenge for Spanish language",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1G_lui0TqRuDfbwknU-crrDkeiUphqyyx",
-  "pub_slides_url": "https://drive.google.com/uc?export=download&id=1_Bb16qfqchDYbXYxwYQqaHfJjovDbHez",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1G_lui0TqRuDfbwknU-crrDkeiUphqyyx/view",
+  "pub_slides_url": "https://drive.google.com/file/d/1_Bb16qfqchDYbXYxwYQqaHfJjovDbHez/view",
   "pub_important": false
 }
 

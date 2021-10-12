@@ -8,7 +8,7 @@
   "pub_location_city": "Zagreb",
   "pub_location_country": "Croatia",
   "pub_authors": "Bonetto, Margherita; Carrato, Sergio; Fenu, Gianfranco; Medvet, Eric; Mumolo, Enzo; Pellegrino, Felice Andrea; Ramponi, Giovanni",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1i1i-Ck3VxjG6KTixh4ClqDmR-5dWptaX",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1i1i-Ck3VxjG6KTixh4ClqDmR-5dWptaX/view",
   "pub_important": false
 }
 

@@ -7,7 +7,7 @@
   "pub_authors": "Bartoli, Alberto; De Lorenzo, Andrea; Medvet, Eric; Faraguna, Marco; Tarlao, Fabiano",
   "pub_doi": "10.2478/cait-2018-0050",
   "pub_publisher_url": "https://content.sciendo.com/downloadpdf/journals/cait/18/4/article-p94.xml",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1r5tzpsAb1K3fQ1X1TdmYvmUIKh7SlhDC",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1r5tzpsAb1K3fQ1X1TdmYvmUIKh7SlhDC/view",
   "pub_important": false
 }
 

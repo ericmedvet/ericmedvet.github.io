@@ -7,8 +7,8 @@
   "pub_authors": "Nadizar, Giorgia; Medvet, Eric; Pellegrino, Felice Andrea; Zullich, Marco; Nichele, Stefano",
   "pub_doi": "10.1145/3449726.3463161",
   "pub_publisher_url": "https://dl.acm.org/doi/10.1145/3449726.3463161",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1icWdoHdqNieFerpcTlQooeMb0t_KDW8n",
-  "pub_slides_url": "https://drive.google.com/uc?export=download&id=1_O4JkHlWHfXFkOw5c1jkVg5050Un43CU",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1icWdoHdqNieFerpcTlQooeMb0t_KDW8n/view",
+  "pub_slides_url": "https://drive.google.com/file/d/1_O4JkHlWHfXFkOw5c1jkVg5050Un43CU/view",
   "pub_important": false
 }
 

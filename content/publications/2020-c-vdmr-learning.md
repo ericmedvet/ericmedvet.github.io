@@ -10,7 +10,7 @@
   "pub_authors": "Virgolin, Marco; De Lorenzo, Andrea; Medvet, Eric; Randone, Francesca",
   "pub_doi": "10.1007/978-3-030-58115-2_6",
   "pub_publisher_url": "https://link.springer.com/chapter/10.1007%2F978-3-030-58115-2_6",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1qvG7bu9adWkb830l77BrEfvMCGlM1MCZ",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1qvG7bu9adWkb830l77BrEfvMCGlM1MCZ/view",
   "pub_important": false
 }
 

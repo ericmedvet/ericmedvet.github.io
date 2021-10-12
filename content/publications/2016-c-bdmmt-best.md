@@ -9,8 +9,8 @@
   "pub_authors": "Bartoli, Alberto; De Lorenzo, Andrea; Medvet, Eric; Morello, Dennis;  Tarlao, Fabiano",
   "pub_doi": "10.1109/WI.2016.0130",
   "pub_publisher_url": "http://ieeexplore.ieee.org/document/7817147/",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1iYNLIS1E_6q7gEyPqu-seFTHKfcFnwoB",
-  "pub_slides_url": "https://drive.google.com/uc?export=download&id=1GyY3FyKaDf-JNeeB6P-Zu0dNBbwD4s5b",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1iYNLIS1E_6q7gEyPqu-seFTHKfcFnwoB/view",
+  "pub_slides_url": "https://drive.google.com/file/d/1GyY3FyKaDf-JNeeB6P-Zu0dNBbwD4s5b/view",
   "pub_important": false
 }
 

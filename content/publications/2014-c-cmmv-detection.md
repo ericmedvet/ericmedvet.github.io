@@ -8,7 +8,7 @@
   "pub_location_city": "Fribourg",
   "pub_location_country": "Switzerland",
   "pub_authors": "Canfora, Gerardo; Medvet, Eric; Mercaldo, Francesco; Visaggio, Corrado Aaron",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1cSHVy33Onx8Yl4250Lg1x4gih8r2fhcT",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1cSHVy33Onx8Yl4250Lg1x4gih8r2fhcT/view",
   "pub_important": false
 }
 

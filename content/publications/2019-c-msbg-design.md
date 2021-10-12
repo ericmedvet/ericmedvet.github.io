@@ -10,8 +10,8 @@
   "pub_authors": "Medvet, Eric; Seriani, Stefano; Bartoli, Alberto; Gallina, Paolo",
   "pub_doi": "10.1007/978-3-030-16692-2_2",
   "pub_publisher_url": "https://link.springer.com/chapter/10.1007%2F978-3-030-16692-2_2",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1boFRbQSzNsxfJrJ23iIu8Rm0mDro9cAT",
-  "pub_slides_url": "https://drive.google.com/uc?export=download&id=1wHMEBVWZi831qLEFIcs88PBKsB0dV-vU",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1boFRbQSzNsxfJrJ23iIu8Rm0mDro9cAT/view",
+  "pub_slides_url": "https://drive.google.com/file/d/1wHMEBVWZi831qLEFIcs88PBKsB0dV-vU/view",
   "pub_important": false
 }
 

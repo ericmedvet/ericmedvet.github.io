@@ -10,8 +10,8 @@
   "pub_authors": "De Marco, Marco; Fenu, Gianfranco; Medvet, Eric; Pellegrino, Felice Andrea",
   "pub_doi": "10.1007/978-3-319-61949-1_16",
   "pub_publisher_url": "https://link.springer.com/chapter/10.1007/978-3-319-61949-1_16",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1mdmvF0tlabqrQf6LzGBCa4m_nXqiqqv8",
-  "pub_slides_url": "https://drive.google.com/uc?export=download&id=101kUdbzFU7poQBLS_w6_27A3mPIYJRBn",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1mdmvF0tlabqrQf6LzGBCa4m_nXqiqqv8/view",
+  "pub_slides_url": "https://drive.google.com/file/d/101kUdbzFU7poQBLS_w6_27A3mPIYJRBn/view",
   "pub_important": false
 }
 

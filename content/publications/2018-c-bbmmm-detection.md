@@ -10,7 +10,7 @@
   "pub_authors": "Bacci, Alessandro; Bartoli, Alberto; Martinelli, Fabio; Medvet, Eric; Mercaldo, Francesco",
   "pub_doi": "10.1145/3230833.3232823",
   "pub_publisher_url": "https://dl.acm.org/citation.cfm?id=3232823",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1yBNXmTiWth3uR8YeD7-mGr0vLuMB0KTL",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1yBNXmTiWth3uR8YeD7-mGr0vLuMB0KTL/view",
   "pub_important": false
 }
 

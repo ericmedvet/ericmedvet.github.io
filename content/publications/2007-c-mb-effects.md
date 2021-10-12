@@ -8,8 +8,8 @@
   "pub_location_city": "Lucerne",
   "pub_location_country": "Switzerland",
   "pub_authors": "Medvet, Eric; Bartoli, Alberto",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=197lyPMYSmmgbV76rbUHZWlU9dlHQbAMq",
-  "pub_slides_url": "https://drive.google.com/uc?export=download&id=1szZ_Y9E6Scjz-87vcnyRNsq9Rf_2mEt1",
+  "pub_fulltext_url": "https://drive.google.com/file/d/197lyPMYSmmgbV76rbUHZWlU9dlHQbAMq/view",
+  "pub_slides_url": "https://drive.google.com/file/d/1szZ_Y9E6Scjz-87vcnyRNsq9Rf_2mEt1/view",
   "pub_important": false
 }
 

@@ -9,8 +9,8 @@
   "pub_authors": "Medvet, Eric; Bartoli, Alberto; Piccinin, Giulio",
   "pub_doi": "10.1109/ICTAI.2014.152",
   "pub_publisher_url": "https://ieeexplore.ieee.org/abstract/document/6984588",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1d6a2GMuC9X_uLhVkdCIw2c4Oa5dQZB1B",
-  "pub_slides_url": "https://drive.google.com/uc?export=download&id=1kt7dgo2SxfYfQMVx23bi9s13veXu_ad4",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1d6a2GMuC9X_uLhVkdCIw2c4Oa5dQZB1B/view",
+  "pub_slides_url": "https://drive.google.com/file/d/1kt7dgo2SxfYfQMVx23bi9s13veXu_ad4/view",
   "pub_important": false
 }
 

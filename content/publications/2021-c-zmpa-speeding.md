@@ -10,7 +10,7 @@
   "pub_authors": "Zullich, Marco; Medvet, Eric; Pellegrino, Felice Andrea; Ansuini, Alessio",
   "pub_doi": "10.1109/ICPR48806.2021.9412705",
   "pub_publisher_url": "https://ieeexplore.ieee.org/abstract/document/9412705",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1s3I3g5dedtf_FttnVtINZPrBHFyDqYiB",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1s3I3g5dedtf_FttnVtINZPrBHFyDqYiB/view",
   "pub_important": false
 }
 

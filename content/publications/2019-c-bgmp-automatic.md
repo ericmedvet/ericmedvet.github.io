@@ -10,7 +10,7 @@
   "pub_authors": "Bortolussi, Luca; Gulisano, Vincenzo; Medvet, Eric; Palyvos-Giannas, Dimitros",
   "pub_doi": "10.1145/3366610.3368097",
   "pub_publisher_url": "https://dl.acm.org/citation.cfm?doid=3366610.3368097",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1DX2lf7KVBWbWXDQNaU8oTLxX1HdRzX-x",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1DX2lf7KVBWbWXDQNaU8oTLxX1HdRzX-x/view",
   "pub_important": false
 }
 

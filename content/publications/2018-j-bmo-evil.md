@@ -7,7 +7,7 @@
   "pub_authors": "Bartoli, Alberto; Medvet, Eric; Onesti, Filippo",
   "pub_doi": "10.1016/j.cose.2017.12.011",
   "pub_publisher_url": "https://www.sciencedirect.com/science/article/pii/S0167404817302808#",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1-CFafEdTMJEbHEbeln8vxq3MVKxgi0eP",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1-CFafEdTMJEbHEbeln8vxq3MVKxgi0eP/view",
   "pub_important": false
 }
 

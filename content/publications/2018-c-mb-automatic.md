@@ -11,8 +11,8 @@
   "pub_doi": "10.1007/978-3-319-77553-1_7",
   "pub_notes": "Best paper",
   "pub_publisher_url": "https://link.springer.com/chapter/10.1007/978-3-319-77553-1_7",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1QwK4dCZLH97YowgC9d4iBKJj5m_qepSX",
-  "pub_slides_url": "https://drive.google.com/uc?export=download&id=13cricmT2mSokVyMeCd_ffxwpLepKHg7-",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1QwK4dCZLH97YowgC9d4iBKJj5m_qepSX/view",
+  "pub_slides_url": "https://drive.google.com/file/d/13cricmT2mSokVyMeCd_ffxwpLepKHg7-/view",
   "pub_important": false
 }
 

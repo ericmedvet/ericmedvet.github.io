@@ -8,8 +8,8 @@
   "pub_location_city": "Manchester",
   "pub_location_country": "United Kingdom",
   "pub_authors": "Medvet, Eric; Fillon, Cyril; Bartoli, Alberto",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1NTfasvb6bL4eT8xtHJtRGPRb-2c-vLkR",
-  "pub_slides_url": "https://drive.google.com/uc?export=download&id=1qlhPkEzMd_nHpIxhhrS4OT9e4I_h19HD",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1NTfasvb6bL4eT8xtHJtRGPRb-2c-vLkR/view",
+  "pub_slides_url": "https://drive.google.com/file/d/1qlhPkEzMd_nHpIxhhrS4OT9e4I_h19HD/view",
   "pub_important": false
 }
 

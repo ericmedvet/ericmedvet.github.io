@@ -7,7 +7,7 @@
   "pub_authors": "Bartoli, Alberto; Davanzo, Giorgio; Medvet, Eric",
   "pub_doi": "10.1109/MIC.2009.91",
   "pub_publisher_url": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5167268",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1HA_wpxb9C16kMFPUbsfP90ZgEc8_1Q0o",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1HA_wpxb9C16kMFPUbsfP90ZgEc8_1Q0o/view",
   "pub_important": false
 }
 

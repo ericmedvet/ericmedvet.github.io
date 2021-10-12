@@ -8,7 +8,7 @@
   "pub_location_city": "Trieste",
   "pub_location_country": "Italy",
   "pub_authors": "Ajcevic, Milos; De Lorenzo, Andrea; Accardo, Agostino; Bartoli, Alberto; Medvet, Eric",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1QqqJRAYADO4BNrUIpzjy1ENxnYbQYFjJ",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1QqqJRAYADO4BNrUIpzjy1ENxnYbQYFjJ/view",
   "pub_important": false
 }
 

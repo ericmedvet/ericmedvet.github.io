@@ -26,6 +26,8 @@ const authorsFieldName = "Authors";
 const abstractFieldName = "Abstract";
 const otherTextFieldName = "LongNotes";
 const flagsFieldName = "Flags";
+const driveUrlDownloadPrefix = "https://drive.google.com/uc?export=download&id="
+const driveUrlViewTemplate = "https://drive.google.com/file/d/DOC_ID/view";
 
 const jsonUrl = process.argv[2];
 const targetDir = process.argv[3];
@@ -56,6 +58,13 @@ var buildAndSaveFiles = function(entries) {
     for (var key in fieldMap) {
       if ((entry[key] != undefined)&&(entry[key] != "")) {
         metaData[fieldMap[key]] = entry[key];
+        if (key.endsWith("Url")) {
+          var url = entry[key];
+          if (url.substring(0, driveUrlDownloadPrefix.length)==driveUrlDownloadPrefix) {
+            var docId = url.substring(driveUrlDownloadPrefix.length);
+            metaData[fieldMap[key]] = driveUrlViewTemplate.replace(/DOC_ID/g, docId);
+          }
+        }
       }
     }
     var abstract = entry[abstractFieldName];

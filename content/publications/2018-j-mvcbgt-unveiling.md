@@ -7,7 +7,7 @@
   "pub_authors": "Medvet, Eric; Virgolin, Marco; Castelli, Mauro; Bosman, Peter; Gonçalves, Ivo; Tušar, Tea",
   "pub_doi": "10.1007/s10710-018-9332-5",
   "pub_publisher_url": "https://link.springer.com/article/10.1007%2Fs10710-018-9332-5",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1c9FRlWpavMJVpaQVeMLDV26vfX9bPrWp",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1c9FRlWpavMJVpaQVeMLDV26vfX9bPrWp/view",
   "pub_important": false
 }
 

@@ -7,8 +7,8 @@
   "pub_location_city": "Amsterdam",
   "pub_location_country": "Netherlands",
   "pub_authors": "Bartoli, Alberto; De Lorenzo, Andrea; Medvet, Eric",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1ARJcfAr7uPTBj5JLX32Vx5cOpyUWIVAJ",
-  "pub_slides_url": "https://drive.google.com/uc?export=download&id=10OZEAkO4gmkW_tpOxEPe9JzHC2bmM5WD",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1ARJcfAr7uPTBj5JLX32Vx5cOpyUWIVAJ/view",
+  "pub_slides_url": "https://drive.google.com/file/d/10OZEAkO4gmkW_tpOxEPe9JzHC2bmM5WD/view",
   "pub_important": false
 }
 

@@ -8,7 +8,7 @@
   "pub_location_city": "Manchester",
   "pub_location_country": "United Kingdom",
   "pub_authors": "Sorio, Enrico; Bartoli, Alberto; Davanzo, Giorgio; Medvet, Eric",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1wICnKTpXP6FSdQJZfv9aqPqhZaXV3Z2c",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1wICnKTpXP6FSdQJZfv9aqPqhZaXV3Z2c/view",
   "pub_important": false
 }
 

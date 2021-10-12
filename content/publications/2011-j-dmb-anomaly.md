@@ -7,7 +7,7 @@
   "pub_authors": "Davanzo, Giorgio; Medvet, Eric; Bartoli, Alberto",
   "pub_doi": "10.1016/j.eswa.2011.04.038",
   "pub_publisher_url": "http://www.sciencedirect.com/science/article/pii/S0957417411005549",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1AZdUm_1uKaJe1jd1kJg0QRtyMgc5xjTK",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1AZdUm_1uKaJe1jd1kJg0QRtyMgc5xjTK/view",
   "pub_important": false
 }
 

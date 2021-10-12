@@ -7,7 +7,7 @@
   "pub_authors": "Bartoli, Alberto; De Lorenzo, Andrea; Medvet, Eric; Squillero, Giovanni",
   "pub_doi": "10.1016/j.asoc.2019.105599",
   "pub_publisher_url": "https://www.sciencedirect.com/science/article/pii/S1568494619303795",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1ToT5XLIa3buN-JZkD3f2oN1fUf_r2t3D",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1ToT5XLIa3buN-JZkD3f2oN1fUf_r2t3D/view",
   "pub_important": false
 }
 

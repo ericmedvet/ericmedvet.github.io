@@ -6,7 +6,7 @@
   "pub_authors": "Medvet, Eric; Seriani, Stefano; Bartoli, Alberto; Gallina, Paolo",
   "pub_doi": "10.1515/auto-2019-0113",
   "pub_publisher_url": "https://www.degruyter.com/view/j/auto.2020.68.issue-2/auto-2019-0113/auto-2019-0113.xml",
-  "pub_fulltext_url": "https://drive.google.com/uc?export=download&id=1gfyPPZngtit1DZ-IdgBiSVBDpiNz_h3J",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1gfyPPZngtit1DZ-IdgBiSVBDpiNz_h3J/view",
   "pub_important": false
 }
 
