@@ -10,7 +10,6 @@ Consiglio comunque di contattarmi per fare una chiacchierata nel caso ci sia int
 
 ## Currently available papers
 - Ross, Alexis, et al. "[Tailor: Generating and Perturbing Text with Semantic Controls](https://arxiv.org/abs/2107.07150)." arXiv preprint arXiv:2107.07150 (2021).
-- Eiben, A. E. "[Real-world robot evolution: why would it (not) work?](https://www.frontiersin.org/articles/10.3389/frobt.2021.696452/full)." Frontiers in Robotics and AI: 243.
 - Chollet, François. "[On the measure of intelligence](https://arxiv.org/abs/1911.01547)." arXiv preprint arXiv:1911.01547 (2019)
 - Fu, Justin, et al. "[From Language to Goals: Inverse Reinforcement Learning for Vision-Based Instruction Following](https://arxiv.org/abs/1902.07742)." arXiv preprint arXiv:1902.07742 (2019)
 - Yu, Wenhao, et al. "[Sim-to-Real Transfer for Biped Locomotion](https://arxiv.org/abs/1903.01390)." arXiv preprint arXiv:1903.01390 (2019)
@@ -22,6 +21,7 @@ Consiglio comunque di contattarmi per fare una chiacchierata nel caso ci sia int
 ## Ongoing theses
 - Suarez, Joseph, et al. "[Neural MMO: A Massively Multiagent Game Environment for Training and Evaluating Intelligent Agents](https://arxiv.org/abs/1903.00784)." arXiv preprint arXiv:1903.00784 (2019)
 - Sayama, Hiroki. "[Extreme Ideas Emerging from Social Conformity and Homophily: An Adaptive Social Network Model](https://www.mitpressjournals.org/doi/abs/10.1162/isal_a_00349)." Artificial Life Conference Proceedings. One Rogers Street, Cambridge, MA 02142-1209 USA journals-info@ mit. edu: MIT Press, 2020
+- Eiben, A. E. "[Real-world robot evolution: why would it (not) work?](https://www.frontiersin.org/articles/10.3389/frobt.2021.696452/full)." Frontiers in Robotics and AI: 243.
 
 ## Done
 - Pontes-Filho, Nichele. "[A Conceptual Bio-Inspired Framework for the Evolution of Artificial General Intelligence](https://arxiv.org/abs/1903.10410)." arXiv preprint arXiv:1903.10410 (2020) (student: Nicoletta Giurgevich)
