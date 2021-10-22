@@ -111,6 +111,10 @@ In compliance with the current regulation students are required to book a place 
 The lectures will also be cast in streaming using the MS Teams platform; the recordings of the lectures will be available on the MS Teams team of the course.
 Students can **join the MS Teams team using this code**: `obyvj3a`.
 
+#### Notes about lecture dates
+The lecture of 29/10 is cancelled.
+Note that there are no lectures on 1/11 and 3/11, since of national and local holidays.
+
 ## End-of-course test (exam)
 The exam consists of a project and a written test.
 The final grade is the average of the two grades: the exam is considered failed if at least one of the two grades is <18.
