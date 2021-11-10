@@ -4,7 +4,8 @@
   "pub_type": "Journal",
   "pub_venue_name": "IEEE Access",
   "pub_authors": "Salvato, Erica; Fenu, Gianfranco; Medvet, Eric; Pellegrino, Felice Andrea",
-  "pub_notes": "To appear",
+  "pub_doi": "10.1109/ACCESS.2021.3126658",
+  "pub_publisher_url": "https://ieeexplore.ieee.org/document/9606868",
   "pub_fulltext_url": "https://drive.google.com/file/d/1yy8ZOp5DqIkgao81DJUTK6_69gEtC7nC/view",
   "pub_important": false
 }
