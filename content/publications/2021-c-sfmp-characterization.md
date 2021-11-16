@@ -8,8 +8,10 @@
   "pub_location_city": "Opatija",
   "pub_location_country": "Croatia",
   "pub_authors": "Salvato, Erica; Fenu, Gianfranco; Medvet, Eric; Pellegrino, Felice Andrea",
-  "pub_notes": "To appear",
+  "pub_doi": "10.23919/MIPRO52101.2021.9596864",
+  "pub_publisher_url": "https://ieeexplore.ieee.org/document/9596864",
   "pub_fulltext_url": "https://drive.google.com/file/d/1JUpUGNtbJmgjyWMZiMGsY1CpTkCs97uc/view",
+  "pub_slides_url": "https://drive.google.com/file/d/1NrAeBhyg2rTSN8sgchJuryRIPzgT3Tz7/view",
   "pub_important": false
 }
 
