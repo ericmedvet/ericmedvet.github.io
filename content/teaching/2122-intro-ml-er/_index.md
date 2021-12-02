@@ -127,7 +127,7 @@ The expected outcome is a written document (few pages) including: the problem st
 Student may form groups for the project: in this case, the document must show, for each student of the group, which activities the student took part in.
 The project is evaluated according to clarity (≈50%), technical soundness (≈33%), and results (≈17%).
 
-The project assignment will be given during the course.
+**The project assignment is [here](project/).**
 
 ### Written test
 Questions on theory and application with short open answers.
