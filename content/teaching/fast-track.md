@@ -9,6 +9,7 @@ Su come si prepari un riassunto di un articolo scientifico ci sono molte indicaz
 Consiglio comunque di contattarmi per fare una chiacchierata nel caso ci sia interesse a seguire questa modalità.
 
 ## Currently available papers
+- Soltanian, Khabat, Ali Ebnenasir, and Mohsen Afsharchi. "[Modular Grammatical Evolution for the Generation of Artificial Neural Networks](https://direct.mit.edu/evco/article/doi/10.1162/evco_a_00302/108623/Modular-Grammatical-Evolution-for-the-Generation)." Evolutionary Computation (2021): 1-36.
 - Ross, Alexis, et al. "[Tailor: Generating and Perturbing Text with Semantic Controls](https://arxiv.org/abs/2107.07150)." arXiv preprint arXiv:2107.07150 (2021).
 - Chollet, François. "[On the measure of intelligence](https://arxiv.org/abs/1911.01547)." arXiv preprint arXiv:1911.01547 (2019)
 - Fu, Justin, et al. "[From Language to Goals: Inverse Reinforcement Learning for Vision-Based Instruction Following](https://arxiv.org/abs/1902.07742)." arXiv preprint arXiv:1902.07742 (2019)
@@ -21,10 +22,10 @@ Consiglio comunque di contattarmi per fare una chiacchierata nel caso ci sia int
 
 ## Ongoing theses
 - Suarez, Joseph, et al. "[Neural MMO: A Massively Multiagent Game Environment for Training and Evaluating Intelligent Agents](https://arxiv.org/abs/1903.00784)." arXiv preprint arXiv:1903.00784 (2019)
-- Sayama, Hiroki. "[Extreme Ideas Emerging from Social Conformity and Homophily: An Adaptive Social Network Model](https://www.mitpressjournals.org/doi/abs/10.1162/isal_a_00349)." Artificial Life Conference Proceedings. One Rogers Street, Cambridge, MA 02142-1209 USA journals-info@ mit. edu: MIT Press, 2020
-- Eiben, A. E. "[Real-world robot evolution: why would it (not) work?](https://www.frontiersin.org/articles/10.3389/frobt.2021.696452/full)." Frontiers in Robotics and AI: 243.
 
 ## Done
+- Sayama, Hiroki. "[Extreme Ideas Emerging from Social Conformity and Homophily: An Adaptive Social Network Model](https://www.mitpressjournals.org/doi/abs/10.1162/isal_a_00349)." Artificial Life Conference Proceedings. One Rogers Street, Cambridge, MA 02142-1209 USA journals-info@ mit. edu: MIT Press, 2020 (student: Letizia Ferrari)
+- Eiben, A. E. "[Real-world robot evolution: why would it (not) work?](https://www.frontiersin.org/articles/10.3389/frobt.2021.696452/full)." Frontiers in Robotics and AI: 243. (student: Daniel Costantino)
 - Pontes-Filho, Nichele. "[A Conceptual Bio-Inspired Framework for the Evolution of Artificial General Intelligence](https://arxiv.org/abs/1903.10410)." arXiv preprint arXiv:1903.10410 (2020) (student: Nicoletta Giurgevich)
 - Matthews, David, and Josh Bongard. "[Crowd grounding: finding semantic and behavioral alignment through human robot interaction](https://www.mitpressjournals.org/doi/abs/10.1162/isal_a_00317)." Artificial Life Conference Proceedings. One Rogers Street, Cambridge, MA 02142-1209 USA journals-info@ mit. edu: MIT Press, 2020 (student: Ivan Antonutti)
 - Paton, Norman W. "[Automating Data Preparation: Can We? Should We? Must We?](http://ceur-ws.org/Vol-2324/Paper00-InvTalk2-NPaton.pdf)" (student: Samuele Bertollo)

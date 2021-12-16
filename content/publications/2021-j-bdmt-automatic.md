@@ -1,6 +1,6 @@
 {
   "title": "Automatic Search-and-Replace from Examples with Coevolutionary Genetic Programming",
-  "pub_year": 2019,
+  "pub_year": 2021,
   "pub_type": "Journal",
   "pub_venue_name": "IEEE Transactions on Cybernetics",
   "pub_venue_acronym": "TCyb",

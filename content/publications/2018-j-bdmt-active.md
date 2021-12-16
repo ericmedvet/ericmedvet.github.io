@@ -1,6 +1,6 @@
 {
   "title": "Active Learning of Regular Expressions for Entity Extraction",
-  "pub_year": 2017,
+  "pub_year": 2018,
   "pub_type": "Journal",
   "pub_venue_name": "IEEE Transactions on Cybernetics",
   "pub_venue_acronym": "TCyb",

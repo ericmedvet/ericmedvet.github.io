@@ -3,6 +3,7 @@
   "pub_year": 2021,
   "pub_type": "Journal",
   "pub_venue_name": "Frontiers in Robotics and AI",
+  "pub_venue_acronym": "FRAI",
   "pub_authors": "Talamini, Jacopo; Medvet, Eric; Nichele, Stefano",
   "pub_doi": "10.3389/frobt.2021.673156",
   "pub_publisher_url": "https://www.frontiersin.org/articles/10.3389/frobt.2021.673156/full",

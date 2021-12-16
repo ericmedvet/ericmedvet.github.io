@@ -1,6 +1,6 @@
 {
   "title": "Semisupervised Wrapper Choice and Generation for Print-Oriented Documents",
-  "pub_year": 2012,
+  "pub_year": 2014,
   "pub_type": "Journal",
   "pub_venue_name": "IEEE Transactions on Knowledge and Data Engineering",
   "pub_venue_acronym": "TKDE",

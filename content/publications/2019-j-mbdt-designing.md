@@ -1,6 +1,6 @@
 {
   "title": "Designing Automatically a Representation for Grammatical Evolution",
-  "pub_year": 2018,
+  "pub_year": 2019,
   "pub_type": "Journal",
   "pub_venue_name": "Genetic Programming and Evolvable Machines",
   "pub_venue_acronym": "GENP",

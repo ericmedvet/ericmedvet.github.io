@@ -1,6 +1,6 @@
 {
   "title": "Genetic programming in the 21st century: a bibliometric and content-based analysis from both sides of the fence",
-  "pub_year": 2019,
+  "pub_year": 2020,
   "pub_type": "Journal",
   "pub_venue_name": "Genetic Programming and Evolvable Machines",
   "pub_venue_acronym": "GENP",

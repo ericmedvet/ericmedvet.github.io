@@ -5,7 +5,7 @@
   "pub_venue_name": "Fuzzy Systems and Data Mining",
   "pub_venue_number": "5th",
   "pub_venue_acronym": "FSDM",
-  "pub_location_city": "Kyta-Kiushu",
+  "pub_location_city": "Kita-Kyushu",
   "pub_location_country": "Japan",
   "pub_authors": "Bartoli, Alberto; Medvet, Eric; De Lorenzo, Andrea; Tarlao, Fabiano",
   "pub_doi": "10.3233/FAIA190232",
