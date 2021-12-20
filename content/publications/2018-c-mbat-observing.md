@@ -1,6 +1,7 @@
 {
   "title": "Observing the Population Dynamics in GE by means of the Intrinsic Dimension",
   "pub_year": 2018,
+  "pub_accept_year": 2018,
   "pub_type": "Conference",
   "pub_venue_name": "Evolutionary Machine Learning workshop at International Conference on Parallel Problem Solving from Nature",
   "pub_venue_acronym": "EML@PPSN",

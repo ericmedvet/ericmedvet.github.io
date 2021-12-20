@@ -1,6 +1,7 @@
 {
   "title": "Publication Venue Recommendation based on Paper Abstract",
   "pub_year": 2014,
+  "pub_accept_year": 2014,
   "pub_type": "Conference",
   "pub_venue_name": "IEEE International Conference on Tools with Artificial Intelligence",
   "pub_venue_acronym": "ICTAI",

@@ -1,6 +1,7 @@
 {
   "title": "Evolutionary Synthesis of Sensing Controllers for Voxel-based Soft Robots",
   "pub_year": 2019,
+  "pub_accept_year": 2019,
   "pub_type": "Conference",
   "pub_venue_name": "Annual Conference on Artificial Life",
   "pub_venue_number": "2nd",

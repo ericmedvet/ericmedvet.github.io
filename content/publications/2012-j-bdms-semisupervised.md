@@ -1,6 +1,7 @@
 {
   "title": "Semisupervised Wrapper Choice and Generation for Print-Oriented Documents",
   "pub_year": 2014,
+  "pub_accept_year": 2012,
   "pub_type": "Journal",
   "pub_venue_name": "IEEE Transactions on Knowledge and Data Engineering",
   "pub_venue_acronym": "TKDE",
@@ -8,6 +9,9 @@
   "pub_doi": "10.1109/TKDE.2012.254",
   "pub_publisher_url": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6399473",
   "pub_fulltext_url": "https://drive.google.com/file/d/11_mMNG9Gwieq1GvPwdungkUrnDc6H81z/view",
+  "pub_venue_rank": "Q1",
+  "pub_venue_rank_subject": "Computer Science Applications",
+  "pub_venue_rank_source": "scopus",
   "pub_important": false
 }
 

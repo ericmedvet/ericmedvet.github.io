@@ -1,6 +1,7 @@
 {
   "title": "GraphEA: a Versatile Representation and Evolutionary Algorithm for Graphs",
   "pub_year": 2020,
+  "pub_accept_year": 2020,
   "pub_type": "Conference",
   "pub_venue_name": "Workshop on Evolutionary and Population-based Optimization",
   "pub_venue_acronym": "WEPO@AIxIA",

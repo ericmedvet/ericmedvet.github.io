@@ -1,6 +1,7 @@
 {
   "title": "Biodiversity in Evolved Voxel-based Soft Robots",
   "pub_year": 2021,
+  "pub_accept_year": 2021,
   "pub_type": "Conference",
   "pub_venue_name": "ACM Genetic and Evolutionary Computation Conference",
   "pub_venue_acronym": "GECCO",

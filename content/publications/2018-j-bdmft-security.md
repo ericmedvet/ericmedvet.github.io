@@ -1,6 +1,7 @@
 {
   "title": "A Security-Oriented Analysis of Web Inclusions in the Italian Public Administration",
   "pub_year": 2018,
+  "pub_accept_year": 2018,
   "pub_type": "Journal",
   "pub_venue_name": "Cybernetics and Information Technologies",
   "pub_venue_acronym": "CIT",
@@ -8,6 +9,9 @@
   "pub_doi": "10.2478/cait-2018-0050",
   "pub_publisher_url": "https://content.sciendo.com/downloadpdf/journals/cait/18/4/article-p94.xml",
   "pub_fulltext_url": "https://drive.google.com/file/d/1r5tzpsAb1K3fQ1X1TdmYvmUIKh7SlhDC/view",
+  "pub_venue_rank": "Q2",
+  "pub_venue_rank_subject": "General Computer Science",
+  "pub_venue_rank_source": "scopus",
   "pub_important": false
 }
 

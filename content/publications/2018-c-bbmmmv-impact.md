@@ -1,6 +1,7 @@
 {
   "title": "Impact of Code Obfuscation on Android Malware Detection based on Static and Dynamic Analysis",
   "pub_year": 2018,
+  "pub_accept_year": 2018,
   "pub_type": "Conference",
   "pub_venue_name": "International Conference on Information Systems Security and Privacy",
   "pub_venue_acronym": "ICISSP",

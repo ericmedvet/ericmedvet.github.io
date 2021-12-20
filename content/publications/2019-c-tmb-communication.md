@@ -1,6 +1,7 @@
 {
   "title": "Communication-based Cooperative Tasks: how the Language Expressiveness affects Reinforcement Learning",
   "pub_year": 2019,
+  "pub_accept_year": 2019,
   "pub_type": "Conference",
   "pub_venue_name": "ACM/SIGAPP Symposium on Applied Computing",
   "pub_venue_number": "34th",

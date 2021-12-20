@@ -1,12 +1,16 @@
 {
   "title": "Mining Road Traffic Rules with Signal Temporal Logic and Grammar-based Genetic Programming",
   "pub_year": 2021,
+  "pub_accept_year": 2021,
   "pub_type": "Journal",
   "pub_venue_name": "Applied Sciences",
   "pub_authors": "Pigozzi, Federico; Medvet, Eric; Nenzi, Laura",
   "pub_doi": "10.3390/app112210573",
   "pub_publisher_url": "https://www.mdpi.com/2076-3417/11/22/10573",
   "pub_fulltext_url": "https://drive.google.com/file/d/19Wp4Aa5WQCACs1TPdewYlmXyzi5A7qT4/view",
+  "pub_venue_rank": "Q2",
+  "pub_venue_rank_subject": "Computer Science Applications",
+  "pub_venue_rank_source": "scimagojr",
   "pub_important": false
 }
 

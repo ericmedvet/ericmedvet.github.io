@@ -1,6 +1,7 @@
 {
   "title": "Active Learning of Predefined Models for Information Extraction: Selecting Regular Expressions from Examples",
   "pub_year": 2019,
+  "pub_accept_year": 2019,
   "pub_type": "Conference",
   "pub_venue_name": "Fuzzy Systems and Data Mining",
   "pub_venue_number": "5th",

@@ -1,6 +1,7 @@
 {
   "title": "On the Effects of Learning Set Corruption in Anomaly-based Detection of Web Defacements",
   "pub_year": 2007,
+  "pub_accept_year": 2007,
   "pub_type": "Conference",
   "pub_venue_name": "International Conference on Detection of Intrusion & Malware and Vulnerability Assessment",
   "pub_venue_number": "4th",

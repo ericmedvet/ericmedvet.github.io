@@ -1,6 +1,7 @@
 {
   "title": "Exploring the usage of Topic Modeling for Android Malware Static Analysis",
   "pub_year": 2016,
+  "pub_accept_year": 2016,
   "pub_type": "Conference",
   "pub_venue_name": "International Workshop on Malware Analysis",
   "pub_venue_number": "1st",

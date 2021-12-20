@@ -1,6 +1,7 @@
 {
   "title": "Mechanisms of Social Learning in Evolved Artificial Life",
   "pub_year": 2020,
+  "pub_accept_year": 2020,
   "pub_type": "Conference",
   "pub_venue_name": "Annual Conference on Artificial Life",
   "pub_venue_number": "3rd",

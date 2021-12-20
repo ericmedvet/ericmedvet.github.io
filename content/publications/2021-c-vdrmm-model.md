@@ -1,6 +1,7 @@
 {
   "title": "Model Learning with Personalized Interpretability Estimation (ML-PIE)",
   "pub_year": 2021,
+  "pub_accept_year": 2021,
   "pub_type": "Conference",
   "pub_venue_name": "Workshop on Evolutionary Computation and Decision Making",
   "pub_venue_acronym": "EC+DM@GECCO",

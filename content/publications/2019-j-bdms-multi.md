@@ -1,6 +1,7 @@
 {
   "title": "Multi-level Diversity Promotion Strategies for Grammar-guided Genetic Programming",
   "pub_year": 2019,
+  "pub_accept_year": 2019,
   "pub_type": "Journal",
   "pub_venue_name": "Applied Soft Computing",
   "pub_venue_acronym": "ASOC",
@@ -8,6 +9,9 @@
   "pub_doi": "10.1016/j.asoc.2019.105599",
   "pub_publisher_url": "https://www.sciencedirect.com/science/article/pii/S1568494619303795",
   "pub_fulltext_url": "https://drive.google.com/file/d/1ToT5XLIa3buN-JZkD3f2oN1fUf_r2t3D/view",
+  "pub_venue_rank": "Q1",
+  "pub_venue_rank_subject": "Software",
+  "pub_venue_rank_source": "scopus",
   "pub_important": false
 }
 

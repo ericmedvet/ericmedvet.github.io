@@ -1,12 +1,16 @@
 {
   "title": "2D-VSR-Sim: a Simulation Tool for the Optimization of 2-D Voxel-based Soft Robots",
   "pub_year": 2020,
+  "pub_accept_year": 2020,
   "pub_type": "Journal",
   "pub_venue_name": "SoftwareX",
   "pub_authors": "Medvet, Eric; Bartoli, Alberto; De Lorenzo, Andrea; Seriani, Stefano",
   "pub_doi": "10.1016/j.softx.2020.100573",
   "pub_publisher_url": "https://authors.elsevier.com/sd/article/S2352711020302867",
   "pub_fulltext_url": "https://drive.google.com/file/d/1yhN5-p7X1I6VEouFo_ha9VpN5t8Cy_jI/view",
+  "pub_venue_rank": "Q2",
+  "pub_venue_rank_subject": "Computer Science Applications",
+  "pub_venue_rank_source": "scopus",
   "pub_important": true
 }
 

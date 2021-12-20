@@ -1,6 +1,7 @@
 {
   "title": "On the Automatic Construction of Regular Expressions from Examples (GP vs. Humans 1-0)",
   "pub_year": 2016,
+  "pub_accept_year": 2016,
   "pub_type": "Conference",
   "pub_venue_name": "ACM Genetic and Evolutionary Computation Conference",
   "pub_venue_acronym": "GECCO",

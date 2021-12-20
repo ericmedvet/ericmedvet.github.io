@@ -1,6 +1,7 @@
 {
   "title": "Specializing Context-Free Grammars with a (1+1)-EA",
   "pub_year": 2020,
+  "pub_accept_year": 2020,
   "pub_type": "Journal",
   "pub_venue_name": "IEEE Transactions on Evolutionary Computation",
   "pub_venue_acronym": "TEVC",
@@ -8,6 +9,9 @@
   "pub_doi": "10.1109/TEVC.2020.2983664",
   "pub_publisher_url": "https://ieeexplore.ieee.org/document/9047973",
   "pub_fulltext_url": "https://drive.google.com/file/d/1XpjV1ISpvo_HcBZVKPH5wC5ceVZpCoU0/view",
+  "pub_venue_rank": "Q1",
+  "pub_venue_rank_subject": "Software",
+  "pub_venue_rank_source": "scopus",
   "pub_important": true
 }
 

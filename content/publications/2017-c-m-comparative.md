@@ -1,6 +1,7 @@
 {
   "title": "A Comparative Analysis of Dynamic Locality and Redundancy in Grammatical Evolution",
   "pub_year": 2017,
+  "pub_accept_year": 2017,
   "pub_type": "Conference",
   "pub_venue_name": "European Conference on Genetic Programming",
   "pub_venue_number": "20th",

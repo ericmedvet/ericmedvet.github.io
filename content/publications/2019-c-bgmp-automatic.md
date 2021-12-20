@@ -1,6 +1,7 @@
 {
   "title": "Automatic Translation of Spatio-Temporal Logics to Streaming-Based Monitoring Applications for IoT-Equipped Autonomous Agents",
   "pub_year": 2019,
+  "pub_accept_year": 2019,
   "pub_type": "Conference",
   "pub_venue_name": "International Workshop on Middleware and Applications for the Internet of Things",
   "pub_venue_number": "6th",

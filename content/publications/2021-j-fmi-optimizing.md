@@ -1,6 +1,7 @@
 {
   "title": "Optimizing the Sensory Apparatus of Voxel-based Soft Robots through Evolution and Babbling",
   "pub_year": 2021,
+  "pub_accept_year": 2021,
   "pub_type": "Journal",
   "pub_venue_name": "Springer Nature Computer Science",
   "pub_authors": "Ferigo, Andrea; Medvet, Eric; Iacca, Giovanni",

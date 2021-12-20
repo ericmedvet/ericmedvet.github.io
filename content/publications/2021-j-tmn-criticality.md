@@ -1,6 +1,7 @@
 {
   "title": "Criticality-driven Evolution of Adaptable Morphologies of Voxel-Based Soft-Robots",
   "pub_year": 2021,
+  "pub_accept_year": 2021,
   "pub_type": "Journal",
   "pub_venue_name": "Frontiers in Robotics and AI",
   "pub_venue_acronym": "FRAI",
@@ -8,6 +9,9 @@
   "pub_doi": "10.3389/frobt.2021.673156",
   "pub_publisher_url": "https://www.frontiersin.org/articles/10.3389/frobt.2021.673156/full",
   "pub_fulltext_url": "https://drive.google.com/file/d/1UtDszEvpUdqnuPWiF1Z2_AiEsDo2lx3R/view",
+  "pub_venue_rank": "Q2",
+  "pub_venue_rank_subject": "Artificial Intelligence",
+  "pub_venue_rank_source": "scimagojr",
   "pub_important": true
 }
 

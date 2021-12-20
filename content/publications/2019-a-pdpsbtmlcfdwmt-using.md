@@ -1,6 +1,7 @@
 {
   "title": "Using machine learning tools to predict prostate cancer upgrading after robotic radical prostatectomy",
   "pub_year": 2019,
+  "pub_accept_year": 2019,
   "pub_type": "Abstract",
   "pub_venue_name": "European Urology Supplements",
   "pub_authors": "Panfilo, Daniele; De Nunzio, Cosimo; Pastore, Antonio Luigi; Saccani, Sebastiano; Boudewijn, Alexander; Tortella, Pietro; Mattioli, Manuela; Lombardo, Riccardo; Carbone, A; Fuschi, Andrea; Dutto, Lorenzo; Witt, Jorn H; Medvet, Eric; Tubaro, Andrea",

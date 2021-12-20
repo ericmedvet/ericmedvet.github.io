@@ -1,6 +1,7 @@
 {
   "title": "Anomaly Detection Techniques for a Web Defacement Monitoring Service",
   "pub_year": 2011,
+  "pub_accept_year": 2011,
   "pub_type": "Journal",
   "pub_venue_name": "Expert Systems with Applications",
   "pub_venue_acronym": "ESWA",
@@ -8,6 +9,9 @@
   "pub_doi": "10.1016/j.eswa.2011.04.038",
   "pub_publisher_url": "http://www.sciencedirect.com/science/article/pii/S0957417411005549",
   "pub_fulltext_url": "https://drive.google.com/file/d/1AZdUm_1uKaJe1jd1kJg0QRtyMgc5xjTK/view",
+  "pub_venue_rank": "Q1",
+  "pub_venue_rank_subject": "Artificial Intelligence",
+  "pub_venue_rank_source": "scopus",
   "pub_important": false
 }
 

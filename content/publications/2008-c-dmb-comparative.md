@@ -1,6 +1,7 @@
 {
   "title": "A Comparative Study of Anomaly Detection Techniques in Web Site Defacement Detection",
   "pub_year": 2008,
+  "pub_accept_year": 2008,
   "pub_type": "Conference",
   "pub_venue_name": "IFIP International Information Security Conference",
   "pub_venue_number": "23rd",

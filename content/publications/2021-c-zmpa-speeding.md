@@ -1,6 +1,7 @@
 {
   "title": "Speeding-up pruning for Artificial Neural Networks: Introducing Accelerated Iterative Magnitude Pruning",
   "pub_year": 2021,
+  "pub_accept_year": 2021,
   "pub_type": "Conference",
   "pub_venue_name": "International Conference on Pattern Recognition",
   "pub_venue_number": "25th",

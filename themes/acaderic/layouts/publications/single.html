@@ -23,6 +23,7 @@
         {{- with .Params.pub_venue_acronym}} ({{.}}){{end -}}
       </strong>
       {{- with .Params.pub_location_city}}, held in {{.}} ({{$.Params.pub_location_country}}){{end -}}
+      {{- with .Params.pub_venue_rank}}<br>(rank <strong title="According to {{$.Params.pub_venue_rank_source | humanize}}">{{$.Params.pub_venue_rank}}</strong> in {{$.Params.pub_venue_rank_subject}}){{end -}}
     </p>
 
     <h5>Year:</h5>

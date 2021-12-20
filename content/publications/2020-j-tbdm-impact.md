@@ -1,12 +1,16 @@
 {
   "title": "On the Impact of the Rules on Autonomous Drive Learning",
   "pub_year": 2020,
+  "pub_accept_year": 2020,
   "pub_type": "Journal",
   "pub_venue_name": "Applied Sciences",
   "pub_authors": "Talamini, Jacopo; Bartoli, Alberto; De Lorenzo, Andrea; Medvet, Eric",
   "pub_doi": "10.3390/app10072394",
   "pub_publisher_url": "https://www.mdpi.com/2076-3417/10/7/2394",
   "pub_fulltext_url": "https://drive.google.com/file/d/1Wgr-LXdvSPmnXmPMOMNkrAcIRW9CNwEO/view",
+  "pub_venue_rank": "Q2",
+  "pub_venue_rank_subject": "Computer Science Applications",
+  "pub_venue_rank_source": "scopus",
   "pub_important": false
 }
 

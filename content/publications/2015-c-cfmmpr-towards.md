@@ -1,6 +1,7 @@
 {
   "title": "Towards More Natural Social Interactions of Visually Impaired Persons",
   "pub_year": 2015,
+  "pub_accept_year": 2015,
   "pub_type": "Conference",
   "pub_venue_name": "Advanced Concepts for Intelligent Vision Systems",
   "pub_venue_acronym": "ACIVS",

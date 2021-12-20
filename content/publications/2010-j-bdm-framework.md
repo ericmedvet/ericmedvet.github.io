@@ -1,6 +1,7 @@
 {
   "title": "A Framework for Large-Scale Detection of Web Site Defacements",
   "pub_year": 2010,
+  "pub_accept_year": 2010,
   "pub_type": "Journal",
   "pub_venue_name": "ACM Transaction on Internet Technology",
   "pub_venue_acronym": "TOIT",
@@ -8,6 +9,9 @@
   "pub_doi": "10.1145/1852096.1852098",
   "pub_publisher_url": "http://dl.acm.org/citation.cfm?id=1852098",
   "pub_fulltext_url": "https://drive.google.com/file/d/1l3MQY23pK-E773aZOBYUh4Vl4aFaPxOx/view",
+  "pub_venue_rank": "Q1",
+  "pub_venue_rank_subject": "Computer Networks and Communications",
+  "pub_venue_rank_source": "scopus",
   "pub_important": false
 }
 

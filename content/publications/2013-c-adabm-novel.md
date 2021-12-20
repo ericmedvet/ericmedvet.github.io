@@ -1,6 +1,7 @@
 {
   "title": "A Novel Estimation Methodology for Tracheal Pressure in Mechanical Ventilation Control",
   "pub_year": 2013,
+  "pub_accept_year": 2013,
   "pub_type": "Conference",
   "pub_venue_name": "International Symposium on Image and Signal Processing and Analysis",
   "pub_venue_number": "8th",

@@ -1,6 +1,7 @@
 {
   "title": "Detection of Hidden Fraudulent URLs within Trusted Sites using Lexical Features",
   "pub_year": 2013,
+  "pub_accept_year": 2013,
   "pub_type": "Conference",
   "pub_venue_name": "International Conference on Availability, Reliability and Security",
   "pub_venue_number": "8th",

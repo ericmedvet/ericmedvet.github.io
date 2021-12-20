@@ -1,6 +1,7 @@
 {
   "title": "Detection of Web Defacements by means of Genetic Programming",
   "pub_year": 2007,
+  "pub_accept_year": 2007,
   "pub_type": "Conference",
   "pub_venue_name": "IEEE International Symposium on Information Assurance and Security",
   "pub_venue_number": "3rd",

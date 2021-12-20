@@ -1,6 +1,7 @@
 {
   "title": "Automatic Generation of Regular Expressions from Examples with Genetic Programming",
   "pub_year": 2012,
+  "pub_accept_year": 2012,
   "pub_type": "Conference",
   "pub_venue_name": "ACM Genetic and Evolutionary Computation Conference",
   "pub_venue_acronym": "GECCO",

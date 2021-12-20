@@ -1,6 +1,7 @@
 {
   "title": "A Probabilistic Approach to Printed Document Understanding",
   "pub_year": 2011,
+  "pub_accept_year": 2011,
   "pub_type": "Journal",
   "pub_venue_name": "International Journal of Document Analysis and Recognition",
   "pub_venue_acronym": "IJDAR",
@@ -8,6 +9,9 @@
   "pub_doi": "10.1007/s10032-010-0137-1",
   "pub_publisher_url": "http://link.springer.com/article/10.1007/s10032-010-0137-1",
   "pub_fulltext_url": "https://drive.google.com/file/d/1Ji64SdfCWw-eTKfpDDLMmEB3xAdqG19x/view",
+  "pub_venue_rank": "Q1",
+  "pub_venue_rank_subject": "Computer Science Applications",
+  "pub_venue_rank_source": "scopus",
   "pub_important": false
 }
 

@@ -1,6 +1,7 @@
 {
   "title": "Computer Vision for the Blind: a Comparison of Face Detectors in a Relevant Scenario",
   "pub_year": 2016,
+  "pub_accept_year": 2016,
   "pub_type": "Conference",
   "pub_venue_name": "EAI International Conference on Smart Objects and Technologies for Social Good",
   "pub_venue_number": "2nd",

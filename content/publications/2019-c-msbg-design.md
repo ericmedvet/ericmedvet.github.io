@@ -1,6 +1,7 @@
 {
   "title": "Design of Powered Floor Systems for Mobile Robots with Differential Evolution",
   "pub_year": 2019,
+  "pub_accept_year": 2019,
   "pub_type": "Conference",
   "pub_venue_name": "European Conference on the Applications of Evolutionary Computation",
   "pub_venue_number": "22nd",

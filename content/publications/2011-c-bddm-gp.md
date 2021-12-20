@@ -1,6 +1,7 @@
 {
   "title": "GP-based Electricity Price Forecasting",
   "pub_year": 2011,
+  "pub_accept_year": 2011,
   "pub_type": "Conference",
   "pub_venue_name": "European Conference on Genetic Programming",
   "pub_venue_number": "14th",

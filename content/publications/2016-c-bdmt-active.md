@@ -1,6 +1,7 @@
 {
   "title": "Active Learning Approaches for Learning Regular Expressions with Genetic Programming",
   "pub_year": 2016,
+  "pub_accept_year": 2016,
   "pub_type": "Conference",
   "pub_venue_name": "ACM/SIGAPP Symposium on Applied Computing",
   "pub_venue_number": "31st",

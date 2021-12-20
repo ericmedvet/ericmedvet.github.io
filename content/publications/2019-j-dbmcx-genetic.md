@@ -1,6 +1,7 @@
 {
   "title": "Genetic programming in the 21st century: a bibliometric and content-based analysis from both sides of the fence",
   "pub_year": 2020,
+  "pub_accept_year": 2019,
   "pub_type": "Journal",
   "pub_venue_name": "Genetic Programming and Evolvable Machines",
   "pub_venue_acronym": "GENP",
@@ -8,6 +9,9 @@
   "pub_doi": "10.1007/s10710-019-09363-3",
   "pub_publisher_url": "https://link.springer.com/article/10.1007%2Fs10710-019-09363-3",
   "pub_fulltext_url": "https://rdcu.be/bL37X",
+  "pub_venue_rank": "Q2",
+  "pub_venue_rank_subject": "Computer Science Applications",
+  "pub_venue_rank_source": "scopus",
   "pub_important": true
 }
 

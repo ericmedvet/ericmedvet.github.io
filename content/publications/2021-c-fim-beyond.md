@@ -1,6 +1,7 @@
 {
   "title": "Beyond Body Shape and Brain: Evolving the Sensory Apparatus of Voxel-based Soft Robots",
   "pub_year": 2021,
+  "pub_accept_year": 2021,
   "pub_type": "Conference",
   "pub_venue_name": "European Conference on the Applications of Evolutionary Computation",
   "pub_venue_number": "24th",

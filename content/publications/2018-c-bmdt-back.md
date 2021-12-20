@@ -1,6 +1,7 @@
 {
   "title": "Back To The Basics: Security of Software Downloads for Smart Objects",
   "pub_year": 2018,
+  "pub_accept_year": 2018,
   "pub_type": "Conference",
   "pub_venue_name": "EAI International Conference on Smart Objects and Technologies for Social Good",
   "pub_venue_number": "4th",

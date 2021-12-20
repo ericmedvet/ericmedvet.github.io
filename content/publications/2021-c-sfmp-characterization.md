@@ -1,6 +1,7 @@
 {
   "title": "Characterization of Modeling Errors Affecting Performances of a Robotics Deep Reinforcement Learning Controller in a Sim-to-Real Transfer",
   "pub_year": 2021,
+  "pub_accept_year": 2021,
   "pub_type": "Conference",
   "pub_venue_name": "International Convention on Information, Communication and Electronic Technology",
   "pub_venue_number": "44th",

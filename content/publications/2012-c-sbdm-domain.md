@@ -1,6 +1,7 @@
 {
   "title": "A Domain Knowledge-based Approach for Automatic Correction of Printed Invoices",
   "pub_year": 2012,
+  "pub_accept_year": 2012,
   "pub_type": "Conference",
   "pub_venue_name": "IEEE International Conference on Information Society",
   "pub_venue_acronym": "iSociety",

@@ -1,6 +1,7 @@
 {
   "title": "Evolutionary Optimization of Graphs with GraphEA",
   "pub_year": 2021,
+  "pub_accept_year": 2021,
   "pub_type": "Conference",
   "pub_venue_name": "International Conference of the Italian Association for Artificial Intelligence",
   "pub_venue_number": "19th",

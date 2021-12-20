@@ -1,6 +1,7 @@
 {
   "title": "Data Quality Challenge: Toward a tool for string processing by examples",
   "pub_year": 2015,
+  "pub_accept_year": 2015,
   "pub_type": "Journal",
   "pub_venue_name": "ACM Journal of Data and Information Quality",
   "pub_venue_acronym": "JDIQ",
@@ -8,6 +9,9 @@
   "pub_doi": "10.1145/2786983",
   "pub_publisher_url": "http://dl.acm.org/citation.cfm?id=2786983",
   "pub_fulltext_url": "https://drive.google.com/file/d/1p4FNs-MZfH-anS4dDh5Ju6qLXN1QSTih/view",
+  "pub_venue_rank": "Q2",
+  "pub_venue_rank_subject": "Information Systems",
+  "pub_venue_rank_source": "scopus",
   "pub_important": false
 }
 

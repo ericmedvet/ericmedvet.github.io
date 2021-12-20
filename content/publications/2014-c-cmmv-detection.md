@@ -1,6 +1,7 @@
 {
   "title": "Detection of Malicious Web Pages using System Calls Sequences",
   "pub_year": 2014,
+  "pub_accept_year": 2014,
   "pub_type": "Conference",
   "pub_venue_name": "IFIP International Workshop on Security and Cognitive Informatics for Homeland Defense",
   "pub_venue_number": "4th",

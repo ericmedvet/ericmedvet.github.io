@@ -1,6 +1,7 @@
 {
   "title": "Active Learning of Regular Expressions for Entity Extraction",
   "pub_year": 2018,
+  "pub_accept_year": 2018,
   "pub_type": "Journal",
   "pub_venue_name": "IEEE Transactions on Cybernetics",
   "pub_venue_acronym": "TCyb",
@@ -8,6 +9,9 @@
   "pub_doi": "10.1109/TCYB.2017.2680466",
   "pub_publisher_url": "http://ieeexplore.ieee.org/document/7886274/",
   "pub_fulltext_url": "https://drive.google.com/file/d/10hl-2WYjz3J9k5b2A2NLrODpaiPd3-Xg/view",
+  "pub_venue_rank": "Q1",
+  "pub_venue_rank_subject": "Information Systems",
+  "pub_venue_rank_source": "scopus",
   "pub_important": false
 }
 

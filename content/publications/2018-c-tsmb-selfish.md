@@ -1,6 +1,7 @@
 {
   "title": "Selfish vs. Global Behavior Promotion in Car Controller Evolution",
   "pub_year": 2018,
+  "pub_accept_year": 2018,
   "pub_type": "Conference",
   "pub_venue_name": "GECCO Workshop on Decomposition Techniques in Evolutionary Optimization",
   "pub_venue_number": "1st",

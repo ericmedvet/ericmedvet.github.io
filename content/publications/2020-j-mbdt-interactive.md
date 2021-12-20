@@ -1,6 +1,7 @@
 {
   "title": "Interactive Example-Based Finding of Text Items",
   "pub_year": 2020,
+  "pub_accept_year": 2020,
   "pub_type": "Journal",
   "pub_venue_name": "Expert Systems with Applications",
   "pub_venue_acronym": "ESWA",
@@ -8,6 +9,9 @@
   "pub_doi": "10.1016/j.eswa.2020.113403",
   "pub_publisher_url": "https://www.sciencedirect.com/science/article/abs/pii/S095741742030227X?via%3Dihub",
   "pub_fulltext_url": "https://drive.google.com/file/d/1zIsa_Nri4WZB6hxWZOap4Swp9893py5C/view",
+  "pub_venue_rank": "Q1",
+  "pub_venue_rank_subject": "Artificial Intelligence",
+  "pub_venue_rank_source": "scopus",
   "pub_important": false
 }
 

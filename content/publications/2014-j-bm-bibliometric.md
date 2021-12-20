@@ -1,6 +1,7 @@
 {
   "title": "Bibliometric Evaluation of Researchers in the Internet Age",
   "pub_year": 2014,
+  "pub_accept_year": 2014,
   "pub_type": "Journal",
   "pub_venue_name": "The Information Society Journal",
   "pub_venue_acronym": "TISJ",
@@ -8,6 +9,9 @@
   "pub_doi": "10.1080/01972243.2014.944731",
   "pub_publisher_url": "http://www.tandfonline.com/doi/abs/10.1080/01972243.2014.944731",
   "pub_fulltext_url": "https://drive.google.com/file/d/15SM2mCCBNn7iLyFtuYKmfTc_xjXFfOhL/view",
+  "pub_venue_rank": "Q1",
+  "pub_venue_rank_subject": "Political Science and International Relations",
+  "pub_venue_rank_source": "scopus",
   "pub_important": false
 }
 

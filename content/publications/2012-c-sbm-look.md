@@ -1,6 +1,7 @@
 {
   "title": "A Look at Hidden Web Pages in Italian Public Administrations",
   "pub_year": 2012,
+  "pub_accept_year": 2012,
   "pub_type": "Conference",
   "pub_venue_name": "International Conference On Computational Aspects of Social Networks",
   "pub_venue_number": "4th",

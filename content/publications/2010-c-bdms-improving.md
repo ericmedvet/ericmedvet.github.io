@@ -1,6 +1,7 @@
 {
   "title": "Improving Features Extraction for Supervised Invoice Classification",
   "pub_year": 2010,
+  "pub_accept_year": 2010,
   "pub_type": "Conference",
   "pub_venue_name": "IASTED International Conference on Artificial Intelligence and Applications",
   "pub_venue_number": "10th",

@@ -1,6 +1,7 @@
 {
   "title": "Predicting the Effectiveness of Pattern-based Entity Extractor Inference",
   "pub_year": 2016,
+  "pub_accept_year": 2016,
   "pub_type": "Journal",
   "pub_venue_name": "Applied Soft Computing",
   "pub_venue_acronym": "ASOC",
@@ -8,6 +9,9 @@
   "pub_doi": "10.1016/j.asoc.2016.05.023",
   "pub_publisher_url": "http://www.sciencedirect.com/science/article/pii/S1568494616302241",
   "pub_fulltext_url": "https://drive.google.com/file/d/1Q4YQQ_qlbKtw_wgMIV8-UQd9yETIbDR0/view",
+  "pub_venue_rank": "Q1",
+  "pub_venue_rank_subject": "Software",
+  "pub_venue_rank_source": "scopus",
   "pub_important": false
 }
 

@@ -1,6 +1,7 @@
 {
   "title": "Citation Counts and Evaluation of Researchers in the Internet Age",
   "pub_year": 2013,
+  "pub_accept_year": 2013,
   "pub_type": "Preprint",
   "pub_venue_name": "arXiv",
   "pub_authors": "Bartoli, Alberto; Medvet, Eric",

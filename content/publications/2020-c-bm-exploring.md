@@ -1,6 +1,7 @@
 {
   "title": "Exploring the potential of GPT-2 for generating fake reviews of research papers",
   "pub_year": 2020,
+  "pub_accept_year": 2020,
   "pub_type": "Conference",
   "pub_venue_name": "Fuzzy Systems and Data Mining",
   "pub_venue_number": "6th",

@@ -1,6 +1,7 @@
 {
   "title": "Evolutionary Learning of Syntax Patterns for Genic Interaction Extraction",
   "pub_year": 2015,
+  "pub_accept_year": 2015,
   "pub_type": "Conference",
   "pub_venue_name": "ACM Genetic and Evolutionary Computation Conference",
   "pub_venue_acronym": "GECCO",

@@ -1,6 +1,7 @@
 {
   "title": "Regex-based Entity Extraction with Active Learning and Genetic Programming",
   "pub_year": 2016,
+  "pub_accept_year": 2016,
   "pub_type": "Journal",
   "pub_venue_name": "ACM SIGAPP Applied Computing Review",
   "pub_venue_acronym": "ACR",

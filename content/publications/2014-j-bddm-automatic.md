@@ -1,12 +1,16 @@
 {
   "title": "Automatic Synthesis of Regular Expressions from Examples",
   "pub_year": 2014,
+  "pub_accept_year": 2014,
   "pub_type": "Journal",
   "pub_venue_name": "IEEE Computer",
   "pub_authors": "Bartoli, Alberto; Davanzo, Giorgio; De Lorenzo, Andrea; Medvet, Eric",
   "pub_doi": "10.1109/MC.2014.344",
   "pub_publisher_url": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6994453",
   "pub_fulltext_url": "https://drive.google.com/file/d/1LvFwcTHpUqXiG2j9Dv02sy4YaCCvJhNW/view",
+  "pub_venue_rank": "Q1",
+  "pub_venue_rank_subject": "General Computer Science",
+  "pub_venue_rank_source": "scopus",
   "pub_important": false
 }
 

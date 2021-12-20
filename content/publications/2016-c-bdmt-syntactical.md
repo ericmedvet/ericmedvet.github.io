@@ -1,6 +1,7 @@
 {
   "title": "Syntactical Similarity Learning by means of Grammatical Evolution",
   "pub_year": 2016,
+  "pub_accept_year": 2016,
   "pub_type": "Conference",
   "pub_venue_name": "International Conference on Parallel Problem Solving from Nature",
   "pub_venue_number": "14th",

@@ -1,6 +1,7 @@
 {
   "title": "Exploring the Application of GOMEA to Bit-string GE",
   "pub_year": 2018,
+  "pub_accept_year": 2018,
   "pub_type": "Conference",
   "pub_venue_name": "ACM Genetic and Evolutionary Computation Conference",
   "pub_venue_acronym": "GECCO",

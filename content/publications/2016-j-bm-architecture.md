@@ -1,6 +1,7 @@
 {
   "title": "An architecture for anonymous mobile coupons in a large network",
   "pub_year": 2016,
+  "pub_accept_year": 2016,
   "pub_type": "Journal",
   "pub_venue_name": "Journal of Computer Networks and Communications",
   "pub_venue_acronym": "JCNC",
@@ -8,6 +9,9 @@
   "pub_doi": "10.1155/2016/2349148",
   "pub_publisher_url": "https://www.hindawi.com/journals/jcnc/2016/2349148/",
   "pub_fulltext_url": "https://drive.google.com/file/d/1qX6iQmk9e86kM3pxfGdcxg_-LUPYYGQy/view",
+  "pub_venue_rank": "Q2",
+  "pub_venue_rank_subject": "Computer Networks and Communications",
+  "pub_venue_rank_source": "scopus",
   "pub_important": false
 }
 

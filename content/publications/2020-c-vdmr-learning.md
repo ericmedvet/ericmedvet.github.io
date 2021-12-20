@@ -1,6 +1,7 @@
 {
   "title": "Learning a Formula of Interpretability to Learn Interpretable Formulas",
   "pub_year": 2020,
+  "pub_accept_year": 2020,
   "pub_type": "Conference",
   "pub_venue_name": "International Conference on Parallel Problem Solving from Nature",
   "pub_venue_number": "16th",

@@ -1,6 +1,7 @@
 {
   "title": "Open World Classification of Printed Invoices",
   "pub_year": 2010,
+  "pub_accept_year": 2010,
   "pub_type": "Conference",
   "pub_venue_name": "ACM Symposium on Document Engineering",
   "pub_venue_number": "10th",

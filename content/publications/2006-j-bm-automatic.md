@@ -1,6 +1,7 @@
 {
   "title": "Automatic Integrity Checks for Remote Web Site Defacements",
   "pub_year": 2006,
+  "pub_accept_year": 2006,
   "pub_type": "Journal",
   "pub_venue_name": "IEEE Internet Computing",
   "pub_venue_acronym": "IC",
@@ -8,6 +9,9 @@
   "pub_doi": "10.1109/MIC.2006.117",
   "pub_publisher_url": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=4012596",
   "pub_fulltext_url": "https://drive.google.com/file/d/1ui3-Ei_9hY5WSyO5hr69BtdKeaBaZn9G/view",
+  "pub_venue_rank": "Q1",
+  "pub_venue_rank_subject": "Computer Networks and Communications",
+  "pub_venue_rank_source": "scopus",
   "pub_important": false
 }
 

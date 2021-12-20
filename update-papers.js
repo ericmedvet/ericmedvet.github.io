@@ -8,6 +8,7 @@ const sw = require("stopword"); //requires `npm i stopword`
 const fieldMap = {
   Title: "title",
   Year: "pub_year",
+  AcceptanceYear: "pub_accept_year",
   Type: "pub_type",
   VenueName: "pub_venue_name",
   VenueNumber: "pub_venue_number",
@@ -20,7 +21,10 @@ const fieldMap = {
   PublisherUrl: "pub_publisher_url",
   FullTextUrl: "pub_fulltext_url",
   SlidesUrl: "pub_slides_url",
-  VideoUrl: "pub_video_url"
+  VideoUrl: "pub_video_url",
+  VenueRank: "pub_venue_rank",
+  VenueRankSubjectCategory: "pub_venue_rank_subject",
+  VenueRankSource: "pub_venue_rank_source"
 };
 const authorsFieldName = "Authors";
 const abstractFieldName = "Abstract";
@@ -79,7 +83,7 @@ var buildAndSaveFiles = function(entries) {
       string += otherText;
     }
     var pubFileName =
-      metaData.pub_year +
+      metaData.pub_accept_year +
       "-" +
       metaData.pub_type.toLowerCase().replace(/ /g, "").trim().substring(0, 1) +
       "-";

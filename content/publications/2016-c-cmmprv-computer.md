@@ -1,6 +1,7 @@
 {
   "title": "Computer Vision for the blind: a dataset for experiments on face detection and recognition",
   "pub_year": 2016,
+  "pub_accept_year": 2016,
   "pub_type": "Conference",
   "pub_venue_name": "International Convention on Information and Communication Technology, Electronics and Microelectronics",
   "pub_venue_number": "39th",

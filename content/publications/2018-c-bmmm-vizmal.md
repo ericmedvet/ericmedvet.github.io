@@ -1,6 +1,7 @@
 {
   "title": "VizMal: A Visualization Tool for Analyzing the Behavior of Android Malware",
   "pub_year": 2018,
+  "pub_accept_year": 2018,
   "pub_type": "Conference",
   "pub_venue_name": "International Workshop on FORmal methods for Security Engineering",
   "pub_venue_acronym": "ForSE",

@@ -1,6 +1,7 @@
 {
   "title": "Evil Twins and WPA2 Enterprise: A Coming Security Disaster?",
   "pub_year": 2018,
+  "pub_accept_year": 2018,
   "pub_type": "Journal",
   "pub_venue_name": "Computers & Security",
   "pub_venue_acronym": "CS",
@@ -8,6 +9,9 @@
   "pub_doi": "10.1016/j.cose.2017.12.011",
   "pub_publisher_url": "https://www.sciencedirect.com/science/article/pii/S0167404817302808#",
   "pub_fulltext_url": "https://drive.google.com/file/d/1-CFafEdTMJEbHEbeln8vxq3MVKxgi0eP/view",
+  "pub_venue_rank": "Q1",
+  "pub_venue_rank_subject": "General Computer Science",
+  "pub_venue_rank_source": "scopus",
   "pub_important": false
 }
 

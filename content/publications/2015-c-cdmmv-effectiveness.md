@@ -1,6 +1,7 @@
 {
   "title": "Effectiveness of Opcode ngrams for Detection of Multi Family Android Malware",
   "pub_year": 2015,
+  "pub_accept_year": 2015,
   "pub_type": "Conference",
   "pub_venue_name": "International Workshop on Security of Mobile Applications",
   "pub_venue_number": "4th",

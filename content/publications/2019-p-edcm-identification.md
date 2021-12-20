@@ -1,6 +1,7 @@
 {
   "title": "Identification of Near Fault Pulse Shaped Signals With Machine Learning Algorithms",
   "pub_year": 2019,
+  "pub_accept_year": 2019,
   "pub_type": "Poster",
   "pub_venue_name": "EGU General Assembly",
   "pub_location_city": "Vienna",

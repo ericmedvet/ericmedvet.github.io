@@ -1,6 +1,7 @@
 {
   "title": "Road Traffic Rules Synthesis using Grammatical Evolution",
   "pub_year": 2017,
+  "pub_accept_year": 2017,
   "pub_type": "Conference",
   "pub_venue_name": "European Conference on the Applications of Evolutionary Computation",
   "pub_venue_number": "20th",

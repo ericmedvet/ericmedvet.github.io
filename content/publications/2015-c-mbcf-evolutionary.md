@@ -1,6 +1,7 @@
 {
   "title": "Evolutionary Inference of Attribute-based Access Control Policies",
   "pub_year": 2015,
+  "pub_accept_year": 2015,
   "pub_type": "Conference",
   "pub_venue_name": "International Conference on Evolutionary Multi-Criterion Optimization",
   "pub_venue_number": "8th",

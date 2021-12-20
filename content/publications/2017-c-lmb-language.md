@@ -1,6 +1,7 @@
 {
   "title": "A Language for UAV Traffic Rules in an Urban Environment and Decentralized Scenario",
   "pub_year": 2017,
+  "pub_accept_year": 2017,
   "pub_type": "Conference",
   "pub_venue_name": "IEEE International Conference on Tools with Artificial Intelligence",
   "pub_venue_acronym": "ICTAI",

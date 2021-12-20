@@ -1,6 +1,7 @@
 {
   "title": "Detecting Android Malware using Sequences of System Calls",
   "pub_year": 2015,
+  "pub_accept_year": 2015,
   "pub_type": "Conference",
   "pub_venue_name": "International Workshop on Software Development Lifecycle for Mobile",
   "pub_venue_number": "3rd",

@@ -1,6 +1,7 @@
 {
   "title": "Weighted Hierarchical Grammatical Evolution",
   "pub_year": 2020,
+  "pub_accept_year": 2018,
   "pub_type": "Journal",
   "pub_venue_name": "IEEE Transactions on Cybernetics",
   "pub_venue_acronym": "TCyb",
@@ -8,6 +9,9 @@
   "pub_doi": "10.1109/TCYB.2018.2876563",
   "pub_publisher_url": "https://ieeexplore.ieee.org/document/8525307",
   "pub_fulltext_url": "https://drive.google.com/file/d/1MQQSieDZwbw8xjP3arVQnkYZaEyox48D/view",
+  "pub_venue_rank": "Q1",
+  "pub_venue_rank_subject": "Information Systems",
+  "pub_venue_rank_source": "scopus",
   "pub_important": false
 }
 

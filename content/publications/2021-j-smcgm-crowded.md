@@ -1,6 +1,7 @@
 {
   "title": "Crowded Environment Navigation with NEAT: Impact of Perception Resolution on Controller Optimization",
   "pub_year": 2021,
+  "pub_accept_year": 2021,
   "pub_type": "Journal",
   "pub_venue_name": "Journal of Intelligent & Robotic Systems",
   "pub_venue_acronym": "JINT",
@@ -8,6 +9,9 @@
   "pub_doi": "10.1007/s10846-020-01308-8",
   "pub_publisher_url": "https://link.springer.com/article/10.1007/s10846-020-01308-8",
   "pub_fulltext_url": "https://drive.google.com/file/d/1CXAN1mZIYe5Ru2Pa8uMkHqff4BrGGSUQ/view",
+  "pub_venue_rank": "Q2",
+  "pub_venue_rank_subject": "Artificial Intelligence",
+  "pub_venue_rank_source": "scimagojr",
   "pub_important": false
 }
 

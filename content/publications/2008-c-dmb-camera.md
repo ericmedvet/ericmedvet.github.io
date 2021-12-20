@@ -1,6 +1,7 @@
 {
   "title": "Camera-based Scrolling Interface for Hand-held Devices",
   "pub_year": 2008,
+  "pub_accept_year": 2008,
   "pub_type": "Conference",
   "pub_venue_name": "IEEE International Conference on Information Visualization",
   "pub_venue_number": "12th",

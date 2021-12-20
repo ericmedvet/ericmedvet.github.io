@@ -1,6 +1,7 @@
 {
   "title": "Detecting Anomalies in Embedded Computing Systems via a Novel HMM-based Machine Learning Approach",
   "pub_year": 2015,
+  "pub_accept_year": 2015,
   "pub_type": "Conference",
   "pub_venue_name": "International Conference on Hybrid Artificial Intelligence Systems",
   "pub_venue_number": "10th",

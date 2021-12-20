@@ -1,6 +1,7 @@
 {
   "title": "A Complete Framework for the Synthesis of Powered Floors Systems",
   "pub_year": 2019,
+  "pub_accept_year": 2019,
   "pub_type": "Journal",
   "pub_venue_name": "IEEE/ASME Transactions on Mechatronics",
   "pub_venue_acronym": "TMECH",

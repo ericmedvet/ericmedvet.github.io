@@ -1,6 +1,7 @@
 {
   "title": "An Author Profiling Approach Based on Language-dependent Content and Stylometric Features",
   "pub_year": 2015,
+  "pub_accept_year": 2015,
   "pub_type": "Conference",
   "pub_venue_name": "Uncovering Plagiarism, Authorship and Social Softare Misuse at Conference and Labs of the Evaluation Forum",
   "pub_venue_number": "6th",

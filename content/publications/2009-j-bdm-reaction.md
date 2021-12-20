@@ -1,6 +1,7 @@
 {
   "title": "The Reaction Time to Web Site Defacements",
   "pub_year": 2009,
+  "pub_accept_year": 2009,
   "pub_type": "Journal",
   "pub_venue_name": "IEEE Internet Computing",
   "pub_venue_acronym": "IC",
@@ -8,6 +9,9 @@
   "pub_doi": "10.1109/MIC.2009.91",
   "pub_publisher_url": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5167268",
   "pub_fulltext_url": "https://drive.google.com/file/d/1HA_wpxb9C16kMFPUbsfP90ZgEc8_1Q0o/view",
+  "pub_venue_rank": "Q1",
+  "pub_venue_rank_subject": "Computer Networks and Communications",
+  "pub_venue_rank_source": "scopus",
   "pub_important": false
 }
 

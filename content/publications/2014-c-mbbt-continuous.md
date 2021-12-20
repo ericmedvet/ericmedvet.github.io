@@ -1,6 +1,7 @@
 {
   "title": "Continuous and Non-Intrusive Reauthentication of Web Sessions based on Mouse Dynamics",
   "pub_year": 2014,
+  "pub_accept_year": 2014,
   "pub_type": "Conference",
   "pub_venue_name": "International Conference on Availability, Reliability and Security",
   "pub_venue_number": "9th",

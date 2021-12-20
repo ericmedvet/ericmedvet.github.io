@@ -1,12 +1,16 @@
 {
   "title": "Evolutionary Optimization of Sliding Contact Positions in Powered Floor Systems for Mobile Robots",
   "pub_year": 2020,
+  "pub_accept_year": 2020,
   "pub_type": "Journal",
   "pub_venue_name": "at - Automatisierungstechnik",
   "pub_authors": "Medvet, Eric; Seriani, Stefano; Bartoli, Alberto; Gallina, Paolo",
   "pub_doi": "10.1515/auto-2019-0113",
   "pub_publisher_url": "https://www.degruyter.com/view/j/auto.2020.68.issue-2/auto-2019-0113/auto-2019-0113.xml",
   "pub_fulltext_url": "https://drive.google.com/file/d/1gfyPPZngtit1DZ-IdgBiSVBDpiNz_h3J/view",
+  "pub_venue_rank": "Q3",
+  "pub_venue_rank_subject": "Computer Science Applications",
+  "pub_venue_rank_source": "scopus",
   "pub_important": false
 }
 

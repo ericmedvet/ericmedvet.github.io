@@ -1,6 +1,7 @@
 {
   "title": "GOMGE: Gene-pool Optimal Mixing on Grammatical Evolution",
   "pub_year": 2018,
+  "pub_accept_year": 2018,
   "pub_type": "Conference",
   "pub_venue_name": "International Conference on Parallel Problem Solving from Nature",
   "pub_venue_number": "15th",

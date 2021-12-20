@@ -1,6 +1,7 @@
 {
   "title": "Compressing Regular Expression Sets for Deep Packet Inspection",
   "pub_year": 2014,
+  "pub_accept_year": 2014,
   "pub_type": "Conference",
   "pub_venue_name": "International Conference on Parallel Problem Solving from Nature",
   "pub_venue_number": "13th",

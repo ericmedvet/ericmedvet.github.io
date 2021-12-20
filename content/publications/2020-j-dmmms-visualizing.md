@@ -1,6 +1,7 @@
 {
   "title": "Visualizing the Outcome of Dynamic Analysis of Android Malware with VizMal",
   "pub_year": 2020,
+  "pub_accept_year": 2020,
   "pub_type": "Journal",
   "pub_venue_name": "Journal of Information Security and Applications",
   "pub_venue_acronym": "JISA",

@@ -1,6 +1,7 @@
 {
   "title": "Visual Similarity-Based Phishing Detection",
   "pub_year": 2008,
+  "pub_accept_year": 2008,
   "pub_type": "Conference",
   "pub_venue_name": "International Conference on Security and Privacy in Comminication Networks",
   "pub_venue_number": "4th",

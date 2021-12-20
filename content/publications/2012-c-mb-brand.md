@@ -1,6 +1,7 @@
 {
   "title": "Brand-related Events Detection, Classification and Summarization on Twitter",
   "pub_year": 2012,
+  "pub_accept_year": 2012,
   "pub_type": "Conference",
   "pub_venue_name": "IEEE/WIC/ACM International Conference on Web Intelligence",
   "pub_venue_acronym": "WI",

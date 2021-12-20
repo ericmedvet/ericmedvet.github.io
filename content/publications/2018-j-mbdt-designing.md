@@ -1,6 +1,7 @@
 {
   "title": "Designing Automatically a Representation for Grammatical Evolution",
   "pub_year": 2019,
+  "pub_accept_year": 2018,
   "pub_type": "Journal",
   "pub_venue_name": "Genetic Programming and Evolvable Machines",
   "pub_venue_acronym": "GENP",
@@ -8,6 +9,9 @@
   "pub_doi": "10.1007/s10710-018-9327-2",
   "pub_publisher_url": "https://link.springer.com/article/10.1007/s10710-018-9327-2",
   "pub_fulltext_url": "https://drive.google.com/file/d/1WMKHDeqWf-fI4sn-WqlmSk1KItpcIRlw/view",
+  "pub_venue_rank": "Q2",
+  "pub_venue_rank_subject": "Computer Science Applications",
+  "pub_venue_rank_source": "scopus",
   "pub_important": false
 }
 

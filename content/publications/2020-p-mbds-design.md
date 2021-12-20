@@ -1,6 +1,7 @@
 {
   "title": "Design, Validation, and Case Studies of 2D-VSR-Sim, an Optimization-friendly Simulator of 2-D Voxel-based Soft Robots",
   "pub_year": 2020,
+  "pub_accept_year": 2020,
   "pub_type": "Preprint",
   "pub_venue_name": "arXiv",
   "pub_authors": "Medvet, Eric; Bartoli, Alberto; De Lorenzo, Andrea; Seriani, Stefano",

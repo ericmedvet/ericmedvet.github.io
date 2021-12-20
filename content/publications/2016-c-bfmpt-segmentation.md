@@ -1,6 +1,7 @@
 {
   "title": "Segmentation of Mosaic Images based on Deformable Models using Genetic Algorithms",
   "pub_year": 2016,
+  "pub_accept_year": 2016,
   "pub_type": "Conference",
   "pub_venue_name": "EAI International Conference on Smart Objects and Technologies for Social Good",
   "pub_venue_number": "2nd",

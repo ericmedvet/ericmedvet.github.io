@@ -1,6 +1,7 @@
 {
   "title": "Personalized, Browser-based Visual Phishing Detection Based on Deep Learning",
   "pub_year": 2018,
+  "pub_accept_year": 2018,
   "pub_type": "Conference",
   "pub_venue_name": "International Conference on Risks and Security of Internet and Systems",
   "pub_venue_number": "13th",

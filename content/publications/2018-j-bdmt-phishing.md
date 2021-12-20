@@ -1,6 +1,7 @@
 {
   "title": "How Phishing Pages Look Like?",
   "pub_year": 2018,
+  "pub_accept_year": 2018,
   "pub_type": "Journal",
   "pub_venue_name": "Cybernetics and Information Technologies",
   "pub_venue_acronym": "CIT",
@@ -8,6 +9,9 @@
   "pub_doi": "10.2478/cait-2018-0047",
   "pub_publisher_url": "http://www.cit.iit.bas.bg/CIT_2018/v-18-4/10341-Volume18_Issue_4-04_paper.pdf",
   "pub_fulltext_url": "https://drive.google.com/file/d/1dCL_xF3Er2ynlk-FtWl_uszxxqD80Xkx/view",
+  "pub_venue_rank": "Q2",
+  "pub_venue_rank_subject": "General Computer Science",
+  "pub_venue_rank_source": "scopus",
   "pub_important": false
 }
 

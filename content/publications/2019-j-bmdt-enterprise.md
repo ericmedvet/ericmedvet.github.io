@@ -1,6 +1,7 @@
 {
   "title": "Enterprise Wi-Fi: we need devices that are secure by default",
   "pub_year": 2019,
+  "pub_accept_year": 2019,
   "pub_type": "Journal",
   "pub_venue_name": "Communications of the ACM",
   "pub_venue_acronym": "CACM",
@@ -8,6 +9,9 @@
   "pub_doi": "10.1145/3319912",
   "pub_publisher_url": "https://dl.acm.org/citation.cfm?doid=3328504.3319912",
   "pub_fulltext_url": "https://drive.google.com/file/d/1R7zsk5lJsDFJO2Z8nvYqrw9hC5wu0KpP/view",
+  "pub_venue_rank": "Q1",
+  "pub_venue_rank_subject": "General Computer Science",
+  "pub_venue_rank_source": "scopus",
   "pub_important": true
 }
 

@@ -1,6 +1,7 @@
 {
   "title": "Recording and Replaying Navigations on AJAX Web Sites",
   "pub_year": 2012,
+  "pub_accept_year": 2012,
   "pub_type": "Conference",
   "pub_venue_name": "International Conference on Web Engineering",
   "pub_venue_acronym": "ICWE",

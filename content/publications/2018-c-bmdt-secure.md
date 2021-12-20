@@ -1,6 +1,7 @@
 {
   "title": "(In)Secure Configuration Practices of WPA2 Enterprise Supplicants",
   "pub_year": 2018,
+  "pub_accept_year": 2018,
   "pub_type": "Conference",
   "pub_venue_name": "International Conference on Availability, Reliability and Security",
   "pub_venue_number": "13th",

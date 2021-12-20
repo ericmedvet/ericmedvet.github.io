@@ -1,6 +1,7 @@
 {
   "title": "Detection of Obfuscation Techniques in Android Applications",
   "pub_year": 2018,
+  "pub_accept_year": 2018,
   "pub_type": "Conference",
   "pub_venue_name": "International Workshop on Security of Mobile Applications",
   "pub_venue_number": "7th",

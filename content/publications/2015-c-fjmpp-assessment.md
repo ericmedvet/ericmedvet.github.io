@@ -1,6 +1,7 @@
 {
   "title": "On the Assessment of Segmentation Methods for Images of Mosaics",
   "pub_year": 2015,
+  "pub_accept_year": 2015,
   "pub_type": "Conference",
   "pub_venue_name": "International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications",
   "pub_venue_number": "10th",

@@ -1,12 +1,16 @@
 {
   "title": "Crossing the Reality Gap: a Survey on Sim-to-Real Transferability of Robot Controllers in Reinforcement Learning",
   "pub_year": 2021,
+  "pub_accept_year": 2021,
   "pub_type": "Journal",
   "pub_venue_name": "IEEE Access",
   "pub_authors": "Salvato, Erica; Fenu, Gianfranco; Medvet, Eric; Pellegrino, Felice Andrea",
   "pub_doi": "10.1109/ACCESS.2021.3126658",
   "pub_publisher_url": "https://ieeexplore.ieee.org/document/9606868",
   "pub_fulltext_url": "https://drive.google.com/file/d/1yy8ZOp5DqIkgao81DJUTK6_69gEtC7nC/view",
+  "pub_venue_rank": "Q1",
+  "pub_venue_rank_subject": "Computer Science (miscellaneous)",
+  "pub_venue_rank_source": "scimagojr",
   "pub_important": false
 }
 

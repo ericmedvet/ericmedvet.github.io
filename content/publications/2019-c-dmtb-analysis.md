@@ -1,6 +1,7 @@
 {
   "title": "An Analysis of Dimensionality Reduction Techniques for Visualizing Evolution",
   "pub_year": 2019,
+  "pub_accept_year": 2019,
   "pub_type": "Conference",
   "pub_venue_name": "Annual workshop on Visualisation in Genetic and Evolutionary Computation",
   "pub_venue_number": "10th",

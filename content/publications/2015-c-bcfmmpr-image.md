@@ -1,6 +1,7 @@
 {
   "title": "Image Processing Issues in a Social Assistive System for the Blind",
   "pub_year": 2015,
+  "pub_accept_year": 2015,
   "pub_type": "Conference",
   "pub_venue_name": "International Symposium on Image and Signal Processing and Analysis",
   "pub_venue_number": "9th",

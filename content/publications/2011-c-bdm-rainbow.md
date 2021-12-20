@@ -1,6 +1,7 @@
 {
   "title": "Rainbow Crypt: Securing Communication through a Protected Visual Channel",
   "pub_year": 2011,
+  "pub_accept_year": 2011,
   "pub_type": "Conference",
   "pub_venue_name": "International Conference on Intelligent Systems Design and Applications",
   "pub_venue_number": "11th",

@@ -1,6 +1,7 @@
 {
   "title": "Your Paper has been Accepted, Rejected, or whatever: Automatic Generation of Scientific Paper Reviews",
   "pub_year": 2016,
+  "pub_accept_year": 2016,
   "pub_type": "Conference",
   "pub_venue_name": "International Cross Domain Conference and Workshop",
   "pub_venue_acronym": "CD-ARES",

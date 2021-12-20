@@ -1,11 +1,15 @@
 {
   "title": "Merging Pruning and Neuroevolution: towards Robust and Efficient Controllers for Modular Soft Robots",
   "pub_year": 2021,
+  "pub_accept_year": 2021,
   "pub_type": "Journal",
   "pub_venue_name": "Knowledge Engineering Review",
   "pub_venue_acronym": "KER",
   "pub_authors": "Nadizar, Giorgia; Medvet, Eric; Nichele, Stefano; Huse Ramstad, Ola; Pellegrino, Felice Andrea; Zullich, Marco",
   "pub_notes": "To appear",
+  "pub_venue_rank": "Q2",
+  "pub_venue_rank_subject": "Artificial Intelligence",
+  "pub_venue_rank_source": "scimagojr",
   "pub_important": false
 }
 

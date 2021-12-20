@@ -1,6 +1,7 @@
 {
   "title": "Inference of Regular Expressions for Text Extraction from Examples",
   "pub_year": 2016,
+  "pub_accept_year": 2016,
   "pub_type": "Journal",
   "pub_venue_name": "IEEE Transactions on Knowledge and Data Engineering",
   "pub_venue_acronym": "TKDE",
@@ -9,6 +10,9 @@
   "pub_notes": "Silver Medal 13-th HUMIES",
   "pub_publisher_url": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7374717",
   "pub_fulltext_url": "https://drive.google.com/file/d/1dWnMxokqqoTyO6kpSWuv4QTjVpvDaQcu/view",
+  "pub_venue_rank": "Q1",
+  "pub_venue_rank_subject": "Computer Science Applications",
+  "pub_venue_rank_source": "scopus",
   "pub_important": false
 }
 

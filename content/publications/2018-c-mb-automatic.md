@@ -1,6 +1,7 @@
 {
   "title": "On the Automatic Design of a Representation for Grammar-based Genetic Programming",
   "pub_year": 2018,
+  "pub_accept_year": 2018,
   "pub_type": "Conference",
   "pub_venue_name": "European Conference on Genetic Programming",
   "pub_venue_number": "21st",

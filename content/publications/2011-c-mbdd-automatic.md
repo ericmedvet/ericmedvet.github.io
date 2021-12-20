@@ -1,6 +1,7 @@
 {
   "title": "Automatic Face Annotation in News Images by Mining the Web",
   "pub_year": 2011,
+  "pub_accept_year": 2011,
   "pub_type": "Conference",
   "pub_venue_name": "IEEE/WIC/ACM International Conference on Web Intelligence and Intelligent Agent Technology",
   "pub_venue_acronym": "WI-IAT",

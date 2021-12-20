@@ -1,6 +1,7 @@
 {
   "title": "On the Similarity between Hidden Layers of Pruned and Unpruned Convolutional Neural Networks",
   "pub_year": 2020,
+  "pub_accept_year": 2020,
   "pub_type": "Conference",
   "pub_venue_name": "International Conference on Pattern Recognition Applications and Methods",
   "pub_venue_number": "9th",

@@ -1,6 +1,7 @@
 {
   "title": "Acquiring and Analysing App Metrics for Effective Mobile Malware Detection",
   "pub_year": 2016,
+  "pub_accept_year": 2016,
   "pub_type": "Conference",
   "pub_venue_name": "ACM International Workshop on Security And Privacy Analytics",
   "pub_venue_number": "2nd",

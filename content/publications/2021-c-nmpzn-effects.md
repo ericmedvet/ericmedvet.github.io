@@ -1,6 +1,7 @@
 {
   "title": "On the Effects of Pruning on Evolved Neural Controllers for Soft Robots",
   "pub_year": 2021,
+  "pub_accept_year": 2021,
   "pub_type": "Conference",
   "pub_venue_name": "Workshop on Neuroevolution at Work",
   "pub_venue_acronym": "NEWK@GECCO",
