@@ -8,7 +8,6 @@
   "pub_doi": "10.1007/s42979-021-00987-w",
   "pub_publisher_url": "https://link.springer.com/article/10.1007%2Fs42979-021-00987-w",
   "pub_fulltext_url": "https://drive.google.com/file/d/1Ae1qS3mEnRXRzyIR_y47ljWK4FK5amdu/view",
-  "pub_video_url": "https://www.youtube.com/watch?v=1a6RtEJnV_c",
   "pub_important": false
 }
 
