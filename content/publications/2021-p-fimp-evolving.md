@@ -6,6 +6,7 @@
   "pub_venue_name": "IEEE TechRxiv",
   "pub_authors": "Ferigo, Andrea; Iacca, Giovanni; Medvet, Eric; Pigozzi, Federico",
   "pub_doi": "10.36227/techrxiv.17091218",
+  "pub_publisher_url": "https://www.techrxiv.org/articles/preprint/Evolving_Hebbian_Learning_Rules_in_Voxel-based_Soft_Robots/17091218",
   "pub_fulltext_url": "https://drive.google.com/file/d/1GjVxfn5tuhGjIk2SA0vLW6AgNKA418iO/view",
   "pub_video_url": "https://www.youtube.com/watch?v=1a6RtEJnV_c",
   "pub_important": false
