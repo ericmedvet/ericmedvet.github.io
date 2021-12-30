@@ -4,7 +4,7 @@
 	{{ range sort (.Pages.GroupByParam "pub_year") "Key" "desc" }}
 	{{ partial "heading.html" (dict "n" 2 "text" (print "Year " .Key))}}
 	<ol>
-		{{ range sort .Pages "Params.pub_type" "desc"}}
+		{{ range (.Pages.ByParam "pub_type").ByParam "pub_title"}}
 			{{ partial "pub-list-item.html" .}}
 		{{ end }}
 	</ol>
