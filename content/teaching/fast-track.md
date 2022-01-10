@@ -9,6 +9,7 @@ Su come si prepari un riassunto di un articolo scientifico ci sono molte indicaz
 Consiglio comunque di contattarmi per fare una chiacchierata nel caso ci sia interesse a seguire questa modalità.
 
 ## Currently available papers
+- Pratt, Sarah, Luca Weihs, and Ali Farhadi. "[The Introspective Agent: Interdependence of Strategy, Physiology, and Sensing for Embodied Agents](https://arxiv.org/abs/2201.00411)." arXiv preprint arXiv:2201.00411 (2022).
 - Soltanian, Khabat, Ali Ebnenasir, and Mohsen Afsharchi. "[Modular Grammatical Evolution for the Generation of Artificial Neural Networks](https://direct.mit.edu/evco/article/doi/10.1162/evco_a_00302/108623/Modular-Grammatical-Evolution-for-the-Generation)." Evolutionary Computation (2021): 1-36.
 - Ross, Alexis, et al. "[Tailor: Generating and Perturbing Text with Semantic Controls](https://arxiv.org/abs/2107.07150)." arXiv preprint arXiv:2107.07150 (2021).
 - Chollet, François. "[On the measure of intelligence](https://arxiv.org/abs/1911.01547)." arXiv preprint arXiv:1911.01547 (2019)
