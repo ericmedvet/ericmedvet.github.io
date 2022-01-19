@@ -5,7 +5,7 @@
   "pub_type": "Conference",
   "pub_venue_name": "Workshop on Evolutionary Computation and Decision Making",
   "pub_venue_acronym": "EC+DM@GECCO",
-  "pub_authors": "Virgolin, Marco; De Lorenzo, Andrea; Randone, Francesca; Medvet, Eric; Mattias Wahde",
+  "pub_authors": "Virgolin, Marco; De Lorenzo, Andrea; Randone, Francesca; Medvet, Eric; Wahde, Mattias",
   "pub_doi": "10.1145/3449726.3463166",
   "pub_publisher_url": "https://dl.acm.org/doi/10.1145/3449726.3463166",
   "pub_fulltext_url": "https://drive.google.com/file/d/1fpsVAJo09mizg9_TIsjd384TYMXXTNG4/view",
