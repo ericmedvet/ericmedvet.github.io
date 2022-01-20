@@ -121,6 +121,9 @@ The final grade is the average of the two grades: the exam is considered failed 
 Student must **register for the exam session** of their interest using the online sistem (**esse3**).
 Note that there are **deadlines** for registration (usually 1 week before the session date).
 
+The oral exam of 20/1/2022 will be accessible [here](https://meet.google.com/jmc-czpp-trr) for registered students who fullfil requirements to do exams online.
+UniTs credentials are required to access the call.
+
 ### Final project
 The student chooses a problem among a closed, teacher-defined set of problems and proposes a solution based on ML or EC techniques.
 The expected outcome is a written document (few pages) including: the problem statement; one or more performance indexes able to capture any solution ability to solve the problem; a description of the proposed solution from the algorithmic point of view; the results and a discussion about the experimental assessment of the solution with, if applicable, information about used data.
