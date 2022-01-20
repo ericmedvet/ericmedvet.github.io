@@ -121,7 +121,7 @@ The final grade is the average of the two grades: the exam is considered failed 
 Student must **register for the exam session** of their interest using the online sistem (**esse3**).
 Note that there are **deadlines** for registration (usually 1 week before the session date).
 
-The oral exam of 20/1/2022 will be accessible [here](https://meet.google.com/jmc-czpp-trr) for registered students who fullfil requirements to do exams online.
+The oral exam of **20/1/2022** will be accessible [here](https://meet.google.com/jmc-czpp-trr) for registered students who fullfil requirements to do exams online.
 UniTs credentials are required to access the call.
 
 ### Final project
