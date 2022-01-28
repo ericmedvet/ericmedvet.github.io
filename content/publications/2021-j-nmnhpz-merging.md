@@ -1,6 +1,6 @@
 {
   "title": "Merging Pruning and Neuroevolution: towards Robust and Efficient Controllers for Modular Soft Robots",
-  "pub_year": 2021,
+  "pub_year": 2022,
   "pub_accept_year": 2021,
   "pub_type": "Journal",
   "pub_venue_name": "Knowledge Engineering Review",
