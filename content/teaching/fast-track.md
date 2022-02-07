@@ -22,9 +22,9 @@ Consiglio comunque di contattarmi per fare una chiacchierata nel caso ci sia int
 - Cao, Yding, et al. "[Visualizing Collective Idea Generation and Innovation Processes in Social Networks](https://arxiv.org/abs/2110.09893)." arXiv preprint arXiv:2110.09893 (2021).
 
 ## Ongoing theses
-- Suarez, Joseph, et al. "[Neural MMO: A Massively Multiagent Game Environment for Training and Evaluating Intelligent Agents](https://arxiv.org/abs/1903.00784)." arXiv preprint arXiv:1903.00784 (2019)
 
 ## Done
+- Suarez, Joseph, et al. "[Neural MMO: A Massively Multiagent Game Environment for Training and Evaluating Intelligent Agents](https://arxiv.org/abs/1903.00784)." arXiv preprint arXiv:1903.00784 (2019) (student: Lorenzo Giaccari)
 - Sayama, Hiroki. "[Extreme Ideas Emerging from Social Conformity and Homophily: An Adaptive Social Network Model](https://www.mitpressjournals.org/doi/abs/10.1162/isal_a_00349)." Artificial Life Conference Proceedings. One Rogers Street, Cambridge, MA 02142-1209 USA journals-info@ mit. edu: MIT Press, 2020 (student: Letizia Ferrari)
 - Eiben, A. E. "[Real-world robot evolution: why would it (not) work?](https://www.frontiersin.org/articles/10.3389/frobt.2021.696452/full)." Frontiers in Robotics and AI: 243. (student: Daniel Costantino)
 - Pontes-Filho, Nichele. "[A Conceptual Bio-Inspired Framework for the Evolution of Artificial General Intelligence](https://arxiv.org/abs/1903.10410)." arXiv preprint arXiv:1903.10410 (2020) (student: Nicoletta Giurgevich)
