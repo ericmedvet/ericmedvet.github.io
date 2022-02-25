@@ -11,5 +11,9 @@ rm -r static/teaching/2021-advancedprogramming/slides/*
 unzip master.zip "slides-master/advanced-programming-2021/*"
 mv slides-master/advanced-programming-2021/* static/teaching/2021-advancedprogramming/slides
 
+rm -r static/teaching/2122-advancedprogramming/slides/*
+unzip master.zip "slides-master/advanced-programming-2122/*"
+mv slides-master/advanced-programming-2122/* static/teaching/2122-advancedprogramming/slides
+
 rm -r slides-master
 rm -f master.zip
