@@ -65,7 +65,8 @@ The lectures will be:
 - on Tuesday, from 9.00 to 10.30, in room D, ground floor, building A-right
 - on Thursday, from 15.00 to 17.30, in room T_B, ground floor, building D
 
-The lectures will be done in person and possibly online, on the Microsoft Teams team associated with the course.
+The lectures will be done in person and possibly cast online (upon reasonably argumented request), on the Microsoft Teams team associated with the course.
+For accessing the Teams team, pleas email me.
 
 ## End-of-course test (exam)
 The exam works in one of the following ways:
