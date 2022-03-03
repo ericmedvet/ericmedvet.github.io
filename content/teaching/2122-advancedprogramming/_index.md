@@ -55,7 +55,7 @@ Frontal lessons with blackboard and slide projection; exercises, under teacher's
 The course material (teacher's slides) is served directly from [here](slides/index.html).
 The slides might be updated during the course.
 
-The lectures may be recorded and made available.
+The lectures will be recorded and made available on Teams.
 
 ### Lectures timetable and course calendar
 The course will start on **3/3/2022**.
@@ -66,6 +66,7 @@ The lectures will be:
 - on Thursday, from 15.00 to 17.30, in room T_B, ground floor, building D
 
 The lectures will be done in person and possibly cast online (upon reasonably argumented request), on the Microsoft Teams team associated with the course.
+The lectures will be recorded and made available on Teams.
 For accessing the Teams team, pleas email me.
 
 ## End-of-course test (exam)
