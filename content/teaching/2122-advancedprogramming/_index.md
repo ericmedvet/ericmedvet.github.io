@@ -106,6 +106,6 @@ Assignments have to be **shared with the teacher** using [repl.it](http://repl.i
 Students have to **send an email** to the teacher, within the deadline, saying **who they are** and which is the **url of the shared repl**.
 Due dates are at 23.59, [AoE](https://en.wikipedia.org/wiki/Anywhere_on_Earth) time.
 Please do not change the code in repl after the due date.
-1. **Anagrams**, slide 149, assigned on TBA, due date TBA
+1. **Anagrams**, slide 150, assigned on 17/3/2022, due date **31/3/2022**
 2. **Equivalence**, slide 225, assigned on TBA, due date TBA
 3. **GZIP File Array**, slide 336, assigned on TBA, due date TBA
