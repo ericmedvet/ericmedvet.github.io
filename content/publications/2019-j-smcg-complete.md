@@ -9,6 +9,9 @@
   "pub_doi": "10.1109/TMECH.2019.2959379",
   "pub_publisher_url": "https://ieeexplore.ieee.org/document/8931649",
   "pub_fulltext_url": "https://drive.google.com/file/d/1rdx-CdnIG6G4H96GqpDYWY7spEGvRYyo/view",
+  "pub_venue_rank": "Q1",
+  "pub_venue_rank_subject": "Computer Science Applications",
+  "pub_venue_rank_source": "scimagojr",
   "pub_important": true
 }
 
