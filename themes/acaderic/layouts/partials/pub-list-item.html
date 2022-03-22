@@ -10,6 +10,7 @@
     {{- with .Params.pub_venue_number}}{{.}} {{end -}}
     {{- .Params.pub_venue_name -}}
     {{- with .Params.pub_venue_acronym}} ({{.}}){{end -}}
+    {{- with .Params.pub_venue_rank}}, <strong title="In {{$.Params.pub_venue_rank_subject}}, according to {{$.Params.pub_venue_rank_source | humanize}}">{{$.Params.pub_venue_rank}}</strong>{{end -}}
   </span>;
   <span>{{.Params.pub_year}}</span>
   {{ with .Params.pub_notes}}
