@@ -6,6 +6,8 @@
   "pub_venue_name": "European Conference on Genetic Programming",
   "pub_venue_number": "25th",
   "pub_venue_acronym": "EuroGP",
+  "pub_location_city": "Madrid",
+  "pub_location_country": "Spain",
   "pub_authors": "Indri, Patrick; Bartoli, Alberto; Medvet, Eric; Nenzi, Laura",
   "pub_notes": "To appear",
   "pub_fulltext_url": "https://drive.google.com/file/d/1UQKdtcoOu8qLwSf1jc2VsLQswN3S-aHh/view",

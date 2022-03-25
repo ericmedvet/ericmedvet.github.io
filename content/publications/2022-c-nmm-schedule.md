@@ -6,6 +6,8 @@
   "pub_venue_name": "European Conference on Genetic Programming",
   "pub_venue_number": "25th",
   "pub_venue_acronym": "EuroGP",
+  "pub_location_city": "Madrid",
+  "pub_location_country": "Spain",
   "pub_authors": "Nadizar, Giorgia; Medvet, Eric; Miras, Karine",
   "pub_notes": "To appear",
   "pub_fulltext_url": "https://drive.google.com/file/d/194p4oxXWCE4J2xPrqhQTdmr0PSUx8q17/view",
