@@ -17,15 +17,16 @@ Consiglio comunque di contattarmi per fare una chiacchierata nel caso ci sia int
 - Yu, Wenhao, et al. "[Sim-to-Real Transfer for Biped Locomotion](https://arxiv.org/abs/1903.01390)." arXiv preprint arXiv:1903.01390 (2019)
 - Chan, Bert Wang-Chak. "[Lenia and Expanded Universe](https://arxiv.org/abs/2005.03742)." arXiv preprint arXiv:2005.03742 (2020)
 - Olesen, Thor VAN, et al. "[Evolutionary Planning in Latent Space](https://arxiv.org/abs/2011.11293)." arXiv preprint arXiv:2011.11293 (2020).
-- Spielberg, Andrew, et al. "[Co-Learning of Task and Sensor Placement for Soft Robotics](https://ieeexplore.ieee.org/abstract/document/9345345)." IEEE Robotics and Automation Letters 6.2 (2021): 1208-1215.
 - Cao, Yding, et al. "[Visualizing Collective Idea Generation and Innovation Processes in Social Networks](https://arxiv.org/abs/2110.09893)." arXiv preprint arXiv:2110.09893 (2021).
 - Bove, David "[SoK: The Evolution of Trusted UI on Mobile](https://faui1-files.cs.fau.de/public/publications/sok-evolution-final.pdf)", ASIA CCS 2022.
 - Kim, Jason Z., et al. "[A Neural Programming Language for the Reservoir Computer](https://arxiv.org/abs/2203.05032)", arXiv preprint arXiv:2203.05032 (2022).
 - Wang, Rouyao, et al. "[ScienceWorld: Is your Agent Smarter than a 5th Grader?](https://github.com/allenai/ScienceWorld/blob/main/ScienceWorld-preprint.pdf)", preprint (2022).
 - Kudithipudi, Dhireesha, et al. "[Biological underpinnings for lifelong learning machines](https://rdcu.be/cJIwh)", Nature Machine Intelligence (2022).
+- Kamyar, Sayed, et al. "[Blocks Assemble! Learning to Assemble with Large-Scale Structured Reinforcement Learning](https://arxiv.org/abs/2203.13733)."  arXiv preprint arXiv:2203.13733 (2022).
 
 ## Ongoing theses
 - Bongard, Joshua, and Michael Levin. "[Living Things Are Not (20th Century) Machines: Updating Mechanism Metaphors in Light of the Modern Science of Machine Behavior](https://www.frontiersin.org/articles/10.3389/fevo.2021.650726/full)." Frontiers in Ecology and Evolution 9 (2021): 147.
+- Spielberg, Andrew, et al. "[Co-Learning of Task and Sensor Placement for Soft Robotics](https://ieeexplore.ieee.org/abstract/document/9345345)." IEEE Robotics and Automation Letters 6.2 (2021): 1208-1215.
 
 ## Done
 - Suarez, Joseph, et al. "[Neural MMO: A Massively Multiagent Game Environment for Training and Evaluating Intelligent Agents](https://arxiv.org/abs/1903.00784)." arXiv preprint arXiv:1903.00784 (2019) (student: Lorenzo Giaccari)
