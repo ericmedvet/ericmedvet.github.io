@@ -7,6 +7,7 @@
   "pub_venue_acronym": "Cells2Societies@ICLR",
   "pub_authors": "Nadizar, Giorgia; Medvet, Eric; Nichele, Stefano; Pontes-Filho, Sidney",
   "pub_notes": "To appear",
+  "pub_publisher_url": "https://arxiv.org/abs/2204.02099",
   "pub_fulltext_url": "https://drive.google.com/file/d/1wpkgmOICi0DFoIxf30HoBU17ILP_DQ_b/view",
   "pub_important": false
 }
