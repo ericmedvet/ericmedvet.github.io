@@ -110,4 +110,4 @@ Due dates are at 23.59, [AoE](https://en.wikipedia.org/wiki/Anywhere_on_Earth) t
 Please do not change the code in repl after the due date.
 1. **Anagrams**, slide 150, assigned on 17/3/2022, due date **31/3/2022**
 2. **Equivalence**, slide 226, assigned on 28/3/2022, due date **11/4/2022**
-3. **GZIP File Array**, slide 337, assigned on TBA, due date TBA
+3. **GZIP File Array**, slide 337, assigned on 11/4/2022, due date **2/5/2022**
