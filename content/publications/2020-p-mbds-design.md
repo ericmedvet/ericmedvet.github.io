@@ -5,6 +5,7 @@
   "pub_type": "Preprint",
   "pub_venue_name": "arXiv",
   "pub_authors": "Medvet, Eric; Bartoli, Alberto; De Lorenzo, Andrea; Seriani, Stefano",
+  "pub_doi": "10.48550/arXiv.2001.08617",
   "pub_publisher_url": "https://arxiv.org/abs/2001.08617",
   "pub_fulltext_url": "https://drive.google.com/file/d/1ZECuhDXvm3mL3E4WqDTClVpICffcqOlu/view",
   "pub_important": false

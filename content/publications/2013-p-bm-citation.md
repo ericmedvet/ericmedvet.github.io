@@ -5,6 +5,7 @@
   "pub_type": "Preprint",
   "pub_venue_name": "arXiv",
   "pub_authors": "Bartoli, Alberto; Medvet, Eric",
+  "pub_doi": "10.48550/arXiv.1308.1946",
   "pub_fulltext_url": "https://drive.google.com/file/d/17qbGT9uNk59AqNkf9UErIjL8m1NS73AT/view",
   "pub_important": false
 }

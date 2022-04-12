@@ -8,6 +8,7 @@
   "pub_location_city": "Coimbra",
   "pub_location_country": "Portugal",
   "pub_authors": "Medvet, Eric; Bartoli, Alberto; Ansuini, Alessio; Tarlao, Fabiano",
+  "pub_doi": "10.48550/arXiv.1812.02504",
   "pub_publisher_url": "https://arxiv.org/abs/1812.02504",
   "pub_fulltext_url": "https://drive.google.com/file/d/1jQEQQUGiO6CUnLANypiWrxxPpx4wEOtQ/view",
   "pub_slides_url": "https://drive.google.com/file/d/1bheGJhXFekgsfIV5QoHh4vY9O8UJL-wZ/view",
