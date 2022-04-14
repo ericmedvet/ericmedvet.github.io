@@ -112,4 +112,4 @@ Please do not change the code in repl after the due date.
 2. **Equivalence**, slide 226, assigned on 28/3/2022, due date **11/4/2022**
 3. **GZIP File Array**, slide 337, assigned on 11/4/2022, due date **2/5/2022**
 
-Grades for the home assignments are visible [here](/d/e/2PACX-1vT7-9UDZ-BuLHZvfO1o4T-3jXqTJpfB7Zx7C5AbshXD2rZRwJBgqbOx_faWJGI7VI9u2_w6WkEHDGUq/pubhtml?gid=1323965064&single=true).
+Grades for the home assignments are visible [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vT7-9UDZ-BuLHZvfO1o4T-3jXqTJpfB7Zx7C5AbshXD2rZRwJBgqbOx_faWJGI7VI9u2_w6WkEHDGUq/pubhtml?gid=1323965064&single=true).
