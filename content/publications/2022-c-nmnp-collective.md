@@ -20,3 +20,6 @@ Voxel-based Soft Robots (VSRs) are a form of modular soft robots, composed of se
 
 ## Videos
 [Web page with a few gifs of VSRs doing locomotion](https://giorgia-nadizar.github.io/VSRCollectiveControlViaSNCA/)
+
+## Poster
+[Poster](https://drive.google.com/uc?export=download&id=1VRjFTHKsaqGpg05WCluQTfLlcPsAXPlz)

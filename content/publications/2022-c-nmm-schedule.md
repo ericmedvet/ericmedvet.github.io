@@ -21,3 +21,6 @@ Development is fundamental for living beings. As robots are often designed to mi
 
 ## Video
 [Example of a VSR with morphological development](https://youtu.be/DD4D20EH1sA)
+
+## Poster
+[Poster](https://drive.google.com/uc?export=download&id=1u53reNhuMiIyDYJLCl4d6VIwm86xDxHT)
