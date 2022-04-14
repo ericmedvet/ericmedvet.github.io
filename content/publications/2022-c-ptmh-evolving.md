@@ -16,7 +16,8 @@
 
 ## Abstract
 Modularity in robotics holds great potential. In principle, modular robots can be disassembled and reassembled in different robots, and possibly perform new tasks. Nevertheless, actually exploiting modularity is yet an unsolved problem: controllers usually rely on inter-module communication, a practical requirement that makes modules not perfectly interchangeable and thus limits their flexibility. Here, we focus on Voxel-based Soft Robots (VSRs), aggregations of mechanically identical elastic blocks. We use the same neural controller inside each voxel, but without *any* inter-voxel communication, hence enabling ideal conditions for modularity: modules are all equal and interchangeable. We optimize the parameters of the neural controller—shared among the voxels—by evolutionary computation. Crucially, we use a local *self-attention* mechanism inside the controller to overcome the absence of inter-module communication channels, thus enabling our robots to truly be driven by the collective intelligence of their modules. We show experimentally that the evolved robots are effective in the task of locomotion: thanks to self-attention, instances of the same controller embodied in the same robot can focus on different inputs. We also find that the evolved controllers generalize to unseen morphologies, after a short fine-tuning, suggesting that an inductive bias related to the task arises from true modularity.
-[arXiv paper](https://arxiv.org/abs/2204.06481)
-
 ## Videos
 [Collection of videos of robots doing locomotion](https://softrobots.github.io/)
+
+## Alternative versions
+[arXiv paper](https://arxiv.org/abs/2204.06481)
