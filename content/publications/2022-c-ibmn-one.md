@@ -9,7 +9,8 @@
   "pub_location_city": "Madrid",
   "pub_location_country": "Spain",
   "pub_authors": "Indri, Patrick; Bartoli, Alberto; Medvet, Eric; Nenzi, Laura",
-  "pub_notes": "To appear",
+  "pub_doi": "10.1007/978-3-031-02056-8_3",
+  "pub_publisher_url": "https://link.springer.com/chapter/10.1007/978-3-031-02056-8_3",
   "pub_fulltext_url": "https://drive.google.com/file/d/1UQKdtcoOu8qLwSf1jc2VsLQswN3S-aHh/view",
   "pub_important": false
 }
