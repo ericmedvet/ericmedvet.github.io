@@ -1,0 +1,126 @@
+@import url("https://fonts.googleapis.com/css?family=Titillium Web");
+@import url("https://fonts.googleapis.com/css?family=Chau Philomene One");
+@import url("https://fonts.googleapis.com/css?family=Titillium Web");
+@import url("https://fonts.googleapis.com/css?family=Fira Mono");
+#content a {
+  color: #dc3545;
+  text-decoration: none; }
+  #content a:hover {
+    color: #dc3545;
+    text-decoration: underline;
+    text-decoration-color: #343a40; }
+
+#content .social a {
+  color: #dc3545;
+  text-decoration: none; }
+  #content .social a:hover {
+    color: #343a40; }
+
+#content h1.wl a, #content h2.wl a, #content h3.wl a, #content h4.wl a, #content h5.wl a, #content h6.wl a {
+  color: #eeeeee;
+  text-decoration: none; }
+  #content h1.wl a:hover, #content h2.wl a:hover, #content h3.wl a:hover, #content h4.wl a:hover, #content h5.wl a:hover, #content h6.wl a:hover {
+    color: #dc3545; }
+
+body {
+  font-family: "Titillium Web", serif;
+  font-size: 5mm;
+  color: #343a40;
+  line-height: 1.25;
+  background-color: #eeeeee; }
+
+code, kbd, pre, samp {
+  font-family: "Fira Mono";
+  color: #007bff; }
+
+.inner-container {
+  background-color: white;
+  margin-top: 5mm; }
+
+.navbar-brand {
+  font-family: "Titillium Web", sans-serif; }
+  .navbar-brand span {
+    font-size: inherit; }
+    .navbar-brand span.initial {
+      color: #dc3545; }
+
+#content {
+  padding-top: 10mm;
+  padding-bottom: 10mm; }
+  #content h1, #content h2, #content h3, #content h4, #content h5, #content h6 {
+    font-family: "Chau Philomene One", sans-serif; }
+  #content h1, #content h2:not(.wl), #content h2.wl span {
+    text-decoration: underline;
+    text-decoration-color: #dc3545; }
+  #content ul, #content ol {
+    list-style: none;
+    counter-reset: l-counter; }
+    #content ul li, #content ol li {
+      counter-increment: l-counter;
+      margin: .5em 0; }
+    #content ul li::before, #content ol li::before {
+      color: #dc3545;
+      font-weight: bold;
+      display: inline-block;
+      width: 1.5em;
+      margin-left: -1.5em; }
+  #content ol > li::before {
+    content: counter(l-counter) "."; }
+  #content ul > li::before {
+    content: '\25FC'; }
+  #content li.publication .notes {
+    color: #007bff;
+    font-weight: bold; }
+  #content .this-author {
+    text-decoration: underline;
+    text-decoration-color: #dc3545; }
+  #content .publication-data h5 {
+    margin-bottom: 0; }
+  #content blockquote {
+    margin: 0 1em;
+    position: relative; }
+    #content blockquote::before {
+      content: open-quote;
+      font-size: 300%;
+      position: absolute;
+      left: -0.35em;
+      top: -0.35em;
+      color: #dc3545; }
+    #content blockquote::after {
+      content: close-quote;
+      font-size: 300%;
+      position: absolute;
+      right: -0.35em;
+      bottom: -1.7ex;
+      color: #dc3545; }
+  #content .highlight pre {
+    padding: 2.5mm;
+    border-radius: 0.25rem !important; }
+  #content .badge-pub-type {
+    text-transform: uppercase;
+    font: "Fira Mono"; }
+    #content .badge-pub-type.badge-pub-type-primary {
+      color: #eeeeee;
+      background-color: #343a40; }
+    #content .badge-pub-type.badge-pub-type-secondary {
+      color: #eeeeee;
+      background-color: #dc3545; }
+    #content .badge-pub-type.badge-pub-type-tertiary {
+      color: #eeeeee;
+      background-color: #007bff; }
+  #content .social {
+    margin: 0 0 1rem; }
+    #content .social a {
+      margin: 0 .25em;
+      font-size: 150%; }
+
+.inline-svg {
+  display: inline-block;
+  height: 1.15em;
+  width: 1.15em;
+  position: relative; }
+
+#footer {
+  margin-top: 5mm; }
+  #footer * {
+    font-size: 75%; }
