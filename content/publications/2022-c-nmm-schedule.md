@@ -13,7 +13,7 @@
   "pub_notes": "Best student poster award",
   "pub_publisher_url": "https://link.springer.com/chapter/10.1007/978-3-031-02056-8_10",
   "pub_fulltext_url": "https://drive.google.com/file/d/194p4oxXWCE4J2xPrqhQTdmr0PSUx8q17/view",
-  "pub_important": false
+  "pub_important": true
 }
 
 ## Abstract
