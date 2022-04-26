@@ -67,7 +67,7 @@ The lectures will be:
 
 The lectures will be done in person and possibly cast online (upon reasonably argumented request), on the Microsoft Teams team associated with the course.
 The lectures will be recorded and made available on Teams.
-For accessing the Teams team, pleas email me.
+For accessing the Teams team, please email me.
 
 #### Short announcements about lectures schedule
 
