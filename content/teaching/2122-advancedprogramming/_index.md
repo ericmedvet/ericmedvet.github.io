@@ -60,8 +60,6 @@ The lectures will be recorded and made available on Teams.
 ### Lectures timetable and course calendar
 The course will start on **3/3/2022**.
 
-Lectures will be **suspended from 14/4/2022 to 25/4/2022** (included).
-
 The lectures will be:
 - on Monday, from 15.00 to 17.30, in room B, ground floor, building C9
 - on Tuesday, from 9.00 to 10.30, in room D, ground floor, building A-right
@@ -70,6 +68,14 @@ The lectures will be:
 The lectures will be done in person and possibly cast online (upon reasonably argumented request), on the Microsoft Teams team associated with the course.
 The lectures will be recorded and made available on Teams.
 For accessing the Teams team, pleas email me.
+
+#### Short announcements about lectures schedule
+
+Lectures will be **suspended from 14/4/2022 to 25/4/2022** (included).
+
+The lecture of **26/4/2022** is suspended.
+
+The lecture of **2/5/2022** is suspended to allow students to take part in the visit to u-blox (contact prof. Carrato and prof. Castelli for more info).
 
 ## End-of-course test (exam)
 The exam works in one of the following ways:
