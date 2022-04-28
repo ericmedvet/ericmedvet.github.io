@@ -8,7 +8,9 @@
   "pub_location_city": "Boston",
   "pub_location_country": "USA",
   "pub_authors": "Medvet, Eric; Nadizar, Giorgia; Pigozzi, Federico",
+  "pub_doi": "10.1145/3520304.3533967",
   "pub_notes": "To appear",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1Y3dQGibLWLsFE50UcwP58AOH4b79vCnu/view",
   "pub_important": false
 }
 

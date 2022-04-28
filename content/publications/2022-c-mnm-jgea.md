@@ -8,7 +8,9 @@
   "pub_location_city": "Boston",
   "pub_location_country": "USA",
   "pub_authors": "Medvet, Eric; Nadizar, Giorgia; Manzoni, Luca",
+  "pub_doi": "10.1145/3520304.3533960",
   "pub_notes": "To appear",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1wZ-B5lh2U4BWqmJiJhSu8KMm5SH-Ll8v/view",
   "pub_important": false
 }
 
