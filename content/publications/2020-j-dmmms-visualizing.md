@@ -9,6 +9,9 @@
   "pub_doi": "10.1016/j.jisa.2019.102423",
   "pub_publisher_url": "https://www.sciencedirect.com/science/article/pii/S2214212619303837",
   "pub_fulltext_url": "https://drive.google.com/file/d/1wf4xhxwV6lsktQFVy4oghncn9l8wtV2f/view",
+  "pub_venue_rank": "Q2",
+  "pub_venue_rank_subject": "Computer Networks and Communications",
+  "pub_venue_rank_source": "scimagojr",
   "pub_important": false
 }
 
