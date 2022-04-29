@@ -10,7 +10,7 @@
   "pub_location_country": "Malta",
   "pub_authors": "Fenu, Gianfranco; Medvet, Eric; Panfilo, Daniele; Pellegrino, Felice Andrea",
   "pub_doi": "10.5220/0008967404850492",
-  "pub_notes": "Best poster",
+  "pub_notes": "Best poster award",
   "pub_publisher_url": "http://www.scitepress.org/DigitalLibrary/Link.aspx?doi=10.5220/0008967404850492",
   "pub_fulltext_url": "https://drive.google.com/file/d/1ARiUcgQlgowzT_ZXthUUGtJ_AWrc5Rbu/view",
   "pub_important": false

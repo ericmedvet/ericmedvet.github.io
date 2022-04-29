@@ -7,7 +7,7 @@
   "pub_venue_acronym": "GECCO",
   "pub_authors": "Medvet, Eric; Pigozzi, Federico; Bartoli, Alberto; Rochelli, Marco",
   "pub_doi": "10.1145/3449639.3459315",
-  "pub_notes": "Best paper at complex systems track",
+  "pub_notes": "Best paper award at complex systems track",
   "pub_publisher_url": "https://dl.acm.org/doi/10.1145/3449639.3459315",
   "pub_fulltext_url": "https://drive.google.com/file/d/1X-8KqgGXqpIiqjnR_J3FFWF03eeUwrGb/view",
   "pub_slides_url": "https://drive.google.com/file/d/1ZbBB6QYWARtDkwycOOQ_iDRhxrrvU7Xu/view",
