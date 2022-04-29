@@ -2,10 +2,15 @@
   "title": "Less is More: A Call to Focus on Simpler Models in Genetic Programming for Interpretable Machine Learning",
   "pub_year": 2022,
   "pub_accept_year": 2022,
-  "pub_type": "Preprint",
-  "pub_venue_name": "arXiv",
+  "pub_type": "Conference",
+  "pub_venue_name": "International Conference on Hybrid Human Artificial Intelligence",
+  "pub_venue_number": "1st",
+  "pub_venue_acronym": "HHAI",
+  "pub_location_city": "Amsterdam",
+  "pub_location_country": "Netherlands",
   "pub_authors": "Virgolin, Marco; Medvet, Eric; Alderliesten, Tanja; Bosman, Peter A. N.",
   "pub_doi": "10.48550/arXiv.2204.02046",
+  "pub_notes": "To appear",
   "pub_publisher_url": "https://arxiv.org/abs/2204.02046",
   "pub_important": false
 }

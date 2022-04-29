@@ -4,7 +4,6 @@
   "pub_accept_year": 2019,
   "pub_type": "Conference",
   "pub_venue_name": "Annual Conference on Artificial Life",
-  "pub_venue_number": "2nd",
   "pub_venue_acronym": "Alife",
   "pub_location_city": "Newcastle",
   "pub_location_country": "United Kingdom",
