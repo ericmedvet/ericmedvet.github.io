@@ -44,7 +44,7 @@ Italian
 Frontal lessons with blackboard and slide projection; simple exercises, under teacher's supervision, concerning the abstract design of simple memory organization schemes.
 
 ### Course material
-The course material (teacher's slides) will be served directly from here.
+The course material (teacher's slides) is served directly from [here](slides/index.html).
 The slides might be updated during the course.
 
 The lectures will be recorded and made available on Teams.

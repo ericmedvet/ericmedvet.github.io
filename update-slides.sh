@@ -15,5 +15,9 @@ rm -r static/teaching/2122-advancedprogramming/slides/*
 unzip master.zip "slides-master/advanced-programming-2122/*"
 mv slides-master/advanced-programming-2122/* static/teaching/2122-advancedprogramming/slides
 
+rm -r static/teaching/2122-digital-system-architectures/slides/*
+unzip master.zip "slides-master/digital-system-architectures-memory-2122/*"
+mv slides-master/digital-system-architectures-memory-2122/* static/teaching/2122-digital-system-architectures/slides
+
 rm -r slides-master
 rm -f master.zip
