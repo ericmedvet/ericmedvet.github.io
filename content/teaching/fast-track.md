@@ -5,7 +5,7 @@ title: "Fast track thesis proposals"
 Tirocini e tesi "fast track" sono stati approvati in via sperimentale dal Consiglio di Corso di Studio il 7 Gennaio 2019.
 Una descrizione di come funzioni questa modalità è [disponibile online](https://docs.google.com/document/d/1Zk9YMy2vN8Aqo3CO9NzA97DgQnpQMJPwvBgNEei3kh4/edit); si noti che potrebbe essere aggiornata da successivi atti del Consiglio di Corso di Studio: per maggiori dettagli contattare i tutori o il coordinatore del corso di studio.
 
-Su come si prepari un riassunto di un articolo scientifico ci sono molte indicazioni e vari punti di vista: uno che trovo sintetico e sensato è [questo](https://drive.google.com/file/d/0B-uEgJBKxWJLWTRmUENoRWNwRUJ5amI5ckFFdFg4NEQxYmFR/view).
+Su come si prepari un riassunto di un articolo scientifico ci sono molte indicazioni e vari punti di vista: uno che trovo sintetico e sensato è [questo](https://drive.google.com/open?id=1QOcuqIGRgCY_RcDkn4WiCgOJhMi__S7b).
 Consiglio comunque di contattarmi per fare una chiacchierata nel caso ci sia interesse a seguire questa modalità.
 
 ## Currently available papers
