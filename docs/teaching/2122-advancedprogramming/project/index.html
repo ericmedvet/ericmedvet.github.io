@@ -141,37 +141,37 @@
 </h4>
 
 <p>A request is a line of text with the following format (literal text is shown between double quotes <code>&quot;&quot;</code>, regexes between single quotes <code>''</code>):</p>
-<pre><code>Request = QuitRequest
+<pre tabindex="0"><code>Request = QuitRequest
         | StatRequest
         | ComputationRequest
 </code></pre><p>The format of a <em>quit request</em> is:</p>
-<pre><code>QuitRequest = &quot;BYE&quot;
+<pre tabindex="0"><code>QuitRequest = &quot;BYE&quot;
 </code></pre><p>The format of a <em>stat request</em> is:</p>
-<pre><code>StatRequest = &quot;STAT_REQS&quot;
+<pre tabindex="0"><code>StatRequest = &quot;STAT_REQS&quot;
             | &quot;STAT_AVG_TIME&quot;
             | &quot;STAT_MAX_TIME&quot;
 </code></pre><p>The format of a <em>computation request</em> is:</p>
-<pre><code>ComputationRequest = ComputationKind&quot;_&quot;ValuesKind&quot;;&quot;VariableValuesFunction&quot;;&quot;Expressions
-</code></pre><pre><code>ComputationKind = &quot;MIN&quot;
+<pre tabindex="0"><code>ComputationRequest = ComputationKind&quot;_&quot;ValuesKind&quot;;&quot;VariableValuesFunction&quot;;&quot;Expressions
+</code></pre><pre tabindex="0"><code>ComputationKind = &quot;MIN&quot;
                 | &quot;MAX&quot;
                 | &quot;AVG&quot;
                 | &quot;COUNT&quot;
-</code></pre><pre><code>ValuesKind = &quot;GRID&quot;
+</code></pre><pre tabindex="0"><code>ValuesKind = &quot;GRID&quot;
            | &quot;LIST&quot;
 </code></pre><p>A variable-values function can be specified with the following format:</p>
-<pre><code>VariableValuesFunction = VariableValues
+<pre tabindex="0"><code>VariableValuesFunction = VariableValues
                        | VariableValuesFunction&quot;,&quot;VariableValues
-</code></pre><pre><code>VariableValues = VarName&quot;:&quot;JavaNum&quot;:&quot;JavaNum&quot;:&quot;JavaNum
-</code></pre><pre><code>VarName = '[a-z][a-z0-9]*'
+</code></pre><pre tabindex="0"><code>VariableValues = VarName&quot;:&quot;JavaNum&quot;:&quot;JavaNum&quot;:&quot;JavaNum
+</code></pre><pre tabindex="0"><code>VarName = '[a-z][a-z0-9]*'
 </code></pre><p>and <code>JavaNum</code> is a string that can be correctly parsed to a <code>double</code> using the Java <code>Double.parseDouble()</code> method.
 A list of expressions can be specified with the following format:</p>
-<pre><code>Expressions = Expression
+<pre tabindex="0"><code>Expressions = Expression
             | Expressions&quot;;&quot;Expression
-</code></pre><pre><code>Expression = VarName
+</code></pre><pre tabindex="0"><code>Expression = VarName
            | Num
            | &quot;(&quot;Expression&quot;&quot;Op&quot;&quot;Expression&quot;)&quot;
-</code></pre><pre><code>Num = '[0-9]+(\.[0-9]+)?'
-</code></pre><pre><code>Op = &quot;+&quot;
+</code></pre><pre tabindex="0"><code>Num = '[0-9]+(\.[0-9]+)?'
+</code></pre><pre tabindex="0"><code>Op = &quot;+&quot;
    | &quot;-&quot;
    | &quot;*&quot;
    | &quot;/&quot;
@@ -185,7 +185,7 @@ A list of expressions can be specified with the following format:</p>
 <p>Some examples of valid requests are (one per line):
 <div class="alert alert-primary" role="alert">
   <p>Valid requests:</p>
-<pre><code>BYE
+<pre tabindex="0"><code>BYE
 STAT_MAX_TIME
 MAX_GRID;x0:-1:0.1:1,x1:-10:1:20;((x0+(2.0^x1))/(1-x0));(x1*x0)
 COUNT_LIST;x0:1:0.001:100;x1
@@ -195,7 +195,7 @@ COUNT_LIST;x0:1:0.001:100;x1
 <p>Some examples of <strong>not valid</strong> requests are:
 <div class="alert alert-primary" role="alert">
   <p>Not valid requests:</p>
-<pre><code>bye
+<pre tabindex="0"><code>bye
 MIN_GRID;x0:-1:0.1:1,x1:-10:1:20;((x0+(2.0^x1))/(1-x0));log(x1*x0)
 COUNT_LIST;x0:1:0.001:100;
 MAX_LIST;x0:0:0,1:2;(x0+1)
@@ -209,12 +209,12 @@ MAX_LIST;x0:0:0,1:2;(x0+1)
 </h4>
 
 <p>A response is a line of text with the following format:</p>
-<pre><code>Response = ErrorResponse
+<pre tabindex="0"><code>Response = ErrorResponse
          | OkResponse
 </code></pre><p>The format of an <em>error response</em> is:</p>
-<pre><code>ErrorResponse = ERR&quot;;&quot;'[^;]*'
+<pre tabindex="0"><code>ErrorResponse = ERR&quot;;&quot;'[^;]*'
 </code></pre><p>The format of an <em>ok response</em> is:</p>
-<pre><code>OkResponse = OK&quot;;&quot;JavaNum&quot;;&quot;JavaNum
+<pre tabindex="0"><code>OkResponse = OK&quot;;&quot;JavaNum&quot;;&quot;JavaNum
 </code></pre><p>where <code>[^;]*</code> does not include new line characters.</p>
 <h3 id="request-processing-specifications" class="wl">
   <span>Request processing specifications</span>
