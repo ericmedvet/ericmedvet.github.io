@@ -10,6 +10,18 @@ Namely, it is for the 3 CFUs part of that course that I will teach in AY 2021/20
 ## Program, goals, requirements
 
 ### Detailed program
+In brief:
+- practical importance of access to memory in system performance
+- brief overview of memory technologies
+- cache
+	-	direct mapping cache
+	- measuring performance: hit and miss rate, miss penalty
+	- management of writing
+	- associative cache
+- virtual memory
+	- address translation
+	- page fault
+
 For the full course, the program is available [here, in Italian](https://corsi.units.it/in05/modulo/architetture-sistemi-digitali-141in-2021-in056-ord-2016-informatica), or [here, in English](https://corsi.units.it/en/in05/teaching-unit/141in-2021-in056-ord-2016-informatica).
 
 ### Goal of the course
