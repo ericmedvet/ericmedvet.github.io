@@ -9,7 +9,6 @@ Su come si prepari un riassunto di un articolo scientifico ci sono molte indicaz
 Consiglio comunque di contattarmi per fare una chiacchierata nel caso ci sia interesse a seguire questa modalità.
 
 ## Currently available papers
-- Pratt, Sarah, Luca Weihs, and Ali Farhadi. "[The Introspective Agent: Interdependence of Strategy, Physiology, and Sensing for Embodied Agents](https://arxiv.org/abs/2201.00411)." arXiv preprint arXiv:2201.00411 (2022).
 - Soltanian, Khabat, Ali Ebnenasir, and Mohsen Afsharchi. "[Modular Grammatical Evolution for the Generation of Artificial Neural Networks](https://direct.mit.edu/evco/article/doi/10.1162/evco_a_00302/108623/Modular-Grammatical-Evolution-for-the-Generation)." Evolutionary Computation (2021): 1-36.
 - Ross, Alexis, et al. "[Tailor: Generating and Perturbing Text with Semantic Controls](https://arxiv.org/abs/2107.07150)." arXiv preprint arXiv:2107.07150 (2021).
 - Chollet, François. "[On the measure of intelligence](https://arxiv.org/abs/1911.01547)." arXiv preprint arXiv:1911.01547 (2019)
@@ -24,6 +23,7 @@ Consiglio comunque di contattarmi per fare una chiacchierata nel caso ci sia int
 - Kamyar, Sayed, et al. "[Blocks Assemble! Learning to Assemble with Large-Scale Structured Reinforcement Learning](https://arxiv.org/abs/2203.13733)."  arXiv preprint arXiv:2203.13733 (2022).
 
 ## Ongoing theses
+- Pratt, Sarah, Luca Weihs, and Ali Farhadi. "[The Introspective Agent: Interdependence of Strategy, Physiology, and Sensing for Embodied Agents](https://arxiv.org/abs/2201.00411)." arXiv preprint arXiv:2201.00411 (2022).
 - Bongard, Joshua, and Michael Levin. "[Living Things Are Not (20th Century) Machines: Updating Mechanism Metaphors in Light of the Modern Science of Machine Behavior](https://www.frontiersin.org/articles/10.3389/fevo.2021.650726/full)." Frontiers in Ecology and Evolution 9 (2021): 147.
 - Spielberg, Andrew, et al. "[Co-Learning of Task and Sensor Placement for Soft Robotics](https://ieeexplore.ieee.org/abstract/document/9345345)." IEEE Robotics and Automation Letters 6.2 (2021): 1208-1215.
 - Bove, David "[SoK: The Evolution of Trusted UI on Mobile](https://faui1-files.cs.fau.de/public/publications/sok-evolution-final.pdf)", ASIA CCS 2022.
