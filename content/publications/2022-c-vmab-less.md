@@ -11,6 +11,7 @@
   "pub_authors": "Virgolin, Marco; Medvet, Eric; Alderliesten, Tanja; Bosman, Peter A. N.",
   "pub_doi": "10.48550/arXiv.2204.02046",
   "pub_publisher_url": "https://hmieai2022.cs.umu.se/wp-content/uploads/2022/05/HMIEAI2022_paper_6121.pdf",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1M3Nbu5u6aCbXEEYUa_hACbBJlFm6DKWb/view",
   "pub_important": false
 }
 
