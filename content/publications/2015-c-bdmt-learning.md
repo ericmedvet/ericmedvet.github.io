@@ -9,6 +9,8 @@
   "pub_location_city": "Copenhagen",
   "pub_location_country": "Denmark",
   "pub_authors": "Bartoli, Alberto; De Lorenzo, Andrea; Medvet, Eric; Tarlao, Fabiano",
+  "pub_doi": "10.1007/978-3-319-16501-1_2",
+  "pub_publisher_url": "https://link.springer.com/chapter/10.1007/978-3-319-16501-1_2",
   "pub_fulltext_url": "https://drive.google.com/file/d/1ifZ6QuMkoO9LqL2Isq8VAVghVPRwBPDK/view",
   "pub_slides_url": "https://drive.google.com/file/d/1EVh3OiiuTOR31N2vWAk2oGHinDtw3lvu/view",
   "pub_important": false

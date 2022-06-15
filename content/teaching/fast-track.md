@@ -24,11 +24,11 @@ Consiglio comunque di contattarmi per fare una chiacchierata nel caso ci sia int
 
 ## Ongoing theses
 - Pratt, Sarah, Luca Weihs, and Ali Farhadi. "[The Introspective Agent: Interdependence of Strategy, Physiology, and Sensing for Embodied Agents](https://arxiv.org/abs/2201.00411)." arXiv preprint arXiv:2201.00411 (2022).
-- Bongard, Joshua, and Michael Levin. "[Living Things Are Not (20th Century) Machines: Updating Mechanism Metaphors in Light of the Modern Science of Machine Behavior](https://www.frontiersin.org/articles/10.3389/fevo.2021.650726/full)." Frontiers in Ecology and Evolution 9 (2021): 147.
-- Spielberg, Andrew, et al. "[Co-Learning of Task and Sensor Placement for Soft Robotics](https://ieeexplore.ieee.org/abstract/document/9345345)." IEEE Robotics and Automation Letters 6.2 (2021): 1208-1215.
-- Bove, David "[SoK: The Evolution of Trusted UI on Mobile](https://faui1-files.cs.fau.de/public/publications/sok-evolution-final.pdf)", ASIA CCS 2022.
 
 ## Done
+- Bongard, Joshua, and Michael Levin. "[Living Things Are Not (20th Century) Machines: Updating Mechanism Metaphors in Light of the Modern Science of Machine Behavior](https://www.frontiersin.org/articles/10.3389/fevo.2021.650726/full)." Frontiers in Ecology and Evolution 9 (2021): 147. (student: Simone Cappiello)
+- Spielberg, Andrew, et al. "[Co-Learning of Task and Sensor Placement for Soft Robotics](https://ieeexplore.ieee.org/abstract/document/9345345)." IEEE Robotics and Automation Letters 6.2 (2021): 1208-1215. (student: Riccardo Weis)
+- Bove, David "[SoK: The Evolution of Trusted UI on Mobile](https://faui1-files.cs.fau.de/public/publications/sok-evolution-final.pdf)", ASIA CCS 2022. (student: Simone Cossaro)
 - Suarez, Joseph, et al. "[Neural MMO: A Massively Multiagent Game Environment for Training and Evaluating Intelligent Agents](https://arxiv.org/abs/1903.00784)." arXiv preprint arXiv:1903.00784 (2019) (student: Lorenzo Giaccari)
 - Sayama, Hiroki. "[Extreme Ideas Emerging from Social Conformity and Homophily: An Adaptive Social Network Model](https://www.mitpressjournals.org/doi/abs/10.1162/isal_a_00349)." Artificial Life Conference Proceedings. One Rogers Street, Cambridge, MA 02142-1209 USA journals-info@ mit. edu: MIT Press, 2020 (student: Letizia Ferrari)
 - Eiben, A. E. "[Real-world robot evolution: why would it (not) work?](https://www.frontiersin.org/articles/10.3389/frobt.2021.696452/full)." Frontiers in Robotics and AI: 243. (student: Daniel Costantino)

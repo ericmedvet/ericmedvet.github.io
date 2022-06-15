@@ -9,6 +9,8 @@
   "pub_location_city": "Guimarães",
   "pub_location_country": "Portugal",
   "pub_authors": "Medvet, Eric; Bartoli, Alberto; Carminati, Barbara;  Ferrari, Elena",
+  "pub_doi": "10.1007/978-3-319-15934-8_24",
+  "pub_publisher_url": "https://link.springer.com/chapter/10.1007/978-3-319-15934-8_24",
   "pub_fulltext_url": "https://drive.google.com/file/d/1ezw8lUYF98VAVKQ5bjJA7Gy5FYveOuY9/view",
   "pub_important": false
 }
