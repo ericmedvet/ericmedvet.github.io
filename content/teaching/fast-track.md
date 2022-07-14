@@ -9,6 +9,9 @@ Su come si prepari un riassunto di un articolo scientifico ci sono molte indicaz
 Consiglio comunque di contattarmi per fare una chiacchierata nel caso ci sia interesse a seguire questa modalità.
 
 ## Currently available papers
+- Zahedi, Keyan, and Nihat Ay. "[Quantifying morphological computation](https://www.mdpi.com/1099-4300/15/5/1887)." Entropy 15.5 (2013): 1887-1915.
+- Paul, Chandana. "[Morphological computation: A basis for the analysis of morphology and control requirements](https://www.sciencedirect.com/science/article/pii/S0921889006000613)." Robotics and Autonomous Systems 54.8 (2006): 619-630.
+- Füchslin, Rudolf M., et al. "[Morphological computation and morphological control: steps toward a formal theory and applications](https://direct.mit.edu/artl/article/19/1/9/2747/Morphological-Computation-and-Morphological)." Artificial life 19.1 (2013): 9-34.
 - Soltanian, Khabat, Ali Ebnenasir, and Mohsen Afsharchi. "[Modular Grammatical Evolution for the Generation of Artificial Neural Networks](https://direct.mit.edu/evco/article/doi/10.1162/evco_a_00302/108623/Modular-Grammatical-Evolution-for-the-Generation)." Evolutionary Computation (2021): 1-36.
 - Ross, Alexis, et al. "[Tailor: Generating and Perturbing Text with Semantic Controls](https://arxiv.org/abs/2107.07150)." arXiv preprint arXiv:2107.07150 (2021).
 - Chollet, François. "[On the measure of intelligence](https://arxiv.org/abs/1911.01547)." arXiv preprint arXiv:1911.01547 (2019)
