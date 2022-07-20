@@ -8,7 +8,8 @@
   "pub_location_city": "Trento",
   "pub_location_country": "Italy",
   "pub_authors": "Ferigo, Andrea; Soros, Lisa B.; Medvet, Eric; Iacca, Giovanni",
-  "pub_notes": "To appear",
+  "pub_doi": "10.1162/isal_a_00493",
+  "pub_publisher_url": "https://direct.mit.edu/isal/proceedings/isal/34/15/112272",
   "pub_fulltext_url": "https://drive.google.com/file/d/1t7kQHElzbl4qZe74CXyWe_wYnoTacYwS/view",
   "pub_important": false
 }

@@ -8,7 +8,8 @@
   "pub_location_city": "Trento",
   "pub_location_country": "Italy",
   "pub_authors": "Furlan, Stefano; Medvet, Eric; Nadizar, Giorgia; Pigozzi, Federico",
-  "pub_notes": "To appear",
+  "pub_doi": "10.1162/isal_a_00492",
+  "pub_publisher_url": "https://direct.mit.edu/isal/proceedings/isal/34/14/112265",
   "pub_fulltext_url": "https://drive.google.com/file/d/1PQUzf6eC2Kdn9R67NCbWw3bdr2uC4uBG/view",
   "pub_slides_url": "https://giorgia-nadizar.github.io/slides/HumanALifeMutualInfluence/",
   "pub_important": false
