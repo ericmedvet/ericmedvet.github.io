@@ -9,6 +9,7 @@ Su come si prepari un riassunto di un articolo scientifico ci sono molte indicaz
 Consiglio comunque di contattarmi per fare una chiacchierata nel caso ci sia interesse a seguire questa modalità.
 
 ## Currently available papers
+- Chang, Yi-Hsiang, et al. "[Reusability and Transferability of Macro Actions for Reinforcement Learning](https://dl.acm.org/doi/10.1145/3514260)." ACM Transactions on Evolutionary Learning and Optimization 2.1 (2022): 1-16.
 - Zahedi, Keyan, and Nihat Ay. "[Quantifying morphological computation](https://www.mdpi.com/1099-4300/15/5/1887)." Entropy 15.5 (2013): 1887-1915.
 - Paul, Chandana. "[Morphological computation: A basis for the analysis of morphology and control requirements](https://www.sciencedirect.com/science/article/pii/S0921889006000613)." Robotics and Autonomous Systems 54.8 (2006): 619-630.
 - Füchslin, Rudolf M., et al. "[Morphological computation and morphological control: steps toward a formal theory and applications](https://direct.mit.edu/artl/article/19/1/9/2747/Morphological-Computation-and-Morphological)." Artificial life 19.1 (2013): 9-34.
