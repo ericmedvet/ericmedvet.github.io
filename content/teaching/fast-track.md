@@ -9,6 +9,7 @@ Su come si prepari un riassunto di un articolo scientifico ci sono molte indicaz
 Consiglio comunque di contattarmi per fare una chiacchierata nel caso ci sia interesse a seguire questa modalità.
 
 ## Currently available papers
+- Vorobyov, Kostyantyn, et al. "[Synthesis of Java Deserialisation Filters from Examples](https://ieeexplore.ieee.org/abstract/document/9842737)." 2022 IEEE 46th Annual Computers, Software, and Applications Conference (COMPSAC). IEEE, 2022.
 - Chang, Yi-Hsiang, et al. "[Reusability and Transferability of Macro Actions for Reinforcement Learning](https://dl.acm.org/doi/10.1145/3514260)." ACM Transactions on Evolutionary Learning and Optimization 2.1 (2022): 1-16.
 - Zahedi, Keyan, and Nihat Ay. "[Quantifying morphological computation](https://www.mdpi.com/1099-4300/15/5/1887)." Entropy 15.5 (2013): 1887-1915.
 - Paul, Chandana. "[Morphological computation: A basis for the analysis of morphology and control requirements](https://www.sciencedirect.com/science/article/pii/S0921889006000613)." Robotics and Autonomous Systems 54.8 (2006): 619-630.
