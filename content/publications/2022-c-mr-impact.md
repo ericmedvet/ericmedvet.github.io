@@ -10,6 +10,7 @@
   "pub_location_country": "Italy",
   "pub_authors": "Medvet, Eric; Rusin, Francesco",
   "pub_fulltext_url": "https://drive.google.com/file/d/1ROl5NZdKCwd420VOqKOUsxqjbEiur1u1/view",
+  "pub_slides_url": "https://medvet.inginf.units.it/slides/2022-wivace-morphological-variations/",
   "pub_important": false
 }
 
