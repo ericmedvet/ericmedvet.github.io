@@ -52,7 +52,7 @@ Frontal lessons with blackboard and slide projection; exercises, under teacher's
 **Bring your own laptop!**
 
 ### Course material
-The course material (teacher's slides) is available [here](https://drive.google.com/drive/folders/1mmLW3HFe20YpHKyj-VxNXa1CBg65rR8u?usp=sharing) as a zip archive, or served directly from [here](https://medvet.inginf.units.it/slides/advanced-programming-2020).
+The course material (teacher's slides) is available [here](https://drive.google.com/drive/folders/1mmLW3HFe20YpHKyj-VxNXa1CBg65rR8u?usp=sharing) as a zip archive, or served directly from [here](https://medvet.inginf.units.it/slides/advanced-programming-1920).
 The full pack of slides might be updated during the course.
 
 The lectures (with the exception of the first one, due to technical reasons) have been recorded: they are available [here](https://youtube.com/playlist?list=PLTYLIjLghlitd4re0KtZq8nof7XsRFRTq).
