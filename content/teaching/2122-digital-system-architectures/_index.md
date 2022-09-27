@@ -56,7 +56,7 @@ Italian
 Frontal lessons with blackboard and slide projection; simple exercises, under teacher's supervision, concerning the abstract design of simple memory organization schemes.
 
 ### Course material
-The course material (teacher's slides) is served directly from [here](slides/index.html).
+The course material (teacher's slides) is served directly from [here](https://medvet.inginf.units.it/slides/digital-system-architectures-memory-2122).
 The slides might be updated during the course.
 
 The lectures will be recorded and made available on Teams.

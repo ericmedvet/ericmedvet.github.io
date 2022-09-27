@@ -1,7 +1,6 @@
 #!/bin/sh
 
 ./update-papers.sh
-./update-slides.sh
 
 rm -r docs/*
 hugo

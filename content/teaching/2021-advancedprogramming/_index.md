@@ -53,7 +53,7 @@ Frontal lessons with blackboard and slide projection; exercises, under teacher's
 **Bring your own laptop!**
 
 ### Course material
-The course material (teacher's slides) is served directly from [here](slides/index.html).
+The course material (teacher's slides) is served directly from [here](https://medvet.inginf.units.it/slides/advanced-programming-2021).
 The slides might be updated during the course.
 
 The lectures are recorded and are available both on MS Teams and [here](https://youtube.com/playlist?list=PLTYLIjLghlislrGyPa3caCEaDgOFfmTOg).
