@@ -6,7 +6,7 @@ type: courses
 
 This page is about the courses named (actually the same course):
 - Introduction to Machine Learning and Evolutionary Robotics (332MI), for master programs [IN20](https://corsi.units.it/IN20/descrizione-corso) and [IN19](https://corsi.units.it/IN20/descrizione-corso), 9 CFUs
-- Introduction to Machine Learning (470SM), for master programs [SM35](https://dssc.units.it/) and [SM34](https://corsi.units.it/SM34/descrizione-corso), 6 CFUs
+- Introduction to Machine Learning (470SM), for master programs [SM35](https://dssc.units.it/), [SM34](https://corsi.units.it/SM34/descrizione-corso), and [SM64](https://corsi.units.it/SM34/descrizione-corso), 6 CFUs
 
 ## Program, goals, requirements
 
