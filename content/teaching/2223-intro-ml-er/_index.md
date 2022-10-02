@@ -94,6 +94,7 @@ The slides might be updated during the course.
 Sketches for how to do the lab activities, in the form of R notebooks, will be made available; please, fully enjoy the lab activity by **not looking at** these sketches too early.
 
 The recordings of the lectures will be available on MS Teams.
+Students can **join the MS Teams team using this code**: `x4bkwlo`.
 
 #### Suggested textbooks
 - Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani. An Introduction to Statistical Learning, with applications in R. Springer, Berlin: Springer Series in Statistics, 2014. (for the 1st part of the course)
