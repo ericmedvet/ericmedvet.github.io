@@ -112,7 +112,7 @@ Lectures will be held in:
 
 The lectures will be given **in person** and **I strongly recommend being in the room**.
 In compliance with the current regulation students are required to book a place in the room.
-The lectures will also be cast in streaming using the MS Teams platform; the recordings of the lectures will be available on the MS Teams team of the course.
+The lectures will **not** be cast in streaming, but the recordings of the lectures will be available on the MS Teams team of the course.
 
 ## End-of-course test (exam)
 The exam consists of a project and a written test.
