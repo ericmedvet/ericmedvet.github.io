@@ -110,8 +110,8 @@ Lectures will be held in:
 - Room TA (Aula Fisica Tecnica), building C5, Piazzale Europa Campus on Wednesday, 12.00-14.00
 - Room TA (Aula Fisica Tecnica), building C5, Piazzale Europa Campus on Friday, 11.00-13.00
 
-The lectures will be given **in person** and **I strongly recommend being in the room**.
-In compliance with the current regulation students are required to book a place in the room.
+The lectures will be given **in person** and **I recommend being in the room**.
+In compliance with the current regulation students may be required to book a place in the room.
 The lectures will **not** be cast in streaming, but the recordings of the lectures will be available on the MS Teams team of the course.
 
 #### Short announcements about lectures schedule
