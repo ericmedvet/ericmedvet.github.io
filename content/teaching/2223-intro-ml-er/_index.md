@@ -114,6 +114,10 @@ The lectures will be given **in person** and **I strongly recommend being in the
 In compliance with the current regulation students are required to book a place in the room.
 The lectures will **not** be cast in streaming, but the recordings of the lectures will be available on the MS Teams team of the course.
 
+#### Short announcements about lectures schedule
+
+The lecture of **12/10/2022** for favoring participation of DSSC students to DSSC welcome day.
+
 ## End-of-course test (exam)
 The exam consists of a project and a written test.
 The final grade is the average of the two grades: the exam is considered failed if at least one of the two grades is <18.

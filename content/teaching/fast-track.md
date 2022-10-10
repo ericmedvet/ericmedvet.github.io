@@ -28,10 +28,10 @@ Consiglio comunque di contattarmi per fare una chiacchierata nel caso ci sia int
 - Ha, D., and Tang, Y. (2022). [Collective intelligence for deep learning: A survey of recent developments](https://doi.org/10.1177/26339137221114874). Collective Intelligence, 1(1).
 
 ## Ongoing theses
-- Pratt, Sarah, Luca Weihs, and Ali Farhadi. "[The Introspective Agent: Interdependence of Strategy, Physiology, and Sensing for Embodied Agents](https://arxiv.org/abs/2201.00411)." arXiv preprint arXiv:2201.00411 (2022).
 - Kudithipudi, Dhireesha, et al. "[Biological underpinnings for lifelong learning machines](https://rdcu.be/cJIwh)", Nature Machine Intelligence (2022).
 
 ## Done
+- Pratt, Sarah, Luca Weihs, and Ali Farhadi. "[The Introspective Agent: Interdependence of Strategy, Physiology, and Sensing for Embodied Agents](https://arxiv.org/abs/2201.00411)." arXiv preprint arXiv:2201.00411 (2022). (student: Stefano Casagrande)
 - Bongard, Joshua, and Michael Levin. "[Living Things Are Not (20th Century) Machines: Updating Mechanism Metaphors in Light of the Modern Science of Machine Behavior](https://www.frontiersin.org/articles/10.3389/fevo.2021.650726/full)." Frontiers in Ecology and Evolution 9 (2021): 147. (student: Simone Cappiello)
 - Spielberg, Andrew, et al. "[Co-Learning of Task and Sensor Placement for Soft Robotics](https://ieeexplore.ieee.org/abstract/document/9345345)." IEEE Robotics and Automation Letters 6.2 (2021): 1208-1215. (student: Riccardo Weis)
 - Bove, David "[SoK: The Evolution of Trusted UI on Mobile](https://faui1-files.cs.fau.de/public/publications/sok-evolution-final.pdf)", ASIA CCS 2022. (student: Simone Cossaro)
