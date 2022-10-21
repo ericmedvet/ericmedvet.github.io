@@ -116,7 +116,9 @@ The lectures will **not** be cast in streaming, but the recordings of the lectur
 
 #### Short announcements about lectures schedule
 
-The lecture of **12/10/2022** for favoring participation of DSSC students to DSSC welcome day.
+The lecture of **12/10/2022** is cancelled for favoring participation of DSSC students to DSSC welcome day.
+
+The lectures will be suspended **from 31/10/2022 to 4/11/2022** (both extremes included), in compliance with the University of Trieste guidelines.
 
 ## End-of-course test (exam)
 The exam consists of a project and a written test.
