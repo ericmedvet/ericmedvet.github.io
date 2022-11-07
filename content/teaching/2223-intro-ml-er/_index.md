@@ -91,7 +91,9 @@ Frontal lectures with slide projection and live annotation; lab activities, unde
 #### Teacher slides and lab sketches
 The course material (teacher’s slides) will be served directly from [here](https://medvet.inginf.units.it/slides/intro-ml-er-2223/).
 The slides might be updated during the course.
-Sketches for how to do the lab activities, in the form of R notebooks, will be made available; please, fully enjoy the lab activity by **not looking at** these sketches too early.
+Sketches for how to do the lab activities, in the form of R notebooks, are given below; please, fully enjoy the lab activity by **not looking at** these sketches too early:
+- Lab 0: meet R and Iris (not done; it may serve as a *warm-up* lab) ([source](labs/lab0.Rmd), [rendered](labs/lab0.nb.html))
+- Lab 1: hardest variable in Iris ([source](labs/lab1.Rmd), [rendered](labs/lab1.nb.html))
 
 The recordings of the lectures will be available on MS Teams.
 Students can **join the MS Teams team using this code**: `x4bkwlo`.
