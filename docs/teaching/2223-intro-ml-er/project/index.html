@@ -88,10 +88,8 @@
     <li><a href="#available-problems">Available problems</a>
       <ul>
         <li><a href="#leaf-identification">Leaf identification</a></li>
-        <li><a href="#analysis-of-svevos-letters-corpus">Analysis of Svevo&rsquo;s letters corpus</a></li>
         <li><a href="#basketball">Basketball</a></li>
         <li><a href="#twitter-food-popularity">Twitter food popularity</a></li>
-        <li><a href="#vsrs-behavior-characterization">VSRs behavior characterization</a></li>
       </ul>
     </li>
   </ul>
@@ -128,7 +126,8 @@ The document maximum length is fixed at <strong>4 pages (excluding references)</
 </li>
 </ul>
 <p>The students are allowed (and encouraged) to refer to existing (technical/scientific/research) literature for shrinking/omitting obvious parts of the description, if appropriate.
-The students are not required to deliver any source code or other material. However, if needed for gaining more insights on their work, the students will be asked to provide more material or to answer some questions.
+The students are not required to deliver any source code or other material.
+However, if needed for gaining more insights on their work, the students will be asked to provide more material or to answer some questions.
 <strong>If the project has been done by a group of students, the document must show, for each student of the group, which (at least one) of the following activities the student took part in:</strong></p>
 <ul>
 <li>problem statement</li>
@@ -175,21 +174,6 @@ However, student are expected not to simply &ldquo;cut-and-paste&rdquo; an exist
 <p>This problem gives a <strong>bonus score of +0</strong>.</p>
 <p>The <a href="https://archive.ics.uci.edu/ml/machine-learning-databases/00288/">dataset</a> is publicly available, along with an <a href="https://drive.google.com/open?id=17780rojEALRtI5ivDnYSNjc3AUDzPDGJ">extended description</a> of the data.</p>
 <p>The goal is to propose a method for leaf identification based on the provided leaf attributes and using a proper unsupervised or supervised learning tool.</p>
-<h3 id="analysis-of-svevorsquos-letters-corpus" class="wl">
-  <span>Analysis of Svevo’s letters corpus</span>
-  <a href="#analysis-of-svevorsquos-letters-corpus" aria-label="Anchor">#</a>
-  <a href="#content">↰</a>
-</h3>
-
-<p>This problem gives a <strong>bonus score of +1</strong>.</p>
-<p>A <a href="https://drive.google.com/drive/folders/102H1tr8ZXpcphjTll0Qn06zLFU4EIy65?usp=sharing">corpus</a> of approximately 900 letters sent by and received to <a href="https://en.wikipedia.org/wiki/Italo_Svevo">Italo Svevo</a>, the famous writer from Trieste, is publicly available.
-The letters are written in different languages (Italian, English, German, and Triestino, the dialect of Trieste); sometimes, more than one language is used in the same letter.</p>
-<p>The goal is to discover and report:</p>
-<ul>
-<li>which are the main <strong>topics</strong> of discussion in the corpus, who are the persons which each topic is more associated with, how does the interest on different topics evolve over the time</li>
-<li>which are the <strong>sentiments</strong> (positive, negative, at least) expressed in the letters, how are they related with persons and topics, how do they evolve over the time</li>
-</ul>
-<p>The corpus contains info about: corpus section name, index of letter in the section, date of the letter, year of the letter, sender of the letter, location of the sender, recipient, location of the recipient, languages used in the letter, main language, text of the letter.</p>
 <h3 id="basketball" class="wl">
   <span>Basketball</span>
   <a href="#basketball" aria-label="Anchor">#</a>
@@ -218,122 +202,6 @@ Note that the problems in the short list above are just a suggestion and are des
 <p>This problem gives a <strong>bonus score of +2</strong>.</p>
 <p>The goal is to build a tool for predicting how popular will be a tweet about food.
 There is no data available for this problem: the student is hence required to obtain it, if the proposed solution is based on data (likely it will be!).</p>
-<h3 id="vsrs-behavior-characterization" class="wl">
-  <span>VSRs behavior characterization</span>
-  <a href="#vsrs-behavior-characterization" aria-label="Anchor">#</a>
-  <a href="#content">↰</a>
-</h3>
-
-<p>This problem gives a <strong>bonus score of +2</strong>.</p>
-<p>A dataset of experimental results concerning the evolutionary optimization of <a href="https://erallab.inginf.units.it/voxel-based-soft-robots">simulated 2-D Voxel-based Soft Robots (VSRs)</a> for the task of locomotion is provided: for each one of two shapes for the robot body, several evolutions have been done on 4 different terrains.
-The task of locomotion consists in running as fast as possible along the positive $x$-direction.</p>
-<p>The goal is to characterize the behavior of the evolved robots and to answer (a subset of) the following questions:</p>
-<ul>
-<li>are there different behaviors?</li>
-<li>is there an impact of the terrain on the behavior of the evolved robot?</li>
-<li>is that impact the &ldquo;same&rdquo; for the two shapes?</li>
-<li>is there a &ldquo;typical&rdquo; evolutionary path for the robot behavior? e.g., does a robot that evolved to jump have ancestors that walked?</li>
-</ul>
-<p>The dataset consists of 10 files in csv format (but named as <code>.txt</code>), each related to a random seed used for performing the evolutionary optimizations (<em>runs</em>).
-In each file, there is the data for 8 runs, resulting from the combination of two shapes and 4 terrains.
-For each run, there are several rows in the file, one for each iteration of the evolutionary algorithm used for performing the evolution (a simple form of <a href="https://en.wikipedia.org/wiki/Evolution_strategy">Evolutionary Strategy</a>).</p>
-<p>The columns in the file are the following:</p>
-<pre tabindex="0"><code>experiment.name
-seed
-terrain
-shape
-sensor.config
-mapper
-transformation
-evolver
-iterations
-births
-elapsed.seconds
-all→size
-firsts→size
-lasts→size
-all→each[genotype]→uniqueness
-all→each[solution]→uniqueness
-all→each[fitness]→uniqueness
-all→each[fitness→fitness]→min
-all→each[fitness→fitness]→median
-best→solution→shape→w
-best→solution→shape→h
-best→solution→shape→num.voxel
-best→genotype→size
-best→birth.iteration
-best→fitness→fitness
-best→solution→serialized
-best→fitness→as[Outcome]→computation.time
-best→fitness→as[Outcome]→distance
-best→fitness→as[Outcome]→velocity
-best→fitness→as[Outcome]→corrected.efficiency
-best→fitness→as[Outcome]→area.ratio.power
-best→fitness→as[Outcome]→control.power
-best→fitness→as[Outcome]→gait→avg.touch.area
-best→fitness→as[Outcome]→gait→coverage
-best→fitness→as[Outcome]→gait→num.footprints
-best→fitness→as[Outcome]→gait→mode.interval
-best→fitness→as[Outcome]→gait→purity
-best→fitness→as[Outcome]→gait→num.unique.footprints
-best→fitness→as[Outcome]→gait→footprints
-best→fitness→as[Outcome]→center.spectrum.x→[0]
-best→fitness→as[Outcome]→center.spectrum.x→[1]
-best→fitness→as[Outcome]→center.spectrum.x→[2]
-best→fitness→as[Outcome]→center.spectrum.x→[3]
-best→fitness→as[Outcome]→center.spectrum.x→[4]
-best→fitness→as[Outcome]→center.spectrum.x→[5]
-best→fitness→as[Outcome]→center.spectrum.x→[6]
-best→fitness→as[Outcome]→center.spectrum.x→[7]
-best→fitness→as[Outcome]→center.spectrum.x→[8]
-best→fitness→as[Outcome]→center.spectrum.x→[9]
-best→fitness→as[Outcome]→center.spectrum.y→[0]
-best→fitness→as[Outcome]→center.spectrum.y→[1]
-best→fitness→as[Outcome]→center.spectrum.y→[2]
-best→fitness→as[Outcome]→center.spectrum.y→[3]
-best→fitness→as[Outcome]→center.spectrum.y→[4]
-best→fitness→as[Outcome]→center.spectrum.y→[5]
-best→fitness→as[Outcome]→center.spectrum.y→[6]
-best→fitness→as[Outcome]→center.spectrum.y→[7]
-best→fitness→as[Outcome]→center.spectrum.y→[8]
-best→fitness→as[Outcome]→center.spectrum.y→[9]
-</code></pre><p>Most of the columns are self-explicative, by name.
-<code>seed</code>, <code>terrain</code>, and <code>shape</code> are the ones mentioned above; <code>iterations</code> contains the iteration number within a run (i.e., for a given combination of <code>seed</code>, <code>terrain</code>, and <code>shape</code>, all values of <code>iterations</code> are unique).
-Columns with name starting with <code>best→</code> contain information about the best individual (i.e., the one running fastest) in the population at the iteration corresponding to the row.
-Columns starting with <code>best→fitness→as[Outcome]→</code> contain the information extracted from a simulation of the best robot.
-Columns named <code>best→fitness→as[Outcome]→center.spectrum.</code>$a$<code>→[</code>$i$<code>]</code> contain the intensity of the spectral analysis of the center of mass of the robot during the simulation, along the $a$ axis (with $a$ being either $x$ or $y$): each $i$-th component is related to the $i$-th bin in the band 0Hz to 5Hz (bins are evenly distributed).
-Columns starting with <code>best→fitness→as[Outcome]→gait→</code> contain information about the gait of the robot, that is extracted automatically during the simulation.</p>
-<p>The dataset is available <a href="https://drive.google.com/drive/folders/1rtgYZfhAShExgUCjQeXMm9vZiRg4hofQ?usp=sharing">here</a>, along with 8 videos representing the behavior of the best robot at the end of the runs.
-Each video is a matrix of videos, each showing 30s of simulation on a validation terrain of a robots evolved with one of the 10 different random seeds (rows of the video matrix) on the 5 (the 4 of the evolution plus a &ldquo;flat&rdquo; one) different terrains (columns of the video matrix).
-There is one video file for each combination of shape and validation terrain.
-Each robot in the videos is the result of an evolutionary run that was done entirely on a single terrain, but that robot is validated on 5 terrains.</p>
-<h4 id="hints" class="wl">
-  <span>Hints</span>
-  <a href="#hints" aria-label="Anchor">#</a>
-  <a href="#content">↰</a>
-</h4>
-
-<p>The central point is to decide <strong>what is the behavior</strong> of a robot.
-Considering that the robots just do locomotion, the behavior is reasonably captured by the information in the columns <code>best→fitness→as[Outcome]→gait→</code> and <code>best→fitness→as[Outcome]→center.spectrum.</code>$a$<code>→[</code>$i$<code>]</code>.</p>
-<p>The characterization of the behavior can be tackled as a <strong>supervised learning</strong> problem or an <strong>unsupervised learning</strong> problem.
-In the former case, however, a few behaviors should be labeled manually, e.g., by looking at the videos and associating a few rows with the behaviors, as &ldquo;running&rdquo;, &ldquo;jumping&rdquo;, &ldquo;crawling&rdquo;.
-In the latter case, no labeling is required and the characterization basically consists in doing clustering; however, manual inspection is still desirable in order to interpret the result of the clustering.
-In both cases, the goal is to <strong>answer</strong> (a subset of) the questions above, not just blindly applying a ML technique.</p>
-<h4 id="further-info-and-tools" class="wl">
-  <span>Further info and tools</span>
-  <a href="#further-info-and-tools" aria-label="Anchor">#</a>
-  <a href="#content">↰</a>
-</h4>
-
-<p>More information about the mechanical model of the VSRs is given in <a href="https://medvet.inginf.units.it/publications/2020-p-mbds-design/">this paper</a>.
-The software used for the experiments is <a href="https://github.com/ericmedvet/VSREvolution">publicly available</a>.</p>
-<p>In order to favor interpretation, a tool is available for building new videos of the evolved robots.
-In facts, the column <code>best→solution→serialized</code> contains a serialized copy of the robot (base64 encoding of GZIP compression of JSON representation of the robot).</p>
-<p>The tool (<code>VSREvolution.jar</code>, available <a href="https://drive.google.com/drive/folders/1rtgYZfhAShExgUCjQeXMm9vZiRg4hofQ?usp=sharing">here</a>, source code <a href="https://github.com/ericmedvet/VSREvolution/blob/master/src/main/java/it/units/erallab/VideoMaker.java">here</a>) is done in Java (&gt;14) and takes as input (via standard input) a csv containing 3 columns and builds a video file with a video matrix (see above).
-The three columns should contain string keys for the $x$ and $y$ labels in the video matrix (in the first two columns), and the serialized robot (in the third column).
-As an example, the following command produce the video for the bipeds on a flat validation terrain.</p>
-<pre tabindex="0"><code>Rscript -e 'suppressPackageStartupMessages(library(tidyverse));dir(&quot;.&quot;,pattern=&quot;best.*.txt&quot;,full.names = T) %&gt;% map(function(file){read.csv2(file, dec=&quot;.&quot;, stringsAsFactors = T)}) %&gt;% reduce(rbind) %&gt;% filter(shape==&quot;biped-4x3&quot;) %&gt;% group_by(terrain,seed) %&gt;% arrange(iterations) %&gt;% filter(row_number()==n()) %&gt;% ungroup() %&gt;% select(terrain,seed,best.solution.serialized) %&gt;% format_csv2() %&gt;% cat()' | java -Xmx8g -cp VSREvolution.jar it.units.erallab.VideoMaker serializedRobotColumnName=best.solution.serialized outputFile=biped-flat.mp4 w=600 h=1200 terrain=flat transformation=identity endTime=30 startTime=0 encoder=ffmpeg_small
-</code></pre><p>The execution of the command above might take several minutes and a lot of RAM; moreover, <code>ffmpeg</code> is required on the machine.</p>
 
 </div>
 
