@@ -89,7 +89,10 @@ Frontal lectures with slide projection and live annotation; lab activities, unde
 ### Course material
 
 #### Teacher slides and lab sketches
-The course material (teacher’s slides) will be served directly from [here](https://medvet.inginf.units.it/slides/intro-ml-er-2223/).
+The course material (teacher’s slides) will be served directly online:
+- [1st part](https://medvet.inginf.units.it/slides/intro-ml-er-2223/): Introduction to Machine Learning
+- [2nd part](slides/2022-Intro2ML-ER-slides-2nd-part.pdf): Introduction to Evolutionary Computation and Evolutionary Robotics
+
 The slides might be updated during the course.
 Sketches for how to do the lab activities, in the form of R notebooks, are given below; please, fully enjoy the lab activity by **not looking at** these sketches too early:
 - Lab 0: meet R and Iris (not done; it may serve as a *warm-up* lab) ([source](labs/lab0.Rmd), [rendered](labs/lab0.nb.html))
