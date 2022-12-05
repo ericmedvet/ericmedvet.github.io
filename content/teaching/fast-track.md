@@ -26,6 +26,7 @@ Consiglio comunque di contattarmi per fare una chiacchierata nel caso ci sia int
 - Wang, Rouyao, et al. "[ScienceWorld: Is your Agent Smarter than a 5th Grader?](https://github.com/allenai/ScienceWorld/blob/main/ScienceWorld-preprint.pdf)", preprint (2022).
 - Kamyar, Sayed, et al. "[Blocks Assemble! Learning to Assemble with Large-Scale Structured Reinforcement Learning](https://arxiv.org/abs/2203.13733)."  arXiv preprint arXiv:2203.13733 (2022).
 - Ha, D., and Tang, Y. (2022). [Collective intelligence for deep learning: A survey of recent developments](https://doi.org/10.1177/26339137221114874). Collective Intelligence, 1(1).
+- Hinton, G. (2022). [The Forward-Forward Algorithm: Some Preliminary Investigations](https://www.cs.toronto.edu/~hinton/FFA13.pdf)
 
 ## Ongoing theses
 - Kudithipudi, Dhireesha, et al. "[Biological underpinnings for lifelong learning machines](https://rdcu.be/cJIwh)", Nature Machine Intelligence (2022).
