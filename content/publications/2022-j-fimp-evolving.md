@@ -6,7 +6,7 @@
   "pub_venue_name": "IEEE Transactions on Cognitive and Developmental Systems",
   "pub_venue_acronym": "TCDS",
   "pub_authors": "Ferigo, Andrea; Iacca, Giovanni; Medvet, Eric; Pigozzi, Federico",
-  "pub_notes": "To appear",
+  "pub_doi": "10.1109/TCDS.2022.3226556",
   "pub_venue_rank": "Q1",
   "pub_venue_rank_subject": "Software",
   "pub_venue_rank_source": "scimagojr",
