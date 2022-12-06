@@ -7,6 +7,8 @@
   "pub_venue_acronym": "TCDS",
   "pub_authors": "Ferigo, Andrea; Iacca, Giovanni; Medvet, Eric; Pigozzi, Federico",
   "pub_doi": "10.1109/TCDS.2022.3226556",
+  "pub_publisher_url": "https://ieeexplore.ieee.org/document/9969925",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1KVw4vvnJNaX6IaQtFTr7ATkHmvdWqdeb/view",
   "pub_venue_rank": "Q1",
   "pub_venue_rank_subject": "Software",
   "pub_venue_rank_source": "scimagojr",
