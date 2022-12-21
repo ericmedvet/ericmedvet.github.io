@@ -19,6 +19,7 @@
 
 ## Abstract
 Development is fundamental for living beings. As robots are often designed to mimic biological organisms, development is believed to be crucial for achieving successful results in robotic agents, as well. What is not clear, though, is the most appropriate scheduling for development. While in real life systems development happens mostly during the initial growth phase of organisms, it has not yet been investigated whether such assumption holds also for artificial creatures. In this paper, we employ a evolutionary approach to optimize the development—according to different representations—of Voxel-based Soft Robots (VSRs), a kind of modular robots. In our study, development consists in the addition of new voxels to the VSR, at fixed time instants, depending on the development schedule. We experiment with different schedules and show that, similarly to living organisms, artificial agents benefit from development occurring at early stages of life more than from development lasting for their entire life.
+
 ## Code
 [github repo](https://github.com/giorgia-nadizar/VSREvoDevo)
 

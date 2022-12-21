@@ -80,7 +80,7 @@ var buildAndSaveFiles = function(entries) {
     string += "## Abstract\n";
     string += abstract + "\n";
     if (otherText) {
-      string += otherText;
+      string += "\n" + otherText;
     }
     var pubFileName =
       metaData.pub_accept_year +
