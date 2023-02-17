@@ -24,9 +24,11 @@ Consiglio comunque di contattarmi per fare una chiacchierata nel caso ci sia int
 - Cao, Yding, et al. "[Visualizing Collective Idea Generation and Innovation Processes in Social Networks](https://arxiv.org/abs/2110.09893)." arXiv preprint arXiv:2110.09893 (2021).
 - Kim, Jason Z., et al. "[A Neural Programming Language for the Reservoir Computer](https://arxiv.org/abs/2203.05032)", arXiv preprint arXiv:2203.05032 (2022).
 - Wang, Rouyao, et al. "[ScienceWorld: Is your Agent Smarter than a 5th Grader?](https://github.com/allenai/ScienceWorld/blob/main/ScienceWorld-preprint.pdf)", preprint (2022).
-- Kamyar, Sayed, et al. "[Blocks Assemble! Learning to Assemble with Large-Scale Structured Reinforcement Learning](https://arxiv.org/abs/2203.13733)."  arXiv preprint arXiv:2203.13733 (2022).
-- Ha, D., and Tang, Y. (2022). [Collective intelligence for deep learning: A survey of recent developments](https://doi.org/10.1177/26339137221114874). Collective Intelligence, 1(1).
-- Hinton, G. (2022). [The Forward-Forward Algorithm: Some Preliminary Investigations](https://www.cs.toronto.edu/~hinton/FFA13.pdf)
+- Kamyar, Sayed, et al. "[Blocks Assemble! Learning to Assemble with Large-Scale Structured Reinforcement Learning](https://arxiv.org/abs/2203.13733)." arXiv preprint arXiv:2203.13733 (2022).
+- Ha, D., and Tang, Y. (2022). "[Collective intelligence for deep learning: A survey of recent developments](https://doi.org/10.1177/26339137221114874)." Collective Intelligence, 1(1).
+- Hinton, G. (2022). "[The Forward-Forward Algorithm: Some Preliminary Investigations](https://www.cs.toronto.edu/~hinton/FFA13.pdf)"
+- Chen, Xiangning, et al. "[Symbolic Discovery of Optimization Algorithms](https://arxiv.org/abs/2302.06675)." arXiv preprint arXiv:2302.06675 (2023)
+- Oktay, Deniz, et al. "[Neuromechanical Autoencoders: Learning to Couple Elastic and Neural Network Nonlinearity](https://arxiv.org/abs/2302.00032)." arXiv preprint arXiv:2302.00032 (2023)
 
 ## Ongoing theses
 
