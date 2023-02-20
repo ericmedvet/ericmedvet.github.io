@@ -20,5 +20,5 @@ In many natural environments, different forms of living organisms successfully a
 
 ## Videos
 
-Video of the [four behavior classes](https://youtu.be/tuD8scZ88Xc).
-Video of some interesting [evolved robots](https://youtu.be/_kblILsfivw).
+- Video of the [four behavior classes](https://youtu.be/tuD8scZ88Xc).
+- Video of some interesting [evolved robots](https://youtu.be/_kblILsfivw).
