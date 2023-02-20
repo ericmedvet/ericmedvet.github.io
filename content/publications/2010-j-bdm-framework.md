@@ -3,7 +3,7 @@
   "pub_year": 2010,
   "pub_accept_year": 2010,
   "pub_type": "Journal",
-  "pub_venue_name": "ACM Transaction on Internet Technology",
+  "pub_venue_name": "ACM Transactions on Internet Technology",
   "pub_venue_acronym": "TOIT",
   "pub_authors": "Bartoli, Alberto; Davanzo, Giorgio; Medvet, Eric",
   "pub_doi": "10.1145/1852096.1852098",
