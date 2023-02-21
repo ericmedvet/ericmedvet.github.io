@@ -52,7 +52,7 @@ Italian
 Frontal lessons with blackboard and slide projection; exercises, under teacher's supervision, consisting in solving simple tasks of software design and development in Java.
 **Bring your own laptop!**
 
-There will be extra excercise sessions lead by the teaching assistant [Giorgia Nadizar](https://giorgia-nadizar.github.io/).
+There will be extra excercise sessions led by the teaching assistant [Giorgia Nadizar](https://giorgia-nadizar.github.io/).
 The details about these sessions will be communicated.
 
 ### Course material
