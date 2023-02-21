@@ -71,7 +71,7 @@
 <div class="container">
   <h1>Final project</h2>
   <p>
-    For <a href="/teaching/1920-advancedprogramming/">AY 19/20 - Advanced Programming</a>.
+    For <a href="/teaching/2223-advancedprogramming/">AY 22/23 - Advanced Programming</a>.
   </p>
   <aside id="toc">
     <h2 class="wl">
@@ -289,7 +289,7 @@ Otherwise, $T$ is the element-wise merging of those lists.</p>
 
 <p>For each <code>Expression</code> token in <code>Expressions</code>, an expression $e$ is built and added to $E$ by parsing the <code>Expression</code> token based on the corresponding context-free grammar.
 If any of the expression parsing fails, the step fails.</p>
-<p><strong>A sample code for performing this step is provided <a href="https://drive.google.com/drive/folders/1mmLW3HFe20YpHKyj-VxNXa1CBg65rR8u?usp=sharing">here</a> in the form of a few Java classes.</strong>
+<p><strong>A sample code for performing this step is provided <a href="https://drive.google.com/drive/folders/1JOefnifnJYuqh21MTVWBl70kkzWz6qmA?usp=sharing">here</a> in the form of a few Java classes.</strong>
 The student may freely get inspiration from or reuse this code.</p>
 <h5 id="step-4-computation-of-o-from-t-and-e" class="wl">
   <span>Step 4: computation of $o$ from $T$ and $E$</span>
@@ -301,7 +301,7 @@ The student may freely get inspiration from or reuse this code.</p>
 <p>Then:</p>
 <ul>
 <li>if <code>ComputationKind</code> is <code>MIN</code>, $o=\min_{e \in E, t \in T} e(t)$, or the step fails if $\exists e \in E: V_t \not\supseteq V_e$;</li>
-<li>if <code>ComputationKind</code> is <code>MIN</code>, $o=\max_{e \in E, t \in T} e(t)$, or the step fails if $\exists e \in E: V_t \not\supseteq V_e$;</li>
+<li>if <code>ComputationKind</code> is <code>MAX</code>, $o=\max_{e \in E, t \in T} e(t)$, or the step fails if $\exists e \in E: V_t \not\supseteq V_e$;</li>
 <li>if <code>ComputationKind</code> is <code>AVG</code>, $o=\frac{1}{|T|} \sum_{t \in T} e_1(t)$, or the step fails if $V_t \not\supseteq V_{e_1}$;</li>
 <li>if <code>ComputationKind</code> is <code>COUNT</code>, $o=|T|$.</li>
 </ul>
@@ -354,7 +354,8 @@ The student may freely get inspiration from or reuse this code.</p>
 <li>listen on port $p$ specified as command-line argument</li>
 <li>handle multiple clients at the same time</li>
 <li>never terminate, regardless of clients behavior</li>
-<li>at any time, do at most $n$ computation for processing computation requests at the same time, with $n$ being equal to the number of available processors on the machine where the server is running.</li>
+<li>at any time, do at most $n$ computation for processing computation requests at the same time, with $n$ being equal to the number of available processors on the machine where the server is running.
+Note that the server must still be able to serve more than $n$ clients at the same time.</li>
 </ul>
 <p>Moreover, the server must:</p>
 <ul>
