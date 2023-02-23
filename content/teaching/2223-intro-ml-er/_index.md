@@ -72,11 +72,13 @@ This page is about the courses named (actually the same course):
 - Retrieve information from scientific publications about ML or EC/ER techniques not explicitly presented in this course.
 
 ### Requirements
-Basics of statistics: basic graphical tools of data exploration; summary measures of variable distribution (mean, variance, quantiles); fundamentals of probability and of univariate and multivariate distribution of random variables; basics of linear regression analysis.
+Basics of statistics: basic graphical tools (i.e., plots) for data exploration; summary measures of variable distribution (mean, variance, quantiles); fundamentals of probability and of univariate and multivariate distribution of random variables; basics of linear regression analysis.
 
-Basics of linear algebra: vectors, matrices, matrix operations; diagonalization and decomposition in singular values.
+Basics of linear algebra: vectors, matrices, vector and matrix operations.
 
 Basics of programming and data structures: algorithm, data types, loops, recursion, parallel execution, tree.
+
+Familiarity with manipulation of mathematical notation.
 
 ## Method, language, material
 
