@@ -70,9 +70,9 @@ The lectures will be:
 - on Thursday, from 12.00 to 13.30, in room A, ground floor, building C7
 
 The lectures will be done in person, recorded, and made available on Teams.
-For accessing the Teams team, please email me.
+Students enrolled in this course should already be able to access the team of the course.
 
-#### Short announcements about lectures schedule
+<!--#### Short announcements about lectures schedule-->
 
 ## End-of-course test (exam)
 The exam works in one of the following ways:
