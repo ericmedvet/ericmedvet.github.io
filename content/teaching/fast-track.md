@@ -29,6 +29,7 @@ Consiglio comunque di contattarmi per fare una chiacchierata nel caso ci sia int
 - Hinton, G. (2022). "[The Forward-Forward Algorithm: Some Preliminary Investigations](https://www.cs.toronto.edu/~hinton/FFA13.pdf)"
 - Chen, Xiangning, et al. "[Symbolic Discovery of Optimization Algorithms](https://arxiv.org/abs/2302.06675)." arXiv preprint arXiv:2302.06675 (2023)
 - Oktay, Deniz, et al. "[Neuromechanical Autoencoders: Learning to Couple Elastic and Neural Network Nonlinearity](https://arxiv.org/abs/2302.00032)." arXiv preprint arXiv:2302.00032 (2023)
+- Ben Zion, Matan Yah, et al. "[Morphological computation and decentralized learning in a swarm of sterically interacting robots](https://doi.org/10.1126/scirobotics.abo6140)." Science Robotics 8.75 (2023): eabo6140.
 
 ## Ongoing theses
 
