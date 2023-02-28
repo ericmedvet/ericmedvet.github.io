@@ -75,10 +75,9 @@ Students enrolled in this course should already be able to access the team of th
 <!--#### Short announcements about lectures schedule-->
 
 ## End-of-course test (exam)
-The exam works in one of the following ways:
+The student can pass the exam in one of the following ways (student's choice):
 1. Two parts: **Final project + "Short" oral exam**.
-Exam is passed only if the grade is >6/10 on each part. Overall grade is determined as **50%, 50%**, respectively.
-The grades for the Home assignments are communicated during the course.
+Exam is passed only if the grade is >6/10 on each part. Overall grade is determined as **50%, 50%**.
 2. One part: **Oral exam**.
 
 The exam may be repeated an unlimited number of times.
@@ -96,4 +95,4 @@ The evaluation will be as follows: 0/10 not submitted (missed deadline); 5/10 to
 **The project assignment is [here](project/)**.
 
 ### Oral exam
-Questions on the course program and short programming exercise.
+Questions on the the main and minor concepts and short programming exercise.
