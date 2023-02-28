@@ -119,3 +119,26 @@ Please do not change the code in repl after the due date.
 3. **GZIP File Array**, slide 337, assigned on 11/4/2022, due date **2/5/2022**
 
 Grades for the home assignments are visible [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vT7-9UDZ-BuLHZvfO1o4T-3jXqTJpfB7Zx7C5AbshXD2rZRwJBgqbOx_faWJGI7VI9u2_w6WkEHDGUq/pubhtml?gid=1323965064&single=true).
+
+## Results of assessment by students
+{{< fig src="student-assessment-ap2122-in20-1-13.png" caption="Students of IN20 (1st group, 13 answers)" >}}
+
+### Questions
+(In Italian)
+1. Le conoscenze preliminari possedute sono risultate sufficienti per la comprensione degli argomenti previsti nel programma d'esame?
+2. Il carico di studio dell'insegnamento è proporzionato ai crediti assegnati?
+3. Il materiale didattico (indicato e disponibile) è adeguato per lo studio della materia?
+4. Le modalità di esame sono state definite in modo chiaro?
+5. Gli orari di svolgimento di lezioni, esercitazioni e altre eventuali attività didattiche sono rispettati?
+6. Il docente stimola/motiva l'interesse verso la disciplina? 
+7. Il docente espone gli argomenti in modo chiaro?
+8. Le attività didattiche integrative (esercitazioni, tutorati,laboratori, etc...), se previste, sono utili all'apprendimento della materia?
+9. L'insegnamento è stato svolto in maniera coerente con quanto dichiarato sul sito web del corso di studio?
+10. Il docente è reperibile per chiarimenti e spiegazioni?
+11. È interessato/a agli argomenti trattati nell'insegnamento?
+12. È complessivamente soddisfatto di come è stato svolto questo insegnamento? 
+13. L'utilizzo degli strumenti per la DAD (TEAMS, Moodle, ...) da parte del docente ha permesso la corretta fruizione delle lezioni a distanza?
+14. Hai usufruito delle registrazioni delle lezioni? Se sì, ritieni fruibili le registrazioni delle lezioni di questo insegnamento, indipendentemente dalla piattaforma?
+15. Durante il periodo di svolgimento delle lezioni il docente ha garantito la possibilità di interazione con gli studenti?
+16. Sei COMPLESSIVAMENTE soddisfatto di come si è svolta la DAD per questo insegnamento?
+
