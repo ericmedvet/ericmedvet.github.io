@@ -67,7 +67,7 @@ The course will start on **1/3/2023**.
 The lectures will be:
 - on Wednesday, from 8.30 to 10.00, in room 3B, 3rd floor, building D
 - on Thursday, from 8.30 to 11.00, in room 3B, 3rd floor, building D
-- on Thursday, from 12.00 to 13.30, in room A, ground floor, building C7
+- on Friday, from 12.00 to 13.30, in room A, ground floor, building C7
 
 The lectures will be done in person, recorded, and made available on Teams.
 Students enrolled in this course should already be able to access the team of the course.
