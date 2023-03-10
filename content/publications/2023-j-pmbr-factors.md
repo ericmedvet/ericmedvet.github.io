@@ -6,7 +6,8 @@
   "pub_venue_name": "ACM Transactions on Evolutionary Learning and Optimization",
   "pub_venue_acronym": "TELO",
   "pub_authors": "Pigozzi, Federico; Medvet, Eric; Bartoli, Alberto; Rochelli, Marco",
-  "pub_notes": "To appear",
+  "pub_doi": "10.1145/3587101",
+  "pub_publisher_url": "https://dl.acm.org/doi/10.1145/3587101",
   "pub_fulltext_url": "https://drive.google.com/file/d/1xdfNoQHNxHQ8l9GiSXM-qVXbgeXFub_D/view",
   "pub_important": true
 }
