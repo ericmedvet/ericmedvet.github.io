@@ -9,7 +9,8 @@
   "pub_location_city": "Brno",
   "pub_location_country": "Czech Republic",
   "pub_authors": "Nadizar, Giorgia; Medvet, Eric",
-  "pub_notes": "To appear",
+  "pub_doi": "10.1007/978-3-031-29573-7_19",
+  "pub_publisher_url": "https://link.springer.com/chapter/10.1007/978-3-031-29573-7_19",
   "pub_fulltext_url": "https://drive.google.com/file/d/1utQ5kCukMH61jR5f8evADBdl6L1CE8gD/view",
   "pub_important": false
 }
