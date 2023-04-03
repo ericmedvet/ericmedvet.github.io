@@ -7,7 +7,7 @@
   "pub_venue_acronym": "GECCO",
   "pub_location_city": "Lisbon",
   "pub_location_country": "Portugal",
-  "pub_authors": "Pigozzi, Federico; Medvet, Eric; Camerota Verdù, Federico Julian",
+  "pub_authors": "Pigozzi, Federico; Camerota Verdù, Federico Julian; Medvet, Eric",
   "pub_notes": "To appear",
   "pub_important": false
 }
