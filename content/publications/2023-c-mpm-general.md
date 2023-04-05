@@ -8,7 +8,9 @@
   "pub_location_city": "Lisbon",
   "pub_location_country": "Portugal",
   "pub_authors": "Medvet, Eric; Pozzi, Simone; Manzoni, Luca",
+  "pub_doi": "10.1145/3583131.3590429",
   "pub_notes": "To appear",
+  "pub_fulltext_url": "https://drive.google.com/file/d/16RvursYMS7aGlZHXFhxewEu-p3oLD8VQ/view",
   "pub_important": false
 }
 

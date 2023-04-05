@@ -8,6 +8,7 @@
   "pub_location_city": "Lisbon",
   "pub_location_country": "Portugal",
   "pub_authors": "Pigozzi, Federico; Camerota Verdù, Federico Julian; Medvet, Eric",
+  "pub_doi": "10.1145/3583131.3590431",
   "pub_notes": "To appear",
   "pub_important": false
 }
