@@ -7,7 +7,7 @@
   "pub_venue_acronym": "GECCO",
   "pub_location_city": "Lisbon",
   "pub_location_country": "Portugal",
-  "pub_authors": "Pigozzi, Federico; Woodman, Stephanie; Bongard, Josh; Medvet, Eric; Kramer-Bottiglio, Rebecca",
+  "pub_authors": "Pigozzi, Federico; Woodman, Stephanie; Medvet, Eric; Kramer-Bottiglio, Rebecca; Bongard, Josh",
   "pub_notes": "To appear",
   "pub_important": false
 }
