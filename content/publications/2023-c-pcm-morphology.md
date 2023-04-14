@@ -10,6 +10,7 @@
   "pub_authors": "Pigozzi, Federico; Camerota Verdù, Federico Julian; Medvet, Eric",
   "pub_doi": "10.1145/3583131.3590431",
   "pub_notes": "To appear",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1sQ3HmsbIo8ywFhQ5fSTEs8vnlKOr7QCN/view",
   "pub_important": false
 }
 
