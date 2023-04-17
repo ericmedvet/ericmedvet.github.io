@@ -9,6 +9,7 @@
   "pub_location_city": "Gaeta",
   "pub_location_country": "Italy",
   "pub_authors": "Medvet, Eric; Rusin, Francesco",
+  "pub_doi": "10.1007/978-3-031-31183-3_22",
   "pub_fulltext_url": "https://drive.google.com/file/d/1ROl5NZdKCwd420VOqKOUsxqjbEiur1u1/view",
   "pub_slides_url": "https://medvet.inginf.units.it/slides/2022-wivace-morphological-variations/",
   "pub_important": false
