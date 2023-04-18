@@ -72,7 +72,11 @@ The lectures will be:
 The lectures will be done in person, recorded, and made available on Teams.
 Students enrolled in this course should already be able to access the team of the course.
 
-<!--#### Short announcements about lectures schedule-->
+#### Short announcements about lectures schedule
+
+Lectures will be **suspended from 12/4/2023 to 24/4/2023** (included).
+
+The lecture of **28/4/2023** is suspended, for allowing the students to take part in the [Porte Aperte initiative](https://www.units.it/futuri-studenti/come-scegliere/orientamento-alle-lauree-magistrali).
 
 ## End-of-course test (exam)
 The student can pass the exam in one of the following ways (student's choice):
