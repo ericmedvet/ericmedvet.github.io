@@ -78,6 +78,8 @@ Lectures will be **suspended from 12/4/2023 to 24/4/2023** (included).
 
 The lecture of **28/4/2023** is suspended, for allowing the students to take part in the [Porte Aperte initiative](https://www.units.it/futuri-studenti/come-scegliere/orientamento-alle-lauree-magistrali).
 
+The lecture of **12/5/2023** is suspended, for allowing the students to take part in visiting organized by the department to u-blox.
+
 ## End-of-course test (exam)
 The student can pass the exam in one of the following ways (student's choice):
 1. Two parts: **Final project + "Short" oral exam**.
