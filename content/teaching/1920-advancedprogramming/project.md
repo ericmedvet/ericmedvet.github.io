@@ -131,7 +131,7 @@ If the request $r$ is a *quit request*, the server $S$ must immediately close th
 
 Otherwise, $S$ must reply with a response $s$.
 If $s$ is an error response, the part of $s$ following `ERR;` must be a human-comprehensible, succint textual description of the error.
-Otherwise, if $s$ is an ok response, the first of two numbers following `OK;` must be the *response time*, i.e., the number of seconds $S$ took to process $r$, with at least 3 digits after the decimal separator (millisecond precision).
+Otherwise, if $s$ is an ok response, the first of two numbers following `OK;` must be the *response time*, i.e., the number of seconds $S$ taken to process $r$, with at least 3 digits after the decimal separator (millisecond precision).
 
 #### Stat requests
 If $r$ is a stat request, $S$ replies with an ok response where the second number is:
