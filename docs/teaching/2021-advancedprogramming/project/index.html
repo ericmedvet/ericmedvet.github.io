@@ -225,7 +225,7 @@ MAX_LIST;x0:0:0,1:2;(x0+1)
 <p>If the request $r$ is a <em>quit request</em>, the server $S$ must immediately close the connection with the client $C$.</p>
 <p>Otherwise, $S$ must reply with a response $s$.
 If $s$ is an error response, the part of $s$ following <code>ERR;</code> must be a human-comprehensible, succint textual description of the error.
-Otherwise, if $s$ is an ok response, the first of two numbers following <code>OK;</code> must be the <em>response time</em>, i.e., the number of seconds $S$ took to process $r$, with at least 3 digits after the decimal separator (millisecond precision).</p>
+Otherwise, if $s$ is an ok response, the first of two numbers following <code>OK;</code> must be the <em>response time</em>, i.e., the number of seconds $S$ taken to process $r$, with at least 3 digits after the decimal separator (millisecond precision).</p>
 <h4 id="stat-requests" class="wl">
   <span>Stat requests</span>
   <a href="#stat-requests" aria-label="Anchor">#</a>
