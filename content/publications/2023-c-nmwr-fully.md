@@ -9,7 +9,7 @@
   "pub_location_country": "Portugal",
   "pub_authors": "Nadizar, Giorgia; Medvet, Eric; Walker, Kathryn; Risi, Sebastian",
   "pub_doi": "10.1145/3583131.3590419",
-  "pub_notes": "To appear",
+  "pub_publisher_url": "https://dl.acm.org/doi/10.1145/3583131.3590419",
   "pub_fulltext_url": "https://drive.google.com/file/d/1qpA7IpTJS881gjvu0kYHmkr5XraCZB28/view",
   "pub_slides_url": "https://drive.google.com/file/d/1Cps3JFwQx-p9emQr9rAbjJkBv-xq_2BX/view",
   "pub_important": false
