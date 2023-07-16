@@ -6,7 +6,7 @@
   "pub_venue_name": "Applied Soft Computing",
   "pub_venue_acronym": "ASOC",
   "pub_authors": "Nadizar, Giorgia; Medvet, Eric; Nichele, Stefano; Pontes-Filho, Sidney",
-  "pub_notes": "To appear",
+  "pub_doi": "10.1016/j.asoc.2023.110610",
   "pub_publisher_url": "https://www.sciencedirect.com/science/article/pii/S1568494623006282",
   "pub_fulltext_url": "https://drive.google.com/file/d/1mmH_y8jNppigIMGXO7x2A_5V3-VZmc7a/view",
   "pub_venue_rank": "Q1",
