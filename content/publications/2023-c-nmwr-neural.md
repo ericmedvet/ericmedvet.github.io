@@ -9,6 +9,7 @@
   "pub_location_country": "Japan",
   "pub_authors": "Nadizar, Giorgia; Medvet, Eric; Walker, Kathryn; Risi, Sebastian",
   "pub_fulltext_url": "https://drive.google.com/file/d/1uJw-zGPvNjTW6I3p000X3iwW4sQwgiVe/view",
+  "pub_slides_url": "https://drive.google.com/file/d/1olJJXto8e8k9YokVoAzs4oTiV_l8TCu9/view",
   "pub_important": false
 }
 

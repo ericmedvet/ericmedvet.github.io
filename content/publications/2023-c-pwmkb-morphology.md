@@ -11,6 +11,7 @@
   "pub_doi": "10.1145/3583131.3590505",
   "pub_publisher_url": "https://dl.acm.org/doi/10.1145/3583131.3590505",
   "pub_fulltext_url": "https://drive.google.com/file/d/1M7ZQnB8ws2ZIkiXBeacoMDcSDhtfdkTP/view",
+  "pub_slides_url": "https://drive.google.com/file/d/1FmtYTR2T6q7z1HylTxSnqyXu0jf9JdW7/view",
   "pub_important": false
 }
 
