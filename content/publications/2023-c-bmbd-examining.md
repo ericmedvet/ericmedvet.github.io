@@ -10,6 +10,7 @@
   "pub_authors": "Bernardi, Giulia; Medvet, Eric; Bartoli, Alberto; De Lorenzo, Andrea",
   "pub_notes": "To appear",
   "pub_fulltext_url": "https://drive.google.com/file/d/1oFTSrJa6Tztf0Gnlx1kiGo3FDM8Iqzi1/view",
+  "pub_slides_url": "https://drive.google.com/file/d/1tIrBUgKT9Ci9xlvYNXQEWSfQWDzBcCFp/view",
   "pub_important": false
 }
 
