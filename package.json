@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "request": "^2.88.2",
-    "stopword": "^1.0.11"
+    "stopword": "^1.0.11",
+    "stopwords": "^0.0.9"
   }
 }
