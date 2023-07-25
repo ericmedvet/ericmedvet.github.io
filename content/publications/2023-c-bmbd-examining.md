@@ -8,7 +8,8 @@
   "pub_location_city": "Sapporo",
   "pub_location_country": "Japan",
   "pub_authors": "Bernardi, Giulia; Medvet, Eric; Bartoli, Alberto; De Lorenzo, Andrea",
-  "pub_notes": "To appear",
+  "pub_doi": "10.1162/isal_a_00585",
+  "pub_publisher_url": "https://direct.mit.edu/isal/proceedings/isal/35/121/116868",
   "pub_fulltext_url": "https://drive.google.com/file/d/1oFTSrJa6Tztf0Gnlx1kiGo3FDM8Iqzi1/view",
   "pub_slides_url": "https://drive.google.com/file/d/1tIrBUgKT9Ci9xlvYNXQEWSfQWDzBcCFp/view",
   "pub_important": false
