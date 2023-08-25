@@ -5,7 +5,7 @@
   "pub_type": "Journal",
   "pub_venue_name": "Genetic Programming and Evolvable Machines",
   "pub_venue_acronym": "GENP",
-  "pub_authors": "De Lorenzo, Andrea; Bartoli, Alberto;  Medvet, Eric; Castelli, Mauro; Xue, Bing",
+  "pub_authors": "De Lorenzo, Andrea; Bartoli, Alberto; Medvet, Eric; Castelli, Mauro; Xue, Bing",
   "pub_doi": "10.1007/s10710-019-09363-3",
   "pub_publisher_url": "https://link.springer.com/article/10.1007%2Fs10710-019-09363-3",
   "pub_fulltext_url": "https://rdcu.be/bL37X",
