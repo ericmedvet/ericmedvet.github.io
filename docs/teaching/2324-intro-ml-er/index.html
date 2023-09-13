@@ -15,7 +15,7 @@
     gtag("js", new Date());
     gtag("config", "G-ZW00T23DHQ");
   </script>
-  <title>Introduction to Machine Learning</title>
+  <title>Introduction to Machine Learning and Evolutionary Robotics</title>
 </head>
 <body>
     <div class="container">
@@ -36,7 +36,7 @@
 </nav>
 <div id="content">
 <div class="container" id="main-content">
-  <h1>AY 19/20 - Introduction to Machine Learning</h1>
+  <h1>AY 23/24 - Introduction to Machine Learning and Evolutionary Robotics</h1>
   <aside id="toc">
     <h2 class="wl">
       <span>Table of contents</span>
@@ -67,11 +67,6 @@
         <li><a href="#written-test">Written test</a></li>
       </ul>
     </li>
-    <li><a href="#results-of-assessment-by-students">Results of assessment by students</a>
-      <ul>
-        <li><a href="#questions">Questions</a></li>
-      </ul>
-    </li>
   </ul>
 </nav>
       </div>
@@ -79,9 +74,8 @@
   </aside>
   <p>This page is about the courses named (actually the same course):</p>
 <ul>
-<li>Apprendimento automatico ed estrazione dell&rsquo;informazione dai dati (222MI), for master programs <a href="https://corsi.units.it/IN20/descrizione-corso">IN20</a> and <a href="https://corsi.units.it/IN20/descrizione-corso">IN19</a>, 9 CFUs</li>
-<li>Introduction to Machine Learning (470SM), for master programs <a href="https://dssc.units.it/">SM35</a> and <a href="https://corsi.units.it/SM34/descrizione-corso">SM34</a>, 6 CFUs</li>
-<li>Machine Learning and Data Analytics (557EC), for master program <a href="https://corsi.units.it/EC71/descrizione-corso">EC71</a>, 6 CFUs (part of a 9 CFUs course)</li>
+<li>Introduction to Machine Learning and Evolutionary Robotics (332MI), for master programs <a href="https://corsi.units.it/IN20/descrizione-corso">IN20</a> and <a href="https://corsi.units.it/IN19/descrizione-corso">IN19</a>, 9 CFUs</li>
+<li>Introduction to Machine Learning (470SM), for master programs <a href="https://dssc.units.it/">SM35</a>, <a href="https://corsi.units.it/SM34/descrizione-corso">SM34</a>, <a href="https://corsi.units.it/SM23/descrizione-corso">SM23</a>, and <a href="https://corsi.units.it/SM64/descrizione-corso">SM64</a>, 6 CFUs</li>
 </ul>
 <h2 id="program-goals-requirements" class="wl">
   <span>Program, goals, requirements</span>
@@ -95,22 +89,22 @@
   <a href="#content">↰</a>
 </h3>
 
-<h4 id="part-1-24h" class="wl">
-  <span>Part 1 (24h)</span>
-  <a href="#part-1-24h" aria-label="Anchor">#</a>
+<h4 id="part-1-48h" class="wl">
+  <span>Part 1 (48h)</span>
+  <a href="#part-1-48h" aria-label="Anchor">#</a>
   <a href="#content">↰</a>
 </h4>
 
 <ul>
-<li>Definitions of Machine Learning and Data Mining; why ML and DM are hot topics; examples of applications of ML; phases of design, development, and assessment of a ML system; terminology.</li>
+<li>Definition of Machine Learning; examples of applications of ML; taxonomy of ML problems; phases of design, development, and assessment of a ML system; terminology and mathematical notation.</li>
 <li>Introduction to the software/language R; elements of data visualization.</li>
-<li>Supervised learning 1.
+<li>Supervised learning.
 <ul>
+<li>Supervised learning system assessment: cross-fold validation; accuracy and other metrics; metrics for binary classification (FPR, FNR, EER, AUC) and ROC.</li>
 <li>Tree-based methods.
 <ul>
-<li>Decision and regression trees: learning and prediction; role of the parameter and overfitting.</li>
-<li>Trees aggregation: bagging, Random Forest, boosting.</li>
-<li>Supervised learning system assessment: cross-fold validation; accuracy and other metrics; metrics for binary classification (FPR, FNR, EER, AUC) and ROC.</li>
+<li>Decision and regression trees: learning and prediction; role of the parameters and overfitting.</li>
+<li>Trees aggregation: bagging, Random Forest, <del>boosting</del>.</li>
 </ul>
 </li>
 <li>Support Vector Machines (SVM).
@@ -121,6 +115,18 @@
 <li>Multiclass classification with SVM.</li>
 </ul>
 </li>
+<li>Naive-Bayes classification.</li>
+<li>The K-nearest neighbors classifier.</li>
+</ul>
+</li>
+<li>Unsupervised learning.
+<ul>
+<li>Cluster analysis: hierarchical methods, partitional methods (k-means algorithm).</li>
+</ul>
+</li>
+<li>Text and natural language applications (text mining).
+<ul>
+<li>Sentiment analysis; features for text mining; common pre-processing steps.</li>
 </ul>
 </li>
 </ul>
@@ -131,59 +137,29 @@
 </h4>
 
 <ul>
-<li>Text and natural language applications (text mining)
-<ul>
-<li>Sentiment analysis; features for text mining; common pre-processing steps; topic modeling.</li>
-</ul>
-</li>
-<li>Recommending systems.
-<ul>
-<li>Content-based filtering; collaborative filtering.</li>
-<li>Assessment metrics: precision, recall, accuracy@K, diversity, serendipity.</li>
-</ul>
-</li>
 <li>Evolutionary Computation (EC).
 <ul>
 <li>High-level working scheme of an Evolutionary Algorithm (EA); terminology.</li>
-<li>Generational model; selection criteria; exploration/exploitation trade-off; genetic operators with examples; fitness function; multi-objective optimization and Pareto dominance; debugging of an evolutionary search; EA issues (diversity, variational inheritance, expressiveness); fitness landscape.</li>
+<li>Generational model; selection criteria; exploration/exploitation trade-off; genetic operators with examples; fitness function; multi-objective optimization and Pareto dominance; debugging of an evolutionary search.</li>
+<li>EA issues (diversity, variational inheritance, expressiveness); fitness landscape; properties of the representation.</li>
 <li>Examples of common EAs: GA, GP, GE.</li>
 </ul>
 </li>
-</ul>
-<h4 id="part-3-24h" class="wl">
-  <span>Part 3 (24h)</span>
-  <a href="#part-3-24h" aria-label="Anchor">#</a>
-  <a href="#content">↰</a>
-</h4>
-
+<li>Evolutionary Robotics.
 <ul>
-<li>Supervised learning 2.
+<li>Brief foundations of Artificial Neural Networks and EC.
 <ul>
-<li>The Bayes classifier.</li>
-<li>The K-nearest neighbors classifier.</li>
+<li>EA for neuroevolution.</li>
 </ul>
 </li>
-<li>Unupervised learning.
+<li>Significant examples.
 <ul>
-<li>Dimensionality reduction methods: principal component analysis; biplot.</li>
-<li>Cluster analysis: hierarchical methods, partitional methods (k-means algorithm).</li>
+<li>Evolution of Soft Robots morphologies (body).</li>
+<li>Evolution of robotic agents controllers (brain).</li>
+<li>Simultaneous evolution of body and brain.</li>
 </ul>
 </li>
-<li>Evolutionary Robotics
-<ul>
-<li>Brief foundations of Artificial Neural Networks and EC
-<ul>
-<li>EA for neuroevolution</li>
-</ul>
-</li>
-<li>Significant examples
-<ul>
-<li>Evolution of Soft Robots morphologies (body)</li>
-<li>Evolution of robotic agents controllers (brain)</li>
-<li>Simultaneous evolution of body and brain</li>
-</ul>
-</li>
-<li>Simulation: tools and benchmark tasks</li>
+<li>Choosing the task, the fitness; reality gap.</li>
 </ul>
 </li>
 </ul>
@@ -200,12 +176,10 @@
 </h4>
 
 <ul>
-<li>Know main kinds of problems which can be tackled with ML and those ones concerning text and natural language and recommendation</li>
-<li>Know main ML and DM techniques.
-Know design, development, and assessment phases of a ML system; know main assessment metrics and procedures suitable for a ML system.</li>
-<li>Know main kinds of problems which can be tackled with EC and ANN.</li>
-<li>Know general working schemes of most common EAs.</li>
-<li>Know design, development, and assessment phases of a EC-based system in the field of robotics.</li>
+<li>Know the terminology and common mathematical notation for the key concepts of ML and EC systems.</li>
+<li>Know and understand the main supervised and unsupervised ML techniques; know the high-level working scheme of EAs.</li>
+<li>Know and understand the phases of design, development, and assessment of a ML system.</li>
+<li>Know and understand the main assessment metrics and procedures suitable for supervised and unsupervised ML systems.</li>
 </ul>
 <h4 id="applying-knowledge-and-understanding" class="wl">
   <span>Applying knowledge and understanding</span>
@@ -214,9 +188,9 @@ Know design, development, and assessment phases of a ML system; know main assess
 </h4>
 
 <ul>
-<li>Formulate a formal problem statement for simple practical problems in order to tackle them with ML, DM, or EC/ER techniques.</li>
-<li>Develop simple end-to-end ML systems.</li>
-<li>Experimentally assess a simple end-to-end ML or EC/ER system.</li>
+<li>Formulate a formal problem statement, using the proper terminology and mathematical notation, for simple practical problems in order to tackle them with ML or EC techniques.</li>
+<li>Design simple end-to-end ML systems.</li>
+<li>Experimentally assess simple end-to-end ML systems.</li>
 </ul>
 <h4 id="making-judgements" class="wl">
   <span>Making judgements</span>
@@ -225,8 +199,9 @@ Know design, development, and assessment phases of a ML system; know main assess
 </h4>
 
 <ul>
-<li>Judge the technical soundness of a ML or EC/ER system.</li>
-<li>Judge the technical soundness of the assessment of a ML or EC/ER system.</li>
+<li>Judge if a problem can be tackled with ML.</li>
+<li>Judge the technical soundness of a ML system.</li>
+<li>Judge the technical soundness of the assessment of a ML system.</li>
 </ul>
 <h4 id="communication-skills" class="wl">
   <span>Communication skills</span>
@@ -235,7 +210,7 @@ Know design, development, and assessment phases of a ML system; know main assess
 </h4>
 
 <ul>
-<li>Describe, both in written and oral form, the motivations behind choices in the design, development, and assessment of a ML or EC/ER system, possibly exploiting simple plots.</li>
+<li>Describe, both in written and oral form, the motivations behind choices in the design, development, and assessment of a ML system, using the proper terminology and possibly exploiting simple plots.</li>
 </ul>
 <h4 id="learning-skills" class="wl">
   <span>Learning skills</span>
@@ -244,7 +219,7 @@ Know design, development, and assessment phases of a ML system; know main assess
 </h4>
 
 <ul>
-<li>Retrieve information from scientific publications about ML or EC/ER techniques not explicitly presented in this course.</li>
+<li>Retrieve information from scientific publications about ML or EC techniques not explicitly presented in this course.</li>
 </ul>
 <h3 id="requirements" class="wl">
   <span>Requirements</span>
@@ -252,9 +227,10 @@ Know design, development, and assessment phases of a ML system; know main assess
   <a href="#content">↰</a>
 </h3>
 
-<p>Basics of statistics: basic graphical tools of data exploration; summary measures of variable distribution (mean, variance, quantiles); fundamentals of probability and of univariate and multivariate distribution of random variables; basics of linear regression analysis.</p>
-<p>Basics of linear algebra: vectors, matrices, matrix operations; diagonalization and decomposition in singular values.</p>
+<p>Basics of statistics: basic graphical tools (i.e., plots) for data exploration; summary measures of variable distribution (mean, variance, quantiles); fundamentals of probability and of univariate and multivariate distribution of random variables; basics of linear regression analysis.</p>
+<p>Basics of linear algebra: vectors, matrices, vector and matrix operations.</p>
 <p>Basics of programming and data structures: algorithm, data types, loops, recursion, parallel execution, tree.</p>
+<p>Familiarity with manipulation of mathematical notation.</p>
 <h2 id="method-language-material" class="wl">
   <span>Method, language, material</span>
   <a href="#method-language-material" aria-label="Anchor">#</a>
@@ -274,7 +250,7 @@ Know design, development, and assessment phases of a ML system; know main assess
   <a href="#content">↰</a>
 </h3>
 
-<p>Frontal lessons with blackboard and slide projection; exercises, under teacher supervision, in dealing with simple problems with ML techniques.</p>
+<p>Frontal lectures with slide projection and live annotation; lab activities, under teacher supervision, in dealing with simple problems with ML techniques.</p>
 <h3 id="course-material" class="wl">
   <span>Course material</span>
   <a href="#course-material" aria-label="Anchor">#</a>
@@ -287,11 +263,18 @@ Know design, development, and assessment phases of a ML system; know main assess
   <a href="#content">↰</a>
 </h4>
 
-<p>All the material is available <a href="https://drive.google.com/drive/folders/1r6GZdHaqqs51pTXgwZk_ZWuwffXRu81V">here</a>:</p>
+<p>The course material (teacher’s slides) will be served directly online:</p>
 <ul>
-<li>Annotated slides; will be provided after the lectures.</li>
-<li>Slides of hosted seminar.</li>
+<li><a href="https://medvet.inginf.units.it/slides/intro-ml-er-2324/">1st part</a>: Introduction to Machine Learning</li>
+<li><a href="slides/2023-Intro2ML-ER-slides-2nd-part.pdf">2nd part</a>: Introduction to Evolutionary Computation and Evolutionary Robotics</li>
 </ul>
+<p>The slides might be updated during the course.
+Sketches for how to do the lab activities, in the form of R notebooks, are given below; please, fully enjoy the lab activity by <strong>not looking at</strong> these sketches too early:</p>
+<ul>
+<li>Lab 0: meet R and Iris (not done; it may serve as a <em>warm-up</em> lab) (<a href="labs/lab0.Rmd">source</a>, <a href="labs/lab0.nb.html">rendered</a>)</li>
+<li>Lab 1: hardest variable in Iris (<a href="labs/lab1.Rmd">source</a>, <a href="labs/lab1.nb.html">rendered</a>)</li>
+</ul>
+<p>The recordings of the lectures will be available on MS Teams.</p>
 <h4 id="suggested-textbooks" class="wl">
   <span>Suggested textbooks</span>
   <a href="#suggested-textbooks" aria-label="Anchor">#</a>
@@ -299,30 +282,38 @@ Know design, development, and assessment phases of a ML system; know main assess
 </h4>
 
 <ul>
-<li>Kenneth A. De Jong. Evolutionary computation: a unified approach. MIT press, 2006</li>
-<li>Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani. An Introduction to Statistical Learning, with applications in R. Springer, Berlin: Springer Series in Statistics, 2014.</li>
+<li>Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani. An Introduction to Statistical Learning, with applications in R. Springer, Berlin: Springer Series in Statistics, 2014. (for the 1st part of the course)</li>
+<li>Kenneth A. De Jong. Evolutionary computation: a unified approach. MIT press, 2006. (for the 2nd part of the course)</li>
 </ul>
+<p>These are just suggestions: a significant part of the course is not based on any specific textbook.</p>
 <h3 id="lectures-timetable-and-course-calendar" class="wl">
   <span>Lectures timetable and course calendar</span>
   <a href="#lectures-timetable-and-course-calendar" aria-label="Anchor">#</a>
   <a href="#content">↰</a>
 </h3>
 
-<p>The course will start on <strong>October, 22nd</strong>.
-Lessons will be held in Classroom 3B, H2bis building, in Piazzale Europa campus.</p>
+<p>The course will start on <strong>September, 25th</strong>.
+Lectures will be held in:</p>
+<ul>
+<li>Room TA (Aula Fisica Tecnica), building C5, Piazzale Europa Campus on Monday, 12.00-14.00</li>
+<li>Room 2 (Aula Meccanica Applicata), building C5, Piazzale Europa Campus on Tuesday, 9.00-11.00</li>
+<li>Room 2 (Aula Meccanica Applicata), building C5, Piazzale Europa Campus on Friday, 11.00-13.00</li>
+</ul>
+<p>The lectures will be given <strong>in person</strong> and <strong>I recommend being in the room</strong>.
+In compliance with the current regulation students might be required to book a place in the room.
+The lectures will <strong>not</strong> be cast in streaming, but the recordings of the lectures will be available on the MS Teams team of the course.</p>
+<h4 id="short-announcements-about-lectures-schedule" class="wl">
+  <span>Short announcements about lectures schedule</span>
+  <a href="#short-announcements-about-lectures-schedule" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h4>
+
+<p>None yet.</p>
 <h2 id="end-of-course-test-exam" class="wl">
   <span>End-of-course test (exam)</span>
   <a href="#end-of-course-test-exam" aria-label="Anchor">#</a>
   <a href="#content">↰</a>
 </h2>
-
-<div class="alert alert-danger" role="alert">
-  <h3 id="important-note">Important note</h3>
-<p>Due to the <strong>Covid19</strong> circumstances, the written test might be replaced by an oral interview.
-Interviews will be done on the MS Teams platform of UniTs or, in case of problems with the latter, with another similar tool (e.g., Google Meet).
-Precise instructions will be given to the students registered for each exam date after the registration deadline and before the exam.
-Students who want to listen to others students' interviews, but are not registered, should ask authorization to the teacher.
-</div>
 
 <p>The exam consists of a project and a written test.
 The final grade is the average of the two grades: the exam is considered failed if at least one of the two grades is &lt;18.
@@ -334,7 +325,7 @@ Note that there are <strong>deadlines</strong> for registration (usually 1 week 
   <a href="#content">↰</a>
 </h3>
 
-<p>The student chooses a problem among a closed, teacher-defined set of problems and proposes a solution based on ML, DM, or EC techniques.
+<p>The student chooses a problem among a closed, teacher-defined set of problems and proposes a solution based on ML or EC techniques.
 The expected outcome is a written document (few pages) including: the problem statement; one or more performance indexes able to capture any solution ability to solve the problem; a description of the proposed solution from the algorithmic point of view; the results and a discussion about the experimental assessment of the solution with, if applicable, information about used data.
 Student may form groups for the project: in this case, the document must show, for each student of the group, which activities the student took part in.
 The project is evaluated according to clarity (≈50%), technical soundness (≈33%), and results (≈17%).</p>
@@ -346,53 +337,6 @@ The project is evaluated according to clarity (≈50%), technical soundness (≈
 </h3>
 
 <p>Questions on theory and application with short open answers.</p>
-<h2 id="results-of-assessment-by-students" class="wl">
-  <span>Results of assessment by students</span>
-  <a href="#results-of-assessment-by-students" aria-label="Anchor">#</a>
-  <a href="#content">↰</a>
-</h2>
-
-<p><figure class="figure">
-  <img src="student-assessment-in20.png" class="figure-img img-fluid rounded" alt="Students of IN20 (23 answers)">
-  <figcaption class="figure-caption">Students of IN20 (23 answers)</figcaption>
-</figure>
-
-<figure class="figure">
-  <img src="student-assessment-in19.png" class="figure-img img-fluid rounded" alt="Students of IN19 (6 answers)">
-  <figcaption class="figure-caption">Students of IN19 (6 answers)</figcaption>
-</figure>
-
-<figure class="figure">
-  <img src="student-assessment-sm35.png" class="figure-img img-fluid rounded" alt="Students of SM35 (33 answers)">
-  <figcaption class="figure-caption">Students of SM35 (33 answers)</figcaption>
-</figure>
-
-<figure class="figure">
-  <img src="student-assessment-ec71.png" class="figure-img img-fluid rounded" alt="Students of EC71 (10 answers)">
-  <figcaption class="figure-caption">Students of EC71 (10 answers)</figcaption>
-</figure>
-</p>
-<h3 id="questions" class="wl">
-  <span>Questions</span>
-  <a href="#questions" aria-label="Anchor">#</a>
-  <a href="#content">↰</a>
-</h3>
-
-<p>(In Italian)</p>
-<ol>
-<li>Le conoscenze preliminari possedute sono risultate sufficienti per la comprensione degli argomenti trattati?</li>
-<li>Il carico di studio di questo insegnamento è proporzionato ai crediti assegnati?</li>
-<li>Il materiale didattico (indicato o fornito) è adeguato per lo studio della materia?</li>
-<li>Le modalità di esame sono state definite in modo chiaro?</li>
-<li>Gli orari di svolgimento dell&rsquo;attività didattica sono rispettati?</li>
-<li>Il docente stimola / motiva l&rsquo;interesse verso la disciplina?</li>
-<li>Il docente espone gli argomenti in modo chiaro?</li>
-<li>Le attività didattiche integrative (esercitazioni, laboratori, seminari, ecc.) risultano utili ai fini dell&rsquo;apprendimento? (se non sono previste attività didattiche integrative, rispondete non previste)</li>
-<li>L&rsquo;insegnamento è stato svolto in maniera coerente con quanto dichiarato sul sito web del corso di studio?</li>
-<li>Il personale docente è effettivamente reperibile per chiarimenti e spiegazioni?</li>
-<li>Sei interessato agli argomenti dell&rsquo;insegnamento?</li>
-<li>Sei complessivamente soddisfatto dell&rsquo;insegnamento?</li>
-</ol>
 
 </div>
 

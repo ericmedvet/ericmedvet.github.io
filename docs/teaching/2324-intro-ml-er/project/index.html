@@ -71,7 +71,7 @@
 <div class="container">
   <h1>Final project</h2>
   <p>
-    For <a href="/teaching/1920-intro-ml/">AY 19/20 - Introduction to Machine Learning</a>.
+    For <a href="/teaching/2324-intro-ml-er/">AY 23/24 - Introduction to Machine Learning and Evolutionary Robotics</a>.
   </p>
   <aside id="toc">
     <h2 class="wl">
@@ -88,8 +88,7 @@
     <li><a href="#available-problems">Available problems</a>
       <ul>
         <li><a href="#leaf-identification">Leaf identification</a></li>
-        <li><a href="#analysis-of-svevos-letters-corpus">Analysis of Svevo&rsquo;s letters corpus</a></li>
-        <li><a href="#black-friday">Black Friday</a></li>
+        <li><a href="#basketball">Basketball</a></li>
         <li><a href="#twitter-food-popularity">Twitter food popularity</a></li>
       </ul>
     </li>
@@ -111,11 +110,11 @@
   <a href="#content">↰</a>
 </h2>
 
-<p>The student (or group of students) will deliver a single document (as a pdf file, written in English or Italian), <strong>within one week before the exam date</strong>, by email, to the teacher.
+<p>The student (or group of students) will deliver a single document (as a pdf file, written in English or Italian), <strong>within the exam date</strong>, by email, to the teacher.
 The document maximum length is fixed at <strong>4 pages (excluding references)</strong>, if the document is drafted according to <a href="https://www.overleaf.com/read/skmvqytwpncp">this LaTex template</a>, or <strong>1200 words</strong> (including every word: title, authors, references, &hellip;), otherwise.</p>
-<p>The document will contain (not necessarily in the following order):</p>
+<p>The document will contain (not necessarily in the following order, not necessarily in a structure of sections corresponding to the following items):</p>
 <ul>
-<li>the <strong>problem statement</strong></li>
+<li>the <strong>problem statement</strong>, that is a formal description of what is the information (input) upon which a decision/figure (output) has to be made/computed</li>
 <li>a description of one or more <strong>performance indexes</strong> able to capture the degree to which a(ny) solution solves the problem, or some other evaluation criteria</li>
 <li>a description of the <strong>proposed solution</strong>, from the algorithmic point of view, with zero or scarce focus on the tools used to implement it</li>
 <li>a description of the <strong>experimental evaluation</strong> of the solution, including
@@ -127,7 +126,8 @@ The document maximum length is fixed at <strong>4 pages (excluding references)</
 </li>
 </ul>
 <p>The students are allowed (and encouraged) to refer to existing (technical/scientific/research) literature for shrinking/omitting obvious parts of the description, if appropriate.
-The students are not required to deliver any source code or other material. However, if needed for gaining more insights on their work, the students will be asked to provide more material or to answer some questions.
+The students are not required to deliver any source code or other material.
+However, if needed for gaining more insights on their work, the students will be asked to provide more material or to answer some questions.
 <strong>If the project has been done by a group of students, the document must show, for each student of the group, which (at least one) of the following activities the student took part in:</strong></p>
 <ul>
 <li>problem statement</li>
@@ -174,42 +174,25 @@ However, student are expected not to simply &ldquo;cut-and-paste&rdquo; an exist
 <p>This problem gives a <strong>bonus score of +0</strong>.</p>
 <p>The <a href="https://archive.ics.uci.edu/ml/machine-learning-databases/00288/">dataset</a> is publicly available, along with an <a href="https://drive.google.com/open?id=17780rojEALRtI5ivDnYSNjc3AUDzPDGJ">extended description</a> of the data.</p>
 <p>The goal is to propose a method for leaf identification based on the provided leaf attributes and using a proper unsupervised or supervised learning tool.</p>
-<h3 id="analysis-of-svevorsquos-letters-corpus" class="wl">
-  <span>Analysis of Svevo&rsquo;s letters corpus</span>
-  <a href="#analysis-of-svevorsquos-letters-corpus" aria-label="Anchor">#</a>
+<h3 id="basketball" class="wl">
+  <span>Basketball</span>
+  <a href="#basketball" aria-label="Anchor">#</a>
   <a href="#content">↰</a>
 </h3>
 
 <p>This problem gives a <strong>bonus score of +1</strong>.</p>
-<p>A <a href="https://drive.google.com/drive/folders/102H1tr8ZXpcphjTll0Qn06zLFU4EIy65?usp=sharing">corpus</a> of approximately 900 letters sent by and received to <a href="https://en.wikipedia.org/wiki/Italo_Svevo">Italo Svevo</a>, the famous writer from Trieste, is publicly available.
-The letters are written in different languages (Italian, English, German, and Triestino, the dialect of Trieste); sometimes, more than one language is used in the same letter.</p>
-<p>The goal is to discover and report:</p>
-<ul>
-<li>which are the main <strong>topics</strong> of discussion in the corpus, who are the persons which each topic is more associated with, how does the interest on different topics evolve over the time</li>
-<li>which are the <strong>sentiments</strong> (positive, negative, at least) expressed in the letters, how are they related with persons and topics, how do they evolve over the time</li>
-</ul>
-<p>The corpus contains info about: corpus section name, index of letter in the section, date of the letter, year of the letter, sender of the letter, location of the sender, recipient, location of the recipient, languages used in the letter, main language, text of the letter.
-The corpus has already been <a href="http://www.museosveviano.it/ar/progetto/archivio-digitale/">preliminary analyzed</a>.</p>
-<h3 id="black-friday" class="wl">
-  <span>Black Friday</span>
-  <a href="#black-friday" aria-label="Anchor">#</a>
-  <a href="#content">↰</a>
-</h3>
-
-<p>This problem gives a <strong>bonus score of +1</strong>.</p>
-<p>A <a href="https://drive.google.com/drive/folders/19h0E0n_f_FXgVOg_b3I03qpkS_t_jpnc?usp=sharing">dataset</a> contains a sample of the transactions made in a retail store.
-The store wants to know better the customer purchase behavior against different products.</p>
+<p>A <a href="https://www.kaggle.com/nathanlauga/nba-games">dataset</a> contains information about NBA games from several recent seasons (from 2004 on), at the level of the single player contribution to each game.</p>
 <p>Different learning problems can be settled with this dataset.
 Some problem examples are:</p>
 <ul>
-<li>finding different clusters of consumers within it</li>
-<li>predicting the amount of purchase</li>
-<li>predicting the category of goods bought</li>
-<li>predicting the age of the consumer</li>
-<li>recommending a product to a consumer or a category of consumers</li>
+<li>predicting the outcome of a season</li>
+<li>predicting the outcome of a match</li>
+<li>predicting some statistics of a player in a match</li>
+<li>predicting the most impactful player of a match</li>
+<li>grouping matches or players according to some interesting criterion</li>
 </ul>
 <p>Focus on (at least) one specific problem and present a thorough and solid analysis (visualization tools are welcome both in exploration and communication of your results and reflections).
-Note that the problems in the short list above are just a suggestion and are described very briefly: the student is required to consider a problem and to exactly define it.</p>
+Note that the problems in the short list above are just a suggestion and are described very briefly: the student is required to consider a problem (that has to be sound!) and to exactly define it.</p>
 <h3 id="twitter-food-popularity" class="wl">
   <span>Twitter food popularity</span>
   <a href="#twitter-food-popularity" aria-label="Anchor">#</a>
