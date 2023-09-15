@@ -14,12 +14,12 @@ This page is about the courses named (actually the same course):
 
 #### Part 1 (48h)
 - Definition of Machine Learning; examples of applications of ML; taxonomy of ML problems; phases of design, development, and assessment of a ML system; terminology and mathematical notation.
-- Introduction to the software/language R; elements of data visualization.
+- Elements of software/programming languages for ML; elements of data visualization.
 - Supervised learning.
   - Supervised learning system assessment: cross-fold validation; accuracy and other metrics; metrics for binary classification (FPR, FNR, EER, AUC) and ROC.
   - Tree-based methods.
     - Decision and regression trees: learning and prediction; role of the parameters and overfitting.
-    - Trees aggregation: bagging, Random Forest, ~~boosting~~.
+    - Trees aggregation: bagging, Random Forest.
   - Support Vector Machines (SVM).
     - Separating hyperplane: maximal margin classifier; support vectors; learning as an optimization problem; maximal margin classifier limitations.
     - Soft margin classifier: learning, role of the parameter C.
