@@ -121,7 +121,7 @@ The lectures will **not** be cast in streaming, but the recordings of the lectur
 
 #### Short announcements about lectures schedule
 
-None yet.
+The lecture of **13/10/2023** is cancelled because for research-related duties of the teacher.
 
 ## End-of-course test (exam)
 The exam consists of a project and a written test.
