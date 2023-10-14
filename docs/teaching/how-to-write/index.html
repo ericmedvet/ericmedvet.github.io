@@ -1,0 +1,542 @@
+<!DOCTYPE html>
+<html><head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+  <meta name="description" content="Eric Medvet, Associate Professor of Computer Engineering at the University of Trieste, Italy" />
+  <meta name="author" content="Eric Medvet" />
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous"/>
+  <link rel="stylesheet" href="/scss/basic.css" />
+  <link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.css"
+  integrity="sha384-AfEj0r4/OFrOo5t7NnNe46zW/tFgW6x/bCJG8FqQCEo3+Aro6EYUG4+cU+KJWu/X"
+  crossorigin="anonymous"
+/>
+<script
+  defer
+  src="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.js"
+  integrity="sha384-g7c+Jr9ZivxKLnZTDUhnkOnsh30B4H0rpLUpJ4jAIKs4fnJI+sEnkvrMWph2EDg4"
+  crossorigin="anonymous"
+></script>
+<script
+  defer
+  src="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/contrib/auto-render.min.js"
+  integrity="sha384-mll67QQFJfxn0IYznZYonOWZ644AWYC+Pt2cHqMaRhXVrursRwvLnLaebdGIlYNa"
+  crossorigin="anonymous"
+  onload="renderMathInElement(document.body);"
+></script>
+
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    renderMathInElement(document.body, {
+      delimiters: [
+        { left: "$$", right: "$$", display: true },
+        { left: "\\[", right: "\\]", display: true },
+        { left: "$", right: "$", display: false },
+        { left: "\\(", right: "\\)", display: false },
+      ],
+    });
+  });
+</script>
+
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZW00T23DHQ"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag("js", new Date());
+    gtag("config", "G-ZW00T23DHQ");
+  </script>
+  <title>How to write scientific documents</title>
+</head>
+<body>
+    <div class="container">
+      <div class="inner-container border rounded"><nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="https://ericmedvet.github.io/">
+      <span class="initial">E</span><span>ric</span>
+      <span class="initial">M</span><span>edvet</span></a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+    <div class="navbar-nav">
+      <a class="nav-link " href="/publications/">Publications</a>
+      <a class="nav-link active" href="/teaching/">Teaching</a>
+      <a class="nav-link " href="/contact/">Contact me</a>
+    </div>
+  </div>
+</nav>
+<div id="content">
+<div class="container">
+  <h1>How to write scientific documents</h1>
+  <div class="alert alert-danger" role="alert">
+  <h3 id="premise">Premise</h3>
+<p>Here I am giving my <em>personal</em> advices, based on my personal experience; I am not listing a set of rules.
+However, I do believe that many of these advices can be intended as <strong>guidelines</strong> and are widely accepted.
+</div>
+
+<p>I thank all the colleagues and PhD students (namely, Giorgia, Marco, Jessica) who helped me refining these guidelines in years of writing.</p>
+<h2 id="document-structure-and-language" class="wl">
+  <span>Document structure and language</span>
+  <a href="#document-structure-and-language" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h2>
+
+<p>Here I refer specifically to computer science scientific articles and namely to those presenting experimental results.</p>
+<h3 id="abstract" class="wl">
+  <span>Abstract</span>
+  <a href="#abstract" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h3>
+
+<p>A good abstract usually follows this general structure.</p>
+<ol>
+<li>One or two sentences presenting the <strong>general context</strong> (e.g., robotics).</li>
+<li>One or two sentences presenting the more <strong>specific context</strong> (e.g., design of controllers for modular robots).</li>
+<li>One sentence, possibly <em>bold</em>, saying what is the current <strong>gap, problem, or limitation</strong>.</li>
+<li>A few sentences introducing the <strong>proposal of the paper</strong>, clearly connecting them to the gap/problem/limitation of the previous sentence.
+This part of the abstract usually starts with <em>In this paper, we propose&hellip;</em>.</li>
+<li>One or two sentences mentioning the <strong>experimental evaluation</strong> of the proposal, possibly detailing (briefly!) the peculiarities of the experiments and anticipating the salient results.</li>
+<li>Optionally (but nice to have!) one sentence attempting to summarize the <strong>broader impact</strong> of the research, beyond the specific context.</li>
+</ol>
+<h4 id="example-1" class="wl">
+  <span>Example 1</span>
+  <a href="#example-1" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h4>
+
+<p>From <a href="/publications/2023-c-mpm-general/">this paper</a>.</p>
+<p>(<strong>general context</strong> →) <em>Graphs are a way to describe complex entities and their relations that apply to many practically relevant domains.</em>
+(<strong>specific context</strong> →) <em>However, domains often differ not only in the properties of nodes and edges, but also in the constraints imposed to the overall structure.</em>
+(<strong>limitation</strong> →) <em>This makes hard to define a general representation and genetic operators for graphs that permit the evolutionary optimization over many domains.</em>
+(<strong>proposal</strong> →) <em>In this paper, we tackle this challenge.</em>
+<em>We first propose a representation template that can be customized by users for specific domains: the constraints and the genetic operators are given in Prolog, a declarative programming language for operating with logic.</em>
+<em>Then, we define an adaptive evolutionary algorithm that can work with a large number of genetic operators by modifying their usage probability during the evolution: in this way, we relieve the user from the burden of selecting in advance only operators that are “good enough”.</em>
+(<strong>experimental evaluation</strong> →) <em>We experimentally evaluate our proposal on two radically different domains to demonstrate its applicability and effectiveness: symbolic regression with trees and text extraction with finite-state automata.</em>
+The results are promising: our approach does not trade effectiveness for versatility and is not worse than other domain-tailored approaches.</p>
+<h4 id="example-2" class="wl">
+  <span>Example 2</span>
+  <a href="#example-2" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h4>
+
+<p>Form <a href="/publications/2023-j-pbscsrmm-deep/">this paper</a>.</p>
+<p>(<strong>general context</strong> →) <em>The recent and rapid progresses in Machine Learning (ML) tools and methodologies paved the way for an accessible market of ML services.</em>
+(<strong>specific context</strong> →) <em>In principle, small and medium-sized enterprises, as well as big companies, could act as providers and consumers of services, resulting in an intense exchange of ML services where a consumer may ask many providers for a service preview based on its particular business case, that is, its data.</em>
+(<strong>limitation</strong> →) <em>In practice, however, many potential service consumers are reluctant to release their data, when seeking for ML services, because of privacy or intellectual property concerns. As a consequence, the market of ML services is not as fluid as it could be.</em>
+<em>An alternative to providing real data when looking for an ML service consists in generating and releasing synthetic data.</em>
+<em>The synthetic data should (a) allow the service provider to preview an ML service whose performance is predictive of the one the same service will achieve on the real data and (b) prevent the disclosure of the real data.</em>
+(<strong>proposal</strong> →) <em>In this paper, we propose a data synthesis technique tailored to a family of very relevant business cases: supervised and unsupervised learning on single-table datasets and relational datasets.</em>
+<em>Our technique is based on generative deep learning models and we instantiate it in three variants: standard Variational Autoencoders (VAEs), beta-VAEs, and Introspective VAEs.</em>
+(<strong>experimental evaluation</strong> →) <em>We experimentally evaluate the two variants to measure the degree to which they meet the two requirements above, using several performance indexes that capture different aspects of the quality of the generated data.</em>
+(<strong>broader impact</strong> →) <em>The results suggest that data synthesis is a practical answer to the need of decoupling ML service providers and consumers and, hence, can favor the arising of an active and accessible market of ML services.</em></p>
+<h4 id="example-3" class="wl">
+  <span>Example 3</span>
+  <a href="#example-3" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h4>
+
+<p>From <a href="/publications/2023-c-nmwr-fully/">this paper</a>.</p>
+<p>(<strong>general context</strong> →) <em>Modular robots are promising for their versatility and large design freedom.</em>
+(<strong>specific context</strong> →) <em>Modularity can also enable automatic assembly and reconfiguration, be it autonomous or via external machinery.</em>
+(<strong>limitation</strong> →) <em>However, these procedures are error-prone and often result in misassemblings.</em>
+<em>This, in turn, can cause catastrophic effects on the robot functionality, as the controller deployed in each module is optimized for a different robot shape than the actual one.</em>
+(<strong>proposal</strong> →) <em>In this work, we address such shortcoming by proposing a shape-aware modular controller, operating with (1) a self-discovery phase, in which each module controller identifies the shape it is assembled in, followed by (2) a parameter selection phase, where the controller selects its parameters according to the inferred shape.</em>
+<em>We deploy a self-classifying neural cellular automaton for phase (1), and we leverage evolutionary optimization for implementing a library of controller parameters for phase (2).</em>
+(<strong>experimental evaluation</strong> →) <em>We test the validity of the proposed method considering voxel-based soft robots, a class of modular soft robots, and the task of locomotion.</em>
+<em>Our findings confirm the effectiveness of such a controller paradigm, and also show that it can be used to partially overcome unforeseen damages or assembly mistakes.</em></p>
+<h3 id="tenses" class="wl">
+  <span>Tenses</span>
+  <a href="#tenses" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h3>
+
+<p>A common practice is to use:</p>
+<ul>
+<li><strong>present tense</strong> in the <em><strong>Abstract</strong></em> and <em><strong>Introduction</strong></em> section: <em>We propose&hellip;</em>, <em>Current techniques have this limitation</em></li>
+<li><strong>past tense</strong> in the <em><strong>Related works</strong></em> section: <em>Smith et al. proposed&hellip;</em>, <em>Previous works showed that&hellip;</em></li>
+<li><strong>present tense</strong> in the section where you formalize the problem (might be named <em><strong>Problem statement</strong></em>) and the one where you describe your proposal (might be named <em><strong>Our approach</strong></em>): <em>Let $x$ be&hellip;</em>, <em>We repeate the following procedure $n$ times&hellip;</em></li>
+<li><strong>past tense</strong> and <strong>present tense</strong> in the <em><strong>Experimental evaluation</strong></em> section, past in the part where you describe the procedure, present where you comment the results: <em>We considered four datasets&hellip;</em>, <em>We repeated the learning three time&hellip;</em>, <em>Figure 3 shows the results of&hellip;</em>, <em>We explain this gap in performance with&hellip;</em></li>
+<li><strong>past tense</strong> in the <em><strong>Conluding remark</strong></em> section, with the exception of a possible paragraph about future work where, obviously, we should use the future tense: <em>We considered the problem of&hellip;</em>, <em>We showed that&hellip;</em></li>
+</ul>
+<h2 id="other-language-guidelines" class="wl">
+  <span>Other language guidelines</span>
+  <a href="#other-language-guidelines" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h2>
+
+<h3 id="active-voice" class="wl">
+  <span>Active voice</span>
+  <a href="#active-voice" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h3>
+
+<p><strong>Use active voice!</strong>
+This is a very strong recommendation.
+Active voice makes clear who is the actor/author, and hence who has the responsability for, an action/claim/consideration.
+In most of the cases, that means writing <em>we did something</em>, because the main responsability for all the claims in a paper is in charge of the authors.
+When describing a procedure or an algorithm, the subject might be the procedure or algorithm: <em>The algorithm works as follows: it initializes a set of&hellip;, it selects one&hellip;</em>.
+When describing the work of others (i.e., in the <em>Related works</em> section), use them as subject: <em>Smith et. al showed that&hellip;</em>.</p>
+<h3 id="contracted-forms" class="wl">
+  <span>Contracted forms</span>
+  <a href="#contracted-forms" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h3>
+
+<p>Do not use contracted forms such as <em>can&rsquo;t</em> or <em>isn&rsquo;t</em>.
+They are more suitable for informal communication than for technical writing.
+Moreover, the efficiency increase (in terms of information given in the unit of space, here characters) is not that large.</p>
+<p>There are some peculiar (but common in scientific text) expressions whose contracted form is tolerated, namely, <em>w.r.t.</em> for <em>with respect to</em> and <em>approx.</em> for <em>approximately</em>.
+Personally, I prefer the extended form also in these cases.</p>
+<h3 id="acronyms" class="wl">
+  <span>Acronyms</span>
+  <a href="#acronyms" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h3>
+
+<p>Use acronyms for terms, in particolar for technical ones (e.g., <em>false positive rate (FPR)</em>, <em>genetic programming (GP)</em>, &hellip;), that you mention more than once in the document.</p>
+<p>The general rule is to introduce both the expanded and the contracted form at the first occurrence of the term and then use always the contracted form.
+There are, however, a few exception to this general rule.</p>
+<ol>
+<li>If you use the term only once in the abstract, you can defer the introduction of the contracted to a later stage.</li>
+<li>Possibly re-introduce both forms after the abstract.</li>
+<li>Possibly re-introduce both forms, or use just the expanded form, in the conclusions.</li>
+<li>Show both forms if the term is the title of a section.</li>
+</ol>
+<p>Be consistent: capitalize all or none of the expanded forms: e.g., <em>Genetic Programming (GP)</em> and <em>False Positive Rate (FPR)</em>, or <em>genetic programming (GP)</em> and <em>false positive rate (FPR)</em>; obviously, some terms are capitalized by their own (e.g., <em>Smith&rsquo;s sorting algorithm (SSA)</em>), so keep the correct capitalization.</p>
+<p>Moreover:</p>
+<ul>
+<li>if appropriate, use the plural form also for the contracted form, e.g., once you introduced the <em>evolutionary algorithm (EA)</em>, you may write <em>we compared five EAs</em>.</li>
+<li>use proper articles before acronyms, i.e., those that you would put if you pronounced the contracted forms, e.g., <em>an MLP</em>.</li>
+</ul>
+<p>Managing acronyms looks an hard thing, but fortunately there are LaTeX packages that do most of the work (see <a href="#acronyms-with-codeglossaries/code">below</a>).</p>
+<h3 id="british-vs.-american-english" class="wl">
+  <span>British vs. American English</span>
+  <a href="#british-vs.-american-english" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h3>
+
+<p>There are slightly differences between British and American English, e.g., <em>colour</em> vs. <em>color</em>, <em>behaviour</em> vs. <em>behavior</em>, <em>focussed</em> vs. <em>focused</em>.
+I personally prefer American English.
+The important thing is to <strong>be consistent</strong>: so choose your preferred variant and keep it trhoughout the entire document.
+(However, consider that if it&rsquo;s a paper and I am a co-author, I will overwrite your preference).</p>
+<h3 id="possessive-case-emrsquos/em-or-not-emrsquos/em" class="wl">
+  <span>Possessive case (<em>&rsquo;s</em> or not <em>&rsquo;s</em>?)</span>
+  <a href="#possessive-case-emrsquos%2fem-or-not-emrsquos%2fem" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h3>
+
+<p>This is a particularly mild advice, since I am not confident at all on it.
+But, as far as I know, <em>&rsquo;s</em> should be reserved to people (both proper and common names), physical places (cities, countries), and a few other things (e.g., <em>today&rsquo;s meeting</em>).
+In practice, few of these things are relevant in a scientific article, the most common one being the user.
+So write <em>the user&rsquo;s choice</em>, but don&rsquo;t write <em>the algorithm&rsquo;s complexity</em>; write just <em>the algorithm complexity</em>.</p>
+<h2 id="typography" class="wl">
+  <span>Typography</span>
+  <a href="#typography" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h2>
+
+<h4 id="i.e.-and-e.g." class="wl">
+  <span>I.e. and e.g.</span>
+  <a href="#i.e.-and-e.g." aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h4>
+
+<p>Use <em><strong>i.e.</strong></em> (that stays for <em>id est</em>, for explaining something, also doable with a <em>that is</em>) and <em><strong>e.g.</strong></em> (for giving one or more examples) always with a comma before and after: <em>we increase $i$, i.e., the counter&hellip;</em>, <em>there can be special cases, e.g., a division by zero</em>.</p>
+<h4 id="dashes" class="wl">
+  <span>Dashes</span>
+  <a href="#dashes" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h4>
+
+<p>Use proper <strong>dashes</strong> in text:</p>
+<ul>
+<li><span>-</span> (hyphen or just dash, <code>-</code> in LaTeX) for composed words, without spaces before and after; if you use two similar composed works close to each other, you can shorten one: <em>we tested an MLP- and a random-based controller&hellip;</em></li>
+<li>– (en-dash, <code>--</code> in LaTeX) without spaces before and after for ranges (but prefer managing ranges with packages, namely with <a href="#quantities-with-codesiunitx/code"><code>siunitx</code></a>)</li>
+<li>— (em-dash, <code>---</code> in LaTeX) <strong>without spaces before and after</strong> for expressing a parenthetical thought, i.e., a bit of information, maybe giving more details or an aside, that might be showed between parentheses: <em>we tested this approach with $n=3$&mdash;we also experimented with other values with no qualitative different findings</em>.</li>
+</ul>
+<h4 id="oxford-comma" class="wl">
+  <span>Oxford comma</span>
+  <a href="#oxford-comma" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h4>
+
+<p>Use Oxford comma (also known as serial comma), i.e., a comma before the <em>and</em> (or the <em>or</em>) coming before the last item of a <strong>list including more than two items</strong>: <em>we experimented with multi-layer perceptrons, recurrent neural networks, and a random controller</em>.
+This is a pretty subjective recommendation (I use it with pleasure), but I think it is also pretty widely accepted and <a href="https://koine-greek.com/2016/01/20/oxford-comma-memes-evidence-against-the-oxford-comma/">well motivated</a>.</p>
+<h4 id="ordinal-numbers" class="wl">
+  <span>Ordinal numbers</span>
+  <a href="#ordinal-numbers" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h4>
+
+<p>Use a consistent form for ordinal numbers.
+I personally prefer the $i$-th form (<code>$i$-th</code> in LaTeX) because it&rsquo;s more readable, when in plan text, than the superscript version $i$<sup>th</sup>.
+Note that this form for ordinal numbers should be used parsimonously: when you just have few ordinals, write the extended form, i.e., <em>first</em>, <em>second</em>, &hellip;</p>
+<h4 id="versus" class="wl">
+  <span>Versus</span>
+  <a href="#versus" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h4>
+
+<p>In English, there is a dot after vs., e.g., <em>single- vs. multi-core execution</em>.
+Put it.</p>
+<h3 id="mathematical-notation" class="wl">
+  <span>Mathematical notation</span>
+  <a href="#mathematical-notation" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h3>
+
+<p>This is about the choices you do when defining the mathematical notation for the entities you are going to write about in the paper.</p>
+<p><strong>Premise 1</strong>.
+It&rsquo;s like choosing the name of a variable in a piece of code: choosing the <em>right</em> name (for variables, classes, methods, &hellip;) is often half of the modeling job.
+So it&rsquo;s much more than just typography.</p>
+<p><strong>Premise 2</strong>.
+There are specific praxes and expectations in some scientific communities.
+If possible, try to conform to those praxes.</p>
+<h4 id="single-letter-entities" class="wl">
+  <span>Single-letter entities</span>
+  <a href="#single-letter-entities" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h4>
+
+<p>Try (hardly!) <strong>not to use more than one letter</strong> for math entities.
+If you have one single parameter concerning the size of something, it could be an $n$; if you have two of them, they could be $n$ and $m$.
+If you have several of them, use subscripts: e.g., use $n_\text{pop}$, not $\text{pop}$ (and neither $pop$), for the size of the population.</p>
+<h4 id="lowercase-and-uppercase-letters" class="wl">
+  <span>Lowercase and uppercase letters</span>
+  <a href="#lowercase-and-uppercase-letters" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h4>
+
+<p>If possible, use uppercase letters for entities representing collections of items, such as sets and bags: $a \in A$.
+An exception to this rule is given by vectors (see <a href="#vectors">below</a>).
+If you need to define collections of collections, maybe use calligraphy uppercase letters, e.g., <em>given a set $\mathcal{A}=\{A_1, A_2, \dots\}$ of bags, where each bag $A_i$ contains&hellip;</em>.</p>
+<h4 id="vectors" class="wl">
+  <span>Vectors</span>
+  <a href="#vectors" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h4>
+
+<p>(This is a matter of personal tastes, actually&hellip;)
+For vectors, or, more broadly, for sequences of items of the same type, use bold: $\boldsymbol{x} = (x_1,x_2,x_3,x_4) \in \mathbb{R}^4$.
+Possibly extend this notation to matrices: $\boldsymbol{a} \in \mathbb{R}^{n \times m}$ or $\boldsymbol{A} \in \mathbb{R}^{n \times m}$.</p>
+<p>For using bold in math environment in LaTeX, I usually define an ad hoc macro (with <code>\renewcommand\vec{\boldsymbol}</code>) that can be used as <code>\vec{x}</code>.</p>
+<h4 id="delimiters-for-pairs-tuples-sequences" class="wl">
+  <span>Delimiters for pairs, tuples, sequences</span>
+  <a href="#delimiters-for-pairs-tuples-sequences" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h4>
+
+<p>Use round parentheses for detailing the content of pairs and tuples, both in extended form ($p = (a,b)$) and in compact form ($\boldsymbol{s} = (s_i)_i$ or $D_\text{learn}=\{(x^{(i)},y^{(i)})\}_i$).</p>
+<p>For numerical vectors, square brackets are ok too.</p>
+<h4 id="functions-signature-and-mapping" class="wl">
+  <span>Functions signature and mapping</span>
+  <a href="#functions-signature-and-mapping" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h4>
+
+<p>Use an arrow ($\to$, <code>\to</code> in LaTeX) for defining the signature of a function ($f: \mathbb{R} \to [0,1]$) and $\mapsto$ (<code>\mapsto</code> in LaTeX) for showing the concrete way a function works: $x \mapsto \min(x^2, 1)$.</p>
+<h2 id="latex" class="wl">
+  <span>LaTeX</span>
+  <a href="#latex" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h2>
+
+<h3 id="general" class="wl">
+  <span>General</span>
+  <a href="#general" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h3>
+
+<h4 id="ellipses" class="wl">
+  <span>Ellipses</span>
+  <a href="#ellipses" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h4>
+
+<p>Use <code>\dots</code>, not a literal <code>...</code>, for ellipses, both in text and in a math environment: <code>\vec{x} = \{x_1, \dots, x_n\}</code>.</p>
+<h4 id="paragraphs" class="wl">
+  <span>Paragraphs</span>
+  <a href="#paragraphs" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h4>
+
+<p>Use an empty line in the source for a new paragraph (not <code>\\</code> or <code>\newline</code>!).
+Only when really necessary (which happens very rarely), use <code>\\</code> for starting a new line in the text.</p>
+<h4 id="double-quotes" class="wl">
+  <span>Double quotes</span>
+  <a href="#double-quotes" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h4>
+
+<p>Typeset double quotes with <code>``something''</code> (that will be rendered properly, <em>&ldquo;something&rdquo;</em>).</p>
+<h4 id="emphasis" class="wl">
+  <span>Emphasis</span>
+  <a href="#emphasis" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h4>
+
+<p>Use <code>\\emph{}</code>, not <code>\\textit{}</code>, for emphasizing text.
+You should emphasize key terms, commonly just at the first occurrence.</p>
+<h4 id="controlled-or-unbreakable-spaces" class="wl">
+  <span>Controlled or unbreakable spaces</span>
+  <a href="#controlled-or-unbreakable-spaces" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h4>
+
+<p>In documents rendered by LaTeX, there is usually a longer space after a fullstop in plain text, because this improves readability.
+However, there are cases where a dot does not actually play the role of a fullstop.
+In those cases, use a controlled space (<code>\ </code>): e.g., <code>I thank prof.\ Smith</code>, <code>single- vs.\ multi-core processing</code>.
+In many cases you do not want to let LaTeX split a line between two things that should not be separated.
+In those cases, use an unbreakable space (<code>~</code>): e.g., <code>\cite{medvet2018writing}~suggests that</code> (when using short citation formats, rendered as <em>[1]</em> or similar), or <code>P.~Smith suggest that</code>.</p>
+<h3 id="mathematical-notation" class="wl">
+  <span>Mathematical notation</span>
+  <a href="#mathematical-notation" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h3>
+
+<p>Provided that you should avoid multi-letter names for entities (see <a href="#lowercase-and-uppercase-letters">above</a>), whenever you put words in math environment, enclose them in <code>\\text{}</code>, e.g., <code>\text{FPR}=0.85</code>, <code>\rho_\text{NN}</code>, <code>n_\text{pop}</code>.</p>
+<p>When you don&rsquo;t follow this advice, the text is rendered in a way (through spacing) that suggests that there is a product of things, rather than a sinlge entity: $1-\text{FPR}$ vs. $1-FPR$.</p>
+<h4 id="brackets-size" class="wl">
+  <span>Brackets size</span>
+  <a href="#brackets-size" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h4>
+
+<p>Use <code>\left</code> and <code>\right</code> before brackets (of any type) when you want them to be large enough with respect to the the enclosed content.
+The difference in rendering can be more or less apparent depending on the context (inline or not) of the math environment.
+E.g., <code>(\frac{1}{n})</code> is $(\frac{1}{n})$, whereas is <code>\left(\frac{1}{n}\right)</code> is $\left(\frac{1}{n}\right)$.</p>
+<h4 id="max-argmax" class="wl">
+  <span>Max, argmax</span>
+  <a href="#max-argmax" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h4>
+
+<p>For max and min there are suitable ad hoc macros: <code>\max_i x_i</code>.
+So don&rsquo;t simply write <code>max</code>, which would be badly rendered: $max(1,x)$ vs. $\max(1,x)$.</p>
+<p>For argmax and argmin, you can define your own macro.
+Mine is <code>\DeclareMathOperator*{\argmax}{\arg\,max}</code>.
+The <code>\,</code> puts a nice short space between arg and max.</p>
+<h3 id="useful-packages" class="wl">
+  <span>Useful packages</span>
+  <a href="#useful-packages" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h3>
+
+<p><strong>Fundamental premise</strong>.
+LaTeX is <a href="https://en.wikipedia.org/wiki/LaTeX#History">very old</a>.
+And writing scientific text is a practice that is even older.
+Hence it is very unlikely that you are the first one who faces one specific problem, e.g., how to format nicely a table.
+So, whenever you think that your rendered document does not look as nice as you want, look for someone (usually on <a href="https://stackoverflow.com/questions/tagged/latex">stackoverflow</a>) who already solved the problem of making it nicer.</p>
+<h4 id="quantities-with-codesiunitx/code" class="wl">
+  <span>Quantities with <code>siunitx</code></span>
+  <a href="#quantities-with-codesiunitx%2fcode" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h4>
+
+<p>This package is mainly for dealing with quantities and units of measure.</p>
+<p>Use it for raw numbers (i.e., raw quantities, usually not for years and dates) in text (<code>we performed this procedure \num{30} times</code>) and also in math environment with big numbers (<code>$x=\num{10000}$</code> or <code>there are more than \num{25000} observations</code>).
+In the latter case, <code>siunitx</code> will put a short space as a thousands separator, greatly improving the readability.</p>
+<p>Use it for quantities with measure, wherever appropriate: <code>the experiment lasted more than \qty{35}{\second}</code>, <code>we used a machine with \qty{16}{\giga\byte} RAM</code>.</p>
+<p><code>siunitx</code> is also very handy for formatting tables, in particular for aligning numbers in columns where numbers have some decimals, possibly not the same number of decimals.
+E.g., <code>S[table-format=3.2]</code> defines a column format where the numbers are horizontally aligned in order to have the decimal separator always at the same place, with enough space for 3 digits on the left and 2 on the right (after the separator).</p>
+<h4 id="acronyms-with-codeglossaries/code" class="wl">
+  <span>Acronyms with <code>glossaries</code></span>
+  <a href="#acronyms-with-codeglossaries%2fcode" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h4>
+
+<p>Once you defined your acronyms, <code>glossaries</code> manages automatically the choice of the form to be used (extended or contracted).</p>
+<p>You define an acronym with <code>\newacronym{ea}{EA}{evolutionary algorithm}</code> and then use it with <code>\gls{ea}</code>: the package will render the extended form at the first occurrence and the contracted form at later ones.</p>
+<p>You can show the plural form with <code>\glspl{}</code>, or a capitalized form with <code>\Gls{}</code>, or many other variants.</p>
+<p>If you use the <code>hyperref</code> package (which I recommend), it&rsquo;s handy to disable the hyperlinks for acronyms, with <code>\glsdisablehyper</code>.</p>
+<p>You can reset the memory of first usage flags (e.g., just after the abstract), with <code>\glsresetall</code>.</p>
+<h4 id="references-with-codecleveref/code" class="wl">
+  <span>References with <code>cleveref</code></span>
+  <a href="#references-with-codecleveref%2fcode" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h4>
+
+<p>With <code>cleveref</code> you can have references to other parts of the document which are consistent.
+Instead of writing <code>see Figure~\ref{fig:results-lineplots}</code> (that maybe becomes, inconsistenly, <code>in Fig.~\ref{fig:boxplots}</code> elsewhere in the document), you can simply write <code>see \Cref{fig:results-lineplots}</code>.
+The package will render the proper word depending on what you are referring to (e.g., Section, Table, Figure, &hellip;).</p>
+<p>You can also use the non-capitalized version of the reference with <code>\cref{}</code>, but do it consistently.</p>
+<h4 id="tables-with-codebooktables/code" class="wl">
+  <span>Tables with <code>booktables</code></span>
+  <a href="#tables-with-codebooktables%2fcode" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h4>
+
+<p>In general, in tables do not use vertical rules and use suitable horizontal rules.
+<code>booktables</code> facilitates this with a few macros: <code>\toprule</code>, <code>\midrule</code>, <code>\bottomrule</code>, <code>\cmidrule</code>.</p>
+<p>An example from <a href="/publications/2023-c-mn-gp/">this paper</a>:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-latex" data-lang="latex"><span style="color:#66d9ef">\begin</span>{tabular}{
+    c @{<span style="color:#66d9ef">\hspace</span>{2mm}}
+    l @{<span style="color:#66d9ef">\hspace</span>{5mm}}
+    S[table-format=1.2] @{<span style="color:#66d9ef">\hspace</span>{1mm}}
+    S[table-format=1.2] @{<span style="color:#66d9ef">\hspace</span>{1mm}}
+    S[table-format=1.2]
+    c @{<span style="color:#66d9ef">\hspace</span>{5mm}}
+    S[table-format=1.2] @{<span style="color:#66d9ef">\hspace</span>{1mm}}
+    S[table-format=1.2] @{<span style="color:#66d9ef">\hspace</span>{1mm}}
+    S[table-format=1.2]
+    c @{<span style="color:#66d9ef">\hspace</span>{5mm}}
+    S[table-format=1.2] @{<span style="color:#66d9ef">\hspace</span>{1mm}}
+    S[table-format=1.2] @{<span style="color:#66d9ef">\hspace</span>{1mm}}
+    S[table-format=1.2]
+}
+    <span style="color:#66d9ef">\toprule</span>
+    &amp; Teacher<span style="color:#e6db74">$</span>\rightarrow<span style="color:#e6db74">$</span> &amp; <span style="color:#66d9ef">\multicolumn</span>{3}{c}{NE} &amp; &amp; <span style="color:#66d9ef">\multicolumn</span>{3}{c}{Multi-GP} &amp; &amp; <span style="color:#66d9ef">\multicolumn</span>{3}{c}{GraphEA} <span style="color:#66d9ef">\\</span>
+    <span style="color:#66d9ef">\cmidrule</span>(lr){3-5} <span style="color:#66d9ef">\cmidrule</span>(lr){7-9} <span style="color:#66d9ef">\cmidrule</span>(lr){11-13}
+    <span style="color:#e6db74">$</span>n_\text{comm}<span style="color:#e6db74">$</span> &amp; Learner<span style="color:#e6db74">$</span>\downarrow<span style="color:#e6db74">$</span> &amp; {<span style="color:#66d9ef">\num</span>{50}-th} &amp; {<span style="color:#66d9ef">\num</span>{75}-th} &amp; {<span style="color:#66d9ef">\num</span>{90}-th} &amp; &amp; {<span style="color:#66d9ef">\num</span>{50}-th} &amp; {<span style="color:#66d9ef">\num</span>{75}-th} &amp; {<span style="color:#66d9ef">\num</span>{90}-th} &amp; &amp; {<span style="color:#66d9ef">\num</span>{50}-th} &amp; {<span style="color:#66d9ef">\num</span>{75}-th} &amp; {<span style="color:#66d9ef">\num</span>{90}-th} <span style="color:#66d9ef">\\</span>
+    <span style="color:#66d9ef">\midrule</span>
+    <span style="color:#66d9ef">\multirow</span>{3}{*}{<span style="color:#66d9ef">\num</span>{1}}
+    &amp; NE &amp; 0.12 &amp; 1.03 &amp; 1.79 &amp; &amp; 0.04 &amp; 0.17 &amp; 0.54 &amp; &amp; 0.03 &amp; 0.16 &amp; 0.56 <span style="color:#66d9ef">\\</span>
+    &amp; Multi-GP &amp; 0.00 &amp; 0.02 &amp; 0.07 &amp; &amp; 0.04 &amp; 0.14 &amp; 0.24 &amp; &amp; 0.02 &amp; 0.06 &amp; 0.11 <span style="color:#66d9ef">\\</span>
+    &amp; GraphEA &amp; 0.00 &amp; 0.01 &amp; 0.06 &amp; &amp; 0.05 &amp; 0.06 &amp; 0.13 &amp; &amp; 0.00 &amp; 0.04 &amp; 0.10 <span style="color:#66d9ef">\\</span>
+    <span style="color:#66d9ef">\midrule</span>
+    <span style="color:#66d9ef">\multirow</span>{3}{*}{<span style="color:#66d9ef">\num</span>{3}}
+    &amp; NE &amp; 0.04 &amp; 0.17 &amp; 0.70 &amp; &amp; 0.12 &amp; 0.25 &amp; 0.48 &amp; &amp; 0.01 &amp; 0.08 &amp; 0.23 <span style="color:#66d9ef">\\</span> 
+    &amp; Multi-GP &amp; 0.00 &amp; 0.00 &amp; 0.01 &amp; &amp; 0.15 &amp; 0.20 &amp; 0.36 &amp; &amp; 0.02 &amp; 0.20 &amp; 0.35 <span style="color:#66d9ef">\\</span>    
+    &amp; GraphEA &amp; 0.00 &amp; 0.00 &amp; 0.01 &amp; &amp; 0.00 &amp; 0.04 &amp; 0.17 &amp; &amp; 0.00 &amp; 0.01 &amp; 0.20 <span style="color:#66d9ef">\\</span>
+    <span style="color:#66d9ef">\bottomrule</span>
+<span style="color:#66d9ef">\end</span>{tabular}
+</code></pre></div><p>which is rendered as:
+<img src="nice-table.png" alt="A rather complex table rendered with booktables">
+<figure class="figure">
+  <img src="nice-table.png" class="figure-img img-fluid rounded" alt="Students of IN05 (22 answers)">
+  <figcaption class="figure-caption">Students of IN05 (22 answers)</figcaption>
+</figure>
+</p>
+<h4 id="plots-with-codepgfplots/code" class="wl">
+  <span>Plots with <code>pgfplots</code></span>
+  <a href="#plots-with-codepgfplots%2fcode" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h4>
+
+<h2 id="style-of-latex-source-code" class="wl">
+  <span>Style of LaTeX source code</span>
+  <a href="#style-of-latex-source-code" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h2>
+
+<ul>
+<li>indentation</li>
+<li>3 empty lines</li>
+<li>comments, comments with packages, comments with overleaf</li>
+</ul>
+
+</div>
+
+        </div>
+      </div>
+<div id="footer">
+  <div class="text-center">
+    Copyright by Eric Medvet
+  </div>
+</div>
+
+</div>
+  </body>
+</html>
