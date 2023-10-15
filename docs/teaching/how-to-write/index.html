@@ -520,8 +520,9 @@ E.g., <code>S[table-format=3.2]</code> defines a column format where the numbers
 </h4>
 
 <p>With <code>cleveref</code> you can have references to other parts of the document which are consistent in the way they are rendered.
-Instead of writing <code>see Figure~\ref{fig:results-lineplots}</code> (that maybe you write as, inconsistenly, <code>in Fig.~\ref{fig:boxplots}</code> elsewhere in the document), you can simply write <code>see \Cref{fig:results-lineplots}</code>.
-The package will render the proper word depending on what you are referring to (e.g., Section, Table, Figure, &hellip;).</p>
+Instead of writing <code>see Figure~\ref{fig:results-lineplots}</code> (that maybe you write as, inconsistenly, <code>in Fig.~\ref{fig:results-boxplots}</code> elsewhere in the document), you can simply write <code>see \Cref{fig:results-lineplots}</code>.
+The package will render the proper word depending on what you are referring to (e.g., Section, Table, Figure, &hellip;).
+Moreover, the package will render nicely multiple references: <code>See \Cref{fig:results-lineplots,fig:results-boxplots}</code> will be rendered as <em>See Figures 2 and 3</em>.</p>
 <p>You can also use the non-capitalized version of the reference with <code>\cref{}</code>, but do it consistently.</p>
 <h4 id="tables-with-codebooktables/code" class="wl">
   <span>Tables with <code>booktables</code></span>
@@ -592,8 +593,36 @@ Unfortunately, mastering this tool takes time, practice, and experience.</p>
   <a href="#content">↰</a>
 </h4>
 
-<p><a href="https://it.overleaf.com/learn/latex/Natbib_citation_styles">https://it.overleaf.com/learn/latex/Natbib_citation_styles</a>
-<code>\citet{}</code></p>
+<p>The format of citations in the text and of references in the References section is almost always dictated by the template of the document.
+And it&rsquo;s a good thing to not try to subvert that format.</p>
+<p>However, there are a few practices of citations for which <code>natbib</code> is useful, the main one being when you name the authors of the cited paper: <code>\citet{smith19cost} showed that the cost</code> might be rendered, depending on the format, as <em>Smith et al. [32] showed that the cost</em>.</p>
+<p>Overleaf website show some tips for using LaTex, including one suggesting <a href="https://it.overleaf.com/learn/latex/Natbib_citation_styles">how to use <code>natbib</code> for citation styles</a>.</p>
+<h4 id="lists-with-codeenumitem/code" class="wl">
+  <span>Lists with <code>enumitem</code></span>
+  <a href="#lists-with-codeenumitem%2fcode" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h4>
+
+<p>When describing complex procedures, explicitly marking steps can improve the readability of the text: e.g., <em>We proceed as follows: (i) we compute the initial value, (ii) we increase it&hellip;</em>.
+Similarly, there are short lists for which you want to highlight the members: e.g., <em>Our algorithm meets the two aforementioned requirements, because it (a) always produces a valid solution and (b) does not require&hellip;</em>.</p>
+<p>Instead of manually writing <code>(i)</code> in LaTeX, you can use the <code>enumitem</code> package with the <code>inline</code> option, i.e., with <code>\usepackage[inline]{enumitem}</code>.
+Moreover, you can explicitly reference items in the lists, provided you labeled them with <code>\label{}</code>.</p>
+<p>An example:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-latex" data-lang="latex">Then, it iteratively modifies <span style="color:#e6db74">$</span>p<span style="color:#e6db74">$</span> according to these three steps:
+<span style="color:#66d9ef">\begin</span>{enumerate*}[label=(<span style="color:#66d9ef">\roman*</span>)]
+    <span style="color:#66d9ef">\item</span> <span style="color:#66d9ef">\label</span>{item:alg-desc-find} it finds all the cells in <span style="color:#e6db74">$</span>p<span style="color:#e6db74">$</span> that are labeled with a non-terminal symbols in <span style="color:#e6db74">$</span>N<span style="color:#e6db74">$</span>, i.e., those which can be replaced according to a rule in <span style="color:#e6db74">$</span>\mathcal{R}<span style="color:#e6db74">$</span>;
+    <span style="color:#66d9ef">\item</span> <span style="color:#66d9ef">\label</span>{item:alg-desc-choose-cell} it chooses one cell <span style="color:#e6db74">$</span><span style="color:#f92672">(</span>x^\star,y^\star<span style="color:#f92672">)</span><span style="color:#e6db74">$</span> to be the target of the replacement using the sorting criterion <span style="color:#e6db74">$</span>c<span style="color:#e6db74">$</span>;
+    <span style="color:#66d9ef">\item</span> <span style="color:#66d9ef">\label</span>{item:alg-desc-choose-rule} it chooses, based on the genotype <span style="color:#e6db74">$</span>g<span style="color:#e6db74">$</span> and the state <span style="color:#e6db74">$</span>s<span style="color:#e6db74">$</span> (initialized to <span style="color:#e6db74">$</span>\varnothing<span style="color:#e6db74">$</span>), one rule to apply among the ones suitable for the cell at <span style="color:#e6db74">$</span><span style="color:#f92672">(</span>x^\star,y^\star<span style="color:#f92672">)</span><span style="color:#e6db74">$</span>;
+    <span style="color:#66d9ef">\item</span> <span style="color:#66d9ef">\label</span>{item:alg-desc-replace} finally, if possible, it performs the replacement in <span style="color:#e6db74">$</span>p<span style="color:#e6db74">$</span> according to the chosen rule.
+<span style="color:#66d9ef">\end</span>{enumerate*}
+
+Step~<span style="color:#66d9ef">\ref</span>{item:alg-desc-choose-rule} is the main contribution of this work.
+</code></pre></div><p>which will be rendered as:
+<figure class="figure">
+  <img src="nice-inline-list.png" class="figure-img img-fluid rounded" alt="An inline list with a referenced item.">
+  <figcaption class="figure-caption">An inline list with a referenced item.</figcaption>
+</figure>
+</p>
 <h2 id="style-of-latex-source-code" class="wl">
   <span>Style of LaTeX source code</span>
   <a href="#style-of-latex-source-code" aria-label="Anchor">#</a>

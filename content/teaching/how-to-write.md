@@ -270,8 +270,9 @@ You can reset the memory of first usage flags (e.g., just after the abstract), w
 
 #### References with `cleveref`
 With `cleveref` you can have references to other parts of the document which are consistent in the way they are rendered.
-Instead of writing `see Figure~\ref{fig:results-lineplots}` (that maybe you write as, inconsistenly, `in Fig.~\ref{fig:boxplots}` elsewhere in the document), you can simply write `see \Cref{fig:results-lineplots}`.
+Instead of writing `see Figure~\ref{fig:results-lineplots}` (that maybe you write as, inconsistenly, `in Fig.~\ref{fig:results-boxplots}` elsewhere in the document), you can simply write `see \Cref{fig:results-lineplots}`.
 The package will render the proper word depending on what you are referring to (e.g., Section, Table, Figure, ...).
+Moreover, the package will render nicely multiple references: `See \Cref{fig:results-lineplots,fig:results-boxplots}` will be rendered as *See Figures 2 and 3*.
 
 You can also use the non-capitalized version of the reference with `\cref{}`, but do it consistently.
 
@@ -328,8 +329,34 @@ Here I show an example from [this paper](/publications/2023-c-mn-gp/):
 {{< fig src="nice-plots.png" caption="A figure with two line plots." >}}
 
 #### References with `natbib`
-https://it.overleaf.com/learn/latex/Natbib_citation_styles
-`\citet{}`
+The format of citations in the text and of references in the References section is almost always dictated by the template of the document.
+And it's a good thing to not try to subvert that format.
+
+However, there are a few practices of citations for which `natbib` is useful, the main one being when you name the authors of the cited paper: `\citet{smith19cost} showed that the cost` might be rendered, depending on the format, as *Smith et al. [32] showed that the cost*.
+
+Overleaf website show some tips for using LaTex, including one suggesting [how to use `natbib` for citation styles](https://it.overleaf.com/learn/latex/Natbib_citation_styles).
+
+#### Lists with `enumitem`
+When describing complex procedures, explicitly marking steps can improve the readability of the text: e.g., *We proceed as follows: (i) we compute the initial value, (ii) we increase it...*.
+Similarly, there are short lists for which you want to highlight the members: e.g., *Our algorithm meets the two aforementioned requirements, because it (a) always produces a valid solution and (b) does not require...*.
+
+Instead of manually writing `(i)` in LaTeX, you can use the `enumitem` package with the `inline` option, i.e., with `\usepackage[inline]{enumitem}`.
+Moreover, you can explicitly reference items in the lists, provided you labeled them with `\label{}`.
+
+An example:
+```latex
+Then, it iteratively modifies $p$ according to these three steps:
+\begin{enumerate*}[label=(\roman*)]
+    \item \label{item:alg-desc-find} it finds all the cells in $p$ that are labeled with a non-terminal symbols in $N$, i.e., those which can be replaced according to a rule in $\mathcal{R}$;
+    \item \label{item:alg-desc-choose-cell} it chooses one cell $(x^\star,y^\star)$ to be the target of the replacement using the sorting criterion $c$;
+    \item \label{item:alg-desc-choose-rule} it chooses, based on the genotype $g$ and the state $s$ (initialized to $\varnothing$), one rule to apply among the ones suitable for the cell at $(x^\star,y^\star)$;
+    \item \label{item:alg-desc-replace} finally, if possible, it performs the replacement in $p$ according to the chosen rule.
+\end{enumerate*}
+
+Step~\ref{item:alg-desc-choose-rule} is the main contribution of this work.
+```
+which will be rendered as:
+{{< fig src="nice-inline-list.png" caption="An inline list with a referenced item." >}}
 
 ## Style of LaTeX source code
 There are a few things you can do to make the source LaTeX code of your document more readable.
