@@ -11,6 +11,8 @@ However, I do believe that many of these advices can be intended as **guidelines
 
 I thank all the colleagues and PhD students (namely, Giorgia, Marco, Jessica) who helped me refining these guidelines in years of writing.
 
+{{< toc >}}
+
 ## Document structure and language
 Here I refer specifically to computer science scientific articles and namely to those presenting experimental results.
 
@@ -34,7 +36,7 @@ From [this paper](/publications/2023-c-mpm-general/).
 *We first propose a representation template that can be customized by users for specific domains: the constraints and the genetic operators are given in Prolog, a declarative programming language for operating with logic.*
 *Then, we define an adaptive evolutionary algorithm that can work with a large number of genetic operators by modifying their usage probability during the evolution: in this way, we relieve the user from the burden of selecting in advance only operators that are “good enough”.*
 (**experimental evaluation** →) *We experimentally evaluate our proposal on two radically different domains to demonstrate its applicability and effectiveness: symbolic regression with trees and text extraction with finite-state automata.*
-The results are promising: our approach does not trade effectiveness for versatility and is not worse than other domain-tailored approaches.
+*The results are promising: our approach does not trade effectiveness for versatility and is not worse than other domain-tailored approaches.*
 
 #### Example 2
 Form [this paper](/publications/2023-j-pbscsrmm-deep/).
@@ -61,20 +63,20 @@ From [this paper](/publications/2023-c-nmwr-fully/).
 (**experimental evaluation** →) *We test the validity of the proposed method considering voxel-based soft robots, a class of modular soft robots, and the task of locomotion.*
 *Our findings confirm the effectiveness of such a controller paradigm, and also show that it can be used to partially overcome unforeseen damages or assembly mistakes.*
 
-### Tenses
+### Tenses and sections
 A common practice is to use:
 - **present tense** in the _**Abstract**_ and _**Introduction**_ section: *We propose...*, *Current techniques have this limitation*
 - **past tense** in the _**Related works**_ section: *Smith et al. proposed...*, *Previous works showed that...*
 - **present tense** in the section where you formalize the problem (might be named _**Problem statement**_) and the one where you describe your proposal (might be named _**Our approach**_): *Let $x$ be...*, *We repeate the following procedure $n$ times...*
-- **past tense** and **present tense** in the _**Experimental evaluation**_ section, past in the part where you describe the procedure, present where you comment the results: *We considered four datasets...*, *We repeated the learning three time...*, *Figure 3 shows the results of...*, *We explain this gap in performance with...*
-- **past tense** in the _**Conluding remark**_ section, with the exception of a possible paragraph about future work where, obviously, we should use the future tense: *We considered the problem of...*, *We showed that...*
+- **past tense** and **present tense** in the _**Experimental evaluation**_ section, past in the part where you describe what you did, present where you comment the results: *We considered four datasets...*, *We repeated the learning three times...*, *Figure 3 shows the results of...*, *We explain this gap in performance with...*
+- **past tense** in the _**Conluding remarks**_ section, with the exception of a possible paragraph about future work where, obviously, we should use the future tense: *We considered the problem of...*, *We showed that...*, *We will extend the approach to...*
     
-## Other language guidelines
+## Language
 
 ### Active voice
 **Use active voice!**
 This is a very strong recommendation.
-Active voice makes clear who is the actor/author, and hence who has the responsability for, an action/claim/consideration.
+Active voice makes clear who is the actor/author of, and hence who has the responsability for, an action/claim/consideration.
 In most of the cases, that means writing *we did something*, because the main responsability for all the claims in a paper is in charge of the authors. 
 When describing a procedure or an algorithm, the subject might be the procedure or algorithm: *The algorithm works as follows: it initializes a set of..., it selects one...*.
 When describing the work of others (i.e., in the *Related works* section), use them as subject: *Smith et. al showed that...*. 
@@ -86,6 +88,7 @@ Moreover, the efficiency increase (in terms of information given in the unit of 
 
 There are some peculiar (but common in scientific text) expressions whose contracted form is tolerated, namely, *w.r.t.* for *with respect to* and *approx.* for *approximately*.
 Personally, I prefer the extended form also in these cases.
+(If you use them, pay attention to [spacing](#controlled-or-unbreakable-spaces)).
 
 ### Acronyms
 Use acronyms for terms, in particolar for technical ones (e.g., *false positive rate (FPR)*, *genetic programming (GP)*, ...), that you mention more than once in the document.
@@ -103,7 +106,7 @@ Moreover:
 - if appropriate, use the plural form also for the contracted form, e.g., once you introduced the *evolutionary algorithm (EA)*, you may write *we compared five EAs*.
 - use proper articles before acronyms, i.e., those that you would put if you pronounced the contracted forms, e.g., *an MLP*.
 
-Managing acronyms looks an hard thing, but fortunately there are LaTeX packages that do most of the work (see [below](#acronyms-with-codeglossaries/code)).
+Managing acronyms looks an hard thing, but fortunately there are [LaTeX packages](#acronyms-with-codeglossaries/code) that do most of the work.
 
 ### British vs. American English
 There are slightly differences between British and American English, e.g., *colour* vs. *color*, *behaviour* vs. *behavior*, *focussed* vs. *focused*.
@@ -112,21 +115,24 @@ The important thing is to **be consistent**: so choose your preferred variant an
 (However, consider that if it's a paper and I am a co-author, I will overwrite your preference).
 
 ### Possessive case (*'s* or not *'s*?)
-This is a particularly mild advice, since I am not confident at all on it.
-But, as far as I know, *'s* should be reserved to people (both proper and common names), physical places (cities, countries), and a few other things (e.g., *today's meeting*).
-In practice, few of these things are relevant in a scientific article, the most common one being the user.
+This is a particularly mild advice, since I do not feel confident enough on this matter to be authoritative.
+
+That said, as far as I know, *'s* should be reserved to people (both proper and common names), physical places (cities, countries), and a few other things (e.g., *today's meeting*).
+In practice, few of these things are relevant in a scientific article or technical document, the most common one being the user.
 So write *the user's choice*, but don't write *the algorithm's complexity*; write just *the algorithm complexity*.
 
 ## Typography
 
+### Plain text
+
 #### I.e. and e.g.
-Use _**i.e.**_ (that stays for *id est*, for explaining something, also doable with a *that is*) and _**e.g.**_ (for giving one or more examples) always with a comma before and after: *we increase $i$, i.e., the counter...*, *there can be special cases, e.g., a division by zero*.
+Use *i.e.* (that stays for *id est*, for explaining something, also doable with a *that is*) and *e.g.* (for giving one or more examples) always **with a comma before and after**: *we increase $i$, i.e., the counter...*, *there can be special cases, e.g., a division by zero*.
 
 #### Dashes
 Use proper **dashes** in text:
 - <span>-</span> (hyphen or just dash, `-` in LaTeX) for composed words, without spaces before and after; if you use two similar composed works close to each other, you can shorten one: *we tested an MLP- and a random-based controller...*
-- – (en-dash, `--` in LaTeX) without spaces before and after for ranges (but prefer managing ranges with packages, namely with [`siunitx`](#quantities-with-codesiunitx/code))
-- — (em-dash, `---` in LaTeX) **without spaces before and after** for expressing a parenthetical thought, i.e., a bit of information, maybe giving more details or an aside, that might be showed between parentheses: *we tested this approach with $n=3$---we also experimented with other values with no qualitative different findings*.
+- – (en-dash, `--` in LaTeX) without spaces before and after for ranges (but prefer managing ranges with [packages](#quantities-with-codesiunitx/code))
+- — (em-dash, `---` in LaTeX) **without spaces before and after** for expressing a parenthetical thought, i.e., a bit of information, maybe giving more details, or an aside, that might be showed between parentheses: *we tested this approach with an MLP---we also experimented with other kinds of controller with no qualitative different findings*.
 
 #### Oxford comma
 Use Oxford comma (also known as serial comma), i.e., a comma before the *and* (or the *or*) coming before the last item of a **list including more than two items**: *we experimented with multi-layer perceptrons, recurrent neural networks, and a random controller*.
@@ -142,70 +148,77 @@ In English, there is a dot after vs., e.g., *single- vs. multi-core execution*.
 Put it.
 
 ### Mathematical notation
-This is about the choices you do when defining the mathematical notation for the entities you are going to write about in the paper.
+This is about the choices you do when defining the mathematical notation for the entities you are going to write about in your document.
 
 **Premise 1**.
-It's like choosing the name of a variable in a piece of code: choosing the *right* name (for variables, classes, methods, ...) is often half of the modeling job.
+Choosing the mathematical notation for an entity is like choosing the name of a variable/type/method/... in a piece of code: choosing the *right* name is often half of the modeling job.
 So it's much more than just typography.
 
 **Premise 2**.
 There are specific praxes and expectations in some scientific communities.
-If possible, try to conform to those praxes.
+If possible, try to conform to those praxes if your document will be consumed by people belonging to a community.
 
 #### Single-letter entities
 Try (hardly!) **not to use more than one letter** for math entities.
 If you have one single parameter concerning the size of something, it could be an $n$; if you have two of them, they could be $n$ and $m$.
-If you have several of them, use subscripts: e.g., use $n_\\text{pop}$, not $\\text{pop}$ (and neither $pop$), for the size of the population.
+If you have several of them, use subscripts: e.g., use $n_\\text{pop}$, $n_\\text{gen}$, $n_\\text{tourn}$ not $\\text{pop}$, $\\text{gen}$, $\\text{tourn}$ (and neither $pop$, $gen$, $tourn$), for the size of the population.
 
 #### Lowercase and uppercase letters
 If possible, use uppercase letters for entities representing collections of items, such as sets and bags: $a \\in A$.
 An exception to this rule is given by vectors (see [below](#vectors)).
-If you need to define collections of collections, maybe use calligraphy uppercase letters, e.g., *given a set $\\mathcal{A}=\\{A\_1, A\_2, \\dots\\}$ of bags, where each bag $A\_i$ contains...*. 
+If you need to define collections of collections, maybe use calligraphy (`\mathcal{}` in LaTeX) uppercase letters, e.g., *given a set $\\mathcal{A}=\\{A\_1, A\_2, \\dots\\}$ of bags, where each bag $A\_i$ contains...*. 
 
 #### Vectors
 (This is a matter of personal tastes, actually...)
 For vectors, or, more broadly, for sequences of items of the same type, use bold: $\\boldsymbol{x} = (x_1,x_2,x_3,x_4) \\in \\mathbb{R}^4$.
+Bold is lighter than an arrow above the letter, in particular when there are superscripts: $\\boldsymbol{x}^{(i)}$ vs. $\vec{x}^{(i)}$.
 Possibly extend this notation to matrices: $\\boldsymbol{a} \\in \\mathbb{R}^{n \\times m}$ or $\\boldsymbol{A} \\in \\mathbb{R}^{n \\times m}$.
 
-For using bold in math environment in LaTeX, I usually define an ad hoc macro (with `\renewcommand\vec{\boldsymbol}`) that can be used as `\vec{x}`. 
+For using bold in math environment in LaTeX, I usually (re)define an ad hoc macro (with `\renewcommand\vec{\boldsymbol}`) that can be used as `\vec{x}`. 
 
 #### Delimiters for pairs, tuples, sequences
 Use round parentheses for detailing the content of pairs and tuples, both in extended form ($p = (a,b)$) and in compact form ($\\boldsymbol{s} = (s\_i)_i$ or $D\_\text{learn}=\\{(x^{(i)},y^{(i)})\\}\_i$).
 
-For numerical vectors, square brackets are ok too. 
+For numerical vectors, square brackets are ok too.
+But they are particularly ok for denoting the concatenation of vectors: $\\boldsymbol{x} = [\\boldsymbol{x}\_\text{train} \\; \\boldsymbol{x}\_\text{test}]$.
 
 #### Functions signature and mapping
 Use an arrow ($\\to$, `\to` in LaTeX) for defining the signature of a function ($f: \\mathbb{R} \\to [0,1]$) and $\\mapsto$ (`\mapsto` in LaTeX) for showing the concrete way a function works: $x \\mapsto \\min(x^2, 1)$.
+The latter is in facts much more commonly shown as $f(x)=\\min(x^2, 1)$.
 
 ## LaTeX
 
 ### General
 
 #### Ellipses
-Use `\dots`, not a literal `...`, for ellipses, both in text and in a math environment: `\vec{x} = \{x_1, \dots, x_n\}`.
+Use `\dots`, not a literal `...`, for ellipses, both in text and in a math environment: `\vec{x} = (x_1, \dots, x_n)`.
 
 #### Paragraphs
 Use an empty line in the source for a new paragraph (not `\\` or `\newline`!).
 Only when really necessary (which happens very rarely), use `\\` for starting a new line in the text.
 
 #### Double quotes
-Typeset double quotes with <code>``something''</code> (that will be rendered properly, *"something"*).
+Typeset double quotes with <code>``something''</code> (that will be rendered properly, $\\text{"something"}$).
 
 #### Emphasis
 Use `\\emph{}`, not `\\textit{}`, for emphasizing text.
+**Why?** Because `\\emph{}` suggests already in the source what's the semantics, i.e., the role, of the enclosed piece of text, while `\\textit{}` is a rendering hint.
+That said, unfortunately, LaTeX is not a good language for separating the document structure from hints on how to render it.
+
 You should emphasize key terms, commonly just at the first occurrence.
 
 #### Controlled or unbreakable spaces
 In documents rendered by LaTeX, there is usually a longer space after a fullstop in plain text, because this improves readability.
 However, there are cases where a dot does not actually play the role of a fullstop.
 In those cases, use a controlled space (`\ `): e.g., `I thank prof.\ Smith`, `single- vs.\ multi-core processing`.
+
 In many cases you do not want to let LaTeX split a line between two things that should not be separated.
 In those cases, use an unbreakable space (`~`): e.g., `\cite{medvet2018writing}~suggests that` (when using short citation formats, rendered as *[1]* or similar), or `P.~Smith suggest that`.
 
 ### Mathematical notation
-Provided that you should avoid multi-letter names for entities (see [above](#lowercase-and-uppercase-letters)), whenever you put words in math environment, enclose them in `\\text{}`, e.g., `\text{FPR}=0.85`, `\rho_\text{NN}`, `n_\text{pop}`.
+Provided that you should [avoid multi-letter names](#lowercase-and-uppercase-letters) for entities, whenever you put words in math environment, enclose them in `\\text{}`, e.g., `\text{FPR}=0.85`, `\rho_\text{NN}`, `n_\text{pop}`.
 
-When you don't follow this advice, the text is rendered in a way (through spacing) that suggests that there is a product of things, rather than a sinlge entity: $1-\\text{FPR}$ vs. $1-FPR$. 
+When you don't follow this advice, the text is rendered in a way (through spacing) that suggests that there is a product of things, rather than a sinlge entity: $1-\\text{FPR}$ vs. $1-FPR$, $n\_\\text{pop}$ vs. $n\_{pop}$. 
 
 #### Brackets size
 Use `\left` and `\right` before brackets (of any type) when you want them to be large enough with respect to the the enclosed content.
@@ -226,24 +239,28 @@ The `\,` puts a nice short space between arg and max.
 **Fundamental premise**.
 LaTeX is [very old](https://en.wikipedia.org/wiki/LaTeX#History).
 And writing scientific text is a practice that is even older.
-Hence it is very unlikely that you are the first one who faces one specific problem, e.g., how to format nicely a table.
+Hence it is very unlikely that you are the first one who faces one specific problem, e.g., how to nicely [format a table](#tables-with-codebooktables/code) or how to properly put the [name of authors of referenced papers](#references-with-codenatbib/code).
 So, whenever you think that your rendered document does not look as nice as you want, look for someone (usually on [stackoverflow](https://stackoverflow.com/questions/tagged/latex)) who already solved the problem of making it nicer.
+If instead you don't see that your document is not as nice as it should be, look at other nicer documents!
 
 #### Quantities with `siunitx`
 This package is mainly for dealing with quantities and units of measure.
 
 Use it for raw numbers (i.e., raw quantities, usually not for years and dates) in text (`we performed this procedure \num{30} times`) and also in math environment with big numbers (`$x=\num{10000}$` or `there are more than \num{25000} observations`).
-In the latter case, `siunitx` will put a short space as a thousands separator, greatly improving the readability.
+In the latter case, `siunitx` will put a short space as a thousands separator, greatly improving the readability: $10\\,000$ vs. $10000$.
 
 Use it for quantities with measure, wherever appropriate: `the experiment lasted more than \qty{35}{\second}`, `we used a machine with \qty{16}{\giga\byte} RAM`.
 
-`siunitx` is also very handy for formatting tables, in particular for aligning numbers in columns where numbers have some decimals, possibly not the same number of decimals.
+Use it for ranges and lists: `runs took \qtyrange{10}{25}{\minute}`, `we experimented with \numlist{1;10;15;25} moves for each user`.
+The package can be configured to use Oxford comma for lists, with `\sisetup{list-final-separator = {, and }}`.
+
+`siunitx` is also very handy for [formatting tables](#tables-with-codebooktables/code), in particular for aligning numbers in columns where numbers have some decimals, possibly not the same number of decimals.
 E.g., `S[table-format=3.2]` defines a column format where the numbers are horizontally aligned in order to have the decimal separator always at the same place, with enough space for 3 digits on the left and 2 on the right (after the separator).
 
 #### Acronyms with `glossaries`
 Once you defined your acronyms, `glossaries` manages automatically the choice of the form to be used (extended or contracted).
 
-You define an acronym with `\newacronym{ea}{EA}{evolutionary algorithm}` and then use it with `\gls{ea}`: the package will render the extended form at the first occurrence and the contracted form at later ones.
+You define an acronym with `\newacronym{ea}{EA}{evolutionary algorithm}` (usually at the beginning of the source) and then use it with `\gls{ea}`: the package will render the extended form at the first occurrence and the contracted form at later ones.
 
 You can show the plural form with `\glspl{}`, or a capitalized form with `\Gls{}`, or many other variants.
 
@@ -252,14 +269,14 @@ If you use the `hyperref` package (which I recommend), it's handy to disable the
 You can reset the memory of first usage flags (e.g., just after the abstract), with `\glsresetall`.
 
 #### References with `cleveref`
-With `cleveref` you can have references to other parts of the document which are consistent.
-Instead of writing `see Figure~\ref{fig:results-lineplots}` (that maybe becomes, inconsistenly, `in Fig.~\ref{fig:boxplots}` elsewhere in the document), you can simply write `see \Cref{fig:results-lineplots}`.
+With `cleveref` you can have references to other parts of the document which are consistent in the way they are rendered.
+Instead of writing `see Figure~\ref{fig:results-lineplots}` (that maybe you write as, inconsistenly, `in Fig.~\ref{fig:boxplots}` elsewhere in the document), you can simply write `see \Cref{fig:results-lineplots}`.
 The package will render the proper word depending on what you are referring to (e.g., Section, Table, Figure, ...).
 
 You can also use the non-capitalized version of the reference with `\cref{}`, but do it consistently.
 
 #### Tables with `booktables`
-In general, in tables do not use vertical rules and use suitable horizontal rules.
+In general, in tables use horizontal rules parsimonously and do not use vertical rules.
 `booktables` facilitates this with a few macros: `\toprule`, `\midrule`, `\bottomrule`, `\cmidrule`.
 In particular, you can use `\cmidrule` to group columns together and `\midrule` to separate horizontal sections of the paper.
 
@@ -305,16 +322,19 @@ Plots are a very powerful way to deliver information, in particular to communica
 However, choosing the appropriate plot is not trivial, regardless of the tool you use for building the plot.
 
 If you want to put plots in your document and you authored it with LaTex, `pgfplots` will help you render plots that nicely match the style of everything else in the document (namely, the font and text size).
-Unfortunately, mastering this tool requires time, practice, and experience.
+Unfortunately, mastering this tool takes time, practice, and experience.
 
 Here I show an example from [this paper](/publications/2023-c-mn-gp/):
-{{< fig src="nice-plots.png" caption="A matrix of three line plots." >}}
+{{< fig src="nice-plots.png" caption="A figure with two line plots." >}}
 
+#### References with `natbib`
+https://it.overleaf.com/learn/latex/Natbib_citation_styles
+`\citet{}`
 
 ## Style of LaTeX source code
 There are a few things you can do to make the source LaTeX code of your document more readable.
 
 - Indent your code.
 - Put three blank lines before every section (that is, `\section{}`, `\subsection{}`, ..., `\paragraph{}`).
-- Put one sentence per line in the source code: this makes easier to find the place in the source code which corresponds to a given sentence in the rendered document. Moreover, this easies the management of the document with versioning tools (also those that are included in the LaTeX IDEs, like Overleaf).
-- Don't define LaTeX macros for comments. Either use the comment in the source `% here is a comment` or, for comments which are functional to the editing of the document, use the commenting feature of the IDE, namely, of Overleaf.
+- Put one sentence per line in the source code: this makes easier to find the place in the source code which corresponds to a given sentence in the rendered document, by looking at the start of the sentence. Moreover, this easies the management of the document with versioning tools (also those that are included in the LaTeX IDEs, like Overleaf).
+- Don't define LaTeX macros for comments. Either use plain LaTeX comments in the source `% here is a comment` or, for comments which are functional to the collaborative editing of the document, use the commenting feature of the IDE, namely, of Overleaf.
