@@ -334,13 +334,13 @@ And it's a good thing to not try to subvert that format.
 
 However, there are a few practices of citations for which `natbib` is useful, the main one being when you name the authors of the cited paper: `\citet{smith19cost} showed that the cost` might be rendered, depending on the format, as *Smith et al. [32] showed that the cost*.
 
-Overleaf website show some tips for using LaTex, including one suggesting [how to use `natbib` for citation styles](https://it.overleaf.com/learn/latex/Natbib_citation_styles).
+The Overleaf websites show some tips for using LaTex, including some suggesting [how to use `natbib` for citation styles](https://it.overleaf.com/learn/latex/Natbib_citation_styles).
 
 #### Lists with `enumitem`
 When describing complex procedures, explicitly marking steps can improve the readability of the text: e.g., *We proceed as follows: (i) we compute the initial value, (ii) we increase it...*.
-Similarly, there are short lists for which you want to highlight the members: e.g., *Our algorithm meets the two aforementioned requirements, because it (a) always produces a valid solution and (b) does not require...*.
+Similarly, there are short lists for which you want to highlight the items, just because they are important: e.g., *Our algorithm meets the two aforementioned requirements, because (a) it always produces a valid solution and (b) it does not require...*.
 
-Instead of manually writing `(i)` in LaTeX, you can use the `enumitem` package with the `inline` option, i.e., with `\usepackage[inline]{enumitem}`.
+Instead of manually writing `(i)`, `(ii)`, ... in LaTeX, you can use the `enumitem` package with the `inline` option, i.e., loading it with `\usepackage[inline]{enumitem}`.
 Moreover, you can explicitly reference items in the lists, provided you labeled them with `\label{}`.
 
 An example:
