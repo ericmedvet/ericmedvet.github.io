@@ -407,6 +407,7 @@ In those cases, use an unbreakable space (<code>~</code>): e.g., <code>\cite{med
 <p>Use <code>\left</code> and <code>\right</code> before brackets (of any type) when you want them to be large enough with respect to the the enclosed content.
 The difference in rendering can be more or less apparent depending on the context (inline or not) of the math environment.
 E.g., <code>(\frac{1}{n})</code> is $(\frac{1}{n})$, whereas is <code>\left(\frac{1}{n}\right)</code> is $\left(\frac{1}{n}\right)$.</p>
+<p>For the definition of different cases in a math environment, use <code>\begin{cases}</code> and <code>\end{cases}</code>, which will be rendered with a big brace.</p>
 <h4 id="max-argmax" class="wl">
   <span>Max, argmax</span>
   <a href="#max-argmax" aria-label="Anchor">#</a>
@@ -469,7 +470,8 @@ The package will render the proper word depending on what you are referring to (
 </h4>
 
 <p>In general, in tables do not use vertical rules and use suitable horizontal rules.
-<code>booktables</code> facilitates this with a few macros: <code>\toprule</code>, <code>\midrule</code>, <code>\bottomrule</code>, <code>\cmidrule</code>.</p>
+<code>booktables</code> facilitates this with a few macros: <code>\toprule</code>, <code>\midrule</code>, <code>\bottomrule</code>, <code>\cmidrule</code>.
+In particular, you can use <code>\cmidrule</code> to group columns together and <code>\midrule</code> to separate horizontal sections of the paper.</p>
 <p>An example from <a href="/publications/2023-c-mn-gp/">this paper</a>:</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-latex" data-lang="latex"><span style="color:#66d9ef">\begin</span>{tabular}{
     c @{<span style="color:#66d9ef">\hspace</span>{2mm}}
@@ -503,10 +505,9 @@ The package will render the proper word depending on what you are referring to (
     <span style="color:#66d9ef">\bottomrule</span>
 <span style="color:#66d9ef">\end</span>{tabular}
 </code></pre></div><p>which is rendered as:
-<img src="nice-table.png" alt="A rather complex table rendered with booktables">
 <figure class="figure">
-  <img src="nice-table.png" class="figure-img img-fluid rounded" alt="Students of IN05 (22 answers)">
-  <figcaption class="figure-caption">Students of IN05 (22 answers)</figcaption>
+  <img src="nice-table.png" class="figure-img img-fluid rounded" alt="A rather complex table.">
+  <figcaption class="figure-caption">A rather complex table.</figcaption>
 </figure>
 </p>
 <h4 id="plots-with-codepgfplots/code" class="wl">
@@ -515,16 +516,28 @@ The package will render the proper word depending on what you are referring to (
   <a href="#content">↰</a>
 </h4>
 
+<p>Plots are a very powerful way to deliver information, in particular to communicate the salient results of the experimental analysis in a space-efficient way.
+However, choosing the appropriate plot is not trivial, regardless of the tool you use for building the plot.</p>
+<p>If you want to put plots in your document and you authored it with LaTex, <code>pgfplots</code> will help you render plots that nicely match the style of everything else in the document (namely, the font and text size).
+Unfortunately, mastering this tool requires time, practice, and experience.</p>
+<p>Here I show an example from <a href="/publications/2023-c-mn-gp/">this paper</a>:
+<figure class="figure">
+  <img src="nice-plots.png" class="figure-img img-fluid rounded" alt="A matrix of three line plots.">
+  <figcaption class="figure-caption">A matrix of three line plots.</figcaption>
+</figure>
+</p>
 <h2 id="style-of-latex-source-code" class="wl">
   <span>Style of LaTeX source code</span>
   <a href="#style-of-latex-source-code" aria-label="Anchor">#</a>
   <a href="#content">↰</a>
 </h2>
 
+<p>There are a few things you can do to make the source LaTeX code of your document more readable.</p>
 <ul>
-<li>indentation</li>
-<li>3 empty lines</li>
-<li>comments, comments with packages, comments with overleaf</li>
+<li>Indent your code.</li>
+<li>Put three blank lines before every section (that is, <code>\section{}</code>, <code>\subsection{}</code>, &hellip;, <code>\paragraph{}</code>).</li>
+<li>Put one sentence per line in the source code: this makes easier to find the place in the source code which corresponds to a given sentence in the rendered document. Moreover, this easies the management of the document with versioning tools (also those that are included in the LaTeX IDEs, like Overleaf).</li>
+<li>Don&rsquo;t define LaTeX macros for comments. Either use the comment in the source <code>% here is a comment</code> or, for comments which are functional to the editing of the document, use the commenting feature of the IDE, namely, of Overleaf.</li>
 </ul>
 
 </div>

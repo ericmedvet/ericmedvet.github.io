@@ -212,6 +212,8 @@ Use `\left` and `\right` before brackets (of any type) when you want them to be 
 The difference in rendering can be more or less apparent depending on the context (inline or not) of the math environment.
 E.g., `(\frac{1}{n})` is $(\\frac{1}{n})$, whereas is `\left(\frac{1}{n}\right)` is $\\left(\\frac{1}{n}\\right)$.
 
+For the definition of different cases in a math environment, use `\begin{cases}` and `\end{cases}`, which will be rendered with a big brace.
+
 #### Max, argmax
 For max and min there are suitable ad hoc macros: `\max_i x_i`.
 So don't simply write `max`, which would be badly rendered: $max(1,x)$ vs. $\\max(1,x)$.
@@ -259,6 +261,7 @@ You can also use the non-capitalized version of the reference with `\cref{}`, bu
 #### Tables with `booktables`
 In general, in tables do not use vertical rules and use suitable horizontal rules.
 `booktables` facilitates this with a few macros: `\toprule`, `\midrule`, `\bottomrule`, `\cmidrule`.
+In particular, you can use `\cmidrule` to group columns together and `\midrule` to separate horizontal sections of the paper.
 
 An example from [this paper](/publications/2023-c-mn-gp/):
 ```latex
@@ -295,14 +298,23 @@ An example from [this paper](/publications/2023-c-mn-gp/):
 \end{tabular}
 ```
 which is rendered as:
-![A rather complex table rendered with `booktables`](nice-table.png)
-{{< fig src="nice-table.png" caption="Students of IN05 (22 answers)" >}}
+{{< fig src="nice-table.png" caption="A rather complex table." >}}
 
 #### Plots with `pgfplots`
+Plots are a very powerful way to deliver information, in particular to communicate the salient results of the experimental analysis in a space-efficient way.
+However, choosing the appropriate plot is not trivial, regardless of the tool you use for building the plot.
+
+If you want to put plots in your document and you authored it with LaTex, `pgfplots` will help you render plots that nicely match the style of everything else in the document (namely, the font and text size).
+Unfortunately, mastering this tool requires time, practice, and experience.
+
+Here I show an example from [this paper](/publications/2023-c-mn-gp/):
+{{< fig src="nice-plots.png" caption="A matrix of three line plots." >}}
+
 
 ## Style of LaTeX source code
+There are a few things you can do to make the source LaTeX code of your document more readable.
 
-- indentation
-- 3 empty lines
-- comments, comments with packages, comments with overleaf
-
+- Indent your code.
+- Put three blank lines before every section (that is, `\section{}`, `\subsection{}`, ..., `\paragraph{}`).
+- Put one sentence per line in the source code: this makes easier to find the place in the source code which corresponds to a given sentence in the rendered document. Moreover, this easies the management of the document with versioning tools (also those that are included in the LaTeX IDEs, like Overleaf).
+- Don't define LaTeX macros for comments. Either use the comment in the source `% here is a comment` or, for comments which are functional to the editing of the document, use the commenting feature of the IDE, namely, of Overleaf.
