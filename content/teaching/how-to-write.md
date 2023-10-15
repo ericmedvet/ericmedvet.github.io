@@ -201,8 +201,8 @@ Only when really necessary (which happens very rarely), use `\\` for starting a 
 Typeset double quotes with <code>``something''</code> (that will be rendered properly, $\\text{"something"}$).
 
 #### Emphasis
-Use `\\emph{}`, not `\\textit{}`, for emphasizing text.
-**Why?** Because `\\emph{}` suggests already in the source what's the semantics, i.e., the role, of the enclosed piece of text, while `\\textit{}` is a rendering hint.
+Use `\emph{}`, not `\textit{}`, for emphasizing text.
+**Why?** Because `\emph{}` suggests already in the source what's the semantics, i.e., the role, of the enclosed piece of text, while `\textit{}` is a rendering hint.
 That said, unfortunately, LaTeX is not a good language for separating the document structure from hints on how to render it.
 
 You should emphasize key terms, commonly just at the first occurrence.
@@ -216,7 +216,7 @@ In many cases you do not want to let LaTeX split a line between two things that 
 In those cases, use an unbreakable space (`~`): e.g., `\cite{medvet2018writing}~suggests that` (when using short citation formats, rendered as *[1]* or similar), or `P.~Smith suggest that`.
 
 ### Mathematical notation
-Provided that you should [avoid multi-letter names](#lowercase-and-uppercase-letters) for entities, whenever you put words in math environment, enclose them in `\\text{}`, e.g., `\text{FPR}=0.85`, `\rho_\text{NN}`, `n_\text{pop}`.
+Provided that you should [avoid multi-letter names](#lowercase-and-uppercase-letters) for entities, whenever you put words in math environment, enclose them in `\text{}`, e.g., `\text{FPR}=0.85`, `\rho_\text{NN}`, `n_\text{pop}`.
 
 When you don't follow this advice, the text is rendered in a way (through spacing) that suggests that there is a product of things, rather than a sinlge entity: $1-\\text{FPR}$ vs. $1-FPR$, $n\_\\text{pop}$ vs. $n\_{pop}$. 
 
