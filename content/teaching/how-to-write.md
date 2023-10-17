@@ -218,7 +218,7 @@ In those cases, use an unbreakable space (`~`): e.g., `\cite{medvet2018writing}~
 ### Mathematical notation
 Provided that you should [avoid multi-letter names](#lowercase-and-uppercase-letters) for entities, whenever you put words in math environment, enclose them in `\text{}`, e.g., `\text{FPR}=0.85`, `\rho_\text{NN}`, `n_\text{pop}`.
 
-When you don't follow this advice, the text is rendered in a way (through spacing) that suggests that there is a product of things, rather than a sinlge entity: $1-\\text{FPR}$ vs. $1-FPR$, $n\_\\text{pop}$ vs. $n\_{pop}$. 
+When you don't follow this advice, the text is rendered in a way (through spacing) that suggests that there is a product of things, rather than a single entity: $1-\\text{FPR}$ vs. $1-FPR$, $n\_\\text{pop}$ vs. $n\_{pop}$. 
 
 #### Brackets size
 Use `\left` and `\right` before brackets (of any type) when you want them to be large enough with respect to the the enclosed content.
