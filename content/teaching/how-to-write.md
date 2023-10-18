@@ -9,7 +9,7 @@ Here I am giving my *personal* advices, based on my personal experience; I am no
 However, I do believe that many of these advices can be intended as **guidelines** and are widely accepted.
 {{< /alert >}}
 
-I thank all the colleagues and PhD students (namely, Giorgia, Marco, Jessica) who helped me refining these guidelines in years of writing.
+I thank all the colleagues (namely, Alberto) and PhD students (namely, Giorgia, Marco, Jessica) who helped me refining these guidelines in years of writing.
 
 {{< toc >}}
 
