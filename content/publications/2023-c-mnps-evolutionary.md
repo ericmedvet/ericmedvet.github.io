@@ -5,7 +5,9 @@
   "pub_type": "Chapter",
   "pub_venue_name": "Handbook of Evolutionary Machine Learning",
   "pub_authors": "Medvet, Eric; Nadizar, Giorgia; Pigozzi, Federico; Salvato, Erica",
-  "pub_notes": "To appear",
+  "pub_doi": "10.1007/978-981-99-3814-8_23",
+  "pub_publisher_url": "https://link.springer.com/chapter/10.1007/978-981-99-3814-8_23",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1ouB_cFLj1l6aGeltQGtKfIf25fFXFqjt/view",
   "pub_important": false
 }
 
