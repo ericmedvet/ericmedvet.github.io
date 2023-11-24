@@ -334,7 +334,7 @@ And it's a good thing to not try to subvert that format.
 
 However, there are a few practices of citations for which `natbib` is useful, the main one being when you name the authors of the cited paper: `\citet{smith19cost} showed that the cost` might be rendered, depending on the format, as *Smith et al. [32] showed that the cost*.
 
-The Overleaf websites show some tips for using LaTex, including some suggesting [how to use `natbib` for citation styles](https://it.overleaf.com/learn/latex/Natbib_citation_styles).
+The Overleaf website shows some tips for using LaTex, including some suggesting [how to use `natbib` for citation styles](https://it.overleaf.com/learn/latex/Natbib_citation_styles).
 
 #### Lists with `enumitem`
 When describing complex procedures, explicitly marking steps can improve the readability of the text: e.g., *We proceed as follows: (i) we compute the initial value, (ii) we increase it...*.
