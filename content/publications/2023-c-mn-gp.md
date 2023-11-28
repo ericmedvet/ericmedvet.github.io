@@ -9,6 +9,7 @@
   "pub_location_city": "East Lansing",
   "pub_location_country": "USA",
   "pub_authors": "Medvet, Eric; Nadizar, Giorgia",
+  "pub_doi": "10.1007/978-981-99-8413-8_11",
   "pub_notes": "To appear",
   "pub_fulltext_url": "https://drive.google.com/file/d/1sxsxIg2DoE05JqSdzqS6alubSQ_XST0p/view",
   "pub_slides_url": "https://medvet.inginf.units.it/slides/2023-gptp-gp-continuous-control-imitation/#1",

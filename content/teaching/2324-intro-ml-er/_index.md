@@ -112,9 +112,9 @@ These are just suggestions: a significant part of the course is not based on any
 ### Lectures timetable and course calendar
 The course will start on **September, 25th**.
 Lectures will be held in:
-- Room TA (Aula Fisica Tecnica), building C5, Piazzale Europa Campus on Monday, 12.00-14.00
-- Room 2 (Aula Meccanica Applicata), building C5, Piazzale Europa Campus on Tuesday, 9.00-11.00
-- Room 2 (Aula Meccanica Applicata), building C5, Piazzale Europa Campus on Friday, 11.00-13.00
+- Room TA (Aula Fisica Tecnica), building C5, Piazzale Europa Campus on Monday, 12.00-14.00 (in practice, **12.00-13.30**)
+- Room 2 (Aula Meccanica Applicata), building C5, Piazzale Europa Campus on Tuesday, 9.00-11.00 (in practice, 9.00-10.30; from 28/22/23, **9.15-10.45**)
+- Room 2 (Aula Meccanica Applicata), building C5, Piazzale Europa Campus on Friday, 11.00-13.00 (in practice, **11.00-12.30**)
 
 The lectures will be given **in person** and **I recommend being in the room**.
 In compliance with the current regulation students might be required to book a place in the room.
