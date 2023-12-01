@@ -57,7 +57,7 @@ If the project has been done by a group of students, each student will be graded
 ### Leaf identification
 This problem gives a **bonus score of +0**.
 
-The [dataset](https://archive.ics.uci.edu/ml/machine-learning-databases/00288/) is publicly available, along with an [extended description](https://drive.google.com/open?id=17780rojEALRtI5ivDnYSNjc3AUDzPDGJ) of the data.
+The [dataset](https://archive.ics.uci.edu/dataset/288/leaf) is publicly available, along with an [extended description](https://drive.google.com/open?id=17780rojEALRtI5ivDnYSNjc3AUDzPDGJ) of the data.
 
 The goal is to propose a method for leaf identification based on the provided leaf attributes and using a proper unsupervised or supervised learning tool.
 
