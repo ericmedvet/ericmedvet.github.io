@@ -156,7 +156,7 @@ are conclusions and findings actually supported by results?</li>
 <li><strong>results</strong> (from 0 to 5): does the solution effectively/efficiently solve the problem?
 is there a baseline which is improved in some way?</li>
 </ul>
-<p>Note that the students' solution is not required to exhibit some degree of novelty (i.e., to advance the state of the art of the specific research field).
+<p>Note that the students&rsquo; solution is not required to exhibit some degree of novelty (i.e., to advance the state of the art of the specific research field).
 However, student are expected not to simply &ldquo;cut-and-paste&rdquo; an existing (research) project.</p>
 <p>Note that, depending on the chosen problem, there could be more or less freedom on some aspects: e.g., problem statement, data collection, and so on.</p>
 <p>If the project has been done by a group of students, each student will be graded (for the project part) according to both the overall project score and the student contribution, inferred from the activities she/he actually carried on, according to what specified in the document (see above).</p>
@@ -332,7 +332,7 @@ In facts, the column <code>best→solution→serialized</code> contains a serial
 <p>The tool (<code>VSREvolution.jar</code>, available <a href="https://drive.google.com/drive/folders/1rtgYZfhAShExgUCjQeXMm9vZiRg4hofQ?usp=sharing">here</a>, source code <a href="https://github.com/ericmedvet/VSREvolution/blob/master/src/main/java/it/units/erallab/VideoMaker.java">here</a>) is done in Java (&gt;14) and takes as input (via standard input) a csv containing 3 columns and builds a video file with a video matrix (see above).
 The three columns should contain string keys for the $x$ and $y$ labels in the video matrix (in the first two columns), and the serialized robot (in the third column).
 As an example, the following command produce the video for the bipeds on a flat validation terrain.</p>
-<pre tabindex="0"><code>Rscript -e 'suppressPackageStartupMessages(library(tidyverse));dir(&quot;.&quot;,pattern=&quot;best.*.txt&quot;,full.names = T) %&gt;% map(function(file){read.csv2(file, dec=&quot;.&quot;, stringsAsFactors = T)}) %&gt;% reduce(rbind) %&gt;% filter(shape==&quot;biped-4x3&quot;) %&gt;% group_by(terrain,seed) %&gt;% arrange(iterations) %&gt;% filter(row_number()==n()) %&gt;% ungroup() %&gt;% select(terrain,seed,best.solution.serialized) %&gt;% format_csv2() %&gt;% cat()' | java -Xmx8g -cp VSREvolution.jar it.units.erallab.VideoMaker serializedRobotColumnName=best.solution.serialized outputFile=biped-flat.mp4 w=600 h=1200 terrain=flat transformation=identity endTime=30 startTime=0 encoder=ffmpeg_small
+<pre tabindex="0"><code>Rscript -e &#39;suppressPackageStartupMessages(library(tidyverse));dir(&#34;.&#34;,pattern=&#34;best.*.txt&#34;,full.names = T) %&gt;% map(function(file){read.csv2(file, dec=&#34;.&#34;, stringsAsFactors = T)}) %&gt;% reduce(rbind) %&gt;% filter(shape==&#34;biped-4x3&#34;) %&gt;% group_by(terrain,seed) %&gt;% arrange(iterations) %&gt;% filter(row_number()==n()) %&gt;% ungroup() %&gt;% select(terrain,seed,best.solution.serialized) %&gt;% format_csv2() %&gt;% cat()&#39; | java -Xmx8g -cp VSREvolution.jar it.units.erallab.VideoMaker serializedRobotColumnName=best.solution.serialized outputFile=biped-flat.mp4 w=600 h=1200 terrain=flat transformation=identity endTime=30 startTime=0 encoder=ffmpeg_small
 </code></pre><p>The execution of the command above might take several minutes and a lot of RAM; moreover, <code>ffmpeg</code> is required on the machine.</p>
 
 </div>

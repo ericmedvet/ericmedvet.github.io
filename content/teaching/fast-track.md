@@ -31,6 +31,7 @@ Consiglio comunque di contattarmi per fare una chiacchierata nel caso ci sia int
 - Oktay, Deniz, et al. "[Neuromechanical Autoencoders: Learning to Couple Elastic and Neural Network Nonlinearity](https://arxiv.org/abs/2302.00032)." arXiv preprint arXiv:2302.00032 (2023)
 - Ben Zion, Matan Yah, et al. "[Morphological computation and decentralized learning in a swarm of sterically interacting robots](https://doi.org/10.1126/scirobotics.abo6140)." Science Robotics 8.75 (2023): eabo6140.
 - Ferigo, Andrea, and Giovanni Iacca. "[Self-building Neural Networks](https://arxiv.org/abs/2304.01086)." arXiv preprint arXiv:2304.01086 (2023).
+- Bhoopchand, Avishkar, et al. "[Learning few-shot imitation as cultural transmission](https://www.nature.com/articles/s41467-023-42875-2)." Nature Communications 14.1 (2023): 7536.
 
 ## Ongoing theses
 
