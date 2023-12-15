@@ -32,6 +32,8 @@ Consiglio comunque di contattarmi per fare una chiacchierata nel caso ci sia int
 - Ben Zion, Matan Yah, et al. "[Morphological computation and decentralized learning in a swarm of sterically interacting robots](https://doi.org/10.1126/scirobotics.abo6140)." Science Robotics 8.75 (2023): eabo6140.
 - Ferigo, Andrea, and Giovanni Iacca. "[Self-building Neural Networks](https://arxiv.org/abs/2304.01086)." arXiv preprint arXiv:2304.01086 (2023).
 - Bhoopchand, Avishkar, et al. "[Learning few-shot imitation as cultural transmission](https://www.nature.com/articles/s41467-023-42875-2)." Nature Communications 14.1 (2023): 7536.
+- Romera-Paredes, B., Barekatain, M., Novikov, A. et al. "[Mathematical discoveries from program search with large language models](https://www.nature.com/articles/s41586-023-06924-6)". Nature (2023).
+- Hu, Yuhang, Jiong Lin, and Hod Lipson. "[Teaching Robots to Build Simulations of Themselves](https://arxiv.org/abs/2311.12151)." arXiv preprint arXiv:2311.12151 (2023).
 
 ## Ongoing theses
 
