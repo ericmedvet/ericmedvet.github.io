@@ -3,7 +3,7 @@
   "pub_year": 2017,
   "pub_accept_year": 2017,
   "pub_type": "Conference",
-  "pub_venue_name": "European Conference on the Applications of Evolutionary Computation",
+  "pub_venue_name": "International Conference on the Applications of Evolutionary Computation",
   "pub_venue_number": "20th",
   "pub_venue_acronym": "EvoAPPS",
   "pub_location_city": "Amsterdam",
