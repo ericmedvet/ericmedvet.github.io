@@ -10,6 +10,7 @@
   "pub_location_country": "United Kingdom",
   "pub_authors": "Gulisano, Vincenzo; Medvet, Eric",
   "pub_notes": "To appear",
+  "pub_fulltext_url": "https://drive.google.com/file/d/19QmDaRGSYvN_zfGDedIaYpZjSihb4cXL/view",
   "pub_important": false
 }
 

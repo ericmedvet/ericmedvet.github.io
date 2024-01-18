@@ -10,6 +10,7 @@
   "pub_location_country": "United Kingdom",
   "pub_authors": "Mégane, Jessica; Medvet, Eric; Lourenço, Nuno; Machado, Penousal",
   "pub_notes": "To appear",
+  "pub_fulltext_url": "https://drive.google.com/file/d/15pPt8kS-an_Qe5_0DerkA7P56rFk3OQX/view",
   "pub_important": false
 }
 

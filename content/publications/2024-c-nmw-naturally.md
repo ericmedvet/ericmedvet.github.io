@@ -10,6 +10,7 @@
   "pub_location_country": "United Kingdom",
   "pub_authors": "Nadizar, Giorgia; Medvet, Eric; Wilson, Dennis G.",
   "pub_notes": "To appear",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1zoS4Favc1pCWQPC9mw3s_oWUgOlFY-4m/view",
   "pub_important": false
 }
 
