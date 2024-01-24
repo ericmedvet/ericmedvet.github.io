@@ -33,6 +33,7 @@ Consiglio comunque di contattarmi per fare una chiacchierata nel caso ci sia int
 - Bhoopchand, Avishkar, et al. "[Learning few-shot imitation as cultural transmission](https://www.nature.com/articles/s41467-023-42875-2)." Nature Communications 14.1 (2023): 7536.
 - Romera-Paredes, B., Barekatain, M., Novikov, A. et al. "[Mathematical discoveries from program search with large language models](https://www.nature.com/articles/s41586-023-06924-6)". Nature (2023).
 - Hu, Yuhang, Jiong Lin, and Hod Lipson. "[Teaching Robots to Build Simulations of Themselves](https://arxiv.org/abs/2311.12151)." arXiv preprint arXiv:2311.12151 (2023).
+- Wang, Zhiquan, et al. "[Evolution-based Shape and Behavior Co-design of Virtual Agents](https://ieeexplore.ieee.org/abstract/document/10403977)." IEEE Transactions on Visualization and Computer Graphics (2024).
 
 ## Ongoing theses
 - Vorobyov, Kostyantyn, et al. "[Synthesis of Java Deserialisation Filters from Examples](https://ieeexplore.ieee.org/abstract/document/9842737)." 2022 IEEE 46th Annual Computers, Software, and Applications Conference (COMPSAC). IEEE, 2022.
