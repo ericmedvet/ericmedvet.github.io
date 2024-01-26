@@ -7,6 +7,7 @@
   "pub_venue_acronym": "TELO",
   "pub_authors": "Nadizar, Giorgia; Rovito, Luigi; De Lorenzo, Andrea; Medvet, Eric; Virgolin, Marco",
   "pub_notes": "To appear",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1UFuq2k-xAHEllu81ROJp4t-IgMJUwafn/view",
   "pub_important": true
 }
 
