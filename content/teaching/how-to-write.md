@@ -79,7 +79,7 @@ This is a very strong recommendation.
 Active voice makes clear who is the actor/author of, and hence who has the responsability for, an action/claim/consideration.
 In most of the cases, that means writing *we did something*, because the main responsability for all the claims in a paper is in charge of the authors. 
 When describing a procedure or an algorithm, the subject might be the procedure or algorithm: *The algorithm works as follows: it initializes a set of..., it selects one...*.
-When describing the work of others (i.e., in the *Related works* section), use them as subject: *Smith et. al showed that...*. 
+When describing the work of others (i.e., in the *Related works* section), use them as subject: *Smith et al. showed that...*. 
 
 ### Contracted forms
 Do not use contracted forms such as *can't* or *isn't*.
