@@ -6,7 +6,8 @@
   "pub_venue_name": "ACM Transactions on Evolutionary Learning and Optimization",
   "pub_venue_acronym": "TELO",
   "pub_authors": "Nadizar, Giorgia; Rovito, Luigi; De Lorenzo, Andrea; Medvet, Eric; Virgolin, Marco",
-  "pub_notes": "To appear",
+  "pub_doi": "10.1145/3643688",
+  "pub_publisher_url": "https://dl.acm.org/doi/10.1145/3643688",
   "pub_fulltext_url": "https://drive.google.com/file/d/1UFuq2k-xAHEllu81ROJp4t-IgMJUwafn/view",
   "pub_important": true
 }
