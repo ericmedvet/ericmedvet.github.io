@@ -16,7 +16,7 @@ For both, the course accounts for 1.5 CFUs and lasts 12 hours.
 
 - Evolutionary computation (EC).
   - Definition of global optimization problem; evolutionary algorithm (EA); selection criteria; exploration/exploitation trade-off; multi-objective problems; solution representation; popular representations with their initialization and genetic operators; properties of the representation.
-  - Main EAs: genetic algorithm (GA), random search, random walk, genetic programming (GP), grammatical evolution (GE), evolutionary strategies (ES), MAP-Elites.
+  - Main EAs: genetic algorithm (GA), random search, random walk, genetic programming (GP), non-dominated sorting genetic algorithm-II (NSGA-II), evolutionary strategies (ES), MAP-Elites.
   - Comparing EAs.
 - EC applications (example of) EC to robotics
   - Evolution of robotic agents controllers (brain).
