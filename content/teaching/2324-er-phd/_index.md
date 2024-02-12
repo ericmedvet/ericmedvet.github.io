@@ -67,12 +67,12 @@ The course material (teacher's slides) are [available online](https://medvet.ing
 ### Lectures timetable and course calendar
 
 Lectures will be held in **Room A, 2nd floor, building C5**, Piazzale Europa Campus on:
-- Monday 12/2, 9.00-12.00 (in practice, **9.00-11.30**)
-- Tuesday 13/2, 9.00-12.00 (in practice, **9.00-11.30**)
-- Friday 16/2, 9.00-12.00 (in practice, **9.00-11.30**)
+- Monday 12/2, 9.00-12.00 (in practice, **9.30-12.00**)
+- Tuesday 13/2, 9.00-12.00 (in practice, **9.30-12.00**)
+- Friday 16/2, 9.00-12.00 (in practice, **9.30-12.00**)
 
 and, in **Room A, 2nd floor, building C5**, Piazzale Europa Campus, on:
-- Tuesday 20/2, 9.00-12.00 (in practice, **9.00-11.30**)
+- Tuesday 20/2, 9.00-12.00 (in practice, **9.30-12.00**)
 
 The lectures will be given **in person** and **I recommend being in the room**.
 The lectures will **not** be cast in streaming, but the recordings of the lectures will be available.
