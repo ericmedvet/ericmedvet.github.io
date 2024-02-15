@@ -20,7 +20,7 @@ For both, the course accounts for 1.5 CFUs and lasts 12 hours.
   - Comparing EAs.
 - EC applications (example of) EC to robotics
   - Evolution of robotic agents controllers (brain).
-  - Evolution of Soft Robots morphologies (body).  
+  - Evolution of Soft Robots morphologies (body).
   - Simultaneous evolution of body and brain.
   - Choosing the task, the fitness; reality gap.
 
@@ -83,9 +83,27 @@ The lectures will **not** be cast in streaming, but the recordings of the lectur
 
 ## End-of-course test (exam)
 The exam is passed without a grade.
-For passing the exam, the student is required to deliver a short oral presentation of a research paper chosen, by the student, from a teacher-provided list of ER papers.
+For passing the exam, the student is required to deliver a short oral presentation of a research paper chosen, by the student, from a teacher-provided list of ER papers (see below).
 
 The presentation has to be done in English, with slides prepared by the student, and last at most 10 minutes.
  
 The presentation date is set in agreement with the teacher: please try to arrange sessions with more than one student at once.
 
+### List of ER papers to choose from
+- Thomson, Sarah L., et al. "[Understanding fitness landscapes in morpho-evolution via local optima networks](https://arxiv.org/pdf/2402.07822.pdf)." arXiv preprint arXiv:2402.07822 (2024).
+- Ben Zion, Matan Yah, et al. "[Morphological computation and decentralized learning in a swarm of sterically interacting robots](https://doi.org/10.1126/scirobotics.abo6140)." Science Robotics 8.75 (2023): eabo6140.
+- Hu, Yuhang, Jiong Lin, and Hod Lipson. "[Teaching Robots to Build Simulations of Themselves](https://arxiv.org/abs/2311.12151)." arXiv preprint arXiv:2311.12151 (2023).
+- Wang, Zhiquan, et al. "[Evolution-based Shape and Behavior Co-design of Virtual Agents](https://ieeexplore.ieee.org/abstract/document/10403977)." IEEE Transactions on Visualization and Computer Graphics (2024).
+- Miras, Karine. "[Exploring the costs of phenotypic plasticity for evolvable digital organisms](https://www.nature.com/articles/s41598-023-50683-3)." Scientific Reports 14.1 (2024): 108.
+- Luo, Jie, et al. "[Enhancing robot evolution through Lamarckian principles](https://www.nature.com/articles/s41598-023-48338-4)." Scientific Reports 13.1 (2023): 21109.
+- Welch, Piper, et al. "[Searching in the Dark: Evolving Biobot Swarm Compositions to Efficiently Explore Obstructed Environments](https://direct.mit.edu/isal/proceedings/isal/35/70/116936)." ALIFE 2023: Ghost in the Machine: Proceedings of the 2023 Artificial Life Conference. MIT Press, 2023.
+- Davis, Q. Tyrell, et al. "[Subtract to Adapt: Autotomic Robots](https://www.eng.yale.edu/faboratory/publications/conference/2023/Davis%20-%202023%20-%20Subtract%20to%20Adapt%20Autotomic%20Robots.pdf)." 2023 IEEE International Conference on Soft Robotics (RoboSoft). IEEE, 2023.
+- Parsa, Atoosa, et al. "[Evolving variable stiffness fiber patterns for multi-shape robotic sheets](https://ieeexplore.ieee.org/abstract/document/10121924)." 2023 IEEE International Conference on Soft Robotics (RoboSoft). IEEE, 2023.
+- Matthews, David, et al. "[Efficient automatic design of robots](https://arxiv.org/pdf/2306.03263.pdf)." arXiv preprint arXiv:2306.03263 (2023).
+- d'Elia, Evelyn, et al. "[Automatic tuning and selection of whole-body controllers](https://ieeexplore.ieee.org/abstract/document/9981058)." 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2022.
+- Gomes, Waldez, et al. "[Multi-objective trajectory optimization to improve ergonomics in human motion](https://ieeexplore.ieee.org/abstract/document/9601163)." IEEE Robotics and Automation Letters 7.1 (2021): 342-349.
+- Hasselmann, Ken, Antoine Ligot, and Mauro Birattari. "[Automatic modular design of robot swarms based on repertoires of behaviors generated via novelty search](https://www.sciencedirect.com/science/article/abs/pii/S2210650223001682)." Swarm and Evolutionary Computation 83 (2023): 101395.
+- Kuckling, Jonas, Vincent Van Pelt, and Mauro Birattari. "[AutoMoDe-Cedrata: automatic design of behavior trees for controlling a swarm of robots with communication capabilities](https://link.springer.com/article/10.1007/s42979-021-00988-9)." SN Computer Science 3.2 (2022): 136.
+- Bergonti, Fabio, et al. "[Co-Design Optimisation of Morphing Topology and Control of Winged Drones](https://arxiv.org/abs/2309.13948)." arXiv preprint arXiv:2309.13948 (2023).
+- Carvalho, Jonata Tyska, and Stefano Nolfi. "[The role of morphological variation in evolutionary robotics: Maximizing performance and robustness](https://direct.mit.edu/evco/article-abstract/doi/10.1162/evco_a_00336/116607/The-Role-of-Morphological-Variation-in)." Evolutionary Computation (2023): 1-18.
+- Milano, Nicola, and Stefano Nolfi. "[Qualitative differences between evolutionary strategies and reinforcement learning methods for control of autonomous agents](https://link.springer.com/article/10.1007/s12065-022-00801-3)." Evolutionary Intelligence (2022): 1-11.
