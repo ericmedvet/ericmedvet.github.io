@@ -112,7 +112,7 @@ Managing acronyms looks an hard thing, but fortunately there are [LaTeX packages
 There are slightly differences between British and American English, e.g., *colour* vs. *color*, *behaviour* vs. *behavior*, *focussed* vs. *focused*.
 I personally prefer American English.
 The important thing is to **be consistent**: so choose your preferred variant and keep it trhoughout the entire document.
-(However, consider that if it's a paper and I am a co-author, I will overwrite your preference).
+(However, consider that if it's a paper and I am a co-author, I will reserve the right to argue a bit for supporting my preference over your preference).
 
 ### Possessive case (*'s* or not *'s*?)
 This is a particularly mild advice, since I do not feel confident enough on this matter to be authoritative.

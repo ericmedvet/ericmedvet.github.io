@@ -64,6 +64,9 @@ Frontal lectures with slide projection and live annotation on the blackboard.
 #### Teacher's slides
 The course material (teacher's slides) are [available online](https://medvet.inginf.units.it/slides/evolutionary-robotics-phd-24).
 
+The lectures will be recorded.
+The recording will be available to enrolled students upon request (an email to the teacher).
+
 ### Lectures timetable and course calendar
 
 Lectures will be held in **Room A, 2nd floor, building C5**, Piazzale Europa Campus on:
