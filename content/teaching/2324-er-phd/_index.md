@@ -2,6 +2,7 @@
 title: "Evolutionary Robotics"
 academic_year: "23/24"
 type: courses
+math: true
 ---
 
 This page is about the **PhD** course Evolutionary Robotics, for the PhD programs:
@@ -86,6 +87,12 @@ The exam is passed without a grade.
 For passing the exam, the student is required to deliver a short oral presentation of a research paper chosen, by the student, from a teacher-provided list of ER papers (see below).
 
 The presentation has to be done in English, with slides prepared by the student, and last at most 10 minutes.
+The presentation is expected to answer the following questions (refer to the notation in the [slides](#teacherrsquos-slides)):
+1. what is the **research question** (RQ) tackled by the paper and why is it important?
+2. what is/are, **formally, the problem**(s)? I.e., what are the search space $S$, the controller-related (if a brain-only optimization) observation space $O$, action space $A$, state $S\_c$, the fitness function $f$?
+3. what **EA(s) and representation(s)** (namely, $\\phi$) are used?
+4. what **experiments** are done to answer the RQ? How are the corresponding results presented?
+5. what are, if any, the weak points of the study?
  
 The presentation date is set in agreement with the teacher: please try to arrange sessions with more than one student at once.
 
