@@ -1,6 +1,6 @@
 {
   "title": "GP for Continuous Control: Teacher or Learner? The Case of Simulated Modular Soft Robots",
-  "pub_year": 2023,
+  "pub_year": 2024,
   "pub_accept_year": 2023,
   "pub_type": "Conference",
   "pub_venue_name": "Genetic Programming Theory & Practice",
@@ -10,7 +10,7 @@
   "pub_location_country": "USA",
   "pub_authors": "Medvet, Eric; Nadizar, Giorgia",
   "pub_doi": "10.1007/978-981-99-8413-8_11",
-  "pub_notes": "To appear",
+  "pub_publisher_url": "https://link.springer.com/chapter/10.1007/978-981-99-8413-8_11",
   "pub_fulltext_url": "https://drive.google.com/file/d/1sxsxIg2DoE05JqSdzqS6alubSQ_XST0p/view",
   "pub_slides_url": "https://medvet.inginf.units.it/slides/2023-gptp-gp-continuous-control-imitation/#1",
   "pub_important": false
