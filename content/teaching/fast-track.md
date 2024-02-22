@@ -33,10 +33,11 @@ Consiglio comunque di contattarmi per fare una chiacchierata nel caso ci sia int
 - Romera-Paredes, B., Barekatain, M., Novikov, A. et al. "[Mathematical discoveries from program search with large language models](https://www.nature.com/articles/s41586-023-06924-6)". Nature (2023).
 - Hu, Yuhang, Jiong Lin, and Hod Lipson. "[Teaching Robots to Build Simulations of Themselves](https://arxiv.org/abs/2311.12151)." arXiv preprint arXiv:2311.12151 (2023).
 - Wang, Zhiquan, et al. "[Evolution-based Shape and Behavior Co-design of Virtual Agents](https://ieeexplore.ieee.org/abstract/document/10403977)." IEEE Transactions on Visualization and Computer Graphics (2024).
+- Hamon, Gautier, et al. "[Discovering Sensorimotor Agency in Cellular Automata using Diversity Search](https://arxiv.org/html/2402.10236v1)." arXiv preprint arXiv:2402.10236 (2024).
 
 ## Ongoing theses
 - Vorobyov, Kostyantyn, et al. "[Synthesis of Java Deserialisation Filters from Examples](https://ieeexplore.ieee.org/abstract/document/9842737)." 2022 IEEE 46th Annual Computers, Software, and Applications Conference (COMPSAC). IEEE, 2022.
-- - Ferigo, Andrea, and Giovanni Iacca. "[Self-building Neural Networks](https://arxiv.org/abs/2304.01086)." arXiv preprint arXiv:2304.01086 (2023).
+- Ferigo, Andrea, and Giovanni Iacca. "[Self-building Neural Networks](https://arxiv.org/abs/2304.01086)." arXiv preprint arXiv:2304.01086 (2023).
 
 ## Done
 - Kudithipudi, Dhireesha, et al. "[Biological underpinnings for lifelong learning machines](https://rdcu.be/cJIwh)", Nature Machine Intelligence (2022). (student: Alice Lazzaretto)
