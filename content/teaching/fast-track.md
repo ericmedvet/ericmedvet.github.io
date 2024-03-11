@@ -36,10 +36,10 @@ Consiglio comunque di contattarmi per fare una chiacchierata nel caso ci sia int
 - Hamon, Gautier, et al. "[Discovering Sensorimotor Agency in Cellular Automata using Diversity Search](https://arxiv.org/html/2402.10236v1)." arXiv preprint arXiv:2402.10236 (2024).
 
 ## Ongoing theses
-- Vorobyov, Kostyantyn, et al. "[Synthesis of Java Deserialisation Filters from Examples](https://ieeexplore.ieee.org/abstract/document/9842737)." 2022 IEEE 46th Annual Computers, Software, and Applications Conference (COMPSAC). IEEE, 2022.
-- Ferigo, Andrea, and Giovanni Iacca. "[Self-building Neural Networks](https://arxiv.org/abs/2304.01086)." arXiv preprint arXiv:2304.01086 (2023).
 
 ## Done
+- Vorobyov, Kostyantyn, et al. "[Synthesis of Java Deserialisation Filters from Examples](https://ieeexplore.ieee.org/abstract/document/9842737)." 2022 IEEE 46th Annual Computers, Software, and Applications Conference (COMPSAC). IEEE, 2022.
+- Ferigo, Andrea, and Giovanni Iacca. "[Self-building Neural Networks](https://arxiv.org/abs/2304.01086)." arXiv preprint arXiv:2304.01086 (2023).
 - Kudithipudi, Dhireesha, et al. "[Biological underpinnings for lifelong learning machines](https://rdcu.be/cJIwh)", Nature Machine Intelligence (2022). (student: Alice Lazzaretto)
 - Pratt, Sarah, Luca Weihs, and Ali Farhadi. "[The Introspective Agent: Interdependence of Strategy, Physiology, and Sensing for Embodied Agents](https://arxiv.org/abs/2201.00411)." arXiv preprint arXiv:2201.00411 (2022). (student: Stefano Casagrande)
 - Bongard, Joshua, and Michael Levin. "[Living Things Are Not (20th Century) Machines: Updating Mechanism Metaphors in Light of the Modern Science of Machine Behavior](https://www.frontiersin.org/articles/10.3389/fevo.2021.650726/full)." Frontiers in Ecology and Evolution 9 (2021): 147. (student: Simone Cappiello)
