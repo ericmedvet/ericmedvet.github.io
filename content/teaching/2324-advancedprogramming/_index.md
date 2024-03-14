@@ -64,7 +64,7 @@ The lectures will be recorded and made available on Teams.
 The course will start on **4/3/2024**.
 
 The lectures will be:
-- on Monday, from **9.30 to 11.00** (academic: 9.00-11.00)
+- on Monday, from **9.15 to 10.45** (academic: 9.00-11.00)
 - on Wednesday, from **8.30 to 11.00** (academic: 8.00-11.00)
 - on Thursday, from **9.00 to 11.30** (academic: 9.00-12.00)
 
