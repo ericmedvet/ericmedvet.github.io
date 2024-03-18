@@ -98,7 +98,7 @@ The presentation date is set in agreement with the teacher: please try to arrang
 
 ### List of ER papers to choose from
 - Thomson, Sarah L., et al. "[Understanding fitness landscapes in morpho-evolution via local optima networks](https://arxiv.org/pdf/2402.07822.pdf)." arXiv preprint arXiv:2402.07822 (2024). (**Chosen by Grigore**)
-- Ben Zion, Matan Yah, et al. "[Morphological computation and decentralized learning in a swarm of sterically interacting robots](https://doi.org/10.1126/scirobotics.abo6140)." Science Robotics 8.75 (2023): eabo6140.
+- Ben Zion, Matan Yah, et al. "[Morphological computation and decentralized learning in a swarm of sterically interacting robots](https://doi.org/10.1126/scirobotics.abo6140)." Science Robotics 8.75 (2023): eabo6140. (**Chosen by Rusin**)
 - Hu, Yuhang, Jiong Lin, and Hod Lipson. "[Teaching Robots to Build Simulations of Themselves](https://arxiv.org/abs/2311.12151)." arXiv preprint arXiv:2311.12151 (2023).
 - Wang, Zhiquan, et al. "[Evolution-based Shape and Behavior Co-design of Virtual Agents](https://ieeexplore.ieee.org/abstract/document/10403977)." IEEE Transactions on Visualization and Computer Graphics (2024).
 - Miras, Karine. "[Exploring the costs of phenotypic plasticity for evolvable digital organisms](https://www.nature.com/articles/s41598-023-50683-3)." Scientific Reports 14.1 (2024): 108.
