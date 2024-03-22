@@ -9,7 +9,8 @@
   "pub_location_city": "Aberystwyth",
   "pub_location_country": "United Kingdom",
   "pub_authors": "Gulisano, Vincenzo; Medvet, Eric",
-  "pub_notes": "To appear",
+  "pub_doi": "10.1007/978-3-031-56852-7_24",
+  "pub_publisher_url": "https://link.springer.com/chapter/10.1007/978-3-031-56852-7_24",
   "pub_fulltext_url": "https://drive.google.com/file/d/19QmDaRGSYvN_zfGDedIaYpZjSihb4cXL/view",
   "pub_important": false
 }
