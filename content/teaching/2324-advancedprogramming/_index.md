@@ -75,6 +75,8 @@ Students enrolled in this course should already be able to access the team of th
 
 #### Short announcements about lectures schedule
 
+There lecture will be no lectures during the week after Easter (1/4 to 7/4) because I will be attending a [conference](https://www.evostar.org/2024/).
+
 ## End-of-course test (exam)
 The student can pass the exam in one of the following ways (student's choice):
 1. Two parts: **Final project + "Short" oral exam**.
