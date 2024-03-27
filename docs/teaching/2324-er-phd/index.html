@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html><head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+  <meta name="description" content="Eric Medvet, Associate Professor of Computer Engineering at the University of Trieste, Italy" />
+  <meta name="author" content="Eric Medvet" />
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous"/>
+  <link rel="stylesheet" href="/scss/basic.css" />
+  <link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.css"
+  integrity="sha384-AfEj0r4/OFrOo5t7NnNe46zW/tFgW6x/bCJG8FqQCEo3+Aro6EYUG4+cU+KJWu/X"
+  crossorigin="anonymous"
+/>
+<script
+  defer
+  src="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.js"
+  integrity="sha384-g7c+Jr9ZivxKLnZTDUhnkOnsh30B4H0rpLUpJ4jAIKs4fnJI+sEnkvrMWph2EDg4"
+  crossorigin="anonymous"
+></script>
+<script
+  defer
+  src="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/contrib/auto-render.min.js"
+  integrity="sha384-mll67QQFJfxn0IYznZYonOWZ644AWYC+Pt2cHqMaRhXVrursRwvLnLaebdGIlYNa"
+  crossorigin="anonymous"
+  onload="renderMathInElement(document.body);"
+></script>
+
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    renderMathInElement(document.body, {
+      delimiters: [
+        { left: "$$", right: "$$", display: true },
+        { left: "\\[", right: "\\]", display: true },
+        { left: "$", right: "$", display: false },
+        { left: "\\(", right: "\\)", display: false },
+      ],
+    });
+  });
+</script>
+
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZW00T23DHQ"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag("js", new Date());
+    gtag("config", "G-ZW00T23DHQ");
+  </script>
+  <title>Evolutionary Robotics</title>
+</head>
+<body>
+    <div class="container">
+      <div class="inner-container border rounded"><nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="https://ericmedvet.github.io/">
+      <span class="initial">E</span><span>ric</span>
+      <span class="initial">M</span><span>edvet</span></a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+    <div class="navbar-nav">
+      <a class="nav-link " href="/publications/">Publications</a>
+      <a class="nav-link active" href="/teaching/">Teaching</a>
+      <a class="nav-link " href="/contact/">Contact me</a>
+    </div>
+  </div>
+</nav>
+<div id="content">
+<div class="container" id="main-content">
+  <h1>AY 23/24 - Evolutionary Robotics</h1>
+  <aside id="toc">
+    <h2 class="wl">
+      <span>Table of contents</span>
+      <a href="#collapseToc" data-toggle="collapse" aria-expanded="true" aria-controls="collapse">↧</a>
+    </h2>
+    <div id="collapseToc" class="collapse show" aria-labelledby="headingToc" data-parent="#toc">
+      <div class="card card-body">
+        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#program-goals-requirements">Program, goals, requirements</a>
+      <ul>
+        <li><a href="#detailed-program-12h">Detailed program (12h)</a></li>
+        <li><a href="#goal-of-the-course">Goal of the course</a></li>
+        <li><a href="#requirements">Requirements</a></li>
+      </ul>
+    </li>
+    <li><a href="#method-language-material">Method, language, material</a>
+      <ul>
+        <li><a href="#language-of-teaching">Language of teaching</a></li>
+        <li><a href="#teaching-method">Teaching method</a></li>
+        <li><a href="#course-material">Course material</a></li>
+        <li><a href="#lectures-timetable-and-course-calendar">Lectures timetable and course calendar</a></li>
+      </ul>
+    </li>
+    <li><a href="#end-of-course-test-exam">End-of-course test (exam)</a>
+      <ul>
+        <li><a href="#list-of-er-papers-to-choose-from">List of ER papers to choose from</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+      </div>
+    </div>
+  </aside>
+  <p>This page is about the <strong>PhD</strong> course Evolutionary Robotics, for the PhD programs:</p>
+<ul>
+<li><a href="https://adsai.units.it/">Applied Data Science and Artificial Intelligence (ADSAI)</a></li>
+<li><a href="https://web.units.it/dottorato/ingii/">Ingegneria Industriale e dell&rsquo;Informazione</a></li>
+</ul>
+<p>For both, the course accounts for 1.5 CFUs and lasts 12 hours.</p>
+<h2 id="program-goals-requirements" class="wl">
+  <span>Program, goals, requirements</span>
+  <a href="#program-goals-requirements" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h2>
+
+<h3 id="detailed-program-12h" class="wl">
+  <span>Detailed program (12h)</span>
+  <a href="#detailed-program-12h" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h3>
+
+<ul>
+<li>Evolutionary computation (EC).
+<ul>
+<li>Definition of global optimization problem; evolutionary algorithm (EA); selection criteria; exploration/exploitation trade-off; multi-objective problems; solution representation; popular representations with their initialization and genetic operators; properties of the representation.</li>
+<li>Main EAs: genetic algorithm (GA), random search, random walk, genetic programming (GP), non-dominated sorting genetic algorithm-II (NSGA-II), evolutionary strategies (ES), MAP-Elites.</li>
+<li>Comparing EAs.</li>
+</ul>
+</li>
+<li>EC applications (example of) EC to robotics
+<ul>
+<li>Evolution of robotic agents controllers (brain).</li>
+<li>Evolution of Soft Robots morphologies (body).</li>
+<li>Simultaneous evolution of body and brain.</li>
+<li>Choosing the task, the fitness; reality gap.</li>
+</ul>
+</li>
+</ul>
+<h3 id="goal-of-the-course" class="wl">
+  <span>Goal of the course</span>
+  <a href="#goal-of-the-course" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h3>
+
+<h4 id="knowledge-and-understanding" class="wl">
+  <span>Knowledge and understanding</span>
+  <a href="#knowledge-and-understanding" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h4>
+
+<ul>
+<li>Know the terminology and common mathematical notation for the key concepts of EC.</li>
+<li>Know and understand the working scheme of EAs.</li>
+<li>Know and understand the main assessment procedures for EAs.</li>
+<li>Know and understand the main usages of EC for robotics.</li>
+</ul>
+<h4 id="applying-knowledge-and-understanding" class="wl">
+  <span>Applying knowledge and understanding</span>
+  <a href="#applying-knowledge-and-understanding" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h4>
+
+<ul>
+<li>Formulate a formal problem statement, using the proper terminology and mathematical notation, for simple practical problems in order to tackle them EC techniques.</li>
+</ul>
+<h4 id="making-judgements" class="wl">
+  <span>Making judgements</span>
+  <a href="#making-judgements" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h4>
+
+<ul>
+<li>Judge if a problem can be tackled with EC.</li>
+<li>Judge the technical soundness of an EC system.</li>
+<li>Judge the technical soundness of the assessment of an EC system.</li>
+</ul>
+<h4 id="communication-skills" class="wl">
+  <span>Communication skills</span>
+  <a href="#communication-skills" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h4>
+
+<ul>
+<li>Describe, both in written and oral form, the motivations behind choices in the design, development, and assessment of a EC system, in particular for robotics, using the proper terminology and possibly exploiting simple plots.</li>
+</ul>
+<h4 id="learning-skills" class="wl">
+  <span>Learning skills</span>
+  <a href="#learning-skills" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h4>
+
+<ul>
+<li>Retrieve information from scientific publications about EC techniques, in particular when applied to robotics.</li>
+</ul>
+<h3 id="requirements" class="wl">
+  <span>Requirements</span>
+  <a href="#requirements" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h3>
+
+<p>Basics of programming and data structures: algorithm, data types, loops, recursion, parallel execution, tree.</p>
+<p>Strong familiarity with manipulation of mathematical notation.</p>
+<h2 id="method-language-material" class="wl">
+  <span>Method, language, material</span>
+  <a href="#method-language-material" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h2>
+
+<h3 id="language-of-teaching" class="wl">
+  <span>Language of teaching</span>
+  <a href="#language-of-teaching" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h3>
+
+<p>English</p>
+<h3 id="teaching-method" class="wl">
+  <span>Teaching method</span>
+  <a href="#teaching-method" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h3>
+
+<p>Frontal lectures with slide projection and live annotation on the blackboard.</p>
+<h3 id="course-material" class="wl">
+  <span>Course material</span>
+  <a href="#course-material" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h3>
+
+<h4 id="teacherrsquos-slides" class="wl">
+  <span>Teacher&rsquo;s slides</span>
+  <a href="#teacherrsquos-slides" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h4>
+
+<p>The course material (teacher&rsquo;s slides) are <a href="https://medvet.inginf.units.it/slides/evolutionary-robotics-phd-24">available online</a>.</p>
+<p>The lectures will be recorded.
+The recording will be available to enrolled students upon request (an email to the teacher).</p>
+<h3 id="lectures-timetable-and-course-calendar" class="wl">
+  <span>Lectures timetable and course calendar</span>
+  <a href="#lectures-timetable-and-course-calendar" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h3>
+
+<p>Lectures will be held in <strong>Room A, 2nd floor, building C5</strong>, Piazzale Europa Campus on:</p>
+<ul>
+<li>Monday 12/2, 9.00-12.00 (in practice, <strong>9.30-12.00</strong>)</li>
+<li>Tuesday 13/2, 9.00-12.00 (in practice, <strong>9.30-12.00</strong>)</li>
+<li>Friday 16/2, 9.00-12.00 (in practice, <strong>9.30-12.00</strong>)</li>
+</ul>
+<p>and, in <strong>Room B, 2nd floor, building C5</strong>, Piazzale Europa Campus, on:</p>
+<ul>
+<li>Tuesday 20/2, 9.00-12.00 (in practice, <strong>9.30-12.00</strong>)</li>
+</ul>
+<p>The lectures will be given <strong>in person</strong> and <strong>I recommend being in the room</strong>.
+The lectures will <strong>not</strong> be cast in streaming, but the recordings of the lectures will be available <strong>upon request</strong>.</p>
+<h2 id="end-of-course-test-exam" class="wl">
+  <span>End-of-course test (exam)</span>
+  <a href="#end-of-course-test-exam" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h2>
+
+<p>The exam is passed without a grade.
+For passing the exam, the student is required to deliver a short oral presentation of a research paper chosen, by the student, from a teacher-provided list of ER papers (see below).</p>
+<p>The presentation has to be done in English, with slides prepared by the student, and last at most 10 minutes.
+The presentation is expected to answer the following questions (refer to the notation in the <a href="#teacherrsquos-slides">slides</a>):</p>
+<ol>
+<li>what is the <strong>research question</strong> (RQ) tackled by the paper and why is it important?</li>
+<li>what is/are, <strong>formally, the problem</strong>(s)? I.e., what are the search space $S$, the controller-related (if a brain-only optimization) observation space $O$, action space $A$, state $S_c$, the fitness function $f$?</li>
+<li>what <strong>EA(s) and representation(s)</strong> (namely, $\phi$) are used?</li>
+<li>what <strong>experiments</strong> are done to answer the RQ? How are the corresponding results presented?</li>
+<li>what are, if any, the weak points of the study?</li>
+</ol>
+<p>The presentation date is set in agreement with the teacher: please try to arrange sessions with more than one student at once.</p>
+<h3 id="list-of-er-papers-to-choose-from" class="wl">
+  <span>List of ER papers to choose from</span>
+  <a href="#list-of-er-papers-to-choose-from" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h3>
+
+<ul>
+<li>Thomson, Sarah L., et al. &ldquo;<a href="https://arxiv.org/pdf/2402.07822.pdf">Understanding fitness landscapes in morpho-evolution via local optima networks</a>.&rdquo; arXiv preprint arXiv:2402.07822 (2024). (<strong>Chosen by Grigore</strong>)</li>
+<li>Ben Zion, Matan Yah, et al. &ldquo;<a href="https://doi.org/10.1126/scirobotics.abo6140">Morphological computation and decentralized learning in a swarm of sterically interacting robots</a>.&rdquo; Science Robotics 8.75 (2023): eabo6140. (<strong>Chosen by Rusin</strong>)</li>
+<li>Hu, Yuhang, Jiong Lin, and Hod Lipson. &ldquo;<a href="https://arxiv.org/abs/2311.12151">Teaching Robots to Build Simulations of Themselves</a>.&rdquo; arXiv preprint arXiv:2311.12151 (2023).</li>
+<li>Wang, Zhiquan, et al. &ldquo;<a href="https://ieeexplore.ieee.org/abstract/document/10403977">Evolution-based Shape and Behavior Co-design of Virtual Agents</a>.&rdquo; IEEE Transactions on Visualization and Computer Graphics (2024).</li>
+<li>Miras, Karine. &ldquo;<a href="https://www.nature.com/articles/s41598-023-50683-3">Exploring the costs of phenotypic plasticity for evolvable digital organisms</a>.&rdquo; Scientific Reports 14.1 (2024): 108.</li>
+<li>Luo, Jie, et al. &ldquo;<a href="https://www.nature.com/articles/s41598-023-48338-4">Enhancing robot evolution through Lamarckian principles</a>.&rdquo; Scientific Reports 13.1 (2023): 21109. (<strong>Chosen by Dal Maso</strong>)</li>
+<li>Welch, Piper, et al. &ldquo;<a href="https://direct.mit.edu/isal/proceedings/isal/35/70/116936">Searching in the Dark: Evolving Biobot Swarm Compositions to Efficiently Explore Obstructed Environments</a>.&rdquo; ALIFE 2023: Ghost in the Machine: Proceedings of the 2023 Artificial Life Conference. MIT Press, 2023. (<strong>Chosen by Tonelli</strong>)</li>
+<li>Davis, Q. Tyrell, et al. &ldquo;<a href="https://www.eng.yale.edu/faboratory/publications/conference/2023/Davis%20-%202023%20-%20Subtract%20to%20Adapt%20Autotomic%20Robots.pdf">Subtract to Adapt: Autotomic Robots</a>.&rdquo; 2023 IEEE International Conference on Soft Robotics (RoboSoft). IEEE, 2023. (<strong>Chosen by Bacer</strong>)</li>
+<li>Parsa, Atoosa, et al. &ldquo;<a href="https://ieeexplore.ieee.org/abstract/document/10121924">Evolving variable stiffness fiber patterns for multi-shape robotic sheets</a>.&rdquo; 2023 IEEE International Conference on Soft Robotics (RoboSoft). IEEE, 2023.</li>
+<li>Matthews, David, et al. &ldquo;<a href="https://arxiv.org/pdf/2306.03263.pdf">Efficient automatic design of robots</a>.&rdquo; arXiv preprint arXiv:2306.03263 (2023).</li>
+<li>d&rsquo;Elia, Evelyn, et al. &ldquo;<a href="https://ieeexplore.ieee.org/abstract/document/9981058">Automatic tuning and selection of whole-body controllers</a>.&rdquo; 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2022.</li>
+<li>Gomes, Waldez, et al. &ldquo;<a href="https://ieeexplore.ieee.org/abstract/document/9601163">Multi-objective trajectory optimization to improve ergonomics in human motion</a>.&rdquo; IEEE Robotics and Automation Letters 7.1 (2021): 342-349.</li>
+<li>Hasselmann, Ken, Antoine Ligot, and Mauro Birattari. &ldquo;<a href="https://www.sciencedirect.com/science/article/abs/pii/S2210650223001682">Automatic modular design of robot swarms based on repertoires of behaviors generated via novelty search</a>.&rdquo; Swarm and Evolutionary Computation 83 (2023): 101395.</li>
+<li>Kuckling, Jonas, Vincent Van Pelt, and Mauro Birattari. &ldquo;<a href="https://link.springer.com/article/10.1007/s42979-021-00988-9">AutoMoDe-Cedrata: automatic design of behavior trees for controlling a swarm of robots with communication capabilities</a>.&rdquo; SN Computer Science 3.2 (2022): 136.</li>
+<li>Bergonti, Fabio, et al. &ldquo;<a href="https://arxiv.org/abs/2309.13948">Co-Design Optimisation of Morphing Topology and Control of Winged Drones</a>.&rdquo; arXiv preprint arXiv:2309.13948 (2023).</li>
+<li>Carvalho, Jonata Tyska, and Stefano Nolfi. &ldquo;<a href="https://direct.mit.edu/evco/article-abstract/doi/10.1162/evco_a_00336/116607/The-Role-of-Morphological-Variation-in">The role of morphological variation in evolutionary robotics: Maximizing performance and robustness</a>.&rdquo; Evolutionary Computation (2023): 1-18.</li>
+<li>Milano, Nicola, and Stefano Nolfi. &ldquo;<a href="https://link.springer.com/article/10.1007/s12065-022-00801-3">Qualitative differences between evolutionary strategies and reinforcement learning methods for control of autonomous agents</a>.&rdquo; Evolutionary Intelligence (2022): 1-11.</li>
+<li>Hamon, Gautier, et al. &ldquo;<a href="https://arxiv.org/html/2402.10236v1">Discovering Sensorimotor Agency in Cellular Automata using Diversity Search</a>.&rdquo; arXiv preprint arXiv:2402.10236 (2024). (<strong>Chosen by Gardinazzi</strong>)</li>
+</ul>
+
+</div>
+
+        </div>
+      </div>
+<div id="footer">
+  <div class="text-center">
+    Copyright by Eric Medvet
+  </div>
+</div>
+
+</div>
+  </body>
+</html>
