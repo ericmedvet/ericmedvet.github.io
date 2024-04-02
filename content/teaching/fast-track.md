@@ -9,6 +9,7 @@ Su come si prepari un riassunto di un articolo scientifico ci sono molte indicaz
 Consiglio comunque di contattarmi per fare una chiacchierata nel caso ci sia interesse a seguire questa modalità.
 
 ## Currently available papers
+- Kofinas, Miltiadis, et al. "[Graph Neural Networks for Learning Equivariant Representations of Neural Networks](https://arxiv.org/abs/2403.12143)." arXiv preprint arXiv:2403.12143 (2024).
 - Maddigan, Paula, Andrew Lensen, and Bing Xue. "[Explaining Genetic Programming Trees using Large Language Models](https://arxiv.org/abs/2403.03397)." arXiv preprint arXiv:2403.03397 (2024).
 - Chang, Yi-Hsiang, et al. "[Reusability and Transferability of Macro Actions for Reinforcement Learning](https://dl.acm.org/doi/10.1145/3514260)." ACM Transactions on Evolutionary Learning and Optimization 2.1 (2022): 1-16.
 - Zahedi, Keyan, and Nihat Ay. "[Quantifying morphological computation](https://www.mdpi.com/1099-4300/15/5/1887)." Entropy 15.5 (2013): 1887-1915.
