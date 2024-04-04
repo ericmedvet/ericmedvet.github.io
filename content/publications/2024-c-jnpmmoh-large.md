@@ -8,7 +8,9 @@
   "pub_location_city": "Melbourne",
   "pub_location_country": "Australia",
   "pub_authors": "Jorgensen, Steven; Nadizar, Giorgia; Pietropolli, Gloria; Manzoni, Luca; Medvet, Eric; O'Really, Una-May; Hemberg, Erik",
+  "pub_doi": "10.1145/3638529.3654056",
   "pub_notes": "To appear",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1VSj-3Sfdi-3oRT613AsX6ey1hSGrfdUv/view",
   "pub_important": false
 }
 
