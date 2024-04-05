@@ -10,10 +10,11 @@
   "pub_location_country": "United Kingdom",
   "pub_authors": "Nadizar, Giorgia; Medvet, Eric; Wilson, Dennis G.",
   "pub_doi": "10.1007/978-3-031-56957-9_5",
+  "pub_notes": "Best paper award",
   "pub_publisher_url": "https://link.springer.com/chapter/10.1007/978-3-031-56957-9_5",
   "pub_fulltext_url": "https://drive.google.com/file/d/1zoS4Favc1pCWQPC9mw3s_oWUgOlFY-4m/view",
   "pub_slides_url": "https://drive.google.com/file/d/1fxnvpcBUDTwwxipRrPYUfXW8t61aFvJT/view",
-  "pub_important": false
+  "pub_important": true
 }
 
 ## Abstract
