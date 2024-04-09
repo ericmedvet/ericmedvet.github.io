@@ -75,7 +75,9 @@ Students enrolled in this course should already be able to access the team of th
 
 #### Short announcements about lectures schedule
 
-There lecture will be no lectures during the week after Easter (1/4 to 7/4) because I will be attending a [conference](https://www.evostar.org/2024/).
+- There will be no lectures during the week after Easter (1/4 to 7/4) because I will be attending a [conference](https://www.evostar.org/2024/).
+- The lecture of 8/4 will be held by Giorgia Nadizar, who will introduce git and github; the slides will be made available on MS Teams. This content of this lecture will not be part of the final exam; nor the lecture time will count towards the 72 hours of the course.
+- There will be no lectures from 22/4 to 26/4 because I will be attending a [workshop](https://d9w.github.io/TEML/).
 
 ## End-of-course test (exam)
 The student can pass the exam in one of the following ways (student's choice):
