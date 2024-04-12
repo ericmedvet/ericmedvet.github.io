@@ -11,4 +11,4 @@ In the last years, I focused on **Grammatical Evolution**, a form of **Genetic P
 I am one of the recipients of the [Google Faculty Research Awards](https://research.google/outreach/faculty-research-awards/) 2019 ([nominated](https://ai.googleblog.com/2020/02/announcing-2019-google-faculty-research.html) in February 2020).
 The funded project is on "representations and learning algorithms for highly reconfigurable modular soft robots".
 
-If you are a student (here at University of Trieste, or from another institution) and want to work with me, look at the web sites of my labs for finding thesis opportunities and then contact me.
+If you are a student (here at University of Trieste, or from another institution) and want to work with me, have a look at my list of [theses proposals](teaching/theses/) and then contact me.
