@@ -13,7 +13,6 @@ To know more about one or few specific topics, please contact me.
 ## Currently available topics
 
 ### Evolutionary robotics
-
 - Learning techniques for the controllers of simulated modular soft robots: reinforcement learning
 - Auto-assembly of simulated modular soft robots
 - Resolution-agnostic representation for evolution of closed-loop controllers of simulated modular soft robots
@@ -34,6 +33,7 @@ To know more about one or few specific topics, please contact me.
 - Map-elites with trajectory-based, instead of point-based, pupulation arrangement
 - Diversity promotion based on neutrality graph
 - Location-based adaptive surrogate fitness
+- Adaptive strategy for selection in map-elites based on ancestry-similarity 
 
 ## Ongoing topics
 - Co-evolutionary map-elites
