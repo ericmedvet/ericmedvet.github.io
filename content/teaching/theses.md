@@ -18,6 +18,7 @@ To know more about one or few specific topics, please contact me.
 - Resolution-agnostic representation for evolution of closed-loop controllers of simulated modular soft robots
 - Social/cultural/imitation learning for simulated modular soft robots
 - Hierarchical (module role-based or environmental context-based) policies for simulated modular robots
+- A Hebbian-like, embodied, structurally plastic neural network for simulated robotic agents
 
 ### Artificial life
 - Evolutionary optimization of synapsis-wise and reward-driven autoadaptation rules
@@ -26,6 +27,7 @@ To know more about one or few specific topics, please contact me.
 ### Evolutionary computation
 - Program synthesis using graph-based genetic programming for Petri Nets-like graphs
 - Lexicase selection for control problems
+  - see: Stanton, Adam, and Jared M. Moore. "Lexicase selection for multi-task evolutionary robotics." Artificial Life 28.4 (2022): 479-498.
 - LLM-based case generation for lexicase selection
 - Map-elites merges lexicase selection
 - Adaptive crossover for map-elites
