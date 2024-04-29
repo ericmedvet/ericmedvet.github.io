@@ -71,7 +71,12 @@
 <div class="container">
   <h1>How to write scientific documents</h1>
   <div class="alert alert-danger" role="alert">
-  <h3 id="premise">Premise</h3>
+  <h3 id="premise" class="wl">
+  <span>Premise</span>
+  <a href="#premise" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h3>
+
 <p>Here I am giving my <em>personal</em> advices, based on my personal experience; I am not listing a set of rules.
 However, I do believe that many of these advices can be intended as <strong>guidelines</strong> and are widely accepted.
 </div>
@@ -425,7 +430,7 @@ Only when really necessary (which happens very rarely), use <code>\\</code> for 
   <a href="#content">↰</a>
 </h4>
 
-<p>Typeset double quotes with <code>``something''</code> (that will be rendered properly, $\text{&ldquo;something&rdquo;}$).</p>
+<p>Typeset double quotes with <code>``something&rsquo;&rsquo;</code> (that will be rendered properly, $\text{&ldquo;something&rdquo;}$).</p>
 <h4 id="emphasis" class="wl">
   <span>Emphasis</span>
   <a href="#emphasis" aria-label="Anchor">#</a>
@@ -534,38 +539,38 @@ Moreover, the package will render nicely multiple references: <code>See \Cref{fi
 <code>booktables</code> facilitates this with a few macros: <code>\toprule</code>, <code>\midrule</code>, <code>\bottomrule</code>, <code>\cmidrule</code>.
 In particular, you can use <code>\cmidrule</code> to group columns together and <code>\midrule</code> to separate horizontal sections of the paper.</p>
 <p>An example from <a href="/publications/2023-c-mn-gp/">this paper</a>:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-latex" data-lang="latex"><span style="color:#66d9ef">\begin</span>{tabular}{
-    c @{<span style="color:#66d9ef">\hspace</span>{2mm}}
-    l @{<span style="color:#66d9ef">\hspace</span>{5mm}}
-    S[table-format=1.2] @{<span style="color:#66d9ef">\hspace</span>{1mm}}
-    S[table-format=1.2] @{<span style="color:#66d9ef">\hspace</span>{1mm}}
-    S[table-format=1.2]
-    c @{<span style="color:#66d9ef">\hspace</span>{5mm}}
-    S[table-format=1.2] @{<span style="color:#66d9ef">\hspace</span>{1mm}}
-    S[table-format=1.2] @{<span style="color:#66d9ef">\hspace</span>{1mm}}
-    S[table-format=1.2]
-    c @{<span style="color:#66d9ef">\hspace</span>{5mm}}
-    S[table-format=1.2] @{<span style="color:#66d9ef">\hspace</span>{1mm}}
-    S[table-format=1.2] @{<span style="color:#66d9ef">\hspace</span>{1mm}}
-    S[table-format=1.2]
-}
-    <span style="color:#66d9ef">\toprule</span>
-    &amp; Teacher<span style="color:#e6db74">$</span>\rightarrow<span style="color:#e6db74">$</span> &amp; <span style="color:#66d9ef">\multicolumn</span>{3}{c}{NE} &amp; &amp; <span style="color:#66d9ef">\multicolumn</span>{3}{c}{Multi-GP} &amp; &amp; <span style="color:#66d9ef">\multicolumn</span>{3}{c}{GraphEA} <span style="color:#66d9ef">\\</span>
-    <span style="color:#66d9ef">\cmidrule</span>(lr){3-5} <span style="color:#66d9ef">\cmidrule</span>(lr){7-9} <span style="color:#66d9ef">\cmidrule</span>(lr){11-13}
-    <span style="color:#e6db74">$</span>n_\text{comm}<span style="color:#e6db74">$</span> &amp; Learner<span style="color:#e6db74">$</span>\downarrow<span style="color:#e6db74">$</span> &amp; {<span style="color:#66d9ef">\num</span>{50}-th} &amp; {<span style="color:#66d9ef">\num</span>{75}-th} &amp; {<span style="color:#66d9ef">\num</span>{90}-th} &amp; &amp; {<span style="color:#66d9ef">\num</span>{50}-th} &amp; {<span style="color:#66d9ef">\num</span>{75}-th} &amp; {<span style="color:#66d9ef">\num</span>{90}-th} &amp; &amp; {<span style="color:#66d9ef">\num</span>{50}-th} &amp; {<span style="color:#66d9ef">\num</span>{75}-th} &amp; {<span style="color:#66d9ef">\num</span>{90}-th} <span style="color:#66d9ef">\\</span>
-    <span style="color:#66d9ef">\midrule</span>
-    <span style="color:#66d9ef">\multirow</span>{3}{*}{<span style="color:#66d9ef">\num</span>{1}}
-    &amp; NE &amp; 0.12 &amp; 1.03 &amp; 1.79 &amp; &amp; 0.04 &amp; 0.17 &amp; 0.54 &amp; &amp; 0.03 &amp; 0.16 &amp; 0.56 <span style="color:#66d9ef">\\</span>
-    &amp; Multi-GP &amp; 0.00 &amp; 0.02 &amp; 0.07 &amp; &amp; 0.04 &amp; 0.14 &amp; 0.24 &amp; &amp; 0.02 &amp; 0.06 &amp; 0.11 <span style="color:#66d9ef">\\</span>
-    &amp; GraphEA &amp; 0.00 &amp; 0.01 &amp; 0.06 &amp; &amp; 0.05 &amp; 0.06 &amp; 0.13 &amp; &amp; 0.00 &amp; 0.04 &amp; 0.10 <span style="color:#66d9ef">\\</span>
-    <span style="color:#66d9ef">\midrule</span>
-    <span style="color:#66d9ef">\multirow</span>{3}{*}{<span style="color:#66d9ef">\num</span>{3}}
-    &amp; NE &amp; 0.04 &amp; 0.17 &amp; 0.70 &amp; &amp; 0.12 &amp; 0.25 &amp; 0.48 &amp; &amp; 0.01 &amp; 0.08 &amp; 0.23 <span style="color:#66d9ef">\\</span> 
-    &amp; Multi-GP &amp; 0.00 &amp; 0.00 &amp; 0.01 &amp; &amp; 0.15 &amp; 0.20 &amp; 0.36 &amp; &amp; 0.02 &amp; 0.20 &amp; 0.35 <span style="color:#66d9ef">\\</span>    
-    &amp; GraphEA &amp; 0.00 &amp; 0.00 &amp; 0.01 &amp; &amp; 0.00 &amp; 0.04 &amp; 0.17 &amp; &amp; 0.00 &amp; 0.01 &amp; 0.20 <span style="color:#66d9ef">\\</span>
-    <span style="color:#66d9ef">\bottomrule</span>
-<span style="color:#66d9ef">\end</span>{tabular}
-</code></pre></div><p>which is rendered as:
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-latex" data-lang="latex"><span style="display:flex;"><span><span style="color:#66d9ef">\begin</span>{tabular}{
+</span></span><span style="display:flex;"><span>    c @{<span style="color:#66d9ef">\hspace</span>{2mm}}
+</span></span><span style="display:flex;"><span>    l @{<span style="color:#66d9ef">\hspace</span>{5mm}}
+</span></span><span style="display:flex;"><span>    S[table-format=1.2] @{<span style="color:#66d9ef">\hspace</span>{1mm}}
+</span></span><span style="display:flex;"><span>    S[table-format=1.2] @{<span style="color:#66d9ef">\hspace</span>{1mm}}
+</span></span><span style="display:flex;"><span>    S[table-format=1.2]
+</span></span><span style="display:flex;"><span>    c @{<span style="color:#66d9ef">\hspace</span>{5mm}}
+</span></span><span style="display:flex;"><span>    S[table-format=1.2] @{<span style="color:#66d9ef">\hspace</span>{1mm}}
+</span></span><span style="display:flex;"><span>    S[table-format=1.2] @{<span style="color:#66d9ef">\hspace</span>{1mm}}
+</span></span><span style="display:flex;"><span>    S[table-format=1.2]
+</span></span><span style="display:flex;"><span>    c @{<span style="color:#66d9ef">\hspace</span>{5mm}}
+</span></span><span style="display:flex;"><span>    S[table-format=1.2] @{<span style="color:#66d9ef">\hspace</span>{1mm}}
+</span></span><span style="display:flex;"><span>    S[table-format=1.2] @{<span style="color:#66d9ef">\hspace</span>{1mm}}
+</span></span><span style="display:flex;"><span>    S[table-format=1.2]
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">\toprule</span>
+</span></span><span style="display:flex;"><span>    &amp; Teacher<span style="color:#e6db74">$</span>\rightarrow<span style="color:#e6db74">$</span> &amp; <span style="color:#66d9ef">\multicolumn</span>{3}{c}{NE} &amp; &amp; <span style="color:#66d9ef">\multicolumn</span>{3}{c}{Multi-GP} &amp; &amp; <span style="color:#66d9ef">\multicolumn</span>{3}{c}{GraphEA} <span style="color:#66d9ef">\\</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">\cmidrule</span>(lr){3-5} <span style="color:#66d9ef">\cmidrule</span>(lr){7-9} <span style="color:#66d9ef">\cmidrule</span>(lr){11-13}
+</span></span><span style="display:flex;"><span>    <span style="color:#e6db74">$</span>n_\text{comm}<span style="color:#e6db74">$</span> &amp; Learner<span style="color:#e6db74">$</span>\downarrow<span style="color:#e6db74">$</span> &amp; {<span style="color:#66d9ef">\num</span>{50}-th} &amp; {<span style="color:#66d9ef">\num</span>{75}-th} &amp; {<span style="color:#66d9ef">\num</span>{90}-th} &amp; &amp; {<span style="color:#66d9ef">\num</span>{50}-th} &amp; {<span style="color:#66d9ef">\num</span>{75}-th} &amp; {<span style="color:#66d9ef">\num</span>{90}-th} &amp; &amp; {<span style="color:#66d9ef">\num</span>{50}-th} &amp; {<span style="color:#66d9ef">\num</span>{75}-th} &amp; {<span style="color:#66d9ef">\num</span>{90}-th} <span style="color:#66d9ef">\\</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">\midrule</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">\multirow</span>{3}{*}{<span style="color:#66d9ef">\num</span>{1}}
+</span></span><span style="display:flex;"><span>    &amp; NE &amp; 0.12 &amp; 1.03 &amp; 1.79 &amp; &amp; 0.04 &amp; 0.17 &amp; 0.54 &amp; &amp; 0.03 &amp; 0.16 &amp; 0.56 <span style="color:#66d9ef">\\</span>
+</span></span><span style="display:flex;"><span>    &amp; Multi-GP &amp; 0.00 &amp; 0.02 &amp; 0.07 &amp; &amp; 0.04 &amp; 0.14 &amp; 0.24 &amp; &amp; 0.02 &amp; 0.06 &amp; 0.11 <span style="color:#66d9ef">\\</span>
+</span></span><span style="display:flex;"><span>    &amp; GraphEA &amp; 0.00 &amp; 0.01 &amp; 0.06 &amp; &amp; 0.05 &amp; 0.06 &amp; 0.13 &amp; &amp; 0.00 &amp; 0.04 &amp; 0.10 <span style="color:#66d9ef">\\</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">\midrule</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">\multirow</span>{3}{*}{<span style="color:#66d9ef">\num</span>{3}}
+</span></span><span style="display:flex;"><span>    &amp; NE &amp; 0.04 &amp; 0.17 &amp; 0.70 &amp; &amp; 0.12 &amp; 0.25 &amp; 0.48 &amp; &amp; 0.01 &amp; 0.08 &amp; 0.23 <span style="color:#66d9ef">\\</span> 
+</span></span><span style="display:flex;"><span>    &amp; Multi-GP &amp; 0.00 &amp; 0.00 &amp; 0.01 &amp; &amp; 0.15 &amp; 0.20 &amp; 0.36 &amp; &amp; 0.02 &amp; 0.20 &amp; 0.35 <span style="color:#66d9ef">\\</span>    
+</span></span><span style="display:flex;"><span>    &amp; GraphEA &amp; 0.00 &amp; 0.00 &amp; 0.01 &amp; &amp; 0.00 &amp; 0.04 &amp; 0.17 &amp; &amp; 0.00 &amp; 0.01 &amp; 0.20 <span style="color:#66d9ef">\\</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">\bottomrule</span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">\end</span>{tabular}
+</span></span></code></pre></div><p>which is rendered as:
 <figure class="figure">
   <img src="nice-table.png" class="figure-img img-fluid rounded" alt="A rather complex table.">
   <figcaption class="figure-caption">A rather complex table.</figcaption>
@@ -608,16 +613,16 @@ Similarly, there are short lists for which you want to highlight the items, just
 <p>Instead of manually writing <code>(i)</code>, <code>(ii)</code>, &hellip; in LaTeX, you can use the <code>enumitem</code> package with the <code>inline</code> option, i.e., loading it with <code>\usepackage[inline]{enumitem}</code>.
 Moreover, you can explicitly reference items in the lists, provided you labeled them with <code>\label{}</code>.</p>
 <p>An example:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-latex" data-lang="latex">Then, it iteratively modifies <span style="color:#e6db74">$</span>p<span style="color:#e6db74">$</span> according to these three steps:
-<span style="color:#66d9ef">\begin</span>{enumerate*}[label=(<span style="color:#66d9ef">\roman*</span>)]
-    <span style="color:#66d9ef">\item</span> <span style="color:#66d9ef">\label</span>{item:alg-desc-find} it finds all the cells in <span style="color:#e6db74">$</span>p<span style="color:#e6db74">$</span> that are labeled with a non-terminal symbols in <span style="color:#e6db74">$</span>N<span style="color:#e6db74">$</span>, i.e., those which can be replaced according to a rule in <span style="color:#e6db74">$</span>\mathcal{R}<span style="color:#e6db74">$</span>;
-    <span style="color:#66d9ef">\item</span> <span style="color:#66d9ef">\label</span>{item:alg-desc-choose-cell} it chooses one cell <span style="color:#e6db74">$</span><span style="color:#f92672">(</span>x^\star,y^\star<span style="color:#f92672">)</span><span style="color:#e6db74">$</span> to be the target of the replacement using the sorting criterion <span style="color:#e6db74">$</span>c<span style="color:#e6db74">$</span>;
-    <span style="color:#66d9ef">\item</span> <span style="color:#66d9ef">\label</span>{item:alg-desc-choose-rule} it chooses, based on the genotype <span style="color:#e6db74">$</span>g<span style="color:#e6db74">$</span> and the state <span style="color:#e6db74">$</span>s<span style="color:#e6db74">$</span> (initialized to <span style="color:#e6db74">$</span>\varnothing<span style="color:#e6db74">$</span>), one rule to apply among the ones suitable for the cell at <span style="color:#e6db74">$</span><span style="color:#f92672">(</span>x^\star,y^\star<span style="color:#f92672">)</span><span style="color:#e6db74">$</span>;
-    <span style="color:#66d9ef">\item</span> <span style="color:#66d9ef">\label</span>{item:alg-desc-replace} finally, if possible, it performs the replacement in <span style="color:#e6db74">$</span>p<span style="color:#e6db74">$</span> according to the chosen rule.
-<span style="color:#66d9ef">\end</span>{enumerate*}
-
-Step~<span style="color:#66d9ef">\ref</span>{item:alg-desc-choose-rule} is the main contribution of this work.
-</code></pre></div><p>which will be rendered as:
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-latex" data-lang="latex"><span style="display:flex;"><span>Then, it iteratively modifies <span style="color:#e6db74">$</span>p<span style="color:#e6db74">$</span> according to these three steps:
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">\begin</span>{enumerate*}[label=(<span style="color:#66d9ef">\roman*</span>)]
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">\item</span> <span style="color:#66d9ef">\label</span>{item:alg-desc-find} it finds all the cells in <span style="color:#e6db74">$</span>p<span style="color:#e6db74">$</span> that are labeled with a non-terminal symbols in <span style="color:#e6db74">$</span>N<span style="color:#e6db74">$</span>, i.e., those which can be replaced according to a rule in <span style="color:#e6db74">$</span>\mathcal{R}<span style="color:#e6db74">$</span>;
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">\item</span> <span style="color:#66d9ef">\label</span>{item:alg-desc-choose-cell} it chooses one cell <span style="color:#e6db74">$</span><span style="color:#f92672">(</span>x^\star,y^\star<span style="color:#f92672">)</span><span style="color:#e6db74">$</span> to be the target of the replacement using the sorting criterion <span style="color:#e6db74">$</span>c<span style="color:#e6db74">$</span>;
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">\item</span> <span style="color:#66d9ef">\label</span>{item:alg-desc-choose-rule} it chooses, based on the genotype <span style="color:#e6db74">$</span>g<span style="color:#e6db74">$</span> and the state <span style="color:#e6db74">$</span>s<span style="color:#e6db74">$</span> (initialized to <span style="color:#e6db74">$</span>\varnothing<span style="color:#e6db74">$</span>), one rule to apply among the ones suitable for the cell at <span style="color:#e6db74">$</span><span style="color:#f92672">(</span>x^\star,y^\star<span style="color:#f92672">)</span><span style="color:#e6db74">$</span>;
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">\item</span> <span style="color:#66d9ef">\label</span>{item:alg-desc-replace} finally, if possible, it performs the replacement in <span style="color:#e6db74">$</span>p<span style="color:#e6db74">$</span> according to the chosen rule.
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">\end</span>{enumerate*}
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>Step~<span style="color:#66d9ef">\ref</span>{item:alg-desc-choose-rule} is the main contribution of this work.
+</span></span></code></pre></div><p>which will be rendered as:
 <figure class="figure">
   <img src="nice-inline-list.png" class="figure-img img-fluid rounded" alt="An inline list with a referenced item.">
   <figcaption class="figure-caption">An inline list with a referenced item.</figcaption>
