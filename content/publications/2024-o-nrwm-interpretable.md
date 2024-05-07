@@ -8,7 +8,9 @@
   "pub_location_city": "Melbourne",
   "pub_location_country": "Australia",
   "pub_authors": "Nadizar, Giorgia; Rovito, Luigi; Wilson, Dennis G.; Medvet, Eric",
+  "pub_doi": "10.1145/3638530.3664051",
   "pub_notes": "To appear",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1jnDHUZwa69jvVhqAIdNsN2W-9BcSuc4O/view",
   "pub_important": false
 }
 
