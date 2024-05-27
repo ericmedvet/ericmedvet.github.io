@@ -9,8 +9,8 @@
   "pub_location_country": "France",
   "pub_authors": "Nadizar, Giorgia; Medvet, Eric",
   "pub_doi": "10.5281/zenodo.11267401",
-  "pub_publisher_url": "https://drive.google.com/file/d/15G5cMpo_U3j0CfYSXE8hDA5v8W5tMWAC/view",
   "pub_fulltext_url": "https://drive.google.com/file/d/1g-8L6CnUrABrfhGY2hSkDYEpPTKFcjGL/view",
+  "pub_slides_url": "https://drive.google.com/file/d/15G5cMpo_U3j0CfYSXE8hDA5v8W5tMWAC/view",
   "pub_important": false
 }
 
