@@ -97,8 +97,8 @@ The course material (teacher’s slides) will be served directly online:
 
 The slides might be updated during the course.
 Sketches for how to do the lab activities, in the form of R notebooks, are given below; please, fully enjoy the lab activity by **not looking at** these sketches too early:
-- Lab 0: meet R and Iris (not done; it may serve as a *warm-up* lab) ([source](labs/lab0.Rmd), [rendered](labs/lab0.nb.html))
-- Lab 1: hardest variable in Iris ([source](labs/lab1.Rmd), [rendered](labs/lab1.nb.html))
+- Lab 0: meet R and Iris (not done; it may serve as a *warm-up* lab) ([source](labs/lab0.Rmd), [rendered](labs/lab0.nb/))
+- Lab 1: hardest variable in Iris ([source](labs/lab1.Rmd), [rendered](labs/lab1.nb/))
 
 The recordings of the lectures will be available on MS Teams.
 Students can **join the MS Teams team using this code**: `x4bkwlo`.
