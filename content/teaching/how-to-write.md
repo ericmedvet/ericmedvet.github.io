@@ -140,7 +140,7 @@ This is a pretty subjective recommendation (I use it with pleasure), but I think
 
 #### Ordinal numbers
 Use a consistent form for ordinal numbers.
-I personally prefer the $i$-th form (`$i$-th` in LaTeX) because it's more readable, when in plan text, than the superscript version $i$<sup>th</sup>.
+I personally prefer the $i$-th form (`$i$-th` in LaTeX) because it's more readable, when in plain text, than the superscript version $i$<sup>th</sup>.
 Note that this form for ordinal numbers should be used parsimonously: when you just have few ordinals, write the extended form, i.e., *first*, *second*, ...
 
 #### Versus
