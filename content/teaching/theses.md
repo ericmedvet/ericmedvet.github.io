@@ -24,6 +24,7 @@ To know more about one or few specific topics, please contact me.
 
 ### Artificial life
 - Evolutionary optimization of synapsis-wise and reward-driven autoadaptation rules
+  - see Plantec, Erwan, et al. "Evolving Self-Assembling Neural Networks: From Spontaneous Activity to Experience-Dependent Learning." arXiv preprint arXiv:2406.09787 (2024).
 - Autogenerating neural-networks
 
 ### Evolutionary computation

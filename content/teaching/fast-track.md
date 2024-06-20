@@ -33,6 +33,7 @@ Consiglio comunque di contattarmi per fare una chiacchierata nel caso ci sia int
 - Bhoopchand, Avishkar, et al. "[Learning few-shot imitation as cultural transmission](https://www.nature.com/articles/s41467-023-42875-2)." Nature Communications 14.1 (2023): 7536.
 - Romera-Paredes, B., Barekatain, M., Novikov, A. et al. "[Mathematical discoveries from program search with large language models](https://www.nature.com/articles/s41586-023-06924-6)". Nature (2023).
 - Hamon, Gautier, et al. "[Discovering Sensorimotor Agency in Cellular Automata using Diversity Search](https://arxiv.org/html/2402.10236v1)." arXiv preprint arXiv:2402.10236 (2024).
+- Plantec, Erwan, et al. "[Evolving Self-Assembling Neural Networks: From Spontaneous Activity to Experience-Dependent Learning](https://arxiv.org/abs/2406.09787)." arXiv preprint arXiv:2406.09787 (2024).
 
 ## Ongoing theses
 - Wang, Zhiquan, et al. "[Evolution-based Shape and Behavior Co-design of Virtual Agents](https://ieeexplore.ieee.org/abstract/document/10403977)." IEEE Transactions on Visualization and Computer Graphics (2024).
