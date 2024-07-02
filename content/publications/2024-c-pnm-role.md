@@ -11,6 +11,7 @@
   "pub_doi": "10.1145/3638529.3654112",
   "pub_notes": "To appear",
   "pub_fulltext_url": "https://drive.google.com/file/d/1XXRIPHlDitEQMD4a34uesRxt19R2KrXT/view",
+  "pub_slides_url": "https://drive.google.com/file/d/1iZQjpBymxsyczCbqjG_owRFTmv8-m5WL/view",
   "pub_video_url": "https://youtu.be/4hz17IJX-VM",
   "pub_important": false
 }
