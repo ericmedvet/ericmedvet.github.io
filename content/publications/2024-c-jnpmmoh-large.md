@@ -9,6 +9,7 @@
   "pub_location_country": "Australia",
   "pub_authors": "Jorgensen, Steven; Nadizar, Giorgia; Pietropolli, Gloria; Manzoni, Luca; Medvet, Eric; O'Really, Una-May; Hemberg, Erik",
   "pub_doi": "10.1145/3638529.3654056",
+  "pub_publisher_url": "https://dl.acm.org/doi/10.1145/3638529.3654056",
   "pub_fulltext_url": "https://drive.google.com/file/d/1VSj-3Sfdi-3oRT613AsX6ey1hSGrfdUv/view",
   "pub_slides_url": "https://drive.google.com/file/d/1vwYi3rMsAL57chCrorrQ1hf-CIzuae6U/view",
   "pub_important": false
