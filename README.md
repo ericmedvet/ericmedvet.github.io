@@ -1,6 +1,6 @@
 # Sources for my personal website
 
-Sources for my personal/academic website.
+Sources for my personal academic website.
 Visible on [ericmedvet.github.io](https://ericmedvet.github.io).
 
 Dependencies:
