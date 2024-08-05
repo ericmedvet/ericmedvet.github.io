@@ -9,7 +9,7 @@
   "pub_location_country": "Australia",
   "pub_authors": "El Saliby, Michel; Nadizar, Giorgia; Salvato, Erica; Medvet, Eric",
   "pub_doi": "10.1145/3638530.3664112",
-  "pub_notes": "To appear",
+  "pub_publisher_url": "https://dl.acm.org/doi/10.1145/3638530.3664112",
   "pub_fulltext_url": "https://drive.google.com/file/d/1km1JJnbf9IT84B-YiHPI8w_ATAf02siD/view",
   "pub_slides_url": "https://drive.google.com/file/d/1Ex9uYnV56rKgqzL14tWHkAy8lNGTJz76/view",
   "pub_important": false
