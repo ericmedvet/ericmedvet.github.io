@@ -26,11 +26,12 @@ To know more about one or few specific topics, please contact me.
 ### Artificial life
 - Evolutionary optimization of synapsis-wise and reward-driven autoadaptation rules
   - see Plantec, Erwan, et al. "Evolving Self-Assembling Neural Networks: From Spontaneous Activity to Experience-Dependent Learning." arXiv preprint arXiv:2406.09787 (2024).
+  - see Arnold, Solvi, et al. "Breaching the Bottleneck: Evolutionary Transition from Reward-Driven Learning to Reward-Agnostic Domain-Adapted Learning in Neuromodulated Neural Nets." arXiv preprint arXiv:2404.12631 (2024).
 - Autogenerating neural-networks
 
 ### Evolutionary computation
 - Program synthesis using graph-based genetic programming for Petri Nets-like graphs
-- Lexicase selection for control problems
+- Lexicase-like selection for control problems
   - see: Stanton, Adam, and Jared M. Moore. "Lexicase selection for multi-task evolutionary robotics." Artificial Life 28.4 (2022): 479-498.
 - LLM-based case generation for lexicase selection
 - Map-elites merges lexicase selection
