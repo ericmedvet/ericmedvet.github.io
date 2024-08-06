@@ -40,7 +40,9 @@ To know more about one or few specific topics, please contact me.
 - Map-elites with trajectory-based, instead of point-based, pupulation arrangement
 - Diversity promotion based on neutrality graph
 - Location-based adaptive surrogate fitness
-- Adaptive strategy for selection in map-elites based on ancestry-similarity 
+- Adaptive strategy for selection in map-elites based on ancestry-similarity
+- The relation between traits heritability/locality and their efficacy as Map-elites descriptors
+  - see De Carlo, Matteo, et al. "Heritability of morphological and behavioural traits in evolving robots." Evolutionary Intelligence (2023): 1-17.
 
 ## Ongoing topics
 - Co-evolutionary map-elites
