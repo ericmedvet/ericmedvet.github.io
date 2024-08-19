@@ -67,7 +67,7 @@ From [this paper](/publications/2023-c-nmwr-fully/).
 A common practice is to use:
 - **present tense** in the _**Abstract**_ and _**Introduction**_ section: *We propose...*, *Current techniques have this limitation*
 - **past tense** in the _**Related works**_ section: *Smith et al. proposed...*, *Previous works showed that...*
-- **present tense** in the section where you formalize the problem (might be named _**Problem statement**_) and the one where you describe your proposal (might be named _**Our approach**_): *Let $x$ be...*, *We repeate the following procedure $n$ times...*
+- **present tense** in the section where you formalize the problem (might be named _**Problem statement**_) and the one where you describe your proposal (might be named _**Our approach**_): *Let $x$ be...*, *We repeat the following procedure $n$ times...*
 - **past tense** and **present tense** in the _**Experimental evaluation**_ section, past in the part where you describe what you did, present where you comment the results: *We considered four datasets...*, *We repeated the learning three times...*, *Figure 3 shows the results of...*, *We explain this gap in performance with...*
 - **past tense** in the _**Conluding remarks**_ section, with the exception of a possible paragraph about future work where, obviously, we should use the future tense: *We considered the problem of...*, *We showed that...*, *We will extend the approach to...*
     
