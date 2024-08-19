@@ -37,7 +37,7 @@ To know more about one or few specific topics, please contact me.
 - Map-elites merges lexicase selection
 - Adaptive crossover for map-elites
 - Two- or multi-stage quality-diversity evolution with a representation based on anchor solutions
-- Map-elites with trajectory-based, instead of point-based, pupulation arrangement
+- Map-elites with trajectory-based, instead of point-based, population arrangement
 - Diversity promotion based on neutrality graph
 - Location-based adaptive surrogate fitness
 - Adaptive strategy for selection in map-elites based on ancestry-similarity
