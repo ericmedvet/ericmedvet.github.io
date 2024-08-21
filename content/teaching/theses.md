@@ -34,17 +34,18 @@ To know more about one or few specific topics, please contact me.
 - Lexicase-like selection for control problems
   - see: Stanton, Adam, and Jared M. Moore. "Lexicase selection for multi-task evolutionary robotics." Artificial Life 28.4 (2022): 479-498.
 - LLM-based case generation for lexicase selection
-- Map-elites merges lexicase selection
+- Map-elites merges lexicase selection (descriptors capture cases)
 - Adaptive crossover for map-elites
 - Two- or multi-stage quality-diversity evolution with a representation based on anchor solutions
 - Map-elites with trajectory-based, instead of point-based, population arrangement
+  - see Flageat, Manon, and Antoine Cully. "Uncertain quality-diversity: evaluation methodology and new methods for quality-diversity in uncertain domains." IEEE Transactions on Evolutionary Computation (2023).
 - Diversity promotion based on neutrality graph
-- Location-based adaptive surrogate fitness
+- Location-based adaptive surrogate fitness (based on Map-elites or CAbEA for providing locations)
 - Adaptive strategy for selection in map-elites based on ancestry-similarity
 - The relation between traits heritability/locality and their efficacy as Map-elites descriptors
   - see De Carlo, Matteo, et al. "Heritability of morphological and behavioural traits in evolving robots." Evolutionary Intelligence (2023): 1-17.
 
 ## Ongoing topics
 - Co-evolutionary map-elites
-- Reconfigurable neural cellular automata
+- Variable substrate neural cellular automata
 
