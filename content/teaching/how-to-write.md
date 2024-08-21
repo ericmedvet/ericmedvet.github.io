@@ -128,6 +128,9 @@ So write *the user's choice*, but don't write *the algorithm's complexity*; writ
 #### I.e. and e.g.
 Use *i.e.* (that stays for *id est*, for explaining something, also doable with a *that is*) and *e.g.* (for giving one or more examples) always **with a comma before and after**: *we increase $i$, i.e., the counter...*, *there can be special cases, e.g., a division by zero*.
 
+Since it is originally Latin, hence, not English, i.e. may/should be written in italics.
+If you do it, do it **consistently**, possibly also for other Latin-based words and abbreviations, like vs., etc., et al..
+
 #### Dashes
 Use proper **dashes** in text:
 - <span>-</span> (hyphen or just dash, `-` in LaTeX) for composed words, without spaces before and after; if you use two similar composed works close to each other, you can shorten one: *we tested an MLP- and a random-based controller...*
