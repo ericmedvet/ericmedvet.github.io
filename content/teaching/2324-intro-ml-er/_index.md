@@ -141,3 +141,29 @@ The project is evaluated according to clarity (≈50%), technical soundness (≈
 
 ### Written test
 Questions on theory and application with short open answers.
+
+## Results of assessment by students
+{{< fig src="student-assessment-ml2324-in20-1-34.png" caption="Students of IN20 (34 answers)" >}}
+
+{{< fig src="student-assessment-ml2324-sm38-1-24.png" caption="Students of SM38 (24 answers)" >}}
+
+{{< fig src="student-assessment-ml2324-sm23-1-8.png" caption="Students of SM23 (8 answers)" >}}
+
+{{< fig src="student-assessment-ml2324-sm34-1-7.png" caption="Students of SM34 (7 answers)" >}}
+
+### Questions
+(In Italian)
+1. Le conoscenze preliminari possedute sono risultate sufficienti per la comprensione degli argomenti previsti nel programma d'esame?
+2. Il carico di studio dell'insegnamento è proporzionato ai crediti assegnati?
+3. Il materiale didattico (indicato e disponibile) è adeguato per lo studio della materia?
+4. Le modalità di esame sono state definite in modo chiaro?
+5. Gli orari di svolgimento di lezioni, esercitazioni e altre eventuali attività didattiche sono rispettati?
+6. Il docente stimola/motiva l'interesse verso la disciplina?
+7. Il docente espone gli argomenti in modo chiaro?
+8. Le attività didattiche integrative (esercitazioni, tutorati,laboratori, etc...), se previste, sono utili all'apprendimento della materia?
+9. L'insegnamento è stato svolto in maniera coerente con quanto dichiarato sul sito web del corso di studio?
+10. Il docente è reperibile per chiarimenti e spiegazioni?
+11. È interessato/a agli argomenti trattati nell'insegnamento?
+12. È complessivamente soddisfatto di come è stato svolto questo insegnamento?
+13. L'utilizzo degli strumenti per la Didattica digitale per questo insegnamento è stato utile per l'apprendimento della materia?
+14. Se hai usufruito delle registrazioni delle lezioni per questo insegnamento, sono stati utili per l'apprendimento della materia? 
