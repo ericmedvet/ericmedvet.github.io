@@ -16,6 +16,7 @@ To know more about one or few specific topics, please contact me.
 - Learning techniques for the controllers of simulated modular soft robots: reinforcement learning
 - Auto-assembly of simulated modular soft robots
 - Resolution-agnostic representation for evolution of closed-loop controllers of simulated modular soft robots
+  - see Wang, Yuxing, et al. "Curriculum-based co-design of morphology and control of voxel-based soft robots." The Eleventh International Conference on Learning Representations. 2023.
 - Social/cultural/imitation learning for simulated modular soft robots
 - Hierarchical (module role-based or environmental context-based) policies for simulated modular robots
 - A embodied/situated, structurally plastic (Hebbian-like) neural network for simulated robotic agents
