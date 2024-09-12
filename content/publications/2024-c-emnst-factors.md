@@ -11,6 +11,7 @@
   "pub_authors": "El Saliby, Michel; Medvet, Eric; Nadizar, Giorgia; Salvato, Erica; Thomson, Sarah L.",
   "pub_notes": "To appear",
   "pub_fulltext_url": "https://drive.google.com/file/d/1Un_e3XfBN_JebQMpxdrgNMel6M27anvH/view",
+  "pub_slides_url": "https://drive.google.com/file/d/1BugcOfLbn6QwetEFZFCTLD6NBXzJNBc2/view",
   "pub_important": false
 }
 
