@@ -93,7 +93,7 @@ Frontal lectures with slide projection and live annotation; lab activities, unde
 
 #### Teacher slides and lab sketches
 The course material (teacher’s slides) will be served directly online:
-- [1st part](https://medvet.inginf.units.it/slides/intro-ml-er-2425/): Machine Learning
+- [1st part](https://medvet.inginf.units.it/slides/ml-2425/): Machine Learning
 - 2nd part: Evolutionary Robotics
 
 The slides might be updated during the course.
