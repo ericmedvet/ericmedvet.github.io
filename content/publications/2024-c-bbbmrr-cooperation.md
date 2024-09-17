@@ -11,6 +11,7 @@
   "pub_authors": "Baldini, Paolo; Braccini, Michele; Benvenuti, Filippo; Medvet, Eric; Roli, Andrea; Rusin, Francesco",
   "pub_notes": "To appear",
   "pub_fulltext_url": "https://drive.google.com/file/d/1BrdN5SS1boSKL4DpewAeiX5pT99vehpu/view",
+  "pub_slides_url": "https://drive.google.com/file/d/1Xil7xq2oMMOzCDnQoGpGgqwIOIvOfUwB/view",
   "pub_important": false
 }
 
