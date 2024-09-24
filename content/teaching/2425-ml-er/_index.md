@@ -113,13 +113,13 @@ These are just suggestions: a significant part of the course is not based on any
 ### Lectures timetable and course calendar
 The course will start on **September, 24th**.
 Lectures will be held in:
-- Room C1, building H, Piazzale Europa Campus on Monday, 16.00-19.00 (in practice, **16.00-18.30**)
+- Room H, building C1, Piazzale Europa Campus on Monday, 16.00-19.00 (in practice, **16.00-18.30**)
 - Room 3B, building H3, Piazzale Europa Campus on Tuesday, 11.00-13.00 (in practice, **11.00-12.30**)
 - Room 2A, building D, Piazzale Europa Campus on Wednesday, 10.00-12.00 (in practice, **10.00-11.30**)
 
 The lectures will be given **in person** and **I recommend being in the room**.
 In compliance with the current regulation students might be required to book a place in the room.
-The lectures will **not** be cast in streaming, but the recordings of the lectures will be available on the [MS Teams team of the course](https://teams.microsoft.com/l/channel/19%3A08NbkPW_OLmACIQ2G6Y2g9e20pRYz-y5eR_JMiTSJFA1%40thread.tacv2/General?groupId=6be88deb-0bbc-4609-a4c4-433d16a3f565).
+The lectures will **not** be cast in streaming, but the recordings of the lectures will be available on the [MS Teams team of the course](https://teams.microsoft.com/l/channel/19%3A08NbkPW_OLmACIQ2G6Y2g9e20pRYz-y5eR_JMiTSJFA1%40thread.tacv2/General?groupId=6be88deb-0bbc-4609-a4c4-433d16a3f565) (code `jml3dtr`).
 
 #### Short announcements about lectures schedule
 
