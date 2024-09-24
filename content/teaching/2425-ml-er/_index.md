@@ -119,7 +119,7 @@ Lectures will be held in:
 
 The lectures will be given **in person** and **I recommend being in the room**.
 In compliance with the current regulation students might be required to book a place in the room.
-The lectures will **not** be cast in streaming, but the recordings of the lectures will be available on the MS Teams team of the course.
+The lectures will **not** be cast in streaming, but the recordings of the lectures will be available on the [MS Teams team of the course](https://teams.microsoft.com/l/channel/19%3A08NbkPW_OLmACIQ2G6Y2g9e20pRYz-y5eR_JMiTSJFA1%40thread.tacv2/General?groupId=6be88deb-0bbc-4609-a4c4-433d16a3f565).
 
 #### Short announcements about lectures schedule
 
