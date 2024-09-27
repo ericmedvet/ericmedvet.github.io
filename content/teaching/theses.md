@@ -18,6 +18,7 @@ To know more about one or few specific topics, please contact me.
 - Resolution-agnostic representation for evolution of closed-loop controllers of simulated modular soft robots
   - see Wang, Yuxing, et al. "Curriculum-based co-design of morphology and control of voxel-based soft robots." The Eleventh International Conference on Learning Representations. 2023.
 - Social/cultural/imitation learning for simulated modular soft robots
+  - see Hart, Emma, and Léni K. Le Goff. "Artificial evolution of robot bodies and control: on the interaction between evolution, learning and culture." Philosophical Transactions of the Royal Society B 377.1843 (2022): 20210117.
 - Hierarchical (module role-based or environmental context-based) policies for simulated modular robots
 - A embodied/situated, structurally plastic (Hebbian-like) neural network for simulated robotic agents
   - see Najarro, Elias, Shyam Sudhakaran, and Sebastian Risi. "Towards self-assembling artificial neural networks through neural developmental programs." Artificial Life Conference Proceedings 35. Vol. 2023. No. 1. One Rogers Street, Cambridge, MA 02142-1209, USA journals-info@ mit. edu: MIT Press, 2023.
