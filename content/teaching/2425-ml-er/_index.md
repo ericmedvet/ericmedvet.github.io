@@ -7,7 +7,8 @@ type: courses
 This page is about the courses named (actually the same course):
 - Machine Learning (456MI-1) and Evolutionary Robotics (456MI-2), for master program [IN23](https://corsi.units.it/IN23/descrizione-corso), 6+3 CFUs
 - Introduction to Machine Learning and Evolutionary Robotics (332MI), for master program [IN19](https://corsi.units.it/IN19/descrizione-corso), 9 CFUs
-- Introduction to Machine Learning (470SM), for master programs [SM38](https://dsai.units.it/), [SM36](https://sdic.units.it/), [SM34](https://corsi.units.it/SM34/descrizione-corso), [SM23](https://corsi.units.it/SM23/descrizione-corso), [SM28](https://corsi.units.it/SM28/descrizione-corso), [SM13](https://corsi.units.it/SM13/descrizione-corso), and [SM64](https://corsi.units.it/SM64/descrizione-corso), 6 CFUs
+- Introduction to Machine Learning (470SM), for master programs [SM38](https://dsai.units.it/), [SM36](https://sdic.units.it/), [SM34](https://corsi.units.it/SM34/descrizione-corso), [SM23](https://corsi.units.it/SM23/descrizione-corso), [SM28](https://corsi.units.it/SM28/descrizione-corso), and [SM64](https://corsi.units.it/SM64/descrizione-corso), 6 CFUs
+- Introduction to Machine Learning (040CM), for master program [SM13](https://corsi.units.it/SM13/descrizione-corso), 6 CFUs
 
 ## Program, goals, requirements
 
