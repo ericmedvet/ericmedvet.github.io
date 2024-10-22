@@ -39,16 +39,17 @@ To know more about one or few specific topics, please contact me.
 - Map-elites merges lexicase selection (descriptors capture cases)
 - Adaptive crossover for Map-elites
 - Two- or multi-stage quality-diversity evolution with a representation based on anchor solutions
-- Map-elites with trajectory-based, instead of point-based, population arrangement
-  - see Flageat, Manon, and Antoine Cully. "Uncertain quality-diversity: evaluation methodology and new methods for quality-diversity in uncertain domains." IEEE Transactions on Evolutionary Computation (2023).
 - Diversity promotion based on neutrality graph
 - Location-based adaptive surrogate fitness (based on Map-elites or CAbEA for providing locations)
 - Adaptive strategy for selection in Map-elites based on ancestry-similarity
 - The relation between traits heritability/locality and their efficacy as Map-elites descriptors
   - see De Carlo, Matteo, et al. "Heritability of morphological and behavioural traits in evolving robots." Evolutionary Intelligence (2023): 1-17.
   - see Marrero, Alejandro, et al. "Learning Descriptors for Novelty-Search Based Instance Generation via Meta-evolution." Proceedings of the Genetic and Evolutionary Computation Conference. 2024.
+  - see Cully, Antoine. "Autonomous skill discovery with quality-diversity and unsupervised descriptors." Proceedings of the Genetic and Evolutionary Computation Conference. 2019.
 
 ## Ongoing topics
 - Co-evolutionary Map-elites
 - Variable substrate neural cellular automata
+- Map-elites with trajectory-based, instead of point-based, population arrangement
+  - see Flageat, Manon, and Antoine Cully. "Uncertain quality-diversity: evaluation methodology and new methods for quality-diversity in uncertain domains." IEEE Transactions on Evolutionary Computation (2023).
 
