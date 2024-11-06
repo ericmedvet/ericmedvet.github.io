@@ -123,8 +123,10 @@ In compliance with the current regulation students might be required to book a p
 The lectures will **not** be cast in streaming, but the recordings of the lectures will be available on the [MS Teams team of the course](https://teams.microsoft.com/l/channel/19%3A08NbkPW_OLmACIQ2G6Y2g9e20pRYz-y5eR_JMiTSJFA1%40thread.tacv2/General?groupId=6be88deb-0bbc-4609-a4c4-433d16a3f565) (code `jml3dtr`).
 
 #### Short announcements about lectures schedule
-- Starting from 9/10/24, the practical time for the lecture of Wednesday will be **10.15-11.45**
-- The lecture of 11/11/24 will be held in **room B, building C7** from **16.30 to 19.00** (3 academic hours). 
+- Starting from 9/10/24, the practical time for the lecture of Wednesday will be **10.15-11.45**.
+- The lecture of 11/11/24 will be held in **room B, building C7** from **16.30 to 19.00** (3 academic hours).
+- On 12/11/24, with usual time and room, ther will be a **seminar by prof. Carlos H. G. Ferreira**, from Federal University of Ouro Preto, Minas Gerais, Brazil. The abstract is: In this class on **Data Representation and Analysis with Graph Models**, we will explore the concept of graphs, their types and applications, and how they prove essential in representing complex systems, such as social networks, biology, and computing. We will introduce possible analyses within this model, focusing on structural analysis—which examines the internal organization of a network—and community analysis, which identifies important substructures and patterns. From this, we will see how these analyses can provide deep and practical information for interpreting network-structured data across various fields.
+- The second part of the course, the one on Evolutionary Robotics (just for IN19, IN20, IN23), will start on 18/11/24, with usual times and locations for the lectures.
 
 ## End-of-course test (exam)
 The exam can be done in two ways:
