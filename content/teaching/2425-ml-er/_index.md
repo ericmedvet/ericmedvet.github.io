@@ -114,7 +114,8 @@ These are just suggestions: a significant part of the course is not based on any
 ### Lectures timetable and course calendar
 The course will start on **September, 24th**.
 Lectures will be held in:
-- Room H, building C1, Piazzale Europa Campus on Monday, 16.00-19.00 (in practice, **16.00-18.30**)
+- ~~Room H, building C1, Piazzale Europa Campus on Monday, 16.00-19.00 (in practice, **16.00-18.30**)~~
+- Sala Atti, building C1, Piazzale Europa Campus on Monday, 15.00-18.00 (in practice, **15.00-17.30**) (from 25/11/24)
 - Room 3B, building H3, Piazzale Europa Campus on Tuesday, 11.00-13.00 (in practice, **11.00-12.30**)
 - Room 2A, building D, Piazzale Europa Campus on Wednesday, 10.00-12.00 (in practice, **10.15-11.45** from 9/10/24; 10.00-11.30 before)
 
