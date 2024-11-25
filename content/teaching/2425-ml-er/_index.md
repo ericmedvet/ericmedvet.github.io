@@ -115,7 +115,7 @@ These are just suggestions: a significant part of the course is not based on any
 The course will start on **September, 24th**.
 Lectures will be held in:
 - ~~Room H, building C1, Piazzale Europa Campus on Monday, 16.00-19.00 (in practice, **16.00-18.30**)~~
-- Sala Atti, building C1, Piazzale Europa Campus on Monday, 15.00-18.00 (in practice, **15.00-17.30**) (from 25/11/24)
+- Sala Atti, building C1, Piazzale Europa Campus on Monday, 15.00-18.00 (in practice, **15.15-17.45**) (from 25/11/24)
 - Room 3B, building H3, Piazzale Europa Campus on Tuesday, 11.00-13.00 (in practice, **11.00-12.30**)
 - Room 2A, building D, Piazzale Europa Campus on Wednesday, 10.00-12.00 (in practice, **10.15-11.45** from 9/10/24; 10.00-11.30 before)
 
@@ -128,7 +128,7 @@ The lectures will **not** be cast in streaming, but the recordings of the lectur
 - The lecture of 11/11/24 will be held in **room B, building C7** from **16.30 to 19.00** (3 academic hours).
 - On 13/11/24, with usual time and room, ther will be a **seminar by prof. Carlos H. G. Ferreira**, from Federal University of Ouro Preto, Minas Gerais, Brazil. The abstract is: In this class on **Data Representation and Analysis with Graph Models**, we will explore the concept of graphs, their types and applications, and how they prove essential in representing complex systems, such as social networks, biology, and computing. We will introduce possible analyses within this model, focusing on structural analysis—which examines the internal organization of a network—and community analysis, which identifies important substructures and patterns. From this, we will see how these analyses can provide deep and practical information for interpreting network-structured data across various fields.
 - The second part of the course, the one on Evolutionary Robotics (just for IN19, IN20, IN23), will start on 18/11/24, with usual times and locations for the lectures.
-- Starting from 25/11/24, the Monday's lecture will change time and room: new time is 15-18, new room is Sala Atti, building H (close to the current Monday's room) (see [above](#lectures-timetable-and-course-calendar)).
+- Starting from 25/11/24, the Monday's lecture will change time and room: new time is 15-18 (actual time: **15.15-17.45**), new room is Sala Atti, building H (close to the current Monday's room) (see [above](#lectures-timetable-and-course-calendar)).
 
 ## End-of-course test (exam)
 The exam can be done in two ways:
