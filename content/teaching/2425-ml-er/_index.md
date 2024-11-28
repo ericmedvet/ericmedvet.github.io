@@ -98,10 +98,12 @@ The course material (teacher’s slides) will be served directly online:
 - [2nd part](https://medvet.inginf.units.it/slides/er-2425/): Evolutionary Robotics
 
 The slides might be updated during the course.
-Sketches for how to do the lab activities, in the form of R notebooks, are given below; please, fully enjoy the lab activity by **not looking at** these sketches too early:
-- Lab 0: meet R and Iris (not done; it may serve as a *warm-up* lab) ([source](labs/lab0.Rmd), [rendered](labs/lab0.nb/))
-- Lab 1: hardest variable in Iris ([source](labs/lab1.Rmd), [rendered](labs/lab1.nb/)), ([Python version](https://github.com/adellasiega/Intro_ML) by tutor Alessandro Della Siega)
-- Lab 2: comparison of ML techniques ([source](https://colab.research.google.com/drive/12fRjeoWgpiBObTUjrXACemgdrmu4b2Yu?usp=sharing), [rendered](labs/lab2/))
+
+Sketches (partly kindly provided by the tutor, Alessandro Della Siega) for how to do the lab activities, in the form of R or Python notebooks, are given below; please, fully enjoy the lab activity by **not looking at** these sketches too early:
+- Lab 0: meet R and Iris (not done; it may serve as a *warm-up* lab) ([R source](labs/lab0.Rmd), [R rendered](labs/lab0.nb/))
+- Lab 1: hardest variable in Iris ([R source](labs/lab1.Rmd), [R rendered](labs/lab1.nb/), [Python version](https://github.com/adellasiega/Intro_ML/blob/main/lab1.ipynb))
+- Lab 2: comparison of ML techniques ([R source](https://colab.research.google.com/drive/12fRjeoWgpiBObTUjrXACemgdrmu4b2Yu?usp=sharing), [R rendered](labs/lab2/), [Python](https://github.com/adellasiega/Intro_ML/blob/main/lab2.ipynb))
+- Lab 3: text mining, sport vs. politics dashboard ([Python](https://github.com/adellasiega/Intro_ML/blob/main/lab3.ipynb))
 
 The recordings of the lectures will be available on MS Teams.
 
