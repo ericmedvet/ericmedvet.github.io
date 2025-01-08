@@ -37,7 +37,6 @@ To know more about one or few specific topics, please contact me.
 - LLM-based case generation for lexicase selection
 - Map-elites merges lexicase selection (descriptors capture cases)
 - Adaptive crossover for Map-elites
-- Two- or multi-stage quality-diversity evolution with a representation based on anchor solutions
 - Diversity promotion based on neutrality graph
 - Location-based adaptive surrogate fitness (based on Map-elites or CAbEA for providing locations)
 - Adaptive strategy for selection in Map-elites based on ancestry-similarity
@@ -49,9 +48,6 @@ To know more about one or few specific topics, please contact me.
   - see Tarapore, Danesh, and Jean-Baptiste Mouret. "Evolvability signatures of generative encodings: beyond standard performance benchmarks." Information Sciences 313 (2015): 43-61.
 
 ## Ongoing topics
-- Co-evolutionary Map-elites
 - Variable substrate neural cellular automata
-- Map-elites with trajectory-based, instead of point-based, population arrangement
-  - see Flageat, Manon, and Antoine Cully. "Uncertain quality-diversity: evaluation methodology and new methods for quality-diversity in uncertain domains." IEEE Transactions on Evolutionary Computation (2023).
 - Program synthesis using graph-based genetic programming for Petri Nets-like graphs
 
