@@ -24,6 +24,8 @@ To know more about one or few specific topics, please contact me.
   - see Najarro, Elias, Shyam Sudhakaran, and Sebastian Risi. "Towards self-assembling artificial neural networks through neural developmental programs." Artificial Life Conference Proceedings 35. Vol. 2023. No. 1. One Rogers Street, Cambridge, MA 02142-1209, USA journals-info@ mit. edu: MIT Press, 2023.
   - Winther Pedersen, Joachim, et al. "Structurally Flexible Neural Networks: Evolving the Building Blocks for General Agents." arXiv e-prints (2024): arXiv-2404.
   - Ferigo, Andrea, Elia Cunegatti, and Giovanni Iacca. "Neuron-centric Hebbian Learning." arXiv preprint arXiv:2403.12076 (2024).
+- Emergence of Epistasis in Body-Brain Evolution of Embodied Agents
+  - Brawer, Jake, et al. "Epigenetic operators and the evolution of physically embodied robots." Frontiers in Robotics and AI 4 (2017): 1.
 
 ### Artificial life
 - Evolutionary optimization of synapsis-wise and reward-driven autoadaptation rules
