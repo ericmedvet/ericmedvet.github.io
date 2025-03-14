@@ -73,7 +73,7 @@ Students enrolled in this course should already be able to access the team of th
 
 #### Short announcements about lectures schedule
 
-- The lecctures of **31/3** and **2/4** are cancelled because I'll be abroad (Amsterdam) for scientific reasons.
+- The lectures of **31/3** and **2/4** are cancelled because I'll be abroad (Amsterdam) for scientific reasons.
 - The lecture of **31/3** is cancelled (that is, the course will continue from the next lecture) because of my involvement in the institutional initiative named *Porte aperte*.
 
 ## End-of-course test (exam)
