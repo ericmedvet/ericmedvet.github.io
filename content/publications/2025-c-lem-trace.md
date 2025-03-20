@@ -10,6 +10,7 @@
   "pub_location_country": "Italy",
   "pub_authors": "Ludwig, Harald Michael; Espeseth, Ane; Medvet, Eric",
   "pub_notes": "To appear",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1smZdtTEX0sFRU4Fip0E2i39ae-wwset6/view",
   "pub_important": false
 }
 

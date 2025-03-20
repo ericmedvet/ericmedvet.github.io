@@ -10,6 +10,7 @@
   "pub_location_country": "Italy",
   "pub_authors": "Nadizar, Giorgia; Rusin, Francesco; Medvet, Eric; Ochoa, Gabriela",
   "pub_notes": "To appear",
+  "pub_fulltext_url": "https://drive.google.com/file/d/12dWa_x4FYQt13-h5R68YieZYUmj8lmnq/view",
   "pub_important": false
 }
 
