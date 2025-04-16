@@ -1,5 +1,5 @@
 {
-  "title": "Automated Discovery of CEP Applications with Evolutionary Computing",
+  "title": "Automated Discovery of CEP Applications with Evolutionary Optimization",
   "pub_year": 2025,
   "pub_accept_year": 2025,
   "pub_type": "Conference",
