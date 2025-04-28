@@ -12,6 +12,7 @@
   "pub_doi": "10.1007/978-3-031-89991-1_14",
   "pub_publisher_url": "https://link.springer.com/chapter/10.1007/978-3-031-89991-1_14",
   "pub_fulltext_url": "https://drive.google.com/file/d/12dWa_x4FYQt13-h5R68YieZYUmj8lmnq/view",
+  "pub_slides_url": "https://drive.google.com/file/d/1NNvTVxND8t5Pd2zslhx3TaHwn70TmPtH/view",
   "pub_important": false
 }
 
