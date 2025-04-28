@@ -9,8 +9,10 @@
   "pub_location_city": "Trieste",
   "pub_location_country": "Italy",
   "pub_authors": "Ludwig, Harald Michael; Espeseth, Ane; Medvet, Eric",
-  "pub_notes": "To appear",
+  "pub_doi": "10.1007/978-3-031-90062-4_21",
+  "pub_publisher_url": "https://link.springer.com/chapter/10.1007/978-3-031-90062-4_21",
   "pub_fulltext_url": "https://drive.google.com/file/d/1smZdtTEX0sFRU4Fip0E2i39ae-wwset6/view",
+  "pub_slides_url": "https://drive.google.com/file/d/1VzqhsIYcQbbSN1mch4u0HHdNAPjTLTkn/view",
   "pub_important": false
 }
 
