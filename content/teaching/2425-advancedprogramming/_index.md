@@ -73,6 +73,7 @@ Students enrolled in this course should already be able to access the team of th
 
 #### Short announcements about lectures schedule
 
+- There will be some modification to let us complete the 72 hours within May 2025. In particular, there will be two more lectures out of the usual timetable, on **19/5 14.00-16.30** (academic: 14.00-17.00) in **Room A, building C9** and on **22/5 9.00-11.30** (academic: 9.00-12.00) in **Room E, building D**. Moreover, the lecture of **23/5** will start at **12.00** instead of 11.
 - The lecture of **23/4** is cancelled, as I am involved in the organization of the [evostar 2025 conference](https://www.evostar.org/2025/).
 - There will be no lecture on **18/4** and **21/4**, for Easter holydays, and of **25/4**, for the national holyday.
 - The lectures of **11/4** is cancelled as it collides with the "Porte Aperte Magistrali per Ingegneria" initiative: I invite students to take part in that initiative.
