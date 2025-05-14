@@ -39,14 +39,15 @@ To know more about one or few specific topics, please contact me.
 - Adaptive crossover for Map-elites
 - Diversity promotion based on neutrality graph
 - Location-based adaptive surrogate fitness (based on Map-elites or CAbEA for providing locations)
+  - Gaier, Adam, Alexander Asteroth, and Jean-Baptiste Mouret. "Data-efficient exploration, optimization, and modeling of diverse designs through surrogate-assisted illumination." Proceedings of the Genetic and Evolutionary Computation Conference. 2017.
+
+## Ongoing topics
 - The relation between traits heritability/locality and their efficacy as Map-elites descriptors
   - see De Carlo, Matteo, et al. "Heritability of morphological and behavioural traits in evolving robots." Evolutionary Intelligence (2023): 1-17.
   - see Marrero, Alejandro, et al. "Learning Descriptors for Novelty-Search Based Instance Generation via Meta-evolution." Proceedings of the Genetic and Evolutionary Computation Conference. 2024.
   - see Cully, Antoine. "Autonomous skill discovery with quality-diversity and unsupervised descriptors." Proceedings of the Genetic and Evolutionary Computation Conference. 2019.
   - see Tarapore, Danesh, et al. "How do different encodings influence the performance of the map-elites algorithm?." Proceedings of the Genetic and Evolutionary Computation Conference 2016. 2016.
   - see Tarapore, Danesh, and Jean-Baptiste Mouret. "Evolvability signatures of generative encodings: beyond standard performance benchmarks." Information Sciences 313 (2015): 43-61.
-
-## Ongoing topics
 - Emergence of Epistasis in Body-Brain Evolution of Embodied Agents
   - Brawer, Jake, et al. "Epigenetic operators and the evolution of physically embodied robots." Frontiers in Robotics and AI 4 (2017): 1.
 - Variable substrate neural cellular automata
