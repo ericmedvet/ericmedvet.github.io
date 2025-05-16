@@ -35,6 +35,7 @@ Consiglio comunque di contattarmi per fare una chiacchierata nel caso ci sia int
 - Hamon, Gautier, et al. "[Discovering Sensorimotor Agency in Cellular Automata using Diversity Search](https://arxiv.org/html/2402.10236v1)." arXiv preprint arXiv:2402.10236 (2024).
 - Plantec, Erwan, et al. "[Evolving Self-Assembling Neural Networks: From Spontaneous Activity to Experience-Dependent Learning](https://arxiv.org/abs/2406.09787)." arXiv preprint arXiv:2406.09787 (2024).
 - Ferigo, Andrea, Elia Cunegatti, and Giovanni Iacca. "[Neuron-centric Hebbian Learning](https://arxiv.org/abs/2403.12076)." arXiv preprint arXiv:2403.12076 (2024).
+- Darlow, Luke, et al. "[Continuous Thought Machines](https://arxiv.org/abs/2505.05522)." arXiv preprint arXiv:2505.05522 (2025).
 
 ## Ongoing theses
 - Wang, Zhiquan, et al. "[Evolution-based Shape and Behavior Co-design of Virtual Agents](https://ieeexplore.ieee.org/abstract/document/10403977)." IEEE Transactions on Visualization and Computer Graphics (2024).
