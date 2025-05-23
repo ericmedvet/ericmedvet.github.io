@@ -74,7 +74,8 @@ Lectures will be held on dates and rooms in Piazzale Europa Campus:
 - Thursday 8/5, 14.00-17.00, **Sala Atti, building C1**
 - Thursday 15/5, 14.00-17.00, **Sala Atti, building C1**
 - Tuesday 20/5, 10.00-13.00, **Sala Atti, building C1**
-- Thursday 22/5, 14.00-17.00, **Biblioteca Carli, building C2**
+- ~~Thursday 22/5, 14.00-17.00, **Biblioteca Carli, building C2**~~
+- Friday 23/5, 9.00-12.00, **Aula A, building C8**
 
 The lectures will be given **in person** and **I recommend being in the room**.
 The lectures will **not** be cast in streaming, but the recordings of the lectures will be available **upon request**.
