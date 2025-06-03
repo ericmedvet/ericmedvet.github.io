@@ -95,6 +95,7 @@ The presentation is expected to answer the following questions (refer to the not
 The presentation date is set in agreement with the teacher: please try to arrange sessions with more than one student at once.
 
 ### List of ER papers to choose from
+- Nisioti, Eleni, et al. "[When Does Neuroevolution Outcompete Reinforcement Learning in Transfer Learning Tasks?](https://arxiv.org/pdf/2505.22696)." arXiv preprint arXiv:2505.22696 (2025).
 - Miras, Karine. "[Exploring the costs of phenotypic plasticity for evolvable digital organisms](https://www.nature.com/articles/s41598-023-50683-3)." Scientific Reports 14.1 (2024): 108.
 - Parsa, Atoosa, et al. "[Evolving variable stiffness fiber patterns for multi-shape robotic sheets](https://ieeexplore.ieee.org/abstract/document/10121924)." 2023 IEEE International Conference on Soft Robotics (RoboSoft). IEEE, 2023.
 - Matthews, David, et al. "[Efficient automatic design of robots](https://arxiv.org/pdf/2306.03263.pdf)." arXiv preprint arXiv:2306.03263 (2023).
