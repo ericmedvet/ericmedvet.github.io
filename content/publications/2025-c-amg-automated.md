@@ -9,7 +9,9 @@
   "pub_location_city": "Gothenburg",
   "pub_location_country": "Sweden",
   "pub_authors": "Appetito, Giulio; Medvet, Eric; Gulisano, Vincenzo",
-  "pub_notes": "To appear",
+  "pub_doi": "10.1145/3701717.3730548",
+  "pub_publisher_url": "https://dl.acm.org/doi/full/10.1145/3701717.3730548",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1zmkLTdKJyPBdaRhD2NNzEUag7f09M5mg/view",
   "pub_important": false
 }
 
