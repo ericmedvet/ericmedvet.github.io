@@ -9,7 +9,7 @@
   "pub_doi": "10.1007/s10710-025-09508-7",
   "pub_publisher_url": "https://link.springer.com/article/10.1007/s10710-025-09508-7",
   "pub_fulltext_url": "https://drive.google.com/file/d/1xrhKFQ5e4SBXyk-h7421uoEGE9Z6EYA_/view",
-  "pub_venue_rank": "Q2",
+  "pub_venue_rank": "Q3",
   "pub_venue_rank_subject": "Computer Science Applications",
   "pub_venue_rank_source": "scimagojr",
   "pub_important": false
