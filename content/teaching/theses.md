@@ -24,6 +24,7 @@ To know more about one or few specific topics, please contact me.
   - see Najarro, Elias, Shyam Sudhakaran, and Sebastian Risi. "Towards self-assembling artificial neural networks through neural developmental programs." Artificial Life Conference Proceedings 35. Vol. 2023. No. 1. One Rogers Street, Cambridge, MA 02142-1209, USA journals-info@ mit. edu: MIT Press, 2023.
   - Winther Pedersen, Joachim, et al. "Structurally Flexible Neural Networks: Evolving the Building Blocks for General Agents." arXiv e-prints (2024): arXiv-2404.
   - Ferigo, Andrea, Elia Cunegatti, and Giovanni Iacca. "Neuron-centric Hebbian Learning." arXiv preprint arXiv:2403.12076 (2024).
+- Progressively administered curriculum learning based on solution location (dictated by QD)
 
 ### Artificial life
 - Evolutionary optimization of synapsis-wise and reward-driven autoadaptation rules
@@ -48,7 +49,7 @@ To know more about one or few specific topics, please contact me.
   - see Cully, Antoine. "Autonomous skill discovery with quality-diversity and unsupervised descriptors." Proceedings of the Genetic and Evolutionary Computation Conference. 2019.
   - see Tarapore, Danesh, et al. "How do different encodings influence the performance of the map-elites algorithm?." Proceedings of the Genetic and Evolutionary Computation Conference 2016. 2016.
   - see Tarapore, Danesh, and Jean-Baptiste Mouret. "Evolvability signatures of generative encodings: beyond standard performance benchmarks." Information Sciences 313 (2015): 43-61.
-- Emergence of Epistasis in Body-Brain Evolution of Embodied Agents
+- Emergence of Pleiotropi in Body-Brain Evolution of Embodied Agents
   - Brawer, Jake, et al. "Epigenetic operators and the evolution of physically embodied robots." Frontiers in Robotics and AI 4 (2017): 1.
 - Variable substrate neural cellular automata
 - Program synthesis using graph-based genetic programming for Petri Nets-like graphs
