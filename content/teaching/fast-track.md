@@ -38,7 +38,7 @@ Consiglio comunque di contattarmi per fare una chiacchierata nel caso ci sia int
 - Bender, Reed, Karina Kofman, and Michael Levin. "[What Lives? A meta-analysis of diverse opinions on the definition of life](https://arxiv.org/abs/2505.15849)." arXiv preprint arXiv:2505.15849 (2025).
 
 ## Ongoing theses
-- - Bhoopchand, Avishkar, et al. "[Learning few-shot imitation as cultural transmission](https://www.nature.com/articles/s41467-023-42875-2)." Nature Communications 14.1 (2023): 7536.
+- Bhoopchand, Avishkar, et al. "[Learning few-shot imitation as cultural transmission](https://www.nature.com/articles/s41467-023-42875-2)." Nature Communications 14.1 (2023): 7536.
 - Wang, Zhiquan, et al. "[Evolution-based Shape and Behavior Co-design of Virtual Agents](https://ieeexplore.ieee.org/abstract/document/10403977)." IEEE Transactions on Visualization and Computer Graphics (2024).
 - Ben Zion, Matan Yah, et al. "[Morphological computation and decentralized learning in a swarm of sterically interacting robots](https://doi.org/10.1126/scirobotics.abo6140)." Science Robotics 8.75 (2023): eabo6140.
 - Alakuijala, Jyrki, et al. "[Computational Life: How Well-formed, Self-replicating Programs Emerge from Simple Interaction](https://arxiv.org/abs/2406.19108)." arXiv preprint arXiv:2406.19108 (2024).
