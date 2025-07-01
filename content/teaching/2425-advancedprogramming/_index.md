@@ -5,7 +5,7 @@ type: courses
 ---
 
 This page is about the courses named (actually the same course):
-- Programmazione avanzata (143IN), for master program [IN05](https://lauree.units.it/it/0320106200800001), 9 CFUs
+- Programmazione avanzata (143IN), for bachelor program [IN05](https://lauree.units.it/it/0320106200800001), 9 CFUs
 - Programmazione avanzata (558EC), for master program [EC71](https://lauree.units.it/it/0320107308400001), 9 CFUs
 
 ## Program, goals, requirements
