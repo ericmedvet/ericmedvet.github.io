@@ -7,7 +7,7 @@
   "pub_venue_acronym": "GECCO",
   "pub_location_city": "Melbourne",
   "pub_location_country": "Australia",
-  "pub_authors": "Jorgensen, Steven; Nadizar, Giorgia; Pietropolli, Gloria; Manzoni, Luca; Medvet, Eric; O'Really, Una-May; Hemberg, Erik",
+  "pub_authors": "Jorgensen, Steven; Nadizar, Giorgia; Pietropolli, Gloria; Manzoni, Luca; Medvet, Eric; O'Reilly, Una-May; Hemberg, Erik",
   "pub_doi": "10.1145/3638529.3654056",
   "pub_publisher_url": "https://dl.acm.org/doi/10.1145/3638529.3654056",
   "pub_fulltext_url": "https://drive.google.com/file/d/1VSj-3Sfdi-3oRT613AsX6ey1hSGrfdUv/view",
