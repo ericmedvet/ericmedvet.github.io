@@ -8,7 +8,9 @@
   "pub_location_city": "Malaga",
   "pub_location_country": "Spain",
   "pub_authors": "Doz, Romina; Randone, Francesca; Medvet, Eric; Bortolussi, Luca",
-  "pub_notes": "To appear",
+  "pub_doi": "10.1145/3712256.3726388",
+  "pub_publisher_url": "https://dl.acm.org/doi/10.1145/3712256.3726388",
+  "pub_fulltext_url": "https://drive.google.com/file/d/14Ojk17xWd_I5cDaQAlwiJfe0WJEzlZRD/view",
   "pub_important": false
 }
 
