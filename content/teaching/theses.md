@@ -37,10 +37,10 @@ To know more about one or few specific topics, please contact me.
   - see: Stanton, Adam, and Jared M. Moore. "Lexicase selection for multi-task evolutionary robotics." Artificial Life 28.4 (2022): 479-498.
 - LLM-based case generation for lexicase selection
 - Map-elites merges lexicase selection (descriptors capture cases)
-- Adaptive crossover for Map-elites
 - Diversity promotion based on neutrality graph
 - Location-based adaptive surrogate fitness (based on Map-elites or CAbEA for providing locations)
   - Gaier, Adam, Alexander Asteroth, and Jean-Baptiste Mouret. "Data-efficient exploration, optimization, and modeling of diverse designs through surrogate-assisted illumination." Proceedings of the Genetic and Evolutionary Computation Conference. 2017.
+- General Map-Elites descriptors based on genotype-to-phenotype and genotype-to-fitness locality, possibly enabling adaptive magnitude variation operators
 
 ## Ongoing topics
 - The relation between traits heritability/locality and their efficacy as Map-elites descriptors
