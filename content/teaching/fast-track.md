@@ -19,7 +19,6 @@ Consiglio comunque di contattarmi per fare una chiacchierata nel caso ci sia int
 - Ross, Alexis, et al. "[Tailor: Generating and Perturbing Text with Semantic Controls](https://arxiv.org/abs/2107.07150)." arXiv preprint arXiv:2107.07150 (2021).
 - Chollet, François. "[On the measure of intelligence](https://arxiv.org/abs/1911.01547)." arXiv preprint arXiv:1911.01547 (2019)
 - Fu, Justin, et al. "[From Language to Goals: Inverse Reinforcement Learning for Vision-Based Instruction Following](https://arxiv.org/abs/1902.07742)." arXiv preprint arXiv:1902.07742 (2019)
-- Yu, Wenhao, et al. "[Sim-to-Real Transfer for Biped Locomotion](https://arxiv.org/abs/1903.01390)." arXiv preprint arXiv:1903.01390 (2019)
 - Chan, Bert Wang-Chak. "[Lenia and Expanded Universe](https://arxiv.org/abs/2005.03742)." arXiv preprint arXiv:2005.03742 (2020)
 - Olesen, Thor VAN, et al. "[Evolutionary Planning in Latent Space](https://arxiv.org/abs/2011.11293)." arXiv preprint arXiv:2011.11293 (2020).
 - Cao, Yding, et al. "[Visualizing Collective Idea Generation and Innovation Processes in Social Networks](https://arxiv.org/abs/2110.09893)." arXiv preprint arXiv:2110.09893 (2021).
@@ -36,8 +35,10 @@ Consiglio comunque di contattarmi per fare una chiacchierata nel caso ci sia int
 - Ferigo, Andrea, Elia Cunegatti, and Giovanni Iacca. "[Neuron-centric Hebbian Learning](https://arxiv.org/abs/2403.12076)." arXiv preprint arXiv:2403.12076 (2024).
 - Darlow, Luke, et al. "[Continuous Thought Machines](https://arxiv.org/abs/2505.05522)." arXiv preprint arXiv:2505.05522 (2025).
 - Bender, Reed, Karina Kofman, and Michael Levin. "[What Lives? A meta-analysis of diverse opinions on the definition of life](https://arxiv.org/abs/2505.15849)." arXiv preprint arXiv:2505.15849 (2025).
+- Di Matteo, Jacopo Michele, Oliver Weissl, and Agoston Eiben. "[Fertility During Learning in Evolutionary Robot Systems](https://dl.acm.org/doi/abs/10.1145/3712256.3726382)." Proceedings of the Genetic and Evolutionary Computation Conference. 2025.
 
 ## Ongoing theses
+- Yu, Wenhao, et al. "[Sim-to-Real Transfer for Biped Locomotion](https://arxiv.org/abs/1903.01390)." arXiv preprint arXiv:1903.01390 (2019)
 - Bhoopchand, Avishkar, et al. "[Learning few-shot imitation as cultural transmission](https://www.nature.com/articles/s41467-023-42875-2)." Nature Communications 14.1 (2023): 7536.
 - Wang, Zhiquan, et al. "[Evolution-based Shape and Behavior Co-design of Virtual Agents](https://ieeexplore.ieee.org/abstract/document/10403977)." IEEE Transactions on Visualization and Computer Graphics (2024).
 - Ben Zion, Matan Yah, et al. "[Morphological computation and decentralized learning in a swarm of sterically interacting robots](https://doi.org/10.1126/scirobotics.abo6140)." Science Robotics 8.75 (2023): eabo6140.
