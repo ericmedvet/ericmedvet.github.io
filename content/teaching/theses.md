@@ -37,10 +37,13 @@ To know more about one or few specific topics, please contact me.
   - see: Stanton, Adam, and Jared M. Moore. "Lexicase selection for multi-task evolutionary robotics." Artificial Life 28.4 (2022): 479-498.
 - LLM-based case generation for lexicase selection
 - Map-elites merges lexicase selection (descriptors capture cases)
+  - see Vitel, Dmytro, et al. "Coordinate System Extraction as the Search Driver in Test-Based Genetic Programming." Proceedings of the Genetic and Evolutionary Computation Conference. 2025.
 - Diversity promotion based on neutrality graph
 - Location-based adaptive surrogate fitness (based on Map-elites or CAbEA for providing locations)
-  - Gaier, Adam, Alexander Asteroth, and Jean-Baptiste Mouret. "Data-efficient exploration, optimization, and modeling of diverse designs through surrogate-assisted illumination." Proceedings of the Genetic and Evolutionary Computation Conference. 2017.
+  - see Gaier, Adam, Alexander Asteroth, and Jean-Baptiste Mouret. "Data-efficient exploration, optimization, and modeling of diverse designs through surrogate-assisted illumination." Proceedings of the Genetic and Evolutionary Computation Conference. 2017.
 - General Map-Elites descriptors based on genotype-to-phenotype and genotype-to-fitness locality, possibly enabling adaptive magnitude variation operators
+- Improving program synthesis and enabling module discovery with autobuilt component libraries
+  - see Sakallioglu, Nadizar, Manzoni, Medvet; Evolving Typed Token Processing Networks; Graph-based Genetic Programming Workshop (GGP@GECCO); 2025
 
 ## Ongoing topics
 - The relation between traits heritability/locality and their efficacy as Map-elites descriptors
@@ -52,5 +55,4 @@ To know more about one or few specific topics, please contact me.
 - Emergence of Pleiotropi in Body-Brain Evolution of Embodied Agents
   - Brawer, Jake, et al. "Epigenetic operators and the evolution of physically embodied robots." Frontiers in Robotics and AI 4 (2017): 1.
 - Variable substrate neural cellular automata
-- Program synthesis using graph-based genetic programming for Petri Nets-like graphs
 
