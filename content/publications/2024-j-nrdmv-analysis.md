@@ -9,6 +9,9 @@
   "pub_doi": "10.1145/3643688",
   "pub_publisher_url": "https://dl.acm.org/doi/10.1145/3643688",
   "pub_fulltext_url": "https://drive.google.com/file/d/1UFuq2k-xAHEllu81ROJp4t-IgMJUwafn/view",
+  "pub_venue_rank": "Q1",
+  "pub_venue_rank_subject": "Computer Science (Miscellaneous)",
+  "pub_venue_rank_source": "scimagojr",
   "pub_important": true
 }
 
