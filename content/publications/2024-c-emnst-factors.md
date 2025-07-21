@@ -9,7 +9,8 @@
   "pub_location_city": "Namur",
   "pub_location_country": "Belgium",
   "pub_authors": "El Saliby, Michel; Medvet, Eric; Nadizar, Giorgia; Salvato, Erica; Thomson, Sarah L.",
-  "pub_notes": "To appear",
+  "pub_doi": "10.1007/978-3-031-93631-9_6",
+  "pub_publisher_url": "https://link.springer.com/chapter/10.1007/978-3-031-93631-9_6",
   "pub_fulltext_url": "https://drive.google.com/file/d/1Un_e3XfBN_JebQMpxdrgNMel6M27anvH/view",
   "pub_slides_url": "https://drive.google.com/file/d/1BugcOfLbn6QwetEFZFCTLD6NBXzJNBc2/view",
   "pub_important": false

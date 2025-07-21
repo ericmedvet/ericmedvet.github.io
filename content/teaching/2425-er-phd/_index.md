@@ -104,4 +104,6 @@ The presentation date is set in agreement with the teacher: please try to arrang
 - Kuckling, Jonas, Vincent Van Pelt, and Mauro Birattari. "[AutoMoDe-Cedrata: automatic design of behavior trees for controlling a swarm of robots with communication capabilities](https://link.springer.com/article/10.1007/s42979-021-00988-9)." SN Computer Science 3.2 (2022): 136.
 - Carvalho, Jonata Tyska, and Stefano Nolfi. "[The role of morphological variation in evolutionary robotics: Maximizing performance and robustness](https://direct.mit.edu/evco/article-abstract/doi/10.1162/evco_a_00336/116607/The-Role-of-Morphological-Variation-in)." Evolutionary Computation (2023): 1-18.
 - Milano, Nicola, and Stefano Nolfi. "[Qualitative differences between evolutionary strategies and reinforcement learning methods for control of autonomous agents](https://link.springer.com/article/10.1007/s12065-022-00801-3)." Evolutionary Intelligence (2022): 1-11.
+- Rojas, Junior. "[Morphology-Adaptive Muscle-Driven Locomotion via Attention Mechanisms](https://juniorrojas.com/papers/2025-morphology-adaptive.pdf)." Changes 1.2 (2025): 1.
+- van Diggelen, Fuda, et al. "[Emergent Heterogeneous Swarm Control Through Hebbian Learning](https://arxiv.org/pdf/2507.11566)." arXiv preprint arXiv:2507.11566 (2025).
 

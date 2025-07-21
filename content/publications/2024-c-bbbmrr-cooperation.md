@@ -9,7 +9,8 @@
   "pub_location_city": "Namur",
   "pub_location_country": "Belgium",
   "pub_authors": "Baldini, Paolo; Braccini, Michele; Benvenuti, Filippo; Medvet, Eric; Roli, Andrea; Rusin, Francesco",
-  "pub_notes": "To appear",
+  "pub_doi": "10.1007/978-3-031-93631-9_13",
+  "pub_publisher_url": "https://link.springer.com/chapter/10.1007/978-3-031-93631-9_13",
   "pub_fulltext_url": "https://drive.google.com/file/d/1BrdN5SS1boSKL4DpewAeiX5pT99vehpu/view",
   "pub_slides_url": "https://drive.google.com/file/d/1Xil7xq2oMMOzCDnQoGpGgqwIOIvOfUwB/view",
   "pub_important": false
