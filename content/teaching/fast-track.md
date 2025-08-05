@@ -24,7 +24,6 @@ Consiglio comunque di contattarmi per fare una chiacchierata nel caso ci sia int
 - Cao, Yding, et al. "[Visualizing Collective Idea Generation and Innovation Processes in Social Networks](https://arxiv.org/abs/2110.09893)." arXiv preprint arXiv:2110.09893 (2021).
 - Kim, Jason Z., et al. "[A Neural Programming Language for the Reservoir Computer](https://arxiv.org/abs/2203.05032)", arXiv preprint arXiv:2203.05032 (2022).
 - Wang, Rouyao, et al. "[ScienceWorld: Is your Agent Smarter than a 5th Grader?](https://github.com/allenai/ScienceWorld/blob/main/ScienceWorld-preprint.pdf)", preprint (2022).
-- Kamyar, Sayed, et al. "[Blocks Assemble! Learning to Assemble with Large-Scale Structured Reinforcement Learning](https://arxiv.org/abs/2203.13733)." arXiv preprint arXiv:2203.13733 (2022).
 - Ha, D., and Tang, Y. (2022). "[Collective intelligence for deep learning: A survey of recent developments](https://doi.org/10.1177/26339137221114874)." Collective Intelligence, 1(1).
 - Hinton, G. (2022). "[The Forward-Forward Algorithm: Some Preliminary Investigations](https://www.cs.toronto.edu/~hinton/FFA13.pdf)"
 - Chen, Xiangning, et al. "[Symbolic Discovery of Optimization Algorithms](https://arxiv.org/abs/2302.06675)." arXiv preprint arXiv:2302.06675 (2023)
@@ -43,6 +42,7 @@ Consiglio comunque di contattarmi per fare una chiacchierata nel caso ci sia int
 - Wang, Zhiquan, et al. "[Evolution-based Shape and Behavior Co-design of Virtual Agents](https://ieeexplore.ieee.org/abstract/document/10403977)." IEEE Transactions on Visualization and Computer Graphics (2024).
 - Ben Zion, Matan Yah, et al. "[Morphological computation and decentralized learning in a swarm of sterically interacting robots](https://doi.org/10.1126/scirobotics.abo6140)." Science Robotics 8.75 (2023): eabo6140.
 - Alakuijala, Jyrki, et al. "[Computational Life: How Well-formed, Self-replicating Programs Emerge from Simple Interaction](https://arxiv.org/abs/2406.19108)." arXiv preprint arXiv:2406.19108 (2024).
+- Kamyar, Sayed, et al. "[Blocks Assemble! Learning to Assemble with Large-Scale Structured Reinforcement Learning](https://arxiv.org/abs/2203.13733)." arXiv preprint arXiv:2203.13733 (2022).
 
 ## Done
 - Hu, Yuhang, Jiong Lin, and Hod Lipson. "[Teaching Robots to Build Simulations of Themselves](https://arxiv.org/abs/2311.12151)." arXiv preprint arXiv:2311.12151 (2023). (student: Hesham Ali Abdalla Moshly Elqady)
