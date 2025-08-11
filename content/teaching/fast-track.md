@@ -35,6 +35,7 @@ Consiglio comunque di contattarmi per fare una chiacchierata nel caso ci sia int
 - Darlow, Luke, et al. "[Continuous Thought Machines](https://arxiv.org/abs/2505.05522)." arXiv preprint arXiv:2505.05522 (2025).
 - Bender, Reed, Karina Kofman, and Michael Levin. "[What Lives? A meta-analysis of diverse opinions on the definition of life](https://arxiv.org/abs/2505.15849)." arXiv preprint arXiv:2505.15849 (2025).
 - Di Matteo, Jacopo Michele, Oliver Weissl, and Agoston Eiben. "[Fertility During Learning in Evolutionary Robot Systems](https://dl.acm.org/doi/abs/10.1145/3712256.3726382)." Proceedings of the Genetic and Evolutionary Computation Conference. 2025.
+- Zhao, Jiliang, et al. "[A multi-objective optimization framework based on information sharing for serially connected robot design](https://link.springer.com/article/10.1007/s40747-025-02045-x)." Complex & Intelligent Systems 11.9 (2025): 1-12.
 
 ## Ongoing theses
 - Yu, Wenhao, et al. "[Sim-to-Real Transfer for Biped Locomotion](https://arxiv.org/abs/1903.01390)." arXiv preprint arXiv:1903.01390 (2019)
