@@ -9,8 +9,9 @@
   "pub_location_country": "Spain",
   "pub_authors": "Sakallioglu, Berfin; Nadizar, Giorgia; Manzoni, Luca; Medvet, Eric",
   "pub_doi": "10.1145/3712255.3734315",
-  "pub_notes": "To appear",
+  "pub_publisher_url": "https://dl.acm.org/doi/10.1145/3712255.3734315",
   "pub_fulltext_url": "https://drive.google.com/file/d/1vyMUjPUmIq6ThXN7v3BYCRsf2S8Q7CAs/view",
+  "pub_slides_url": "https://drive.google.com/file/d/13cOtgHcDZ2nDVcFms-LNmLYCXU21XjgX/view",
   "pub_important": false
 }
 
