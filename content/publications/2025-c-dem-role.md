@@ -9,6 +9,7 @@
   "pub_location_country": "China",
   "pub_authors": "Dogaru, Ninel; El Saliby, Michel; Medvet, Eric",
   "pub_notes": "To appear",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1tAUlnzDf-fqTaoWspRtRbY5Koil0yg02/view",
   "pub_important": false
 }
 
