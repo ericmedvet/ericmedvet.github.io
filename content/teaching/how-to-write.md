@@ -77,7 +77,9 @@ A common practice is to use:
 **Use active voice!**
 This is a very strong recommendation.
 Active voice makes clear who is the actor/author of, and hence who has the responsability for, an action/claim/consideration.
-In most of the cases, that means writing *we did something*, because the main responsability for all the claims in a paper is in charge of the authors. 
+In most of the cases, that means writing *we did something*, because the main responsability for all the claims in a paper is in charge of the authors.
+A specific argument for promoting the use of *we did something* is in this paper: López-Reyes, Gamaliel A., et al. "[Analyzing we-sentences in scientific writing to predict peer review outcomes](https://ieeexplore.ieee.org/abstract/document/11151689)." IEEE Access (2025).
+
 When describing a procedure or an algorithm, the subject might be the procedure or algorithm: *The algorithm works as follows: it initializes a set of..., it selects one...*.
 When describing the work of others (i.e., in the *Related works* section), use them as subject: *Smith et al. showed that...*. 
 
