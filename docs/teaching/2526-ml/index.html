@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html><head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+  <meta name="description" content="Eric Medvet, Associate Professor of Computer Engineering at the University of Trieste, Italy" />
+  <meta name="author" content="Eric Medvet" />
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous"/>
+  <link rel="stylesheet" href="/scss/basic.css" />
+  
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZW00T23DHQ"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag("js", new Date());
+    gtag("config", "G-ZW00T23DHQ");
+  </script>
+  <title>Machine Learning</title>
+</head>
+<body>
+    <div class="container">
+      <div class="inner-container border rounded"><nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="https://ericmedvet.github.io/">
+      <span class="initial">E</span><span>ric</span>
+      <span class="initial">M</span><span>edvet</span></a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+    <div class="navbar-nav">
+      <a class="nav-link " href="/publications/">Publications</a>
+      <a class="nav-link active" href="/teaching/">Teaching</a>
+      <a class="nav-link " href="/contact/">Contact me</a>
+    </div>
+  </div>
+</nav>
+<div id="content">
+<div class="container" id="main-content">
+  <h1>AY 25/26 - Machine Learning</h1>
+  <aside id="toc">
+    <h2 class="wl">
+      <span>Table of contents</span>
+      <a href="#collapseToc" data-toggle="collapse" aria-expanded="true" aria-controls="collapse">↧</a>
+    </h2>
+    <div id="collapseToc" class="collapse show" aria-labelledby="headingToc" data-parent="#toc">
+      <div class="card card-body">
+        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#program-goals-requirements">Program, goals, requirements</a>
+      <ul>
+        <li><a href="#detailed-program">Detailed program</a></li>
+        <li><a href="#goal-of-the-course">Goal of the course</a></li>
+        <li><a href="#requirements">Requirements</a></li>
+      </ul>
+    </li>
+    <li><a href="#method-language-material">Method, language, material</a>
+      <ul>
+        <li><a href="#language-of-teaching">Language of teaching</a></li>
+        <li><a href="#teaching-method">Teaching method</a></li>
+        <li><a href="#course-material">Course material</a></li>
+        <li><a href="#lectures-timetable-and-course-calendar">Lectures timetable and course calendar</a></li>
+      </ul>
+    </li>
+    <li><a href="#end-of-course-test-exam">End-of-course test (exam)</a>
+      <ul>
+        <li><a href="#final-project">Final project</a></li>
+        <li><a href="#written-test">Written test</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+      </div>
+    </div>
+  </aside>
+  <p>This page is about the courses named (actually the same course):</p>
+<ul>
+<li>Machine Learning (456MI-1), for master programs <a href="https://corsi.units.it/IN23/descrizione-corso">IN23</a> and <a href="https://corsi.units.it/IN19/descrizione-corso">IN19</a>, <strong>6 CFUs</strong>, part of a larger course named &ldquo;Machine Learning and Evolutionary Robotics&rdquo;</li>
+<li>Introduction to Machine Learning (470SM), for master programs <a href="https://corsi.units.it/SM38/descrizione-corso">SM38</a>, <a href="https://corsi.units.it/SM34/descrizione-corso">SM34</a>, <a href="https://corsi.units.it/SM23/descrizione-corso">SM23</a>, <a href="https://corsi.units.it/SM28/descrizione-corso">SM28</a>, and <a href="https://corsi.units.it/SM64/descrizione-corso">SM64</a>, <strong>6 CFUs</strong></li>
+<li>Introduction to Machine Learning (040CM), for master program <a href="https://corsi.units.it/SM13/descrizione-corso">SM13</a>, <strong>6 CFUs</strong></li>
+</ul>
+<h2 id="program-goals-requirements" class="wl">
+  <span>Program, goals, requirements</span>
+  <a href="#program-goals-requirements" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h2>
+
+<h3 id="detailed-program" class="wl">
+  <span>Detailed program</span>
+  <a href="#detailed-program" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h3>
+
+<ul>
+<li>Definition of Machine Learning; examples of applications of ML; taxonomy of ML problems; phases of design, development, and assessment of a ML system; terminology and mathematical notation.</li>
+<li>Elements of software/programming languages for ML; elements of data visualization.</li>
+<li>Supervised learning.
+<ul>
+<li>Supervised learning system assessment: cross-fold validation; accuracy and other metrics; metrics for binary classification (FPR, FNR, EER, AUC) and ROC.</li>
+<li>Tree-based methods.
+<ul>
+<li>Decision and regression trees: learning and prediction; role of the parameters and overfitting.</li>
+<li>Trees aggregation: bagging, Random Forest.</li>
+</ul>
+</li>
+<li>Support Vector Machines (SVM).
+<ul>
+<li>Separating hyperplane: maximal margin classifier; support vectors; learning as an optimization problem; maximal margin classifier limitations.</li>
+<li>Soft margin classifier: learning, role of the parameter C.</li>
+<li>Non linearly separable problems; kernel: brief background and main options (linear, polynomial, radial); intuition behind radial kernel; SVM,</li>
+<li>Multiclass classification with SVM.</li>
+</ul>
+</li>
+<li>Naive-Bayes classification.</li>
+<li>The K-nearest neighbors classifier.</li>
+</ul>
+</li>
+<li>Unsupervised learning.
+<ul>
+<li>Cluster analysis: hierarchical methods, partitional methods (k-means algorithm).</li>
+</ul>
+</li>
+<li>Text and natural language applications (text mining).
+<ul>
+<li>Sentiment analysis; features for text mining; common pre-processing steps.</li>
+</ul>
+</li>
+</ul>
+<h3 id="goal-of-the-course" class="wl">
+  <span>Goal of the course</span>
+  <a href="#goal-of-the-course" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h3>
+
+<h4 id="knowledge-and-understanding" class="wl">
+  <span>Knowledge and understanding</span>
+  <a href="#knowledge-and-understanding" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h4>
+
+<ul>
+<li>Know and understand the main kinds of problems which can be tackled with ML.</li>
+<li>Know the terminology and common mathematical notation for the key concepts of ML systems.</li>
+<li>Know and understand the main supervised and unsupervised ML techniques.</li>
+<li>Know and understand the phases of design, development, and assessment of a ML system.</li>
+<li>Know and understand the main assessment metrics and procedures suitable for supervised and unsupervised ML systems; know and understand how to evaluate ML systems effectiveness, efficiency, applicability, intepretability.</li>
+</ul>
+<h4 id="applying-knowledge-and-understanding" class="wl">
+  <span>Applying knowledge and understanding</span>
+  <a href="#applying-knowledge-and-understanding" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h4>
+
+<ul>
+<li>Formulate a formal problem statement, using the proper terminology and mathematical notation, for simple practical problems in order to tackle them with ML techniques.</li>
+<li>Design and develop simple end-to-end ML systems, possibly re-using existing software libraries.</li>
+<li>Experimentally assess simple end-to-end ML systems in terms of effectiveness, efficiency, applicability, interpretability.</li>
+</ul>
+<h4 id="making-judgements" class="wl">
+  <span>Making judgements</span>
+  <a href="#making-judgements" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h4>
+
+<ul>
+<li>Judge if a problem can be tackled with ML.</li>
+<li>Judge the technical soundness of a ML system.</li>
+<li>Judge the technical soundness of the assessment of a ML system.</li>
+</ul>
+<h4 id="communication-skills" class="wl">
+  <span>Communication skills</span>
+  <a href="#communication-skills" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h4>
+
+<ul>
+<li>Describe, both in written and oral form, the motivations behind choices in the design, development, and assessment of a ML system, using the proper terminology and possibly exploiting simple plots.</li>
+</ul>
+<h4 id="learning-skills." class="wl">
+  <span>Learning skills.</span>
+  <a href="#learning-skills." aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h4>
+
+<ul>
+<li>Retrieve information from scientific publications about ML techniques not explicitly presented in this course.</li>
+</ul>
+<h3 id="requirements" class="wl">
+  <span>Requirements</span>
+  <a href="#requirements" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h3>
+
+<ul>
+<li>Basics of statistics: basic graphical tools of data exploration; summary measures of variable distribution (mean, variance, quantiles); fundamentals of probability.</li>
+<li>Basics of linear algebra: vectors, matrices, matrix operations.</li>
+<li>Basics of programming and data structures: algorithm, data types, loops, recursion, parallel execution, tree.</li>
+<li>Familiarity with manipulation of mathematical notation.</li>
+</ul>
+<h2 id="method-language-material" class="wl">
+  <span>Method, language, material</span>
+  <a href="#method-language-material" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h2>
+
+<h3 id="language-of-teaching" class="wl">
+  <span>Language of teaching</span>
+  <a href="#language-of-teaching" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h3>
+
+<p>English</p>
+<h3 id="teaching-method" class="wl">
+  <span>Teaching method</span>
+  <a href="#teaching-method" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h3>
+
+<p>Frontal lectures with slide projection and live annotation; lab activities, under teacher supervision, in dealing with simple problems with ML techniques.</p>
+<h3 id="course-material" class="wl">
+  <span>Course material</span>
+  <a href="#course-material" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h3>
+
+<h4 id="teacher-slides-and-lab-sketches" class="wl">
+  <span>Teacher slides and lab sketches</span>
+  <a href="#teacher-slides-and-lab-sketches" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h4>
+
+<p>The course material (teacher&rsquo;s slides) is available <a href="https://medvet.inginf.units.it/slides/ml-2526/">online</a>.</p>
+<p>The slides might be updated during the course.</p>
+<!--
+Sketches (partly kindly provided by the tutor, Alessandro Della Siega) for how to do the lab activities, in the form of R or Python notebooks, are given below; please, fully enjoy the lab activity by **not looking at** these sketches too early:
+- Lab 0: meet R and Iris (not done; it may serve as a *warm-up* lab) ([R source](labs/lab0.Rmd), [R rendered](labs/lab0.nb/))
+- Lab 1: hardest variable in Iris ([R source](labs/lab1.Rmd), [R rendered](labs/lab1.nb/), [Python version](https://github.com/adellasiega/Intro_ML/blob/main/lab1.ipynb))
+- Lab 2: comparison of ML techniques ([R source](https://colab.research.google.com/drive/12fRjeoWgpiBObTUjrXACemgdrmu4b2Yu?usp=sharing), [R rendered](labs/lab2/), [Python](https://github.com/adellasiega/Intro_ML/blob/main/lab2.ipynb))
+- Lab 3: text mining, sport vs. politics dashboard ([Python](https://github.com/adellasiega/Intro_ML/blob/main/lab3.ipynb))
+-->
+<p>The recordings of the lectures will be available on the <a href="https://teams.microsoft.com/l/channel/19%3ABT938HF-WV0e7hmrrcTWPVe6T8vuyJvJLYp1ExCMjOU1%40thread.tacv2/General?groupId=19cd013b-7b9f-466e-a2b1-307e8a94a7ef&amp;tenantId=a54b3635-128c-460f-b967-6ded8df82e75">MS Teams team of the course</a> (code <code>bb7s7tx</code>).</p>
+<h3 id="lectures-timetable-and-course-calendar" class="wl">
+  <span>Lectures timetable and course calendar</span>
+  <a href="#lectures-timetable-and-course-calendar" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h3>
+
+<p>The course will start on <strong>September 23</strong>.
+Lectures will be held in:</p>
+<ul>
+<li>Room B, building C7, Piazzale Europa Campus on Tuesday, 8.00-10.00 (in practice, <strong>8.30-10.00</strong> without breaks)</li>
+<li>Room C, building C7, Piazzale Europa Campus on Thursday, 16.00-19.00 (in practice, <strong>16.00-18.30</strong> with one break)</li>
+</ul>
+<p>The lectures will be given <strong>in person</strong> and <strong>I recommend being in the room</strong>.
+In compliance with the current regulation students might be required to book a place in the room.</p>
+<p>The lectures will <strong>not</strong> be cast in streaming, but the recordings of the lectures will be available on the <a href="https://teams.microsoft.com/l/channel/19%3ABT938HF-WV0e7hmrrcTWPVe6T8vuyJvJLYp1ExCMjOU1%40thread.tacv2/General?groupId=19cd013b-7b9f-466e-a2b1-307e8a94a7ef&amp;tenantId=a54b3635-128c-460f-b967-6ded8df82e75">MS Teams team of the course</a> (code <code>bb7s7tx</code>).</p>
+<h4 id="short-announcements-about-lectures-schedule" class="wl">
+  <span>Short announcements about lectures schedule</span>
+  <a href="#short-announcements-about-lectures-schedule" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h4>
+
+<p>None yet.</p>
+<h2 id="end-of-course-test-exam" class="wl">
+  <span>End-of-course test (exam)</span>
+  <a href="#end-of-course-test-exam" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h2>
+
+<p>The exam can be done in two ways:</p>
+<ol>
+<li>project and written test;</li>
+<li>written test only.</li>
+</ol>
+<p>In the first case, the final grade is the average of the two grades: the exam is considered failed if at least one of the two grades is &lt;18.
+In the final overall grade, honors (lode) are awarded if and only if the grade for every part is greater of equal to 30/30 and the average of all the parts exceeds 30/30.</p>
+<p>Student must <strong>register for the exam session</strong> of their interest using the online sistem (<strong>esse3</strong>).
+Note that there are <strong>deadlines</strong> for registration (usually 1 week before the session date).</p>
+<p>In any type of content produced by the student for admission to or participation in an exam (projects, reports, exercises, tests), the use of Large Language Model tools (such as ChatGPT and the like) must be explicitly declared. This requirement must be met even in the case of partial use.
+Regardless of the method of assessment, the teacher reserves the right to further investigate the student&rsquo;s actual contribution with an oral exam for any type of content produced.</p>
+<h3 id="final-project" class="wl">
+  <span>Final project</span>
+  <a href="#final-project" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h3>
+
+<p>The student chooses a problem among a closed, teacher-defined set of problems and proposes a solution based on ML techniques.
+The expected outcome is a written document (few pages) including: the problem statement; one or more performance indexes able to capture any solution ability to solve the problem; a description of the proposed solution from the algorithmic point of view; the results and a discussion about the experimental assessment of the solution with, if applicable, information about used data.
+<strong>Student are encouraged to form groups for the project</strong>: in this case, the document must show, for each student of the group, which activities the student took part in.
+The project is evaluated according to clarity (≈50%), technical soundness (≈33%), and results (≈17%).</p>
+<p><strong>The project assignment is <a href="project/">here</a>.</strong></p>
+<h3 id="written-test" class="wl">
+  <span>Written test</span>
+  <a href="#written-test" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h3>
+
+<p>It consists of questions on theory and application with short open answers.
+Each test consists of ≈3 questions with a longer answer and ≈3 questions with a short answer.
+Some of the questions are on the &ldquo;theory&rdquo;: they require to give the definition of a key concept, to tell the differences between a few key concepts, or list the suitable options for some given case.
+Some of the questions are on the &ldquo;practice&rdquo;: they require to describe an algorithm, possibly in the form of pseudocode, sketch a design of an ML system for a given case, solve some simple numerical problem involving quantities.
+The grade of the written test is the weighted average of the grades obtained for each question, with &ldquo;long questions&rdquo; weighting double the &ldquo;short questions&rdquo;.</p>
+
+</div>
+
+        </div>
+      </div>
+<div id="footer">
+  <div class="text-center">
+    Copyright by Eric Medvet
+  </div>
+</div>
+
+</div>
+  </body>
+</html>

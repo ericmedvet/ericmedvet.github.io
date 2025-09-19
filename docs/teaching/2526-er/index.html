@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html><head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+  <meta name="description" content="Eric Medvet, Associate Professor of Computer Engineering at the University of Trieste, Italy" />
+  <meta name="author" content="Eric Medvet" />
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous"/>
+  <link rel="stylesheet" href="/scss/basic.css" />
+  
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZW00T23DHQ"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag("js", new Date());
+    gtag("config", "G-ZW00T23DHQ");
+  </script>
+  <title>Evolutionary Robotics</title>
+</head>
+<body>
+    <div class="container">
+      <div class="inner-container border rounded"><nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="https://ericmedvet.github.io/">
+      <span class="initial">E</span><span>ric</span>
+      <span class="initial">M</span><span>edvet</span></a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+    <div class="navbar-nav">
+      <a class="nav-link " href="/publications/">Publications</a>
+      <a class="nav-link active" href="/teaching/">Teaching</a>
+      <a class="nav-link " href="/contact/">Contact me</a>
+    </div>
+  </div>
+</nav>
+<div id="content">
+<div class="container" id="main-content">
+  <h1>AY 25/26 - Evolutionary Robotics</h1>
+  <aside id="toc">
+    <h2 class="wl">
+      <span>Table of contents</span>
+      <a href="#collapseToc" data-toggle="collapse" aria-expanded="true" aria-controls="collapse">↧</a>
+    </h2>
+    <div id="collapseToc" class="collapse show" aria-labelledby="headingToc" data-parent="#toc">
+      <div class="card card-body">
+        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#program-goals-requirements">Program, goals, requirements</a>
+      <ul>
+        <li><a href="#detailed-program">Detailed program</a></li>
+        <li><a href="#goal-of-the-course">Goal of the course</a></li>
+        <li><a href="#requirements">Requirements</a></li>
+      </ul>
+    </li>
+    <li><a href="#method-language-material">Method, language, material</a>
+      <ul>
+        <li><a href="#language-of-teaching">Language of teaching</a></li>
+        <li><a href="#teaching-method">Teaching method</a></li>
+        <li><a href="#course-material">Course material</a></li>
+        <li><a href="#lectures-timetable-and-course-calendar">Lectures timetable and course calendar</a></li>
+      </ul>
+    </li>
+    <li><a href="#end-of-course-test-exam">End-of-course test (exam)</a></li>
+  </ul>
+</nav>
+      </div>
+    </div>
+  </aside>
+  <p>This page is about the course named:</p>
+<ul>
+<li>Evolutionary Robotics (456MI-2), for master programs <a href="https://corsi.units.it/IN23/descrizione-corso">IN23</a> and <a href="https://corsi.units.it/IN19/descrizione-corso">IN19</a>, <strong>3 CFUs</strong>, part of a larger course named &ldquo;Machine Learning and Evolutionary Robotics&rdquo;</li>
+</ul>
+<h2 id="program-goals-requirements" class="wl">
+  <span>Program, goals, requirements</span>
+  <a href="#program-goals-requirements" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h2>
+
+<h3 id="detailed-program" class="wl">
+  <span>Detailed program</span>
+  <a href="#detailed-program" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h3>
+
+<ul>
+<li>Evolutionary Computation (EC).
+<ul>
+<li>High-level working scheme of an Evolutionary Algorithm (EA); terminology.</li>
+<li>Generational model; selection criteria; exploration/exploitation trade-off; genetic operators with examples; fitness function; multi-objective optimization and Pareto dominance; debugging of an evolutionary search.</li>
+<li>EA issues (diversity, variational inheritance, expressiveness); fitness landscape; properties of the representation.</li>
+<li>Examples of common EAs: GA, GP, GE.</li>
+</ul>
+</li>
+<li>Evolutionary Robotics.
+<ul>
+<li>Agent and environment.</li>
+<li>Brief foundations of Artificial Neural Networks and EC.
+<ul>
+<li>EA for neuroevolution.</li>
+</ul>
+</li>
+<li>Significant examples.
+<ul>
+<li>Evolution of Soft Robots morphologies (body).</li>
+<li>Evolution of robotic agents controllers (brain).</li>
+<li>Simultaneous evolution of body and brain.</li>
+</ul>
+</li>
+<li>Choosing the task, the fitness; reality gap.</li>
+</ul>
+</li>
+</ul>
+<h3 id="goal-of-the-course" class="wl">
+  <span>Goal of the course</span>
+  <a href="#goal-of-the-course" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h3>
+
+<h4 id="knowledge-and-understanding" class="wl">
+  <span>Knowledge and understanding</span>
+  <a href="#knowledge-and-understanding" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h4>
+
+<ul>
+<li>Know and understand the main kinds of optimization problems which can be tackled with EC, in particular in the field of robotics.</li>
+<li>Know the terminology and common mathematical notation for the key concepts of EC and ER.</li>
+<li>Know and understand the main EAs.</li>
+</ul>
+<h4 id="applying-knowledge-and-understanding" class="wl">
+  <span>Applying knowledge and understanding</span>
+  <a href="#applying-knowledge-and-understanding" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h4>
+
+<ul>
+<li>Formulate formally the statement of an optimization problem, using the proper terminology and mathematical notation, in order to tackle them with EC techniques.</li>
+<li>Design and develop simple EAs.</li>
+</ul>
+<h4 id="making-judgements" class="wl">
+  <span>Making judgements</span>
+  <a href="#making-judgements" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h4>
+
+<ul>
+<li>Judge if a problem can be tackled with EC, possibly re-using existing software libraries.</li>
+<li>Judge the technical soundness of the application of EC techniques, in particular in the field of robotics.</li>
+</ul>
+<h4 id="communication-skills" class="wl">
+  <span>Communication skills</span>
+  <a href="#communication-skills" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h4>
+
+<ul>
+<li>Describe, both in written and oral form, the main components of an EA and its application to a robotics problem, using the proper terminology.</li>
+</ul>
+<h4 id="learning-skills." class="wl">
+  <span>Learning skills.</span>
+  <a href="#learning-skills." aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h4>
+
+<ul>
+<li>Retrieve information from scientific publications about EC and ER techniques not explicitly presented in this course.</li>
+</ul>
+<h3 id="requirements" class="wl">
+  <span>Requirements</span>
+  <a href="#requirements" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h3>
+
+<ul>
+<li>Basics of statistics: basic graphical tools of data exploration; summary measures of variable distribution (mean, variance, quantiles); fundamentals of probability.</li>
+<li>Basics of linear algebra: vectors, matrices, matrix operations.</li>
+<li>Basics of programming and data structures: algorithm, data types, loops, recursion, parallel execution, tree.</li>
+<li>Familiarity with manipulation of mathematical notation.</li>
+</ul>
+<h2 id="method-language-material" class="wl">
+  <span>Method, language, material</span>
+  <a href="#method-language-material" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h2>
+
+<h3 id="language-of-teaching" class="wl">
+  <span>Language of teaching</span>
+  <a href="#language-of-teaching" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h3>
+
+<p>English</p>
+<h3 id="teaching-method" class="wl">
+  <span>Teaching method</span>
+  <a href="#teaching-method" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h3>
+
+<p>Frontal lectures with slide projection and live annotation; lab activities, under teacher supervision, in dealing with simple problems with ML techniques.</p>
+<h3 id="course-material" class="wl">
+  <span>Course material</span>
+  <a href="#course-material" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h3>
+
+<h4 id="teacher-slides-and-lab-sketches" class="wl">
+  <span>Teacher slides and lab sketches</span>
+  <a href="#teacher-slides-and-lab-sketches" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h4>
+
+<p>The course material (teacher&rsquo;s slides) is available <a href="https://medvet.inginf.units.it/slides/er-2526/">online</a>.</p>
+<p>The slides might be updated during the course.</p>
+<p>The recordings of the lectures will be available on the <a href="https://teams.microsoft.com/l/channel/19%3ABT938HF-WV0e7hmrrcTWPVe6T8vuyJvJLYp1ExCMjOU1%40thread.tacv2/General?groupId=19cd013b-7b9f-466e-a2b1-307e8a94a7ef&amp;tenantId=a54b3635-128c-460f-b967-6ded8df82e75">MS Teams team of the course</a> (code <code>bb7s7tx</code>).</p>
+<h3 id="lectures-timetable-and-course-calendar" class="wl">
+  <span>Lectures timetable and course calendar</span>
+  <a href="#lectures-timetable-and-course-calendar" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h3>
+
+<p>The course will start on <strong>September 24</strong>.
+Lectures will be held in:</p>
+<ul>
+<li>Room D, building A, Piazzale Europa Campus on Wednesday, 9.00-12.00 (in practice, <strong>9.00-11.30</strong> without breaks)</li>
+</ul>
+<p>The lectures will be given <strong>in person</strong> and <strong>I recommend being in the room</strong>.
+In compliance with the current regulation students might be required to book a place in the room.</p>
+<p>The lectures will <strong>not</strong> be cast in streaming, but the recordings of the lectures will be available on the <a href="https://teams.microsoft.com/l/channel/19%3ABT938HF-WV0e7hmrrcTWPVe6T8vuyJvJLYp1ExCMjOU1%40thread.tacv2/General?groupId=19cd013b-7b9f-466e-a2b1-307e8a94a7ef&amp;tenantId=a54b3635-128c-460f-b967-6ded8df82e75">MS Teams team of the course</a> (code <code>bb7s7tx</code>).</p>
+<h4 id="short-announcements-about-lectures-schedule" class="wl">
+  <span>Short announcements about lectures schedule</span>
+  <a href="#short-announcements-about-lectures-schedule" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h4>
+
+<p>None yet.</p>
+<h2 id="end-of-course-test-exam" class="wl">
+  <span>End-of-course test (exam)</span>
+  <a href="#end-of-course-test-exam" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h2>
+
+<p>The exam is done together with the exam of <a href="../2526-ml/">Machine Learning</a> with the same <a href="../2526-ml/#end-of-course-test-exam">rules</a> and dates.
+Obviously, the questions are about ER, not ML.</p>
+
+</div>
+
+        </div>
+      </div>
+<div id="footer">
+  <div class="text-center">
+    Copyright by Eric Medvet
+  </div>
+</div>
+
+</div>
+  </body>
+</html>
