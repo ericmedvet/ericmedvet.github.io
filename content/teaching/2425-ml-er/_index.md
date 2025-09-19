@@ -139,7 +139,7 @@ The exam can be done in two ways:
 2. written test only.
 
 In the first case, the final grade is the average of the two grades: the exam is considered failed if at least one of the two grades is <18.
-In the final overall grade, honors (lode) are awarded if and only if the grade for every part is greater of equal to 30/30 and the average of all the parts exceeds 30/30.
+In the final overall grade, honors (lode) are awarded if and only if the grade for every part is greater or equal to 30/30 and the average of all the parts exceeds 30/30.
 
 Student must **register for the exam session** of their interest using the online sistem (**esse3**).
 Note that there are **deadlines** for registration (usually 1 week before the session date).
