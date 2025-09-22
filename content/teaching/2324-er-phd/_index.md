@@ -1,5 +1,5 @@
 ---
-title: "Evolutionary Robotics"
+title: "Evolutionary Robotics (PhD)"
 academic_year: "23/24"
 type: courses
 math: true
