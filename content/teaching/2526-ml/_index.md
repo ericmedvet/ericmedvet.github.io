@@ -92,7 +92,7 @@ The recordings of the lectures will be available on the [MS Teams team of the co
 The course will start on **September 23**.
 Lectures will be held in:
 - Room B, building C7, Piazzale Europa Campus on Tuesday, 8.00-10.00 (in practice, **8.30-10.00** without breaks)
-- Room C, building C7, Piazzale Europa Campus on Thursday, 16.00-19.00 (in practice, **16.00-18.30** with one break)
+- Room C, building C7, Piazzale Europa Campus on Thursday, 16.00-19.00 (in practice, ~~**16.00-18.30**~~ **16.15-18.45** with one break)
 
 The lectures will be given **in person** and **I recommend being in the room**.
 In compliance with the current regulation students might be required to book a place in the room.
@@ -100,7 +100,7 @@ In compliance with the current regulation students might be required to book a p
 The lectures will **not** be cast in streaming, but the recordings of the lectures will be available on the [MS Teams team of the course](https://teams.microsoft.com/l/channel/19%3ABT938HF-WV0e7hmrrcTWPVe6T8vuyJvJLYp1ExCMjOU1%40thread.tacv2/General?groupId=19cd013b-7b9f-466e-a2b1-307e8a94a7ef&tenantId=a54b3635-128c-460f-b967-6ded8df82e75) (code `bb7s7tx`).
 
 #### Short announcements about lectures schedule
-None yet.
+- Starting from 2/10/25, the practical time for the lecture of Thursday will be **16.15-18.45**.
 
 ## End-of-course test (exam)
 The exam can be done in two ways:
