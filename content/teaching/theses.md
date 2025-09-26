@@ -14,7 +14,7 @@ To know more about one or few specific topics, please contact me.
 
 ### Evolutionary robotics
 - Learning techniques for the controllers of simulated modular soft robots: reinforcement learning
-- Auto-assembly of simulated modular soft robots
+- Auto-assembly of simulated modular soft robots: curriculum learning
 - Resolution-agnostic representation for evolution of closed-loop controllers of simulated modular soft robots
   - see Wang, Yuxing, et al. "Curriculum-based co-design of morphology and control of voxel-based soft robots." The Eleventh International Conference on Learning Representations. 2023.
 - Social/cultural/imitation learning for simulated modular soft robots
@@ -31,6 +31,7 @@ To know more about one or few specific topics, please contact me.
   - see Plantec, Erwan, et al. "Evolving Self-Assembling Neural Networks: From Spontaneous Activity to Experience-Dependent Learning." arXiv preprint arXiv:2406.09787 (2024).
   - see Arnold, Solvi, et al. "Breaching the Bottleneck: Evolutionary Transition from Reward-Driven Learning to Reward-Agnostic Domain-Adapted Learning in Neuromodulated Neural Nets." arXiv preprint arXiv:2404.12631 (2024).
 - Autogenerating neural-networks
+- Methods for assessing candidate controllers in multi-agent systems: asynchronicity vs. sample efficiency
 
 ### Evolutionary computation
 - Lexicase-like selection for control problems
@@ -44,15 +45,12 @@ To know more about one or few specific topics, please contact me.
 - General Map-Elites descriptors based on genotype-to-phenotype and genotype-to-fitness locality, possibly enabling adaptive magnitude variation operators
 - Improving program synthesis and enabling module discovery with autobuilt component libraries
   - see Sakallioglu, Nadizar, Manzoni, Medvet; Evolving Typed Token Processing Networks; Graph-based Genetic Programming Workshop (GGP@GECCO); 2025
-
-## Ongoing topics
 - The relation between traits heritability/locality and their efficacy as Map-elites descriptors
   - see De Carlo, Matteo, et al. "Heritability of morphological and behavioural traits in evolving robots." Evolutionary Intelligence (2023): 1-17.
   - see Marrero, Alejandro, et al. "Learning Descriptors for Novelty-Search Based Instance Generation via Meta-evolution." Proceedings of the Genetic and Evolutionary Computation Conference. 2024.
   - see Cully, Antoine. "Autonomous skill discovery with quality-diversity and unsupervised descriptors." Proceedings of the Genetic and Evolutionary Computation Conference. 2019.
   - see Tarapore, Danesh, et al. "How do different encodings influence the performance of the map-elites algorithm?." Proceedings of the Genetic and Evolutionary Computation Conference 2016. 2016.
   - see Tarapore, Danesh, and Jean-Baptiste Mouret. "Evolvability signatures of generative encodings: beyond standard performance benchmarks." Information Sciences 313 (2015): 43-61.
-- Emergence of Pleiotropi in Body-Brain Evolution of Embodied Agents
-  - Brawer, Jake, et al. "Epigenetic operators and the evolution of physically embodied robots." Frontiers in Robotics and AI 4 (2017): 1.
-- Variable substrate neural cellular automata
+
+## Ongoing topics
 
