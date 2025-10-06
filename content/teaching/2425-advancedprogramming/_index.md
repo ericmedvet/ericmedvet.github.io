@@ -120,3 +120,25 @@ The key messages which the teacher will attempt to deliver during this course ar
 In any type of content produced by the student for admission to or participation in an exam (projects, reports, exercises, tests), the use of Large Language Model tools (such as ChatGPT and the like) must be explicitly declared.
 This requirement must be met even in the case of partial use.
 Regardless of the method of assessment, the teacher reserves the right to further investigate the student's actual contribution with an oral exam for any type of content produced.
+
+## Results of assessment by students
+
+{{< fig src="student-assessment-ap2425-in05-23.svg" caption="Students of IN05 (23 answers)" >}}
+
+### Questions
+(In Italian)
+
+1. Domanda: Le conoscenze preliminari possedute sono risultate sufficienti per la comprensione degli argomenti previsti nel programma d'esame?
+2. Domanda: Il carico di studio dell'insegnamento è proporzionato ai crediti assegnati?
+3. Domanda: Il materiale didattico (indicato e disponibile) è adeguato per lo studio della materia?
+4. Domanda: Le modalità di esame sono state definite in modo chiaro?
+5. Domanda: Gli orari di svolgimento di lezioni, esercitazioni e altre eventuali attività didattiche sono rispettati?
+6. Domanda: Il docente stimola/motiva l'interesse verso la disciplina?
+7. Domanda: Il docente espone gli argomenti in modo chiaro?
+8. Domanda: Le attività didattiche integrative (esercitazioni, tutorati, laboratori, etc...), se previste, sono utili all'apprendimento della materia?
+9. Domanda: L'insegnamento è stato svolto in maniera coerente con quanto dichiarato sul sito web del corso di studio?
+10. Domanda: Il docente è reperibile per chiarimenti e spiegazioni?
+11. Domanda: È interessato/a agli argomenti trattati nell'insegnamento?
+12. Domanda: È complessivamente soddisfatto di come è stato svolto questo insegnamento?
+13. Domanda: L'utilizzo degli strumenti per la Didattica digitale per questo insegnamento è stato utile per l'apprendimento della materia?
+14. Domanda: Se hai usufruito delle registrazioni delle lezioni per questo insegnamento, sono stati utili per l'apprendimento della materia?
