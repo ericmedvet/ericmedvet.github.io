@@ -80,7 +80,7 @@ In compliance with the current regulation students might be required to book a p
 The lectures will **not** be cast in streaming, but the recordings of the lectures will be available on the [MS Teams team of the course](https://teams.microsoft.com/l/channel/19%3ABT938HF-WV0e7hmrrcTWPVe6T8vuyJvJLYp1ExCMjOU1%40thread.tacv2/General?groupId=19cd013b-7b9f-466e-a2b1-307e8a94a7ef&tenantId=a54b3635-128c-460f-b967-6ded8df82e75) (code `bb7s7tx`).
 
 #### Short announcements about lectures schedule
-None yet.
+- The **lecture of 8/10/2025 is cancelled** (i.e., all the subsequent lecture are shift by one week) because most of the students are involved in their Bachelor ceremony.
 
 ## End-of-course test (exam)
 The exam is done together with the exam of [Machine Learning](../2526-ml/) with the same [rules](../2526-ml/#end-of-course-test-exam) and dates.
