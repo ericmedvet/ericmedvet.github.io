@@ -38,14 +38,14 @@ Consiglio comunque di contattarmi per fare una chiacchierata nel caso ci sia int
 - Zhao, Jiliang, et al. "[A multi-objective optimization framework based on information sharing for serially connected robot design](https://link.springer.com/article/10.1007/s40747-025-02045-x)." Complex & Intelligent Systems 11.9 (2025): 1-12.
 
 ## Ongoing theses
-- Yu, Wenhao, et al. "[Sim-to-Real Transfer for Biped Locomotion](https://arxiv.org/abs/1903.01390)." arXiv preprint arXiv:1903.01390 (2019)
-- Bhoopchand, Avishkar, et al. "[Learning few-shot imitation as cultural transmission](https://www.nature.com/articles/s41467-023-42875-2)." Nature Communications 14.1 (2023): 7536.
 - Wang, Zhiquan, et al. "[Evolution-based Shape and Behavior Co-design of Virtual Agents](https://ieeexplore.ieee.org/abstract/document/10403977)." IEEE Transactions on Visualization and Computer Graphics (2024).
 - Ben Zion, Matan Yah, et al. "[Morphological computation and decentralized learning in a swarm of sterically interacting robots](https://doi.org/10.1126/scirobotics.abo6140)." Science Robotics 8.75 (2023): eabo6140.
-- Alakuijala, Jyrki, et al. "[Computational Life: How Well-formed, Self-replicating Programs Emerge from Simple Interaction](https://arxiv.org/abs/2406.19108)." arXiv preprint arXiv:2406.19108 (2024).
 - Kamyar, Sayed, et al. "[Blocks Assemble! Learning to Assemble with Large-Scale Structured Reinforcement Learning](https://arxiv.org/abs/2203.13733)." arXiv preprint arXiv:2203.13733 (2022).
 
 ## Done
+- Bhoopchand, Avishkar, et al. "[Learning few-shot imitation as cultural transmission](https://www.nature.com/articles/s41467-023-42875-2)." Nature Communications 14.1 (2023): 7536. (student: Nicolò Marsonetto)
+- Yu, Wenhao, et al. "[Sim-to-Real Transfer for Biped Locomotion](https://arxiv.org/abs/1903.01390)." arXiv preprint arXiv:1903.01390 (2019) (student: Arianna Mucig)
+- Alakuijala, Jyrki, et al. "[Computational Life: How Well-formed, Self-replicating Programs Emerge from Simple Interaction](https://arxiv.org/abs/2406.19108)." arXiv preprint arXiv:2406.19108 (2024). (student: Enrico Gottardi)
 - Hu, Yuhang, Jiong Lin, and Hod Lipson. "[Teaching Robots to Build Simulations of Themselves](https://arxiv.org/abs/2311.12151)." arXiv preprint arXiv:2311.12151 (2023). (student: Hesham Ali Abdalla Moshly Elqady)
 - Vorobyov, Kostyantyn, et al. "[Synthesis of Java Deserialisation Filters from Examples](https://ieeexplore.ieee.org/abstract/document/9842737)." 2022 IEEE 46th Annual Computers, Software, and Applications Conference (COMPSAC). IEEE, 2022. (student: Alessandro Querenghi) 
 - Ferigo, Andrea, and Giovanni Iacca. "[Self-building Neural Networks](https://arxiv.org/abs/2304.01086)." arXiv preprint arXiv:2304.01086 (2023). (student: Chiara Botter)
