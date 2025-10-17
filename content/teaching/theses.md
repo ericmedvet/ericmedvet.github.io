@@ -27,9 +27,6 @@ To know more about one or few specific topics, please contact me.
 - Progressively administered curriculum learning based on solution location (dictated by QD)
 
 ### Artificial life
-- Evolutionary optimization of synapsis-wise and reward-driven autoadaptation rules
-  - see Plantec, Erwan, et al. "Evolving Self-Assembling Neural Networks: From Spontaneous Activity to Experience-Dependent Learning." arXiv preprint arXiv:2406.09787 (2024).
-  - see Arnold, Solvi, et al. "Breaching the Bottleneck: Evolutionary Transition from Reward-Driven Learning to Reward-Agnostic Domain-Adapted Learning in Neuromodulated Neural Nets." arXiv preprint arXiv:2404.12631 (2024).
 - Autogenerating neural-networks
 - Methods for assessing candidate controllers in multi-agent systems: asynchronicity vs. sample efficiency
 
@@ -53,4 +50,7 @@ To know more about one or few specific topics, please contact me.
   - see Tarapore, Danesh, and Jean-Baptiste Mouret. "Evolvability signatures of generative encodings: beyond standard performance benchmarks." Information Sciences 313 (2015): 43-61.
 
 ## Ongoing topics
+- Evolutionary optimization of synapsis-wise and reward-driven autoadaptation rules
+  - see Plantec, Erwan, et al. "Evolving Self-Assembling Neural Networks: From Spontaneous Activity to Experience-Dependent Learning." arXiv preprint arXiv:2406.09787 (2024).
+  - see Arnold, Solvi, et al. "Breaching the Bottleneck: Evolutionary Transition from Reward-Driven Learning to Reward-Agnostic Domain-Adapted Learning in Neuromodulated Neural Nets." arXiv preprint arXiv:2404.12631 (2024).
 
