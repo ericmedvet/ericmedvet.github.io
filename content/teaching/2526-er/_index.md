@@ -81,6 +81,8 @@ The lectures will **not** be cast in streaming, but the recordings of the lectur
 
 #### Short announcements about lectures schedule
 - The **lecture of 8/10/2025 is cancelled** (i.e., all the subsequent lecture are shift by one week) because most of the students are involved in their Bachelor ceremony.
+- There will be **no lecture on 29/10/25** as I will be attending [The International Conference on Machine Intelligence and Nature-inspireD Computing (MIND)](https://www.ic-mind.org/) (and presenting [this research](../../publications/2025-c-dem-role/)).
+
 
 ## End-of-course test (exam)
 The exam is done together with the exam of [Machine Learning](../2526-ml/) with the same [rules](../2526-ml/#end-of-course-test-exam) and dates.

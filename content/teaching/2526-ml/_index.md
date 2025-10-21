@@ -101,6 +101,7 @@ The lectures will **not** be cast in streaming, but the recordings of the lectur
 
 #### Short announcements about lectures schedule
 - Starting from 2/10/25, the practical time for the lecture of Thursday will be **16.15-18.45**.
+- There will be **no lecture on 30/10/25 and 4/11/25** as I will be attending [The International Conference on Machine Intelligence and Nature-inspireD Computing (MIND)](https://www.ic-mind.org/) (and presenting [this research](../../publications/2025-c-dem-role/)).
 
 ## End-of-course test (exam)
 The exam can be done in two ways:
