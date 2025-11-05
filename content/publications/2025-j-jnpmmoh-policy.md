@@ -7,7 +7,7 @@
   "pub_venue_acronym": "TELO",
   "pub_authors": "Jorgensen, Steven; Nadizar, Giorgia; Pietropolli, Gloria; Manzoni, Luca; Medvet, Eric; O'Reilly, Una-May; Hemberg, Erik",
   "pub_doi": "10.1145/3772718",
-  "pub_notes": "To appear",
+  "pub_publisher_url": "https://dl.acm.org/doi/10.1145/3772718",
   "pub_fulltext_url": "https://drive.google.com/file/d/14OvV2vrOwAEWRatuwSi1DwGeRj2Nkrce/view",
   "pub_venue_rank": "Q1",
   "pub_venue_rank_subject": "Computer Science (Miscellaneous)",
