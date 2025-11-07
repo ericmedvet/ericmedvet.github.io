@@ -37,6 +37,7 @@ To know more about one or few specific topics, please contact me.
 - Map-elites merges lexicase selection (descriptors capture cases)
   - see Vitel, Dmytro, et al. "Coordinate System Extraction as the Search Driver in Test-Based Genetic Programming." Proceedings of the Genetic and Evolutionary Computation Conference. 2025.
 - Diversity promotion based on neutrality graph
+  - see de Franca, Fabricio Olivetti, and Gabriel Kronberger. "Equality Graph Assisted Symbolic Regression." arXiv preprint arXiv:2511.01009 (2025).
 - Location-based adaptive surrogate fitness (based on Map-elites or CAbEA for providing locations)
   - see Gaier, Adam, Alexander Asteroth, and Jean-Baptiste Mouret. "Data-efficient exploration, optimization, and modeling of diverse designs through surrogate-assisted illumination." Proceedings of the Genetic and Evolutionary Computation Conference. 2017.
 - General Map-Elites descriptors based on genotype-to-phenotype and genotype-to-fitness locality, possibly enabling adaptive magnitude variation operators
