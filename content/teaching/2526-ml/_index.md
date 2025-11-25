@@ -98,9 +98,10 @@ In compliance with the current regulation students might be required to book a p
 The lectures will **not** be cast in streaming, but the recordings of the lectures will be available on the [MS Teams team of the course](https://teams.microsoft.com/l/channel/19%3ABT938HF-WV0e7hmrrcTWPVe6T8vuyJvJLYp1ExCMjOU1%40thread.tacv2/General?groupId=19cd013b-7b9f-466e-a2b1-307e8a94a7ef&tenantId=a54b3635-128c-460f-b967-6ded8df82e75) (code `bb7s7tx`).
 
 #### Short announcements about lectures schedule
-- Starting from 2/10/25, the practical time for the lecture of Thursday will be **16.15-18.45**.
-- There will be **no lecture on 30/10/25 and 4/11/25** as I will be attending [The International Conference on Machine Intelligence and Nature-inspireD Computing (MIND)](https://www.ic-mind.org/) (and presenting [this research](../../publications/2025-c-dem-role/)).
+- There will be **no lecture on 27/11/25** because I will be involved in an institutional activity at the Liceo Scientifico Galileo Galilei.
 - There will be **no lecture on 13/11/25** because I will be involved in the institutional activity "International Education Fair FVG".
+- There will be **no lecture on 30/10/25 and 4/11/25** as I will be attending [The International Conference on Machine Intelligence and Nature-inspireD Computing (MIND)](https://www.ic-mind.org/) (and presenting [this research](../../publications/2025-c-dem-role/)).
+- Starting from 2/10/25, the practical time for the lecture of Thursday will be **16.15-18.45**.
 
 ## End-of-course test (exam)
 The exam can be done in two ways:
