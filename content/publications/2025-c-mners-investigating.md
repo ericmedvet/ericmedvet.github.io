@@ -9,7 +9,7 @@
   "pub_location_city": "Trieste",
   "pub_location_country": "Italy",
   "pub_authors": "Medvet, Eric; Nadizar, Giorgia; El Saliby, Michel; Rusin, Francesco; Sakallioglu, Berfin",
-  "pub_notes": "To appear",
+  "pub_publisher_url": "https://ceur-ws.org/Vol-4121/Ital-IA_2025_paper_43.pdf",
   "pub_fulltext_url": "https://drive.google.com/file/d/1YHXX5z962BWG2v4oDSID09S1GSOKfvuk/view",
   "pub_slides_url": "https://medvet.inginf.units.it/slides/2025-italia-mechanisms-embodied-intelligence",
   "pub_important": false
