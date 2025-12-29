@@ -22,17 +22,18 @@ To know more about one or few specific topics, please contact me.
 - Hierarchical (module role-based or environmental context-based) policies for simulated modular robots
 - A embodied/situated, structurally plastic (Hebbian-like) neural network for simulated robotic agents
   - see Najarro, Elias, Shyam Sudhakaran, and Sebastian Risi. "Towards self-assembling artificial neural networks through neural developmental programs." Artificial Life Conference Proceedings 35. Vol. 2023. No. 1. One Rogers Street, Cambridge, MA 02142-1209, USA journals-info@ mit. edu: MIT Press, 2023.
-  - Winther Pedersen, Joachim, et al. "Structurally Flexible Neural Networks: Evolving the Building Blocks for General Agents." arXiv e-prints (2024): arXiv-2404.
-  - Ferigo, Andrea, Elia Cunegatti, and Giovanni Iacca. "Neuron-centric Hebbian Learning." arXiv preprint arXiv:2403.12076 (2024).
+  - see Winther Pedersen, Joachim, et al. "Structurally Flexible Neural Networks: Evolving the Building Blocks for General Agents." arXiv e-prints (2024): arXiv-2404.
+  - see Ferigo, Andrea, Elia Cunegatti, and Giovanni Iacca. "Neuron-centric Hebbian Learning." arXiv preprint arXiv:2403.12076 (2024).
 - Progressively administered curriculum learning based on solution location (dictated by QD)
 
 ### Artificial life
 - Autogenerating neural-networks
+  - see Pedersen, Joachim Winther, et al. "Hypernetworks That Evolve Themselves." Artificial Life Conference Proceedings 37. Vol. 2025. No. 1. One Rogers Street, Cambridge, MA 02142-1209, USA journals-info@ mit. edu: MIT Press, 2025.
 - Methods for assessing candidate controllers in multi-agent systems: asynchronicity vs. sample efficiency
 
 ### Evolutionary computation
 - Lexicase-like selection for control problems
-  - see: Stanton, Adam, and Jared M. Moore. "Lexicase selection for multi-task evolutionary robotics." Artificial Life 28.4 (2022): 479-498.
+  - see Stanton, Adam, and Jared M. Moore. "Lexicase selection for multi-task evolutionary robotics." Artificial Life 28.4 (2022): 479-498.
 - LLM-based case generation for lexicase selection
 - Map-elites merges lexicase selection (descriptors capture cases)
   - see Vitel, Dmytro, et al. "Coordinate System Extraction as the Search Driver in Test-Based Genetic Programming." Proceedings of the Genetic and Evolutionary Computation Conference. 2025.
