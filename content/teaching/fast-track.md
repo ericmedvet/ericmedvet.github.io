@@ -36,6 +36,7 @@ Consiglio comunque di contattarmi per fare una chiacchierata nel caso ci sia int
 - Bender, Reed, Karina Kofman, and Michael Levin. "[What Lives? A meta-analysis of diverse opinions on the definition of life](https://arxiv.org/abs/2505.15849)." arXiv preprint arXiv:2505.15849 (2025).
 - Di Matteo, Jacopo Michele, Oliver Weissl, and Agoston Eiben. "[Fertility During Learning in Evolutionary Robot Systems](https://dl.acm.org/doi/abs/10.1145/3712256.3726382)." Proceedings of the Genetic and Evolutionary Computation Conference. 2025.
 - Zhao, Jiliang, et al. "[A multi-objective optimization framework based on information sharing for serially connected robot design](https://link.springer.com/article/10.1007/s40747-025-02045-x)." Complex & Intelligent Systems 11.9 (2025): 1-12.
+- Kumar, Akarsh, et al. "[Digital Red Queen: Adversarial Program Evolution in Core War with LLMs](https://arxiv.org/abs/2601.03335)." arXiv preprint arXiv:2601.03335 (2026).
 
 ## Ongoing theses
 - Wang, Zhiquan, et al. "[Evolution-based Shape and Behavior Co-design of Virtual Agents](https://ieeexplore.ieee.org/abstract/document/10403977)." IEEE Transactions on Visualization and Computer Graphics (2024).
