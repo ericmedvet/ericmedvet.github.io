@@ -31,7 +31,6 @@ Consiglio comunque di contattarmi per fare una chiacchierata nel caso ci sia int
 - Romera-Paredes, B., Barekatain, M., Novikov, A. et al. "[Mathematical discoveries from program search with large language models](https://www.nature.com/articles/s41586-023-06924-6)". Nature (2023).
 - Hamon, Gautier, et al. "[Discovering Sensorimotor Agency in Cellular Automata using Diversity Search](https://arxiv.org/html/2402.10236v1)." arXiv preprint arXiv:2402.10236 (2024).
 - Plantec, Erwan, et al. "[Evolving Self-Assembling Neural Networks: From Spontaneous Activity to Experience-Dependent Learning](https://arxiv.org/abs/2406.09787)." arXiv preprint arXiv:2406.09787 (2024).
-- Ferigo, Andrea, Elia Cunegatti, and Giovanni Iacca. "[Neuron-centric Hebbian Learning](https://arxiv.org/abs/2403.12076)." arXiv preprint arXiv:2403.12076 (2024).
 - Darlow, Luke, et al. "[Continuous Thought Machines](https://arxiv.org/abs/2505.05522)." arXiv preprint arXiv:2505.05522 (2025).
 - Bender, Reed, Karina Kofman, and Michael Levin. "[What Lives? A meta-analysis of diverse opinions on the definition of life](https://arxiv.org/abs/2505.15849)." arXiv preprint arXiv:2505.15849 (2025).
 - Di Matteo, Jacopo Michele, Oliver Weissl, and Agoston Eiben. "[Fertility During Learning in Evolutionary Robot Systems](https://dl.acm.org/doi/abs/10.1145/3712256.3726382)." Proceedings of the Genetic and Evolutionary Computation Conference. 2025.
@@ -41,6 +40,7 @@ Consiglio comunque di contattarmi per fare una chiacchierata nel caso ci sia int
 ## Ongoing theses
 - Wang, Zhiquan, et al. "[Evolution-based Shape and Behavior Co-design of Virtual Agents](https://ieeexplore.ieee.org/abstract/document/10403977)." IEEE Transactions on Visualization and Computer Graphics (2024).
 - Ben Zion, Matan Yah, et al. "[Morphological computation and decentralized learning in a swarm of sterically interacting robots](https://doi.org/10.1126/scirobotics.abo6140)." Science Robotics 8.75 (2023): eabo6140.
+- Ferigo, Andrea, Elia Cunegatti, and Giovanni Iacca. "[Neuron-centric Hebbian Learning](https://arxiv.org/abs/2403.12076)." arXiv preprint arXiv:2403.12076 (2024).
 
 ## Done
 - Kamyar, Sayed, et al. "[Blocks Assemble! Learning to Assemble with Large-Scale Structured Reinforcement Learning](https://arxiv.org/abs/2203.13733)." arXiv preprint arXiv:2203.13733 (2022). (student: Davide Donati)
