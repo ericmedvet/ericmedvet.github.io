@@ -8,7 +8,8 @@
   "pub_location_city": "Xiamen",
   "pub_location_country": "China",
   "pub_authors": "Dogaru, Ninel; El Saliby, Michel; Medvet, Eric",
-  "pub_notes": "To appear",
+  "pub_doi": " 10.1109/MIND67540.2025.11351733",
+  "pub_publisher_url": "https://ieeexplore.ieee.org/document/11351733",
   "pub_fulltext_url": "https://drive.google.com/file/d/1tAUlnzDf-fqTaoWspRtRbY5Koil0yg02/view",
   "pub_important": false
 }
