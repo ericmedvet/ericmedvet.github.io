@@ -93,7 +93,12 @@
         <li><a href="#s6-execution">S6. Execution</a></li>
       </ul>
     </li>
-    <li><a href="#task-examples">Task examples</a></li>
+    <li><a href="#task-examples">Task examples</a>
+      <ul>
+        <li><a href="#specific-instances">Specific instances</a></li>
+        <li><a href="#producing-new-instances">Producing new instances</a></li>
+      </ul>
+    </li>
   </ul>
 </nav>
       </div>
@@ -105,19 +110,20 @@
   <a href="#content">↰</a>
 </h2>
 
-<p>Practicing the <strong>design and realization of software</strong> is of key importance to really understand programming.</p>
+<p>Practicing the <strong>design and realization of software</strong> is of key importance to really understand programming (and, more broadly, software system design).</p>
 <p>Consider football (or many other sports): <strong>watching many matches from the couch does not make you a football player</strong>.
-You need to enter the field with the football shoes and run, kick the ball, and push other team players.
+You need to enter the field with the football shoes and run, kick the ball, and push and tackle other team players.
 You need to <strong>feel the physical struggle</strong> when the ball does not go in the direction you planned: this way, you can understand how to fix your approach to the ball to shoot better.
 You also need to enjoy the moment when you do something really good, a pass, a tackle, a trick.</p>
 <p>Programming is like football.
 You need practice to improve.
 You need to try things, to attempt to solve programming tasks.
 You need to fail and have someone more experienced telling you <strong>where/how you failed</strong>.
-You need to care about details.</p>
-<p>For this reasons, I propose a <strong>structured way to practice</strong> programming.
+You need to think about big plans and actuate them, caring about &ldquo;little&rdquo; details.</p>
+<p>For these reasons, I propose a <strong>structured way to practice</strong> programming.
 It consists of different phases of approaching the programming task, going from <strong>no support at all</strong> from any tool (i.e., IDE, AI) to deep support.
 However, the support has to be &ldquo;received&rdquo; in the form of feedback on what you did, rather than on replacing you in doing things.</p>
+<p>Obviously, practicing well (i.e., following this strctural way) is not enough: you also need to <strong>practice a lot</strong> (i.e., solving many programming tasks).</p>
 <p>I do believe this kind of activity may be useful to stundents for both comprehending better and increasing the probability of <a href="../#oral-exam">passing the exam</a>.</p>
 <h2 id="suggested-activity-progressive-refinement" class="wl">
   <span>Suggested activity: progressive refinement</span>
@@ -128,7 +134,7 @@ However, the support has to be &ldquo;received&rdquo; in the form of feedback on
 <p>Consider a programming <strong>task</strong> in one of the following forms, or their variants (see <a href="#task-examples">examples</a> below):</p>
 <ul>
 <li>&ldquo;model $X$ in Java&rdquo;</li>
-<li>&ldquo;write a method that takes $x$ and gives $y$&rdquo;</li>
+<li>&ldquo;write a method that takes an $x$ and gives a $y$&rdquo;</li>
 <li>&ldquo;write a piece of code in a <code>main()</code> method that does $x$&rdquo;</li>
 </ul>
 <p>You should approach the task in the following steps:</p>
@@ -138,18 +144,20 @@ However, the support has to be &ldquo;received&rdquo; in the form of feedback on
   <a href="#content">↰</a>
 </h3>
 
-<p>Write the code on a piece of paper.
-Take your time (some minutes should be enough), then <strong>carefully look at it</strong> and focus on:</p>
+<p>Write the code on a piece of paper.</p>
+<p>Take your time (some minutes should be enough), then <strong>carefully look at it</strong> and focus on:</p>
 <ol>
-<li>syntax: is everything correct?</li>
-<li>indentation and spacing: is it indented correctly? is spacing correct?</li>
-<li>naming: is every identifier consistent with naming conventions? is it semantically sound?</li>
-<li>types: are all the types consistent with the designed role? if there is a signature, is the signature consistent with the assignement role?</li>
-<li>algorithm (if any): is it correct?</li>
+<li><strong>syntax</strong>: is everything correct?</li>
+<li><strong>indentation and spacing</strong>: is it indented correctly? is spacing correct?</li>
+<li><strong>naming</strong>: is every identifier consistent with naming conventions? is it semantically sound?</li>
+<li><strong>types</strong>: are all the types consistent with the designed role? if there is a signature, is the signature consistent with the assignement?</li>
+<li>algorithm (if any): is it correct? is it robust to main corner cases?</li>
 </ol>
-<p>At this step, you should use at most the JDK API Specification (i.e., the javadoc).</p>
+<p>At this step, you should use at most the JDK API Specification (i.e., the <em>javadoc</em>).</p>
 <p>Ideally, if you are not sure about/happy with all the responses, you should not proceed.</p>
 <p><em>If you practice with some other person (of reasonably similar experience), you can ask them to repeat the same checks.</em></p>
+<p>For some tasks, you can first write just the signature (e.g., of the method, or of an interface) and then expand it by adding the <em>body</em>.
+In between the two steps, you may do some of the checks listed above.</p>
 <h3 id="s2.-text-editor" class="wl">
   <span>S2. Text editor</span>
   <a href="#s2.-text-editor" aria-label="Anchor">#</a>
@@ -167,7 +175,7 @@ Remember that at the exam you need to write the code on the blackboard, not with
 
 <p>Take a serious IDE tailored to Java and copy the code in it (after having done all the necessary steps, like creating a class).
 Possibly choose an IDE which you are familiar with: in particular, you need to know what&rsquo;s the semantics of the visual highlighting.</p>
-<p><strong>Carefully look at all the syntax highlighting</strong> and reason on it based on the kind of issue being raised by the IDE.
+<p><strong>Carefully look at all the syntax highlighting</strong> and think about it thoroughly based on the kind of issue being raised by the IDE.
 Usual highlighting (I here refer to IntelliJ IDEA with default configuration) shows (in order of decreasing relevance):</p>
 <ul>
 <li>syntax errors (font color in red)</li>
@@ -176,7 +184,7 @@ Usual highlighting (I here refer to IntelliJ IDEA with default configuration) sh
 <li>non-syntax spelling errors (underlining in green)</li>
 </ul>
 <p><strong>Look at (and read) every error/warning message</strong> (usually by hovering on it).
-Take your time to deeply understand the error message: ideally, you should understand every word, the entire sentence, and the reason why this is IDE the explanation for the issue.
+Take your time to deeply understand the error message: ideally, you should understand every word, the entire sentence, and the think about why this is IDE the explanation for the issue.
 Note that the IDE is not always correct.</p>
 <h3 id="s4.-llm" class="wl">
   <span>S4. LLM</span>
@@ -184,24 +192,140 @@ Note that the IDE is not always correct.</p>
   <a href="#content">↰</a>
 </h3>
 
+<p>Take a reasonably modern and effective LLM: most of them (e.g., Gemini, ChatGPT, Claude) are <em>good enough</em> also in the free, web-accessible version.</p>
+<h4 id="ask-for-feedback" class="wl">
+  <span>Ask for feedback</span>
+  <a href="#ask-for-feedback" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h4>
+
+<p>First, ask the LLM to play the role you played for yourself at step S1.
+Use a <strong>complete and detailed prompt</strong>, specifying both the kind of feedback you want and the task you are facing; obviously include the code you are asking to evaluate.
+Here I include a sample <em>prompt</em> which, in my experience, works (you can use the corresponding Italian translation, if you prefer).</p>
+<pre tabindex="0"><code class="language-prompt" data-lang="prompt">For a programming assignment, I&#39;ve been asked to, using Java, &#34;model the concept of partial order&#34;. This is what I have done:
+```
+public interface PartialComparator&lt;T&gt; {
+  enum Outcome {BEFORE, AFTER, SAME, NOT_COMPARABLE};
+  Outcome compare(T t1, T, t2);
+}
+```
+Can you please provide some feedback along the following axes:
+1. syntax: is everything correct?
+2. indentation and spacing: is it indented correctly? is spacing correct?
+3. naming: is every identifier consistent with naming conventions? is it semantically sound?
+4. types: are all the types consistent with the designed role? if there is a signature, is the signature consistent with the assignement?
+5. algorithm (if any): is it correct? is it robust to main corner cases?
+Please be picky, specific, and brief. Wherever relevant and possible, please provide references to external resources.
+</code></pre><p>Note that in this sample promt there is one specific task (modeling the partial order) and the corresponding code: everything else is general and can be reused as is.
+Note also that there are a few very minor issues in the code—most LLMs find them.</p>
+<p>Read the complete response.
+Consider that LLMs are often, <em>but not always</em>, correct.
+Possibly follow references.</p>
+<h4 id="ask-for-a-solution" class="wl">
+  <span>Ask for a solution</span>
+  <a href="#ask-for-a-solution" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h4>
+
+<p><strong>Optionally</strong>, ask for a solution to the same task built from scratch.
+I strongly suggest to reset the LLM session for this interaction.
+You can also play with the level of detail in the prompt.
+For example, a minimal prompt corresponding to the same task above might be:</p>
+<pre tabindex="0"><code class="language-prompt" data-lang="prompt">I&#39;ve been asked to, using Java, &#34;model the concept of partial order&#34;. Can you provide me a solution?
+</code></pre><p>Enjoy the solution, its motivation, its wrong parts (assuming you actually understood the assignment).</p>
 <h3 id="s5.-client-code" class="wl">
   <span>S5. Client code</span>
   <a href="#s5.-client-code" aria-label="Anchor">#</a>
   <a href="#content">↰</a>
 </h3>
 
+<p>If possible, write a piece of code that <em>uses</em> the code you wrote for the main task.
+Ideally, this could be written by another developer who understands the assignment but does not know your complete solution: from another point of view, while writing this code you could pretend to be another developer.</p>
+<p>Depending on the kind of assignment, this &ldquo;client&rdquo; code has different forms.
+Intuitively:</p>
+<table>
+<thead>
+<tr>
+<th>Assignment</th>
+<th>Output</th>
+<th>Client</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>&ldquo;model $X$&rdquo;</td>
+<td>interface</td>
+<td>an implementation of the interface or a piece of code using the interface</td>
+</tr>
+<tr>
+<td>&ldquo;write a method taking $x$ and giving $y$&rdquo;</td>
+<td>a method (usually <code>static</code>)</td>
+<td>some code invoking the method</td>
+</tr>
+</tbody>
+</table>
+<p>If you struggle writing a client code, in particular in the easiest version where the client code simply uses methods, this should be interpreded as a clue about possible issues in the design of the main code.</p>
 <h3 id="s6.-execution" class="wl">
   <span>S6. Execution</span>
   <a href="#s6.-execution" aria-label="Anchor">#</a>
   <a href="#content">↰</a>
 </h3>
 
+<p>If possible, run the code, either directly or using the client code.</p>
 <h2 id="task-examples" class="wl">
   <span>Task examples</span>
   <a href="#task-examples" aria-label="Anchor">#</a>
   <a href="#content">↰</a>
 </h2>
 
+<p>Here I give a few instances of programming tasks that you <strong>should be able to solve</strong> and a method for <em>obtaining</em> many other tasks.</p>
+<p>Ideally, once you reached a good level of practice, each of these should takes a few minutes.</p>
+<h3 id="specific-instances" class="wl">
+  <span>Specific instances</span>
+  <a href="#specific-instances" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h3>
+
+<p>Assume an implicit &ldquo;in Java&rdquo; for each of the following.</p>
+<ul>
+<li>model the partial order</li>
+<li>model trees (as data structure) (or, maybe, binary ordered trees)</li>
+<li>write (the signature of) a method that takes some person names and return them grouped by the initial of the last name, like for a phonebook</li>
+<li>write (the signature of) a method that computes numerically the maximum of a univariate real function</li>
+<li>write (the signature of) a method that gives the numerical derivate of a univariate real function</li>
+<li>write the code for reading the lines of a text files which are not comments, that is, not starting with <code>%</code></li>
+</ul>
+<p>Note that an assignment can use very generic natural language (e.g., the phonebook example above) or domain specific language (e.g., the maximum example).
+It may be very short or long.
+It may implicitly suggest different kind of output: for the examples above, an interface, a class, two methods, a piece of code (as it might be in a <code>main()</code> method).</p>
+<p>It&rsquo;s part of the skill you are expected to acquire to interpret the assignment and decide what&rsquo;s the best output for it.</p>
+<h3 id="producing-new-instances" class="wl">
+  <span>Producing new instances</span>
+  <a href="#producing-new-instances" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h3>
+
+<p>Once you are good enough at solving basic programming tasks, you can build <em>unlimited</em> new tasks by considering existing pieces of code and re-writing them.</p>
+<p>More specifically the <strong>process for building new programming tasks</strong> is:</p>
+<ol>
+<li>Choose an interface in the JDK, possibly a very abstract one as <code>Function</code>, <code>Comparator</code>, or similar.</li>
+<li>Look at the documentation and choose a <code>default</code> method—ideally, you should ask some other person to choose one for you.</li>
+<li>Read the documentation of the method, possibly only the first sentence.</li>
+<li>Use it as the assignment, with an appropriate contextualization (typically, the first sentence of the interface documentation).</li>
+</ol>
+<h4 id="example-of-the-execution-of-the-process" class="wl">
+  <span>Example of the execution of the process</span>
+  <a href="#example-of-the-execution-of-the-process" aria-label="Anchor">#</a>
+  <a href="#content">↰</a>
+</h4>
+
+<p>For example, take the <code>andThen()</code> method of the <code>Function</code> interface.
+The interface first sentence is &ldquo;Represents a function that accepts one argument and produces a result.&rdquo;
+The method first sentence is &ldquo;Returns a composed function that first applies this function to its input, and then applies the after function to the result.&rdquo;
+The resulting assignment might be:
+&ldquo;Given the <code>Function</code> interface, which <em>represents a function that accepts one argument and produces a result</em>, write (the signature of) a <code>default</code> method that <em>returns a composed function that first applies this function to its input, and then applies the after function to the result</em>.&rdquo;</p>
+<p>A slightly more challenging version might be:
+&ldquo;Given the <code>Function</code> interface [&hellip;], write (the signature of) a <code>default</code> method that does function composition&rdquo;.</p>
 
 </div>
 
