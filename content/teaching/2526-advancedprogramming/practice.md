@@ -102,7 +102,8 @@ Can you please provide some feedback along the following axes:
 Please be picky, specific, and brief. Wherever relevant and possible, please provide references to external resources.
 ~~~
 
-Note that in this sample promt there is one specific task (modeling the partial order) and the corresponding code: everything else is general and can be reused as is.
+Note that in this sample prompt there is one specific task (modeling the partial order) and the corresponding code: everything else is general and can be reused as is.
+This can hence be used as a **template prompt**.
 Note also that there are a few very minor issues in the code—most LLMs find them.
 
 Read the complete response.
@@ -111,7 +112,7 @@ Possibly follow references.
 
 #### Ask for a solution
 
-**Optionally**, ask for a solution to the same task built from scratch.
+**Optionally**, ask the LLM for a solution to the same task built from scratch.
 I strongly suggest to reset the LLM session for this interaction.
 You can also play with the level of detail in the prompt.
 For example, a minimal prompt corresponding to the same task above might be:
@@ -140,19 +141,21 @@ If you struggle writing a client code, in particular in the easiest version wher
 ### S6. Execution
 
 If possible, run the code, either directly or using the client code.
+Consider a few representative initial conditions (inputs) and decide in advance what the corresponding effects (outputs) should look like.
+Check if the code behaves as expected.
 
 ## Task examples
 
 Here I give a few instances of programming tasks that you **should be able to solve** and a method for *obtaining* many other tasks.
 
-Ideally, once you reached a good level of practice, each of these should takes a few minutes.
+Ideally, once you reached a good level of practice, each of these task should take a few minutes to be solved with pen and paper (step S1 above).
 
 ### Specific instances
 
 Assume an implicit "in Java" for each of the following.
 
 - model the partial order
-- model trees (as data structure) (or, maybe, binary ordered trees)
+- model trees (as data structure) *(or, maybe, binary ordered trees)*
 - write (the signature of) a method that takes some person names and return them grouped by the initial of the last name, like for a phonebook
 - write (the signature of) a method that computes numerically the maximum of a univariate real function
 - write (the signature of) a method that gives the numerical derivate of a univariate real function
@@ -160,15 +163,15 @@ Assume an implicit "in Java" for each of the following.
 
 Note that an assignment can use very generic natural language (e.g., the phonebook example above) or domain specific language (e.g., the maximum example).
 It may be very short or long.
-It may implicitly suggest different kind of output: for the examples above, an interface, a class, two methods, a piece of code (as it might be in a `main()` method).
+It may implicitly suggest different kinds of output: for the examples above, an interface, a class, two methods, a piece of code (as it might be in a `main()` method).
 
-It's part of the skill you are expected to acquire to interpret the assignment and decide what's the best output for it.
+It's part of the skills you are expected to acquire to interpret the assignment and decide what's the best output for it.
 
 ### Producing new instances
 
-Once you are good enough at solving basic programming tasks, you can build *unlimited* new tasks by considering existing pieces of code and re-writing them.
+Once you are good enough at solving basic programming tasks, you can build *unlimited* (figuratively, actually the number is limited) new tasks by considering existing pieces of code and re-writing them.
 
-More specifically the **process for building new programming tasks** is:
+More specifically, one possible **process for building new programming tasks** is:
 1. Choose an interface in the JDK, possibly a very abstract one as `Function`, `Comparator`, or similar.
 2. Look at the documentation and choose a `default` method—ideally, you should ask some other person to choose one for you.
 3. Read the documentation of the method, possibly only the first sentence.

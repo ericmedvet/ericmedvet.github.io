@@ -216,7 +216,8 @@ Can you please provide some feedback along the following axes:
 4. types: are all the types consistent with the designed role? if there is a signature, is the signature consistent with the assignement?
 5. algorithm (if any): is it correct? is it robust to main corner cases?
 Please be picky, specific, and brief. Wherever relevant and possible, please provide references to external resources.
-</code></pre><p>Note that in this sample promt there is one specific task (modeling the partial order) and the corresponding code: everything else is general and can be reused as is.
+</code></pre><p>Note that in this sample prompt there is one specific task (modeling the partial order) and the corresponding code: everything else is general and can be reused as is.
+This can hence be used as a <strong>template prompt</strong>.
 Note also that there are a few very minor issues in the code—most LLMs find them.</p>
 <p>Read the complete response.
 Consider that LLMs are often, <em>but not always</em>, correct.
@@ -227,7 +228,7 @@ Possibly follow references.</p>
   <a href="#content">↰</a>
 </h4>
 
-<p><strong>Optionally</strong>, ask for a solution to the same task built from scratch.
+<p><strong>Optionally</strong>, ask the LLM for a solution to the same task built from scratch.
 I strongly suggest to reset the LLM session for this interaction.
 You can also play with the level of detail in the prompt.
 For example, a minimal prompt corresponding to the same task above might be:</p>
@@ -271,7 +272,9 @@ Intuitively:</p>
   <a href="#content">↰</a>
 </h3>
 
-<p>If possible, run the code, either directly or using the client code.</p>
+<p>If possible, run the code, either directly or using the client code.
+Consider a few representative initial conditions (inputs) and decide in advance what the corresponding effects (outputs) should look like.
+Check if the code behaves as expected.</p>
 <h2 id="task-examples" class="wl">
   <span>Task examples</span>
   <a href="#task-examples" aria-label="Anchor">#</a>
@@ -279,7 +282,7 @@ Intuitively:</p>
 </h2>
 
 <p>Here I give a few instances of programming tasks that you <strong>should be able to solve</strong> and a method for <em>obtaining</em> many other tasks.</p>
-<p>Ideally, once you reached a good level of practice, each of these should takes a few minutes.</p>
+<p>Ideally, once you reached a good level of practice, each of these task should take a few minutes to be solved with pen and paper (step S1 above).</p>
 <h3 id="specific-instances" class="wl">
   <span>Specific instances</span>
   <a href="#specific-instances" aria-label="Anchor">#</a>
@@ -289,7 +292,7 @@ Intuitively:</p>
 <p>Assume an implicit &ldquo;in Java&rdquo; for each of the following.</p>
 <ul>
 <li>model the partial order</li>
-<li>model trees (as data structure) (or, maybe, binary ordered trees)</li>
+<li>model trees (as data structure) <em>(or, maybe, binary ordered trees)</em></li>
 <li>write (the signature of) a method that takes some person names and return them grouped by the initial of the last name, like for a phonebook</li>
 <li>write (the signature of) a method that computes numerically the maximum of a univariate real function</li>
 <li>write (the signature of) a method that gives the numerical derivate of a univariate real function</li>
@@ -297,16 +300,16 @@ Intuitively:</p>
 </ul>
 <p>Note that an assignment can use very generic natural language (e.g., the phonebook example above) or domain specific language (e.g., the maximum example).
 It may be very short or long.
-It may implicitly suggest different kind of output: for the examples above, an interface, a class, two methods, a piece of code (as it might be in a <code>main()</code> method).</p>
-<p>It&rsquo;s part of the skill you are expected to acquire to interpret the assignment and decide what&rsquo;s the best output for it.</p>
+It may implicitly suggest different kinds of output: for the examples above, an interface, a class, two methods, a piece of code (as it might be in a <code>main()</code> method).</p>
+<p>It&rsquo;s part of the skills you are expected to acquire to interpret the assignment and decide what&rsquo;s the best output for it.</p>
 <h3 id="producing-new-instances" class="wl">
   <span>Producing new instances</span>
   <a href="#producing-new-instances" aria-label="Anchor">#</a>
   <a href="#content">↰</a>
 </h3>
 
-<p>Once you are good enough at solving basic programming tasks, you can build <em>unlimited</em> new tasks by considering existing pieces of code and re-writing them.</p>
-<p>More specifically the <strong>process for building new programming tasks</strong> is:</p>
+<p>Once you are good enough at solving basic programming tasks, you can build <em>unlimited</em> (figuratively, actually the number is limited) new tasks by considering existing pieces of code and re-writing them.</p>
+<p>More specifically, one possible <strong>process for building new programming tasks</strong> is:</p>
 <ol>
 <li>Choose an interface in the JDK, possibly a very abstract one as <code>Function</code>, <code>Comparator</code>, or similar.</li>
 <li>Look at the documentation and choose a <code>default</code> method—ideally, you should ask some other person to choose one for you.</li>
