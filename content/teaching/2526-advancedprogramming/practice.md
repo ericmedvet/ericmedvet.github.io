@@ -4,7 +4,7 @@ type: teaching-attachment
 math: true
 ---
 
-## Rationale
+## Rationale: why practicing?
 Practicing the **design and realization of software** is of key importance to really understand programming (and, more broadly, software system design).
 
 Consider football (or many other sports): **watching many matches from the couch does not make you a football player**.
@@ -41,7 +41,7 @@ Write the code on a piece of paper.
 Take your time (some minutes should be enough), then **carefully look at it** and focus on:
 1. **syntax**: is everything correct?
 2. **indentation and spacing**: is it indented correctly? is spacing correct?
-3. **naming**: is every identifier consistent with naming conventions? is it semantically sound?
+3. **naming**: is every identifier consistent with naming conventions? is it semantically sound? is it sufficiently specific but not too specific?
 4. **types**: are all the types consistent with the designed role? if there is a signature, is the signature consistent with the assignement?
 5. algorithm (if any): is it correct? is it robust to main corner cases?
 
@@ -49,7 +49,7 @@ At this step, you should use at most the JDK API Specification (i.e., the *javad
 
 Ideally, if you are not sure about/happy with all the responses, you should not proceed.
 
-*If you practice with some other person (of reasonably similar experience), you can ask them to repeat the same checks.*
+*If you practice with some other person (with reasonably similar experience), you can ask them to repeat the same checks.*
 
 For some tasks, you can first write just the signature (e.g., of the method, or of an interface) and then expand it by adding the *body*.
 In between the two steps, you may do some of the checks listed above.
@@ -72,8 +72,9 @@ Usual highlighting (I here refer to IntelliJ IDEA with default configuration) sh
 - non-syntax spelling errors (underlining in green)
 
 **Look at (and read) every error/warning message** (usually by hovering on it).
-Take your time to deeply understand the error message: ideally, you should understand every word, the entire sentence, and the think about why this is IDE the explanation for the issue.
+Take your time to deeply understand the error message: ideally, you should understand every word, the entire sentence, and the think about why this is the IDE explanation for the issue.
 Note that the IDE is not always correct.
+The compiler is always correct.
 
 ### S4. LLM
 

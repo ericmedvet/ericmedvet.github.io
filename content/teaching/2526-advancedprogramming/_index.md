@@ -54,6 +54,9 @@ Frontal lessons with blackboard and slide projection; exercises, under teacher's
 There will be extra excercise sessions led by the teaching assistant **Michel El Saliby**.
 The details about these sessions will be communicated.
 
+As **practicing** the activity of designing and coding software is particularly beneficial for understanding programming, I **strongly recommend to practice** also by yourself.
+I wrote some [notes about how to practice programming](practice) that I suggest you read.
+
 ### Course material
 The course material (teacher's slides) is served directly from [here](https://medvet.inginf.units.it/slides/advanced-programming-2526).
 The slides might be updated during the course.
