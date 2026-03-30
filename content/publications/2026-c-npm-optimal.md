@@ -16,3 +16,6 @@
 
 ## Abstract
 Graph-based genetic programming (GGP) encompasses representations that evolve modular graphs or computer programs with multiple inputs and outputs, making it well suited for addressing complex real-world problems. To fully exploit this potential, variation operators need to capture and preserve structural dependencies within program graphs. The gene-pool optimal mixing evolutionary algorithm (GOMEA) is a model-based evolutionary algorithm whose strength lies in learning and exploiting such dependencies, making it a natural candidate for GGP. In this work, we investigate the integration of GOMEA with GGP. We first validate the approach on symbolic regression (SR) benchmarks, with both single and multiple outputs, where GOMEA consistently matches or outperforms a standard genetic algorithm (GA). Then, we apply GOMEA to continuous control tasks—an important application domain for GGP—and find it often struggles compared to the GA. We hypothesize that this limitation arises from the difficulty of identifying and exploiting meaningful dependencies in the inherently chaotic and high-dimensional landscapes of control problems. Thus, our findings call for further studies to improve dependency-learning mechanisms for complex, dynamic domains.
+
+## Poster
+[Poster](https://drive.google.com/file/d/1wcjYC1jP3PfsuYnLLYO3qGyBEq-OLrvk/view)

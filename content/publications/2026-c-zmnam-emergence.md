@@ -10,6 +10,7 @@
   "pub_location_country": "Cyprus",
   "pub_authors": "Zappia, Edoardo; Muzaffarov, Marat; Nenzi, Laura; Abbas, Houssam; Medvet, Eric",
   "pub_notes": "To appear",
+  "pub_fulltext_url": "https://drive.google.com/file/d/10rlxdgvIp7UH3loiRJrGlPcRU6DNSyP7/view",
   "pub_important": false
 }
 
