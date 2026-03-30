@@ -76,7 +76,7 @@ Students enrolled in this course should already be able to access the team of th
 
 #### Short announcements about lectures schedule
 
-None yet.
+- There will be no lecture on **3/4** and **6/4**, for Easter holydays. Moreover, there will be no lecture on **9/4** and **10/4**, as I will attend the [evostar 2026 conference](https://www.evostar.org/2026/).
 
 ## End-of-course test (exam)
 The student can pass the exam in one of the following ways (student's choice):
