@@ -9,6 +9,7 @@
   "pub_location_country": "Costa Rica",
   "pub_authors": "Sakallioglu, Berfin; Nadizar, Giorgia; Medvet, Eric",
   "pub_notes": "To appear",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1CK9d60ow1rFnhcmMRNszYzPRpdUFJouy/view",
   "pub_important": false
 }
 
