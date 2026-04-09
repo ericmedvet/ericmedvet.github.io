@@ -9,6 +9,7 @@
   "pub_location_country": "Costa Rica",
   "pub_authors": "De Bruin, Ege; Glette, Kyrre; Ellefsen, Kai Olaf; Nadizar, Giorgia; Medvet, Eric",
   "pub_notes": "To appear",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1PvbP9euS03U3x-GULwkNwy2FAwWg4aLK/view",
   "pub_important": false
 }
 
