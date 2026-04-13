@@ -51,8 +51,10 @@ Italian
 Frontal lessons with blackboard and slide projection; exercises, under teacher's supervision, consisting in solving simple tasks of software design and development in Java.
 **Bring your own laptop!**
 
-There will be extra excercise sessions led by the teaching assistant **Michel El Saliby**.
-The details about these sessions will be communicated.
+There will be extra sessions for practice led by me and the tutor **Michel El Saliby**.
+The extra sessions will be on:
+- **11/5 14.00-17.00**, room 4_A, building D
+- **14/5 14.00-17.00**, room 1C, building H3
 
 As **practicing** the activity of designing and coding software is particularly beneficial for understanding programming, I **strongly recommend to practice** also by yourself.
 I wrote some [notes about how to practice programming](practice) that I suggest you read.
@@ -76,6 +78,8 @@ Students enrolled in this course should already be able to access the team of th
 
 #### Short announcements about lectures schedule
 
+- There will be two guest lectures given by [prof. Vincenzo Gulisano](https://vincenzogulisano.com/) from the **Chalmers University of Technology** on the topic of data stream processing. These lectures, hold on 4/5 and 11/5 within the regular time for lectures, **will be** formally part of the 72h of normal lectures.
+- There will be two **extra sessions of practice** on 11/5 and 14/5 (see [above](#teaching-method) for time and location). These sessions **will not be** formally part of the 72h of normal lectures.
 - There will be no lecture on **3/4** and **6/4**, for Easter holydays. Moreover, there will be no lecture on **9/4** and **10/4**, as I will attend the [evostar 2026 conference](https://www.evostar.org/2026/).
 
 ## End-of-course test (exam)
