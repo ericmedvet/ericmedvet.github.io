@@ -22,7 +22,7 @@ For these reasons, I propose a **structured way to practice** programming.
 It consists of different phases of approaching the programming task, going from **no support at all** from any tool (i.e., IDE, AI) to deep support.
 However, the support has to be "received" in the form of feedback on what you did, rather than on replacing you in doing things.
 
-Obviously, practicing well (i.e., following this strctural way) is not enough: you also need to **practice a lot** (i.e., solving many programming tasks).
+Obviously, practicing well (i.e., following this structural way) is not enough: you also need to **practice a lot** (i.e., solving many programming tasks).
 
 I do believe this kind of activity may be useful to stundents for both comprehending better and increasing the probability of [passing the exam](../#oral-exam).
 
