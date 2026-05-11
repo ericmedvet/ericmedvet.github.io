@@ -25,9 +25,7 @@ Consiglio comunque di contattarmi per fare una chiacchierata nel caso ci sia int
 - Kim, Jason Z., et al. "[A Neural Programming Language for the Reservoir Computer](https://arxiv.org/abs/2203.05032)", arXiv preprint arXiv:2203.05032 (2022).
 - Wang, Rouyao, et al. "[ScienceWorld: Is your Agent Smarter than a 5th Grader?](https://github.com/allenai/ScienceWorld/blob/main/ScienceWorld-preprint.pdf)", preprint (2022).
 - Ha, D., and Tang, Y. (2022). "[Collective intelligence for deep learning: A survey of recent developments](https://doi.org/10.1177/26339137221114874)." Collective Intelligence, 1(1).
-- Hinton, G. (2022). "[The Forward-Forward Algorithm: Some Preliminary Investigations](https://www.cs.toronto.edu/~hinton/FFA13.pdf)"
 - Chen, Xiangning, et al. "[Symbolic Discovery of Optimization Algorithms](https://arxiv.org/abs/2302.06675)." arXiv preprint arXiv:2302.06675 (2023)
-- Oktay, Deniz, et al. "[Neuromechanical Autoencoders: Learning to Couple Elastic and Neural Network Nonlinearity](https://arxiv.org/abs/2302.00032)." arXiv preprint arXiv:2302.00032 (2023)
 - Romera-Paredes, B., Barekatain, M., Novikov, A. et al. "[Mathematical discoveries from program search with large language models](https://www.nature.com/articles/s41586-023-06924-6)". Nature (2023).
 - Hamon, Gautier, et al. "[Discovering Sensorimotor Agency in Cellular Automata using Diversity Search](https://arxiv.org/html/2402.10236v1)." arXiv preprint arXiv:2402.10236 (2024).
 - Plantec, Erwan, et al. "[Evolving Self-Assembling Neural Networks: From Spontaneous Activity to Experience-Dependent Learning](https://arxiv.org/abs/2406.09787)." arXiv preprint arXiv:2406.09787 (2024).
@@ -42,6 +40,8 @@ Consiglio comunque di contattarmi per fare una chiacchierata nel caso ci sia int
 - Wang, Zhiquan, et al. "[Evolution-based Shape and Behavior Co-design of Virtual Agents](https://ieeexplore.ieee.org/abstract/document/10403977)." IEEE Transactions on Visualization and Computer Graphics (2024).
 - Ben Zion, Matan Yah, et al. "[Morphological computation and decentralized learning in a swarm of sterically interacting robots](https://doi.org/10.1126/scirobotics.abo6140)." Science Robotics 8.75 (2023): eabo6140.
 - Ferigo, Andrea, Elia Cunegatti, and Giovanni Iacca. "[Neuron-centric Hebbian Learning](https://arxiv.org/abs/2403.12076)." arXiv preprint arXiv:2403.12076 (2024).
+- Oktay, Deniz, et al. "[Neuromechanical Autoencoders: Learning to Couple Elastic and Neural Network Nonlinearity](https://arxiv.org/abs/2302.00032)." arXiv preprint arXiv:2302.00032 (2023)
+- Hinton, G. (2022). "[The Forward-Forward Algorithm: Some Preliminary Investigations](https://www.cs.toronto.edu/~hinton/FFA13.pdf)"
 
 ## Done
 - Kamyar, Sayed, et al. "[Blocks Assemble! Learning to Assemble with Large-Scale Structured Reinforcement Learning](https://arxiv.org/abs/2203.13733)." arXiv preprint arXiv:2203.13733 (2022). (student: Davide Donati)
