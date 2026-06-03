@@ -10,7 +10,6 @@ Consiglio comunque di contattarmi per fare una chiacchierata nel caso ci sia int
 
 ## Currently available papers
 - Kofinas, Miltiadis, et al. "[Graph Neural Networks for Learning Equivariant Representations of Neural Networks](https://arxiv.org/abs/2403.12143)." arXiv preprint arXiv:2403.12143 (2024).
-- Maddigan, Paula, Andrew Lensen, and Bing Xue. "[Explaining Genetic Programming Trees using Large Language Models](https://arxiv.org/abs/2403.03397)." arXiv preprint arXiv:2403.03397 (2024).
 - Chang, Yi-Hsiang, et al. "[Reusability and Transferability of Macro Actions for Reinforcement Learning](https://dl.acm.org/doi/10.1145/3514260)." ACM Transactions on Evolutionary Learning and Optimization 2.1 (2022): 1-16.
 - Zahedi, Keyan, and Nihat Ay. "[Quantifying morphological computation](https://www.mdpi.com/1099-4300/15/5/1887)." Entropy 15.5 (2013): 1887-1915.
 - Paul, Chandana. "[Morphological computation: A basis for the analysis of morphology and control requirements](https://www.sciencedirect.com/science/article/pii/S0921889006000613)." Robotics and Autonomous Systems 54.8 (2006): 619-630.
@@ -32,7 +31,6 @@ Consiglio comunque di contattarmi per fare una chiacchierata nel caso ci sia int
 - Darlow, Luke, et al. "[Continuous Thought Machines](https://arxiv.org/abs/2505.05522)." arXiv preprint arXiv:2505.05522 (2025).
 - Bender, Reed, Karina Kofman, and Michael Levin. "[What Lives? A meta-analysis of diverse opinions on the definition of life](https://arxiv.org/abs/2505.15849)." arXiv preprint arXiv:2505.15849 (2025).
 - Di Matteo, Jacopo Michele, Oliver Weissl, and Agoston Eiben. "[Fertility During Learning in Evolutionary Robot Systems](https://dl.acm.org/doi/abs/10.1145/3712256.3726382)." Proceedings of the Genetic and Evolutionary Computation Conference. 2025.
-- Zhao, Jiliang, et al. "[A multi-objective optimization framework based on information sharing for serially connected robot design](https://link.springer.com/article/10.1007/s40747-025-02045-x)." Complex & Intelligent Systems 11.9 (2025): 1-12.
 - Kumar, Akarsh, et al. "[Digital Red Queen: Adversarial Program Evolution in Core War with LLMs](https://arxiv.org/abs/2601.03335)." arXiv preprint arXiv:2601.03335 (2026).
 - Guo, Zihan, et al. "[Creating manufacturable blueprints for coarse-grained virtual robots](https://arxiv.org/abs/2603.13582)." arXiv preprint arXiv:2603.13582 (2026).
 
@@ -42,6 +40,8 @@ Consiglio comunque di contattarmi per fare una chiacchierata nel caso ci sia int
 - Ferigo, Andrea, Elia Cunegatti, and Giovanni Iacca. "[Neuron-centric Hebbian Learning](https://arxiv.org/abs/2403.12076)." arXiv preprint arXiv:2403.12076 (2024).
 - Oktay, Deniz, et al. "[Neuromechanical Autoencoders: Learning to Couple Elastic and Neural Network Nonlinearity](https://arxiv.org/abs/2302.00032)." arXiv preprint arXiv:2302.00032 (2023)
 - Hinton, G. (2022). "[The Forward-Forward Algorithm: Some Preliminary Investigations](https://www.cs.toronto.edu/~hinton/FFA13.pdf)"
+- Maddigan, Paula, Andrew Lensen, and Bing Xue. "[Explaining Genetic Programming Trees using Large Language Models](https://arxiv.org/abs/2403.03397)." arXiv preprint arXiv:2403.03397 (2024).
+- Zhao, Jiliang, et al. "[A multi-objective optimization framework based on information sharing for serially connected robot design](https://link.springer.com/article/10.1007/s40747-025-02045-x)." Complex & Intelligent Systems 11.9 (2025): 1-12.
 
 ## Done
 - Kamyar, Sayed, et al. "[Blocks Assemble! Learning to Assemble with Large-Scale Structured Reinforcement Learning](https://arxiv.org/abs/2203.13733)." arXiv preprint arXiv:2203.13733 (2022). (student: Davide Donati)
