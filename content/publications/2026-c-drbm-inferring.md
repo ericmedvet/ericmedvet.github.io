@@ -10,6 +10,7 @@
   "pub_location_country": "Italy",
   "pub_authors": "Doz, Romina; Randone, Francesca; Bortolussi, Luca; Medvet, Eric",
   "pub_notes": "To appear",
+  "pub_fulltext_url": "https://drive.google.com/file/d/18uN7HNbKhjPAnW5tkjEQBc7N9ScCSGbv/view",
   "pub_important": false
 }
 
