@@ -9,7 +9,9 @@
   "pub_location_city": "Lisbon",
   "pub_location_country": "Portugal",
   "pub_authors": "Perelli, Silvia; Medvet, Eric; Gulisano, Vincenzo",
-  "pub_notes": "To appear",
+  "pub_doi": "10.1145/3809481.3812614",
+  "pub_publisher_url": "https://dl.acm.org/doi/10.1145/3809481.3812614",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1GF2fYL-tow16gEUtoefO2ppq_PLoY8gf/view",
   "pub_important": false
 }
 
