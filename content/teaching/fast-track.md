@@ -33,6 +33,7 @@ Consiglio comunque di contattarmi per fare una chiacchierata nel caso ci sia int
 - Di Matteo, Jacopo Michele, Oliver Weissl, and Agoston Eiben. "[Fertility During Learning in Evolutionary Robot Systems](https://dl.acm.org/doi/abs/10.1145/3712256.3726382)." Proceedings of the Genetic and Evolutionary Computation Conference. 2025.
 - Kumar, Akarsh, et al. "[Digital Red Queen: Adversarial Program Evolution in Core War with LLMs](https://arxiv.org/abs/2601.03335)." arXiv preprint arXiv:2601.03335 (2026).
 - Guo, Zihan, et al. "[Creating manufacturable blueprints for coarse-grained virtual robots](https://arxiv.org/abs/2603.13582)." arXiv preprint arXiv:2603.13582 (2026).
+- Najarro, Elias, et al. "[Conversable Complexity: Agentic LLM Collectives as Interpretable Substrates](https://arxiv.org/abs/2607.01047)." arXiv preprint arXiv:2607.01047 (2026).
 
 ## Ongoing theses
 - Wang, Zhiquan, et al. "[Evolution-based Shape and Behavior Co-design of Virtual Agents](https://ieeexplore.ieee.org/abstract/document/10403977)." IEEE Transactions on Visualization and Computer Graphics (2024).
