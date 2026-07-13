@@ -8,7 +8,8 @@
   "pub_location_city": "San José",
   "pub_location_country": "Costa Rica",
   "pub_authors": "De Bruin, Ege; Glette, Kyrre; Ellefsen, Kai Olaf; Nadizar, Giorgia; Medvet, Eric",
-  "pub_notes": "To appear",
+  "pub_doi": "10.1145/3795095.3805152",
+  "pub_publisher_url": "https://dl.acm.org/doi/10.1145/3795095.3805152",
   "pub_fulltext_url": "https://drive.google.com/file/d/1PvbP9euS03U3x-GULwkNwy2FAwWg4aLK/view",
   "pub_important": false
 }

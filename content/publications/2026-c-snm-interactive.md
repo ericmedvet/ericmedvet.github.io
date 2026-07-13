@@ -8,7 +8,8 @@
   "pub_location_city": "San José",
   "pub_location_country": "Costa Rica",
   "pub_authors": "Sakallioglu, Berfin; Nadizar, Giorgia; Medvet, Eric",
-  "pub_notes": "To appear",
+  "pub_doi": "10.1145/3795095.3805149",
+  "pub_publisher_url": "https://dl.acm.org/doi/10.1145/3795095.3805149",
   "pub_fulltext_url": "https://drive.google.com/file/d/1CK9d60ow1rFnhcmMRNszYzPRpdUFJouy/view",
   "pub_important": false
 }
