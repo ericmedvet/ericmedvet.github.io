@@ -13,6 +13,8 @@
   "pub_publisher_url": "https://link.springer.com/chapter/10.1007/978-3-032-23005-8_13",
   "pub_fulltext_url": "https://drive.google.com/file/d/1KA3AIHiAMBgrgqmL5aLsAwy5Hz9OEhR9/view",
   "pub_slides_url": "https://drive.google.com/file/d/1VUZIwFDbkeIaO9PCptavzdbFPsHTzMdv/view",
+  "pub_venue_rank": "B",
+  "pub_venue_rank_source": "ICORE",
   "pub_important": false
 }
 
