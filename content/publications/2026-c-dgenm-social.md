@@ -12,6 +12,7 @@
   "pub_publisher_url": "https://dl.acm.org/doi/10.1145/3795095.3805152",
   "pub_fulltext_url": "https://drive.google.com/file/d/1PvbP9euS03U3x-GULwkNwy2FAwWg4aLK/view",
   "pub_venue_rank": "A",
+  "pub_venue_rank_source": "ICORE",
   "pub_important": false
 }
 

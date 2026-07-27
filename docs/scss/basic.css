@@ -113,6 +113,9 @@ code, kbd, pre, samp {
     #content .social a {
       margin: 0 .25em;
       font-size: 150%; }
+  #content .note {
+    font-size: 75%;
+    font-style: oblique; }
 
 .inline-svg {
   display: inline-block;

@@ -13,6 +13,7 @@
   "pub_fulltext_url": "https://drive.google.com/file/d/1CK9d60ow1rFnhcmMRNszYzPRpdUFJouy/view",
   "pub_slides_url": "https://drive.google.com/file/d/1aqpfaNxqolAvUWkucPipzHNblYL53Qr5/view",
   "pub_venue_rank": "A",
+  "pub_venue_rank_source": "ICORE",
   "pub_important": false
 }
 

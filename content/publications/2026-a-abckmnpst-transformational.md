@@ -10,6 +10,7 @@
   "pub_authors": "Adams, Alyssa M; Blanco, Celia; Chirkov, Valerii; Korte, Kathrin; Medvet, Eric; Nisioti, Eleni; Pontes-Filho, Sidney; Stepney, Susan; Templier, Paul",
   "pub_notes": "To appear",
   "pub_venue_rank": "C",
+  "pub_venue_rank_source": "ICORE",
   "pub_important": false
 }
 
