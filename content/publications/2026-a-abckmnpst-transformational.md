@@ -9,6 +9,7 @@
   "pub_location_country": "Canada",
   "pub_authors": "Adams, Alyssa M; Blanco, Celia; Chirkov, Valerii; Korte, Kathrin; Medvet, Eric; Nisioti, Eleni; Pontes-Filho, Sidney; Stepney, Susan; Templier, Paul",
   "pub_notes": "To appear",
+  "pub_fulltext_url": "https://drive.google.com/file/d/1NoI6AZmg3g2-dRpuSOK_bC3R9wblo356/view",
   "pub_venue_rank": "C",
   "pub_venue_rank_source": "ICORE",
   "pub_important": false
