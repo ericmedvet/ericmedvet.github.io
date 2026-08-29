@@ -246,25 +246,25 @@ Ideally, this could be written by another developer who understands the assignme
 <p>Depending on the kind of assignment, this &ldquo;client&rdquo; code has different forms.
 Intuitively:</p>
 <table>
-  <thead>
-      <tr>
-          <th>Assignment</th>
-          <th>Output</th>
-          <th>Client</th>
-      </tr>
-  </thead>
-  <tbody>
-      <tr>
-          <td>&ldquo;model $X$&rdquo;</td>
-          <td>interface</td>
-          <td>an implementation of the interface or a piece of code using the interface</td>
-      </tr>
-      <tr>
-          <td>&ldquo;write a method taking $x$ and giving $y$&rdquo;</td>
-          <td>a method (usually <code>static</code>)</td>
-          <td>some code invoking the method</td>
-      </tr>
-  </tbody>
+<thead>
+<tr>
+<th>Assignment</th>
+<th>Output</th>
+<th>Client</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>&ldquo;model $X$&rdquo;</td>
+<td>interface</td>
+<td>an implementation of the interface or a piece of code using the interface</td>
+</tr>
+<tr>
+<td>&ldquo;write a method taking $x$ and giving $y$&rdquo;</td>
+<td>a method (usually <code>static</code>)</td>
+<td>some code invoking the method</td>
+</tr>
+</tbody>
 </table>
 <p>If you struggle writing a client code, in particular in the easiest version where the client code simply uses methods, this should be interpreded as a clue about possible issues in the design of the main code.</p>
 <h3 id="s6.-execution" class="wl">
