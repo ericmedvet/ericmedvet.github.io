@@ -30,6 +30,7 @@ To know more about one or few specific topics, please contact me.
 - Autogenerating neural-networks
   - see Pedersen, Joachim Winther, et al. "Hypernetworks That Evolve Themselves." Artificial Life Conference Proceedings 37. Vol. 2025. No. 1. One Rogers Street, Cambridge, MA 02142-1209, USA journals-info@ mit. edu: MIT Press, 2025.
 - Methods for assessing candidate controllers in multi-agent systems: asynchronicity vs. sample efficiency
+  - see Roy, Xavier Hill, et al. "In Search of Larger Populations: Rethinking GPU Execution for Genetic Programming in Artifcial Life." ALIFE 2026: Proceedings of the 2026 Artificial Life Conference. MIT Press, 2026.
 
 ### Evolutionary computation
 - Lexicase-like selection for control problems
