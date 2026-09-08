@@ -19,11 +19,12 @@ To know more about one or few specific topics, please contact me.
   - see Wang, Yuxing, et al. "Curriculum-based co-design of morphology and control of voxel-based soft robots." The Eleventh International Conference on Learning Representations. 2023.
 - Social/cultural/imitation learning for simulated modular soft robots
   - see Hart, Emma, and Léni K. Le Goff. "Artificial evolution of robot bodies and control: on the interaction between evolution, learning and culture." Philosophical Transactions of the Royal Society B 377.1843 (2022): 20210117.
-- A embodied/situated, structurally plastic (Hebbian-like) neural network for simulated robotic agents
+- An embodied/situated, structurally plastic (Hebbian-like) neural network for simulated robotic agents
   - see Najarro, Elias, Shyam Sudhakaran, and Sebastian Risi. "Towards self-assembling artificial neural networks through neural developmental programs." Artificial Life Conference Proceedings 35. Vol. 2023. No. 1. One Rogers Street, Cambridge, MA 02142-1209, USA journals-info@ mit. edu: MIT Press, 2023.
   - see Winther Pedersen, Joachim, et al. "Structurally Flexible Neural Networks: Evolving the Building Blocks for General Agents." arXiv e-prints (2024): arXiv-2404.
   - see Ferigo, Andrea, Elia Cunegatti, and Giovanni Iacca. "Neuron-centric Hebbian Learning." arXiv preprint arXiv:2403.12076 (2024).
   - see Rossi, Emiliano, Erik Nielsen, and Giovanni Iacca. "Evolutionary Emergence of Distributed Neural Network Controllers in Voxel-Based Soft Robots." International Conference on the Applications of Evolutionary Computation (Part of EvoStar). Cham: Springer Nature Switzerland, 2026.
+  - see Plantec, Erwan, et al. "Evolving self-assembling neural networks: from spontaneous activity to experience-dependent learning." Artificial Life Conference Proceedings 36. Vol. 2024. No. 1. One Rogers Street, Cambridge, MA 02142-1209, USA journals-info@ mit. edu: MIT Press, 2024.
 - Progressively administered curriculum learning based on solution location (dictated by QD)
 
 ### Artificial life
