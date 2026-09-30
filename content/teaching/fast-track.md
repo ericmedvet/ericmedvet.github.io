@@ -36,15 +36,15 @@ Consiglio comunque di contattarmi per fare una chiacchierata nel caso ci sia int
 - Najarro, Elias, et al. "[Conversable Complexity: Agentic LLM Collectives as Interpretable Substrates](https://arxiv.org/abs/2607.01047)." arXiv preprint arXiv:2607.01047 (2026).
 
 ## Ongoing theses
-- Wang, Zhiquan, et al. "[Evolution-based Shape and Behavior Co-design of Virtual Agents](https://ieeexplore.ieee.org/abstract/document/10403977)." IEEE Transactions on Visualization and Computer Graphics (2024).
-- Ben Zion, Matan Yah, et al. "[Morphological computation and decentralized learning in a swarm of sterically interacting robots](https://doi.org/10.1126/scirobotics.abo6140)." Science Robotics 8.75 (2023): eabo6140.
 - Ferigo, Andrea, Elia Cunegatti, and Giovanni Iacca. "[Neuron-centric Hebbian Learning](https://arxiv.org/abs/2403.12076)." arXiv preprint arXiv:2403.12076 (2024).
-- Oktay, Deniz, et al. "[Neuromechanical Autoencoders: Learning to Couple Elastic and Neural Network Nonlinearity](https://arxiv.org/abs/2302.00032)." arXiv preprint arXiv:2302.00032 (2023)
-- Hinton, G. (2022). "[The Forward-Forward Algorithm: Some Preliminary Investigations](https://www.cs.toronto.edu/~hinton/FFA13.pdf)"
-- Maddigan, Paula, Andrew Lensen, and Bing Xue. "[Explaining Genetic Programming Trees using Large Language Models](https://arxiv.org/abs/2403.03397)." arXiv preprint arXiv:2403.03397 (2024).
-- Zhao, Jiliang, et al. "[A multi-objective optimization framework based on information sharing for serially connected robot design](https://link.springer.com/article/10.1007/s40747-025-02045-x)." Complex & Intelligent Systems 11.9 (2025): 1-12.
 
 ## Done
+- Maddigan, Paula, Andrew Lensen, and Bing Xue. "[Explaining Genetic Programming Trees using Large Language Models](https://arxiv.org/abs/2403.03397)." arXiv preprint arXiv:2403.03397 (2024). (student: Marco Civran)
+- Zhao, Jiliang, et al. "[A multi-objective optimization framework based on information sharing for serially connected robot design](https://link.springer.com/article/10.1007/s40747-025-02045-x)." Complex & Intelligent Systems 11.9 (2025): 1-12. (student: Amedeo Bozzoli)
+- Oktay, Deniz, et al. "[Neuromechanical Autoencoders: Learning to Couple Elastic and Neural Network Nonlinearity](https://arxiv.org/abs/2302.00032)." arXiv preprint arXiv:2302.00032 (2023) (student: Enrico Visentin)
+- Hinton, G. (2022). "[The Forward-Forward Algorithm: Some Preliminary Investigations](https://www.cs.toronto.edu/~hinton/FFA13.pdf)" (student: Edoardo Quercioli)
+- Ben Zion, Matan Yah, et al. "[Morphological computation and decentralized learning in a swarm of sterically interacting robots](https://doi.org/10.1126/scirobotics.abo6140)." Science Robotics 8.75 (2023): eabo6140. (student: Tomaž Cotič)
+- Wang, Zhiquan, et al. "[Evolution-based Shape and Behavior Co-design of Virtual Agents](https://ieeexplore.ieee.org/abstract/document/10403977)." IEEE Transactions on Visualization and Computer Graphics (2024). (student: Christian Dal Farra)
 - Kamyar, Sayed, et al. "[Blocks Assemble! Learning to Assemble with Large-Scale Structured Reinforcement Learning](https://arxiv.org/abs/2203.13733)." arXiv preprint arXiv:2203.13733 (2022). (student: Davide Donati)
 - Bhoopchand, Avishkar, et al. "[Learning few-shot imitation as cultural transmission](https://www.nature.com/articles/s41467-023-42875-2)." Nature Communications 14.1 (2023): 7536. (student: Nicolò Marsonetto)
 - Yu, Wenhao, et al. "[Sim-to-Real Transfer for Biped Locomotion](https://arxiv.org/abs/1903.01390)." arXiv preprint arXiv:1903.01390 (2019) (student: Arianna Mucig)
