@@ -12,6 +12,7 @@
   "pub_doi": "10.1007/978-3-032-38436-2_11",
   "pub_notes": "To appear",
   "pub_fulltext_url": "https://drive.google.com/file/d/10rlxdgvIp7UH3loiRJrGlPcRU6DNSyP7/view",
+  "pub_slides_url": "https://drive.google.com/file/d/1Y6oMpFPOJohyDvTyUxz8s6ArAIefodhJ/view",
   "pub_important": false
 }
 
