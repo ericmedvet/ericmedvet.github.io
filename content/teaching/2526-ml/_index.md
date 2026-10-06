@@ -132,3 +132,34 @@ Some of the questions are on the "theory": they require to give the definition o
 Some of the questions are on the "practice": they require to describe an algorithm, possibly in the form of pseudocode, sketch a design of an ML system for a given case, solve some simple numerical problem involving quantities.
 The grade of the written test is the weighted average of the grades obtained for each question, with "long questions" weighting double the "short questions".
 
+## Results of assessment by students
+
+{{< fig src="student-assessment-ml2526-in23-23.svg" caption="Students of IN23 (23 answers)" >}}
+
+{{< fig src="student-assessment-ml2526-sm38-21.svg" caption="Students of SM38 (21 answers)" >}}
+
+{{< fig src="student-assessment-ml2526-sm23-8.svg" caption="Students of SM23 (8 answers)" >}}
+
+{{< fig src="student-assessment-ml2526-sm64-8.svg" caption="Students of SM64 (8 answers)" >}}
+
+{{< fig src="student-assessment-ml2526-sm13-7.svg" caption="Students of SM13 (7 answers)" >}}
+
+{{< fig src="student-assessment-ml2526-sm34-7.svg" caption="Students of SM34 (7 answers)" >}}
+
+### Questions
+(In Italian)
+
+1. Domanda: Le conoscenze preliminari possedute sono risultate sufficienti per la comprensione degli argomenti previsti nel programma d'esame?
+2. Domanda: Il carico di studio dell'insegnamento è proporzionato ai crediti assegnati?
+3. Domanda: Il materiale didattico (indicato e disponibile) è adeguato per lo studio della materia?
+4. Domanda: Le modalità di esame sono state definite in modo chiaro?
+5. Domanda: Gli orari di svolgimento di lezioni, esercitazioni e altre eventuali attività didattiche sono rispettati?
+6. Domanda: Il docente stimola/motiva l'interesse verso la disciplina?
+7. Domanda: Il docente espone gli argomenti in modo chiaro?
+8. Domanda: Le attività didattiche integrative (esercitazioni, tutorati, laboratori, etc...), se previste, sono utili all'apprendimento della materia?
+9. Domanda: L'insegnamento è stato svolto in maniera coerente con quanto dichiarato sul sito web del corso di studio?
+10. Domanda: Il docente è reperibile per chiarimenti e spiegazioni?
+11. Domanda: È interessato/a agli argomenti trattati nell'insegnamento?
+12. Domanda: È complessivamente soddisfatto di come è stato svolto questo insegnamento?
+13. Domanda: L'utilizzo degli strumenti per la Didattica digitale per questo insegnamento è stato utile per l'apprendimento della materia?
+14. Domanda: Se hai usufruito delle registrazioni delle lezioni per questo insegnamento, sono stati utili per l'apprendimento della materia?
