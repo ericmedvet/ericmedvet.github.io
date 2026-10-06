@@ -90,7 +90,7 @@ The lectures will **not** be cast in streaming, but the recordings of the lectur
 The course will start on **September 28**.
 Lectures will be held in:
 - Room A, building C2, Piazzale Europa Campus on Monday, 16.00-18.00 (in practice, **16.00-17.30** without breaks)
-- Room "Sala Atti", building C1, Piazzale Europa Campus on Tuesday, 11.00-13.00 (in practice, **11.00-12.30** without breaks)
+- ~~Room "Sala Atti", building C1~~ Room 4_D, building D, Piazzale Europa Campus on Tuesday, 11.00-13.00 (in practice, **11.00-12.30** without breaks)
 - Room B, building C7, Piazzale Europa Campus on Thursday, 12.00-14.00 (in practice, **12.00-13.30** without breaks)
 
 The lectures will be given **in person** and **I recommend being in the room**.
@@ -100,6 +100,7 @@ The lectures will **not** be cast in streaming, but the recordings of the lectur
 
 #### Short announcements about lectures schedule
 - There will be **no lecture on 8/10/26 and 9/10/26** because I will be involved in the meeting of the board of the [SPECIES society](https://species-society.org/).
+- Starting from 13/10, the lecture of Tuesday will be held in **Room 4_D, building D**, with usual time (11-12.30).
 
 ## End-of-course test (exam)
 The exam consists of **two parts**:
