@@ -91,7 +91,7 @@ The course will start on **September 28**.
 Lectures will be held in:
 - Room A, building C2, Piazzale Europa Campus on Monday, 16.00-18.00 (in practice, **16.00-17.30** without breaks)
 - ~~Room "Sala Atti", building C1~~ Room 4_D, building D, Piazzale Europa Campus on Tuesday, 11.00-13.00 (in practice, **11.00-12.30** without breaks)
-- Room B, building C7, Piazzale Europa Campus on Thursday, 12.00-14.00 (in practice, **12.00-13.30** without breaks)
+- ~~Room B, building C7~~ Room 4A, building H2bis, Piazzale Europa Campus on Thursday, ~~12.00-14.00~~ 11.00-13.00 (in practice, **11.00-12.30** without breaks)
 
 The lectures will be given **in person** and **I recommend being in the room**.
 In compliance with the current regulation students might be required to book a place in the room.
