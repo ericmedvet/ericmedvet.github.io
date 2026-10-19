@@ -103,6 +103,7 @@ The lectures will **not** be cast in streaming, but the recordings of the lectur
 - Starting from 13/10, the lecture of Tuesday will be held in **Room 4_D, building D**, with usual time (11-12.30).
 - Starting from 15/10, the lecture of Thursday will be held in **Room 4A, building H2bis** with time 11-12.30.
 - The **lecture of 26/10 is cancelled**.
+- The **lecture of 20/10 is cancelled** to allow part of the students to take part in an hackathon.
 
 ## End-of-course test (exam)
 The exam consists of **two parts**:
