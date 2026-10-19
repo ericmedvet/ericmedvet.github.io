@@ -109,6 +109,7 @@ The lectures will **not** be cast in streaming, but the recordings of the lectur
 
 #### Short announcements about lectures schedule
 - There will be **no lecture on 8/10/26** because I will be involved in the meeting of the board of the [SPECIES society](https://species-society.org/).
+- The **lectures of 22/10 and 12/11 will terminate at 18** instead of 19 for allowing the students to attend promotional activities of the [AI2S](https://www.ai2s.it/) and the IN23 master program.
 
 ## End-of-course test (exam)
 The exam can be done in two ways:

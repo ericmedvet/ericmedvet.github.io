@@ -101,6 +101,8 @@ The lectures will **not** be cast in streaming, but the recordings of the lectur
 #### Short announcements about lectures schedule
 - There will be **no lecture on 8/10/26 and 9/10/26** because I will be involved in the meeting of the board of the [SPECIES society](https://species-society.org/).
 - Starting from 13/10, the lecture of Tuesday will be held in **Room 4_D, building D**, with usual time (11-12.30).
+- Starting from 15/10, the lecture of Thursday will be held in **Room 4A, building H2bis** with time 11-12.30.
+- The **lecture of 26/10 is cancelled**.
 
 ## End-of-course test (exam)
 The exam consists of **two parts**:
