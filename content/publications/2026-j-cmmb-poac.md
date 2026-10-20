@@ -5,6 +5,7 @@
   "pub_type": "Journal",
   "pub_venue_name": "Machine Learning",
   "pub_authors": "Camilo da Silva, Metheus; Marques Tavares, Gabriel; Medvet, Eric; Barbon Jr, Sylvio",
+  "pub_doi": "10.1007/s10994-026-07188-7",
   "pub_notes": "To appear",
   "pub_venue_rank": "Q1",
   "pub_venue_rank_subject": "Artificial Intelligence",
