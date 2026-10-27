@@ -17,8 +17,6 @@ To know more about one or few specific topics, please contact me.
 - Auto-assembly of simulated modular soft robots: curriculum learning
 - Resolution-agnostic representation for evolution of closed-loop controllers of simulated modular soft robots
   - see Wang, Yuxing, et al. "Curriculum-based co-design of morphology and control of voxel-based soft robots." The Eleventh International Conference on Learning Representations. 2023.
-- Social/cultural/imitation learning for simulated modular soft robots
-  - see Hart, Emma, and Léni K. Le Goff. "Artificial evolution of robot bodies and control: on the interaction between evolution, learning and culture." Philosophical Transactions of the Royal Society B 377.1843 (2022): 20210117.
 - An embodied/situated, structurally plastic (Hebbian-like) neural network for simulated robotic agents
   - see Najarro, Elias, Shyam Sudhakaran, and Sebastian Risi. "Towards self-assembling artificial neural networks through neural developmental programs." Artificial Life Conference Proceedings 35. Vol. 2023. No. 1. One Rogers Street, Cambridge, MA 02142-1209, USA journals-info@ mit. edu: MIT Press, 2023.
   - see Winther Pedersen, Joachim, et al. "Structurally Flexible Neural Networks: Evolving the Building Blocks for General Agents." arXiv e-prints (2024): arXiv-2404.
@@ -34,9 +32,9 @@ To know more about one or few specific topics, please contact me.
   - see Roy, Xavier Hill, et al. "In Search of Larger Populations: Rethinking GPU Execution for Genetic Programming in Artifcial Life." ALIFE 2026: Proceedings of the 2026 Artificial Life Conference. MIT Press, 2026.
 
 ### Evolutionary computation
+- Quality-diversity search for automatic formation of teams of optimized agents in collaborative tasks
 - Lexicase-like selection for control problems
   - see Stanton, Adam, and Jared M. Moore. "Lexicase selection for multi-task evolutionary robotics." Artificial Life 28.4 (2022): 479-498.
-- LLM-based case generation for lexicase selection
 - Map-elites merges lexicase selection (descriptors capture cases)
   - see Vitel, Dmytro, et al. "Coordinate System Extraction as the Search Driver in Test-Based Genetic Programming." Proceedings of the Genetic and Evolutionary Computation Conference. 2025.
 - Diversity promotion based on neutrality graph
@@ -54,7 +52,6 @@ To know more about one or few specific topics, please contact me.
   - see Tarapore, Danesh, and Jean-Baptiste Mouret. "Evolvability signatures of generative encodings: beyond standard performance benchmarks." Information Sciences 313 (2015): 43-61.
 
 ## Ongoing topics
-- Evolutionary optimization of synapsis-wise and reward-driven autoadaptation rules
-  - see Plantec, Erwan, et al. "Evolving Self-Assembling Neural Networks: From Spontaneous Activity to Experience-Dependent Learning." arXiv preprint arXiv:2406.09787 (2024).
-  - see Arnold, Solvi, et al. "Breaching the Bottleneck: Evolutionary Transition from Reward-Driven Learning to Reward-Agnostic Domain-Adapted Learning in Neuromodulated Neural Nets." arXiv preprint arXiv:2404.12631 (2024).
-- Hierarchical (module role-based or environmental context-based) policies for simulated modular robots
+- Social/cultural/imitation learning for ~~simulated modular soft robots~~ agents
+  - see Hart, Emma, and Léni K. Le Goff. "Artificial evolution of robot bodies and control: on the interaction between evolution, learning and culture." Philosophical Transactions of the Royal Society B 377.1843 (2022): 20210117.
+
