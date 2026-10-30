@@ -222,6 +222,8 @@ In those cases, use an unbreakable space (`~`): e.g., `\cite{medvet2018writing}~
 
 ### Mathematical notation
 Provided that you should [avoid multi-letter names](#lowercase-and-uppercase-letters) for entities, whenever you put words in math environment, enclose them in `\text{}`, e.g., `\text{FPR}=0.85`, `\rho_\text{NN}`, `n_\text{pop}`.
+An alternative option is to use `\mathrm{}` instead of `\text{}`.
+In most of the situations, you get the same result, but there are cases where `\mathrm{}` is more correct: `\text{}` generally retains the text variant of the context, so a `\text{}` subscript inside a `theorem` environment might be shown in italic, while the same mathematical entity will be shown in the normal straight variant outside `theorem`, which is inconsistent.
 
 When you don't follow this advice, the text is rendered in a way (through spacing) that suggests that there is a product of things, rather than a single entity: $1-\\text{FPR}$ vs. $1-FPR$, $n\_\\text{pop}$ vs. $n\_{pop}$. 
 
