@@ -370,5 +370,5 @@ There are a few things you can do to make the source LaTeX code of your document
 
 - Indent your code.
 - Put three blank lines before every section (that is, `\section{}`, `\subsection{}`, ..., `\paragraph{}`).
-- Put one sentence per line in the source code: this makes easier to find the place in the source code which corresponds to a given sentence in the rendered document, by looking at the start of the sentence. Moreover, this easies the management of the document with versioning tools (also those that are included in the LaTeX IDEs, like Overleaf).
+- Put one sentence per line in the source code: this makes easier to find the place in the source code which corresponds to a given sentence in the rendered document, by looking at the start of the sentence. Moreover, this easies the management of the document with versioning tools (also those that are included in the LaTeX IDEs, like Overleaf). Finally, in this way you can easily see if there are too short or too long sentences, directly from the source.
 - Don't define LaTeX macros for comments. Either use plain LaTeX comments in the source `% here is a comment` or, for comments which are functional to the collaborative editing of the document, use the commenting feature of the IDE, namely, of Overleaf.
