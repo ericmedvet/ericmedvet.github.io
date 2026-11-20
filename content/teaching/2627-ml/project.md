@@ -39,6 +39,7 @@ The remaining 30 points are assigned according to these criteria:
 - **clarity** (from 0 to 15): is the document understandable and easy to read? is the length appropriate?
 are all non-obvious design choices made explicit?
 is the solution/experimental campaign repeatable/reproducible based on the provided description?
+*For improving the writing clarity of the document, I humbly suggest to have a look at these [guidelines on writing scientific/technical documents](../../how-to-write).*
 - **technical soundness** (from 0 to 10): are the problem statement, evaluation criteria, evaluation procedure sound?
 are design choices motivated experimentally, with references, or by other means?
 are conclusions and findings actually supported by results?
